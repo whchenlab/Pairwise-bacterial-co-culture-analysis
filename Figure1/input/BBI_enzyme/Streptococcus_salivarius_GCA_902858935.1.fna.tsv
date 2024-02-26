@@ -1,0 +1,4116 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+AFPGLEEL_00001	gene	1365	dnaA			
+AFPGLEEL_00001	CDS	1365	dnaA			Chromosomal replication initiator protein DnaA
+AFPGLEEL_00002	gene	195				
+AFPGLEEL_00002	CDS	195				hypothetical protein
+AFPGLEEL_00003	gene	1137	dnaN			
+AFPGLEEL_00003	CDS	1137	dnaN		COG0592	Beta sliding clamp
+AFPGLEEL_00004	gene	192				
+AFPGLEEL_00004	CDS	192				hypothetical protein
+AFPGLEEL_00005	gene	1116	ychF			
+AFPGLEEL_00005	CDS	1116	ychF		COG0012	Ribosome-binding ATPase YchF
+AFPGLEEL_00006	gene	570	pth			
+AFPGLEEL_00006	CDS	570	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+AFPGLEEL_00007	gene	3507	mfd			
+AFPGLEEL_00007	CDS	3507	mfd	3.6.4.-		Transcription-repair-coupling factor
+AFPGLEEL_00008	gene	276				
+AFPGLEEL_00008	CDS	276				hypothetical protein
+AFPGLEEL_00009	gene	372				
+AFPGLEEL_00009	CDS	372				hypothetical protein
+AFPGLEEL_00010	gene	132				
+AFPGLEEL_00010	CDS	132				hypothetical protein
+AFPGLEEL_00011	gene	1293				
+AFPGLEEL_00011	CDS	1293				hypothetical protein
+AFPGLEEL_00012	gene	1266	tilS			
+AFPGLEEL_00012	CDS	1266	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+AFPGLEEL_00013	gene	543	hpt			
+AFPGLEEL_00013	CDS	543	hpt	2.4.2.8		Hypoxanthine-guanine phosphoribosyltransferase
+AFPGLEEL_00014	gene	1980	ftsH			
+AFPGLEEL_00014	CDS	1980	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+AFPGLEEL_00015	gene	1544				
+AFPGLEEL_00015	rRNA	1544				16S ribosomal RNA
+AFPGLEEL_00016	gene	75				
+AFPGLEEL_00016	tRNA	75				tRNA-Ala(tgc)
+AFPGLEEL_00017	gene	2895				
+AFPGLEEL_00017	rRNA	2895				23S ribosomal RNA
+AFPGLEEL_00018	gene	109				
+AFPGLEEL_00018	rRNA	109				5S ribosomal RNA
+AFPGLEEL_00019	gene	73				
+AFPGLEEL_00019	tRNA	73				tRNA-Val(tac)
+AFPGLEEL_00020	gene	73				
+AFPGLEEL_00020	tRNA	73				tRNA-Asp(gtc)
+AFPGLEEL_00021	gene	73				
+AFPGLEEL_00021	tRNA	73				tRNA-Lys(ttt)
+AFPGLEEL_00022	gene	84				
+AFPGLEEL_00022	tRNA	84				tRNA-Leu(tag)
+AFPGLEEL_00023	gene	73				
+AFPGLEEL_00023	tRNA	73				tRNA-Thr(tgt)
+AFPGLEEL_00024	gene	72				
+AFPGLEEL_00024	tRNA	72				tRNA-Gly(gcc)
+AFPGLEEL_00025	gene	86				
+AFPGLEEL_00025	tRNA	86				tRNA-Leu(taa)
+AFPGLEEL_00026	gene	74				
+AFPGLEEL_00026	tRNA	74				tRNA-Arg(acg)
+AFPGLEEL_00027	gene	76				
+AFPGLEEL_00027	tRNA	76				tRNA-Pro(tgg)
+AFPGLEEL_00028	gene	76				
+AFPGLEEL_00028	tRNA	76				tRNA-Met(cat)
+AFPGLEEL_00029	gene	76				
+AFPGLEEL_00029	tRNA	76				tRNA-Met(cat)
+AFPGLEEL_00030	gene	90				
+AFPGLEEL_00030	tRNA	90				tRNA-Ser(tga)
+AFPGLEEL_00031	gene	74				
+AFPGLEEL_00031	tRNA	74				tRNA-Met(cat)
+AFPGLEEL_00032	gene	75				
+AFPGLEEL_00032	tRNA	75				tRNA-Phe(gaa)
+AFPGLEEL_00033	gene	73				
+AFPGLEEL_00033	tRNA	73				tRNA-Gly(tcc)
+AFPGLEEL_00034	gene	76				
+AFPGLEEL_00034	tRNA	76				tRNA-Ile(gat)
+AFPGLEEL_00035	gene	90				
+AFPGLEEL_00035	tRNA	90				tRNA-Ser(gct)
+AFPGLEEL_00036	gene	831	mreC			
+AFPGLEEL_00036	CDS	831	mreC		COG1792	Cell shape-determining protein MreC
+AFPGLEEL_00037	gene	525				
+AFPGLEEL_00037	CDS	525				hypothetical protein
+AFPGLEEL_00038	gene	1500				
+AFPGLEEL_00038	CDS	1500				hypothetical protein
+AFPGLEEL_00039	gene	966	prs			
+AFPGLEEL_00039	CDS	966	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+AFPGLEEL_00040	gene	1176	dapX			
+AFPGLEEL_00040	CDS	1176	dapX	2.6.1.-	COG0436	putative N-acetyl-LL-diaminopimelate aminotransferase
+AFPGLEEL_00041	gene	774	recO			
+AFPGLEEL_00041	CDS	774	recO		COG1381	DNA repair protein RecO
+AFPGLEEL_00042	gene	1032	plsX			
+AFPGLEEL_00042	CDS	1032	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+AFPGLEEL_00043	gene	246	acpP_1			
+AFPGLEEL_00043	CDS	246	acpP_1		COG0236	Acyl carrier protein
+AFPGLEEL_00044	gene	150				
+AFPGLEEL_00044	CDS	150				hypothetical protein
+AFPGLEEL_00045	gene	708	purC			
+AFPGLEEL_00045	CDS	708	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+AFPGLEEL_00046	gene	3726	purL			
+AFPGLEEL_00046	CDS	3726	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+AFPGLEEL_00047	gene	1440	purF			
+AFPGLEEL_00047	CDS	1440	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+AFPGLEEL_00048	gene	1023	purM			
+AFPGLEEL_00048	CDS	1023	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+AFPGLEEL_00049	gene	549	purN			
+AFPGLEEL_00049	CDS	549	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+AFPGLEEL_00050	gene	753				
+AFPGLEEL_00050	CDS	753				hypothetical protein
+AFPGLEEL_00051	gene	1548	purH			
+AFPGLEEL_00051	CDS	1548	purH			Bifunctional purine biosynthesis protein PurH
+AFPGLEEL_00052	gene	735				
+AFPGLEEL_00052	CDS	735				hypothetical protein
+AFPGLEEL_00053	gene	1050				
+AFPGLEEL_00053	CDS	1050				hypothetical protein
+AFPGLEEL_00054	gene	927				
+AFPGLEEL_00054	CDS	927				hypothetical protein
+AFPGLEEL_00055	gene	840				
+AFPGLEEL_00055	CDS	840				hypothetical protein
+AFPGLEEL_00056	gene	1521				
+AFPGLEEL_00056	CDS	1521				hypothetical protein
+AFPGLEEL_00057	gene	1263	purD			
+AFPGLEEL_00057	CDS	1263	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+AFPGLEEL_00058	gene	489	purE			
+AFPGLEEL_00058	CDS	489	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+AFPGLEEL_00059	gene	1092	purK			
+AFPGLEEL_00059	CDS	1092	purK	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+AFPGLEEL_00060	gene	951				
+AFPGLEEL_00060	CDS	951				hypothetical protein
+AFPGLEEL_00061	gene	228				
+AFPGLEEL_00061	CDS	228				hypothetical protein
+AFPGLEEL_00062	gene	1299	purB			
+AFPGLEEL_00062	CDS	1299	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+AFPGLEEL_00063	gene	1692	argS			
+AFPGLEEL_00063	CDS	1692	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+AFPGLEEL_00064	gene	426	argR_1			
+AFPGLEEL_00064	CDS	426	argR_1		COG1438	Arginine repressor
+AFPGLEEL_00065	gene	360	ymcA			
+AFPGLEEL_00065	CDS	360	ymcA		COG4550	putative protein YmcA
+AFPGLEEL_00066	gene	2559	mutS			
+AFPGLEEL_00066	CDS	2559	mutS		COG0249	DNA mismatch repair protein MutS
+AFPGLEEL_00067	gene	456				
+AFPGLEEL_00067	CDS	456				hypothetical protein
+AFPGLEEL_00068	gene	438				
+AFPGLEEL_00068	CDS	438			COG3279	putative HTH-type transcriptional regulator
+AFPGLEEL_00069	gene	306				
+AFPGLEEL_00069	CDS	306				hypothetical protein
+AFPGLEEL_00070	gene	1944	mutL			
+AFPGLEEL_00070	CDS	1944	mutL		COG0323	DNA mismatch repair protein MutL
+AFPGLEEL_00071	gene	222				
+AFPGLEEL_00071	CDS	222				hypothetical protein
+AFPGLEEL_00072	gene	591	ruvA			
+AFPGLEEL_00072	CDS	591	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+AFPGLEEL_00073	gene	555	tag_1			
+AFPGLEEL_00073	CDS	555	tag_1	3.2.2.20	COG2818	DNA-3-methyladenine glycosylase 1
+AFPGLEEL_00074	gene	1269	cinA			
+AFPGLEEL_00074	CDS	1269	cinA		COG1058	Putative competence-damage inducible protein
+AFPGLEEL_00075	gene	1140	recA			
+AFPGLEEL_00075	CDS	1140	recA		COG0468	Protein RecA
+AFPGLEEL_00076	gene	399	spxA_1			
+AFPGLEEL_00076	CDS	399	spxA_1		COG1393	Regulatory protein Spx
+AFPGLEEL_00077	gene	1544				
+AFPGLEEL_00077	rRNA	1544				16S ribosomal RNA
+AFPGLEEL_00078	gene	75				
+AFPGLEEL_00078	tRNA	75				tRNA-Ala(tgc)
+AFPGLEEL_00079	gene	2895				
+AFPGLEEL_00079	rRNA	2895				23S ribosomal RNA
+AFPGLEEL_00080	gene	109				
+AFPGLEEL_00080	rRNA	109				5S ribosomal RNA
+AFPGLEEL_00081	gene	73				
+AFPGLEEL_00081	tRNA	73				tRNA-Val(tac)
+AFPGLEEL_00082	gene	73				
+AFPGLEEL_00082	tRNA	73				tRNA-Gly(tcc)
+AFPGLEEL_00083	gene	76				
+AFPGLEEL_00083	tRNA	76				tRNA-Ile(gat)
+AFPGLEEL_00084	gene	74				
+AFPGLEEL_00084	tRNA	74				tRNA-Glu(ttc)
+AFPGLEEL_00085	gene	90				
+AFPGLEEL_00085	tRNA	90				tRNA-Ser(tga)
+AFPGLEEL_00086	gene	74				
+AFPGLEEL_00086	tRNA	74				tRNA-Met(cat)
+AFPGLEEL_00087	gene	75				
+AFPGLEEL_00087	tRNA	75				tRNA-Phe(gaa)
+AFPGLEEL_00088	gene	83				
+AFPGLEEL_00088	tRNA	83				tRNA-Tyr(gta)
+AFPGLEEL_00089	gene	73				
+AFPGLEEL_00089	tRNA	73				tRNA-Trp(cca)
+AFPGLEEL_00090	gene	75				
+AFPGLEEL_00090	tRNA	75				tRNA-His(gtg)
+AFPGLEEL_00091	gene	74				
+AFPGLEEL_00091	tRNA	74				tRNA-Gln(ttg)
+AFPGLEEL_00092	gene	86				
+AFPGLEEL_00092	tRNA	86				tRNA-Leu(caa)
+AFPGLEEL_00093	gene	4395	polC_1			
+AFPGLEEL_00093	CDS	4395	polC_1	2.7.7.7	COG2176	DNA polymerase III PolC-type
+AFPGLEEL_00094	gene	1242	pepS			
+AFPGLEEL_00094	CDS	1242	pepS	3.4.11.-	COG2309	Aminopeptidase PepS
+AFPGLEEL_00095	gene	231				
+AFPGLEEL_00095	CDS	231				hypothetical protein
+AFPGLEEL_00096	gene	429	mhqR			
+AFPGLEEL_00096	CDS	429	mhqR		COG1846	HTH-type transcriptional regulator MhqR
+AFPGLEEL_00097	gene	546	azoR_1			
+AFPGLEEL_00097	CDS	546	azoR_1	1.7.1.17		FMN-dependent NADH-azoreductase
+AFPGLEEL_00098	gene	71				
+AFPGLEEL_00098	tRNA	71				tRNA-Cys(gca)
+AFPGLEEL_00099	gene	1533	ahpF			
+AFPGLEEL_00099	CDS	1533	ahpF	1.6.99.3		NADH dehydrogenase
+AFPGLEEL_00100	gene	561	ahpC			
+AFPGLEEL_00100	CDS	561	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+AFPGLEEL_00101	gene	768	rpsB			
+AFPGLEEL_00101	CDS	768	rpsB			30S ribosomal protein S2
+AFPGLEEL_00102	gene	1041	tsf			
+AFPGLEEL_00102	CDS	1041	tsf		COG0264	Elongation factor Ts
+AFPGLEEL_00103	gene	471				
+AFPGLEEL_00103	CDS	471				hypothetical protein
+AFPGLEEL_00104	gene	456	ctsR			
+AFPGLEEL_00104	CDS	456	ctsR		COG4463	Transcriptional regulator CtsR
+AFPGLEEL_00105	gene	2451	clpC_1			
+AFPGLEEL_00105	CDS	2451	clpC_1		COG0542	Negative regulator of genetic competence ClpC/MecB
+AFPGLEEL_00106	gene	1257	dacA_1			
+AFPGLEEL_00106	CDS	1257	dacA_1	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacA
+AFPGLEEL_00107	gene	1248	dacA_2			
+AFPGLEEL_00107	CDS	1248	dacA_2	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacA
+AFPGLEEL_00108	gene	2238	pnp			
+AFPGLEEL_00108	CDS	2238	pnp	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+AFPGLEEL_00109	gene	771				
+AFPGLEEL_00109	CDS	771				hypothetical protein
+AFPGLEEL_00110	gene	621	cysE			
+AFPGLEEL_00110	CDS	621	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+AFPGLEEL_00111	gene	159				
+AFPGLEEL_00111	CDS	159				hypothetical protein
+AFPGLEEL_00112	gene	1344	cysS			
+AFPGLEEL_00112	CDS	1344	cysS	6.1.1.16		Cysteine--tRNA ligase
+AFPGLEEL_00113	gene	402	mrnC			
+AFPGLEEL_00113	CDS	402	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+AFPGLEEL_00114	gene	1677				
+AFPGLEEL_00114	CDS	1677				hypothetical protein
+AFPGLEEL_00115	gene	744				
+AFPGLEEL_00115	CDS	744		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+AFPGLEEL_00116	gene	516				
+AFPGLEEL_00116	CDS	516				hypothetical protein
+AFPGLEEL_00117	gene	861				
+AFPGLEEL_00117	CDS	861			COG1307	Fatty acid-binding protein
+AFPGLEEL_00118	gene	879				
+AFPGLEEL_00118	CDS	879				hypothetical protein
+AFPGLEEL_00119	gene	447	rplM			
+AFPGLEEL_00119	CDS	447	rplM			50S ribosomal protein L13
+AFPGLEEL_00120	gene	393	rpsI			
+AFPGLEEL_00120	CDS	393	rpsI		COG0103	30S ribosomal protein S9
+AFPGLEEL_00121	gene	582				
+AFPGLEEL_00121	CDS	582				hypothetical protein
+AFPGLEEL_00122	gene	210				
+AFPGLEEL_00122	CDS	210				hypothetical protein
+AFPGLEEL_00123	gene	174				
+AFPGLEEL_00123	CDS	174				hypothetical protein
+AFPGLEEL_00124	gene	414				
+AFPGLEEL_00124	CDS	414				hypothetical protein
+AFPGLEEL_00125	gene	837				
+AFPGLEEL_00125	CDS	837				hypothetical protein
+AFPGLEEL_00126	gene	1218				
+AFPGLEEL_00126	CDS	1218				hypothetical protein
+AFPGLEEL_00127	gene	267				
+AFPGLEEL_00127	CDS	267				hypothetical protein
+AFPGLEEL_00128	gene	1338				
+AFPGLEEL_00128	CDS	1338				hypothetical protein
+AFPGLEEL_00129	gene	705	gpmA_1			
+AFPGLEEL_00129	CDS	705	gpmA_1	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+AFPGLEEL_00130	gene	798	vanYB			
+AFPGLEEL_00130	CDS	798	vanYB	3.4.17.-	COG1876	D-alanyl-D-alanine carboxypeptidase
+AFPGLEEL_00131	gene	582				
+AFPGLEEL_00131	CDS	582				hypothetical protein
+AFPGLEEL_00132	gene	1035	hrcA			
+AFPGLEEL_00132	CDS	1035	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+AFPGLEEL_00133	gene	525	grpE			
+AFPGLEEL_00133	CDS	525	grpE		COG0576	Protein GrpE
+AFPGLEEL_00134	gene	1824	dnaK_1			
+AFPGLEEL_00134	CDS	1824	dnaK_1		COG0443	Chaperone protein DnaK
+AFPGLEEL_00135	gene	1155	dnaJ			
+AFPGLEEL_00135	CDS	1155	dnaJ		COG0484	Chaperone protein DnaJ
+AFPGLEEL_00136	gene	747	truA			
+AFPGLEEL_00136	CDS	747	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+AFPGLEEL_00137	gene	762	pdxK			
+AFPGLEEL_00137	CDS	762	pdxK	2.7.1.35	COG0351	Pyridoxine kinase
+AFPGLEEL_00138	gene	474	hmpT			
+AFPGLEEL_00138	CDS	474	hmpT		COG4720	Thiamine precursor transporter HmpT
+AFPGLEEL_00139	gene	1544				
+AFPGLEEL_00139	rRNA	1544				16S ribosomal RNA
+AFPGLEEL_00140	gene	75				
+AFPGLEEL_00140	tRNA	75				tRNA-Ala(tgc)
+AFPGLEEL_00141	gene	2895				
+AFPGLEEL_00141	rRNA	2895				23S ribosomal RNA
+AFPGLEEL_00142	gene	109				
+AFPGLEEL_00142	rRNA	109				5S ribosomal RNA
+AFPGLEEL_00143	gene	73				
+AFPGLEEL_00143	tRNA	73				tRNA-Val(tac)
+AFPGLEEL_00144	gene	73				
+AFPGLEEL_00144	tRNA	73				tRNA-Asp(gtc)
+AFPGLEEL_00145	gene	73				
+AFPGLEEL_00145	tRNA	73				tRNA-Lys(ttt)
+AFPGLEEL_00146	gene	84				
+AFPGLEEL_00146	tRNA	84				tRNA-Leu(tag)
+AFPGLEEL_00147	gene	73				
+AFPGLEEL_00147	tRNA	73				tRNA-Thr(tgt)
+AFPGLEEL_00148	gene	72				
+AFPGLEEL_00148	tRNA	72				tRNA-Gly(gcc)
+AFPGLEEL_00149	gene	86				
+AFPGLEEL_00149	tRNA	86				tRNA-Leu(taa)
+AFPGLEEL_00150	gene	74				
+AFPGLEEL_00150	tRNA	74				tRNA-Arg(acg)
+AFPGLEEL_00151	gene	76				
+AFPGLEEL_00151	tRNA	76				tRNA-Pro(tgg)
+AFPGLEEL_00152	gene	1544				
+AFPGLEEL_00152	rRNA	1544				16S ribosomal RNA
+AFPGLEEL_00153	gene	75				
+AFPGLEEL_00153	tRNA	75				tRNA-Ala(tgc)
+AFPGLEEL_00154	gene	2895				
+AFPGLEEL_00154	rRNA	2895				23S ribosomal RNA
+AFPGLEEL_00155	gene	109				
+AFPGLEEL_00155	rRNA	109				5S ribosomal RNA
+AFPGLEEL_00156	gene	74				
+AFPGLEEL_00156	tRNA	74				tRNA-Asn(gtt)
+AFPGLEEL_00157	gene	498				
+AFPGLEEL_00157	CDS	498				hypothetical protein
+AFPGLEEL_00158	gene	843	ykuT			
+AFPGLEEL_00158	CDS	843	ykuT		COG0668	putative MscS family protein YkuT
+AFPGLEEL_00159	gene	1284	tig			
+AFPGLEEL_00159	CDS	1284	tig	5.2.1.8	COG0544	Trigger factor
+AFPGLEEL_00160	gene	576	rpoE			
+AFPGLEEL_00160	CDS	576	rpoE			putative DNA-directed RNA polymerase subunit delta
+AFPGLEEL_00161	gene	1605	pyrG			
+AFPGLEEL_00161	CDS	1605	pyrG	6.3.4.2	COG0504	CTP synthase
+AFPGLEEL_00162	gene	471				
+AFPGLEEL_00162	CDS	471				hypothetical protein
+AFPGLEEL_00163	gene	468				
+AFPGLEEL_00163	CDS	468				hypothetical protein
+AFPGLEEL_00164	gene	954	prmA			
+AFPGLEEL_00164	CDS	954	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+AFPGLEEL_00165	gene	744	rsmE			
+AFPGLEEL_00165	CDS	744	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+AFPGLEEL_00166	gene	2541				
+AFPGLEEL_00166	CDS	2541				hypothetical protein
+AFPGLEEL_00167	gene	459				
+AFPGLEEL_00167	CDS	459			COG1780	Putative NrdI-like protein
+AFPGLEEL_00168	gene	2220	relA			
+AFPGLEEL_00168	CDS	2220	relA			Bifunctional (p)ppGpp synthase/hydrolase RelA
+AFPGLEEL_00169	gene	444	dtd			
+AFPGLEEL_00169	CDS	444	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+AFPGLEEL_00170	gene	3747				
+AFPGLEEL_00170	CDS	3747				hypothetical protein
+AFPGLEEL_00171	gene	1251	ilvA			
+AFPGLEEL_00171	CDS	1251	ilvA	4.3.1.19	COG1171	L-threonine dehydratase biosynthetic IlvA
+AFPGLEEL_00172	gene	615	def_1			
+AFPGLEEL_00172	CDS	615	def_1	3.5.1.88	COG0242	Peptide deformylase
+AFPGLEEL_00173	gene	639	yeiL			
+AFPGLEEL_00173	CDS	639	yeiL		COG0664	Regulatory protein YeiL
+AFPGLEEL_00174	gene	1158				
+AFPGLEEL_00174	CDS	1158				hypothetical protein
+AFPGLEEL_00175	gene	270	rpsO			
+AFPGLEEL_00175	CDS	270	rpsO		COG0184	30S ribosomal protein S15
+AFPGLEEL_00176	gene	591				
+AFPGLEEL_00176	CDS	591				hypothetical protein
+AFPGLEEL_00177	gene	2568				
+AFPGLEEL_00177	CDS	2568				hypothetical protein
+AFPGLEEL_00178	gene	741	artM			
+AFPGLEEL_00178	CDS	741	artM		COG1126	Arginine transport ATP-binding protein ArtM
+AFPGLEEL_00179	gene	1548				
+AFPGLEEL_00179	CDS	1548				hypothetical protein
+AFPGLEEL_00180	gene	855	uppP			
+AFPGLEEL_00180	CDS	855	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+AFPGLEEL_00181	gene	372				
+AFPGLEEL_00181	CDS	372				hypothetical protein
+AFPGLEEL_00182	gene	750	mecA			
+AFPGLEEL_00182	CDS	750	mecA		COG4862	Adapter protein MecA
+AFPGLEEL_00183	gene	1158	tagO			
+AFPGLEEL_00183	CDS	1158	tagO	2.7.8.33	COG0472	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+AFPGLEEL_00184	gene	771				
+AFPGLEEL_00184	CDS	771				putative ABC transporter ATP-binding protein
+AFPGLEEL_00185	gene	1263				
+AFPGLEEL_00185	CDS	1263				hypothetical protein
+AFPGLEEL_00186	gene	1233	sufS			
+AFPGLEEL_00186	CDS	1233	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+AFPGLEEL_00187	gene	432	iscU			
+AFPGLEEL_00187	CDS	432	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+AFPGLEEL_00188	gene	1419				
+AFPGLEEL_00188	CDS	1419				hypothetical protein
+AFPGLEEL_00189	gene	360				
+AFPGLEEL_00189	CDS	360				hypothetical protein
+AFPGLEEL_00190	gene	867	hslO			
+AFPGLEEL_00190	CDS	867	hslO			33 kDa chaperonin
+AFPGLEEL_00191	gene	978	dusB			
+AFPGLEEL_00191	CDS	978	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+AFPGLEEL_00192	gene	444	adcR			
+AFPGLEEL_00192	CDS	444	adcR			Transcriptional regulator AdcR
+AFPGLEEL_00193	gene	708	znuC			
+AFPGLEEL_00193	CDS	708	znuC	7.2.2.-	COG1121	High-affinity zinc uptake system ATP-binding protein ZnuC
+AFPGLEEL_00194	gene	813	znuB			
+AFPGLEEL_00194	CDS	813	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+AFPGLEEL_00195	gene	939				
+AFPGLEEL_00195	CDS	939				hypothetical protein
+AFPGLEEL_00196	gene	2187	glcB			
+AFPGLEEL_00196	CDS	2187	glcB		COG2190	PTS system glucoside-specific EIICBA component
+AFPGLEEL_00197	gene	816	mapP			
+AFPGLEEL_00197	CDS	816	mapP	3.1.3.90		Maltose 6'-phosphate phosphatase
+AFPGLEEL_00198	gene	1350	pgi			
+AFPGLEEL_00198	CDS	1350	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+AFPGLEEL_00199	gene	873				
+AFPGLEEL_00199	CDS	873				hypothetical protein
+AFPGLEEL_00200	gene	1578	msbA			
+AFPGLEEL_00200	CDS	1578	msbA	7.5.2.6		Lipid A export ATP-binding/permease protein MsbA
+AFPGLEEL_00201	gene	717	yeeN			
+AFPGLEEL_00201	CDS	717	yeeN		COG0217	putative transcriptional regulatory protein YeeN
+AFPGLEEL_00202	gene	339				
+AFPGLEEL_00202	CDS	339				hypothetical protein
+AFPGLEEL_00203	gene	750	uppS			
+AFPGLEEL_00203	CDS	750	uppS	2.5.1.-	COG0020	Isoprenyl transferase
+AFPGLEEL_00204	gene	795				
+AFPGLEEL_00204	CDS	795				hypothetical protein
+AFPGLEEL_00205	gene	1263				
+AFPGLEEL_00205	CDS	1263		3.4.24.-		Putative zinc metalloprotease
+AFPGLEEL_00206	gene	1866	proS			
+AFPGLEEL_00206	CDS	1866	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+AFPGLEEL_00207	gene	1941				
+AFPGLEEL_00207	CDS	1941				hypothetical protein
+AFPGLEEL_00208	gene	804	cmpC			
+AFPGLEEL_00208	CDS	804	cmpC	3.6.3.-	COG0715	Bicarbonate transport ATP-binding protein CmpC
+AFPGLEEL_00209	gene	288	groS			
+AFPGLEEL_00209	CDS	288	groS		COG0234	10 kDa chaperonin
+AFPGLEEL_00210	gene	1620	groL			
+AFPGLEEL_00210	CDS	1620	groL			60 kDa chaperonin
+AFPGLEEL_00211	gene	846				
+AFPGLEEL_00211	CDS	846				hypothetical protein
+AFPGLEEL_00212	gene	489				
+AFPGLEEL_00212	CDS	489				hypothetical protein
+AFPGLEEL_00213	gene	870	rluC			
+AFPGLEEL_00213	CDS	870	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+AFPGLEEL_00214	gene	2328	mtgA_1			
+AFPGLEEL_00214	CDS	2328	mtgA_1	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+AFPGLEEL_00215	gene	177				
+AFPGLEEL_00215	CDS	177				hypothetical protein
+AFPGLEEL_00216	gene	540	nusG			
+AFPGLEEL_00216	CDS	540	nusG			Transcription termination/antitermination protein NusG
+AFPGLEEL_00217	gene	486				
+AFPGLEEL_00217	CDS	486				hypothetical protein
+AFPGLEEL_00218	gene	810				
+AFPGLEEL_00218	CDS	810		3.1.3.-	COG0561	Putative phosphatase
+AFPGLEEL_00219	gene	768	glcR			
+AFPGLEEL_00219	CDS	768	glcR		COG1349	HTH-type transcriptional repressor GlcR
+AFPGLEEL_00220	gene	2502	leuS			
+AFPGLEEL_00220	CDS	2502	leuS	6.1.1.4		Leucine--tRNA ligase
+AFPGLEEL_00221	gene	456				
+AFPGLEEL_00221	CDS	456				hypothetical protein
+AFPGLEEL_00222	gene	1230				
+AFPGLEEL_00222	CDS	1230				hypothetical protein
+AFPGLEEL_00223	gene	414	yjdF			
+AFPGLEEL_00223	CDS	414	yjdF			putative protein YjdF
+AFPGLEEL_00224	gene	306				
+AFPGLEEL_00224	CDS	306				hypothetical protein
+AFPGLEEL_00225	gene	318	hxlR			
+AFPGLEEL_00225	CDS	318	hxlR		COG1733	HTH-type transcriptional activator HxlR
+AFPGLEEL_00226	gene	867	drrA			
+AFPGLEEL_00226	CDS	867	drrA	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+AFPGLEEL_00227	gene	843				
+AFPGLEEL_00227	CDS	843				hypothetical protein
+AFPGLEEL_00228	gene	456				
+AFPGLEEL_00228	CDS	456				hypothetical protein
+AFPGLEEL_00229	gene	426				
+AFPGLEEL_00229	CDS	426				hypothetical protein
+AFPGLEEL_00230	gene	711	mta			
+AFPGLEEL_00230	CDS	711	mta		COG0789	HTH-type transcriptional activator mta
+AFPGLEEL_00231	gene	684	yknY_1			
+AFPGLEEL_00231	CDS	684	yknY_1	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+AFPGLEEL_00232	gene	1224	ytrF			
+AFPGLEEL_00232	CDS	1224	ytrF		COG0577	ABC transporter permease YtrF
+AFPGLEEL_00233	gene	1455	pncB2			
+AFPGLEEL_00233	CDS	1455	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+AFPGLEEL_00234	gene	822	nadE			
+AFPGLEEL_00234	CDS	822	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+AFPGLEEL_00235	gene	444				
+AFPGLEEL_00235	CDS	444				hypothetical protein
+AFPGLEEL_00236	gene	1338	pepC			
+AFPGLEEL_00236	CDS	1338	pepC	3.4.22.40	COG3579	Aminopeptidase C
+AFPGLEEL_00237	gene	2292	ponA			
+AFPGLEEL_00237	CDS	2292	ponA		COG0744	Penicillin-binding protein 1A
+AFPGLEEL_00238	gene	597	recU			
+AFPGLEEL_00238	CDS	597	recU	3.1.22.4	COG3331	Holliday junction resolvase RecU
+AFPGLEEL_00239	gene	516				
+AFPGLEEL_00239	CDS	516				hypothetical protein
+AFPGLEEL_00240	gene	333	gpsB			
+AFPGLEEL_00240	CDS	333	gpsB		COG3599	Cell cycle protein GpsB
+AFPGLEEL_00241	gene	1167	rlmL			
+AFPGLEEL_00241	CDS	1167	rlmL	2.1.1.173	COG0116	Ribosomal RNA large subunit methyltransferase L
+AFPGLEEL_00242	gene	2007	mapZ			
+AFPGLEEL_00242	CDS	2007	mapZ			Mid-cell-anchored protein Z
+AFPGLEEL_00243	gene	3096	rapA			
+AFPGLEEL_00243	CDS	3096	rapA	3.6.4.-		RNA polymerase-associated protein RapA
+AFPGLEEL_00244	gene	717				
+AFPGLEEL_00244	CDS	717				hypothetical protein
+AFPGLEEL_00245	gene	1329	murC			
+AFPGLEEL_00245	CDS	1329	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+AFPGLEEL_00246	gene	495				
+AFPGLEEL_00246	CDS	495				hypothetical protein
+AFPGLEEL_00247	gene	1977	mltG			
+AFPGLEEL_00247	CDS	1977	mltG	4.2.2.-		Endolytic murein transglycosylase
+AFPGLEEL_00248	gene	483	greA			
+AFPGLEEL_00248	CDS	483	greA			Transcription elongation factor GreA
+AFPGLEEL_00249	gene	918	yidC			
+AFPGLEEL_00249	CDS	918	yidC			Membrane protein insertase YidC
+AFPGLEEL_00250	gene	279	acyP			
+AFPGLEEL_00250	CDS	279	acyP	3.6.1.7	COG1254	Acylphosphatase
+AFPGLEEL_00251	gene	738				
+AFPGLEEL_00251	CDS	738		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+AFPGLEEL_00252	gene	504				
+AFPGLEEL_00252	CDS	504				hypothetical protein
+AFPGLEEL_00253	gene	690	ybhL			
+AFPGLEEL_00253	CDS	690	ybhL		COG0670	Inner membrane protein YbhL
+AFPGLEEL_00254	gene	1137				
+AFPGLEEL_00254	CDS	1137				hypothetical protein
+AFPGLEEL_00255	gene	1254	lysA			
+AFPGLEEL_00255	CDS	1254	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+AFPGLEEL_00256	gene	543				
+AFPGLEEL_00256	CDS	543				hypothetical protein
+AFPGLEEL_00257	gene	252				
+AFPGLEEL_00257	CDS	252				hypothetical protein
+AFPGLEEL_00258	gene	816	murI			
+AFPGLEEL_00258	CDS	816	murI	5.1.1.3	COG0796	Glutamate racemase
+AFPGLEEL_00259	gene	975				
+AFPGLEEL_00259	CDS	975		3.6.1.66		dITP/XTP pyrophosphatase
+AFPGLEEL_00260	gene	522				
+AFPGLEEL_00260	CDS	522				hypothetical protein
+AFPGLEEL_00261	gene	483				
+AFPGLEEL_00261	CDS	483				hypothetical protein
+AFPGLEEL_00262	gene	774				
+AFPGLEEL_00262	CDS	774			COG0582	Tyrosine recombinase XerD-like protein
+AFPGLEEL_00263	gene	714	scpA			
+AFPGLEEL_00263	CDS	714	scpA			Segregation and condensation protein A
+AFPGLEEL_00264	gene	582	scpB			
+AFPGLEEL_00264	CDS	582	scpB			Segregation and condensation protein B
+AFPGLEEL_00265	gene	726	rluB_1			
+AFPGLEEL_00265	CDS	726	rluB_1	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+AFPGLEEL_00266	gene	249				
+AFPGLEEL_00266	CDS	249			COG0759	Putative membrane protein insertion efficiency factor
+AFPGLEEL_00267	gene	1440	trkG			
+AFPGLEEL_00267	CDS	1440	trkG		COG0168	Trk system potassium uptake protein TrkG
+AFPGLEEL_00268	gene	1350	trkA			
+AFPGLEEL_00268	CDS	1350	trkA		COG0569	Trk system potassium uptake protein TrkA
+AFPGLEEL_00269	gene	510	trmL			
+AFPGLEEL_00269	CDS	510	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+AFPGLEEL_00270	gene	558	ribU			
+AFPGLEEL_00270	CDS	558	ribU		COG3601	Riboflavin transporter RibU
+AFPGLEEL_00271	gene	651				
+AFPGLEEL_00271	CDS	651				hypothetical protein
+AFPGLEEL_00272	gene	900				
+AFPGLEEL_00272	CDS	900				hypothetical protein
+AFPGLEEL_00273	gene	2097	lagD			
+AFPGLEEL_00273	CDS	2097	lagD	3.4.22.-		Lactococcin-G-processing and transport ATP-binding protein LagD
+AFPGLEEL_00274	gene	333	yhaI			
+AFPGLEEL_00274	CDS	333	yhaI		COG3152	Inner membrane protein YhaI
+AFPGLEEL_00275	gene	1392				
+AFPGLEEL_00275	CDS	1392				hypothetical protein
+AFPGLEEL_00276	gene	516	ureI			
+AFPGLEEL_00276	CDS	516	ureI			Acid-activated urea channel
+AFPGLEEL_00277	gene	303	ureA			
+AFPGLEEL_00277	CDS	303	ureA	3.5.1.5	COG0831	Urease subunit gamma
+AFPGLEEL_00278	gene	312	ureB			
+AFPGLEEL_00278	CDS	312	ureB	3.5.1.5	COG0832	Urease subunit beta
+AFPGLEEL_00279	gene	1719	ureC			
+AFPGLEEL_00279	CDS	1719	ureC	3.5.1.5	COG0804	Urease subunit alpha
+AFPGLEEL_00280	gene	453	ureE			
+AFPGLEEL_00280	CDS	453	ureE			Urease accessory protein UreE
+AFPGLEEL_00281	gene	714	ureF			
+AFPGLEEL_00281	CDS	714	ureF		COG0830	Urease accessory protein UreF
+AFPGLEEL_00282	gene	615	ureG			
+AFPGLEEL_00282	CDS	615	ureG		COG0378	Urease accessory protein UreG
+AFPGLEEL_00283	gene	840	ureD1			
+AFPGLEEL_00283	CDS	840	ureD1		COG0829	Urease accessory protein UreD
+AFPGLEEL_00284	gene	978	larMN			
+AFPGLEEL_00284	CDS	978	larMN		COG0310	putative fused nickel transport protein LarMN
+AFPGLEEL_00285	gene	780	larQ			
+AFPGLEEL_00285	CDS	780	larQ		COG0619	Nickel permease LarQ
+AFPGLEEL_00286	gene	717	larO			
+AFPGLEEL_00286	CDS	717	larO	3.6.3.-	COG1122	Nickel import ATP-binding protein LarO
+AFPGLEEL_00287	gene	849	tcyA_1			
+AFPGLEEL_00287	CDS	849	tcyA_1		COG0834	L-cystine-binding protein TcyA
+AFPGLEEL_00288	gene	903	metQ			
+AFPGLEEL_00288	CDS	903	metQ		COG1464	putative D-methionine-binding lipoprotein MetQ
+AFPGLEEL_00289	gene	1416	dapE			
+AFPGLEEL_00289	CDS	1416	dapE	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+AFPGLEEL_00290	gene	1068	metN			
+AFPGLEEL_00290	CDS	1068	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+AFPGLEEL_00291	gene	693	metP			
+AFPGLEEL_00291	CDS	693	metP		COG2011	Methionine import system permease protein MetP
+AFPGLEEL_00292	gene	1209	sstT			
+AFPGLEEL_00292	CDS	1209	sstT		COG3633	Serine/threonine transporter SstT
+AFPGLEEL_00293	gene	672	ktrA			
+AFPGLEEL_00293	CDS	672	ktrA		COG0569	Ktr system potassium uptake protein A
+AFPGLEEL_00294	gene	1365	ktrB			
+AFPGLEEL_00294	CDS	1365	ktrB		COG0168	Ktr system potassium uptake protein B
+AFPGLEEL_00295	gene	714	rsmG			
+AFPGLEEL_00295	CDS	714	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+AFPGLEEL_00296	gene	537				
+AFPGLEEL_00296	CDS	537				hypothetical protein
+AFPGLEEL_00297	gene	690	arlR_1			
+AFPGLEEL_00297	CDS	690	arlR_1		COG0745	Response regulator ArlR
+AFPGLEEL_00298	gene	1530	rcsC_1			
+AFPGLEEL_00298	CDS	1530	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+AFPGLEEL_00299	gene	480	nrdR			
+AFPGLEEL_00299	CDS	480	nrdR		COG1327	Transcriptional repressor NrdR
+AFPGLEEL_00300	gene	1176				
+AFPGLEEL_00300	CDS	1176				hypothetical protein
+AFPGLEEL_00301	gene	903	dnaI			
+AFPGLEEL_00301	CDS	903	dnaI		COG1484	Primosomal protein DnaI
+AFPGLEEL_00302	gene	1311	der			
+AFPGLEEL_00302	CDS	1311	der		COG1160	GTPase Der
+AFPGLEEL_00303	gene	630				
+AFPGLEEL_00303	CDS	630				hypothetical protein
+AFPGLEEL_00304	gene	1278	serS			
+AFPGLEEL_00304	CDS	1278	serS	6.1.1.11		Serine--tRNA ligase
+AFPGLEEL_00305	gene	375				
+AFPGLEEL_00305	CDS	375				hypothetical protein
+AFPGLEEL_00306	gene	912	manZ_1			
+AFPGLEEL_00306	CDS	912	manZ_1		COG3716	PTS system mannose-specific EIID component
+AFPGLEEL_00307	gene	816	sorA_1			
+AFPGLEEL_00307	CDS	816	sorA_1		COG3715	PTS system sorbose-specific EIIC component
+AFPGLEEL_00308	gene	993	manX_1			
+AFPGLEEL_00308	CDS	993	manX_1	2.7.1.191		PTS system mannose-specific EIIAB component
+AFPGLEEL_00309	gene	387				
+AFPGLEEL_00309	CDS	387				hypothetical protein
+AFPGLEEL_00310	gene	915	manZ_2			
+AFPGLEEL_00310	CDS	915	manZ_2		COG3716	PTS system mannose-specific EIID component
+AFPGLEEL_00311	gene	801	sorA_2			
+AFPGLEEL_00311	CDS	801	sorA_2		COG3715	PTS system sorbose-specific EIIC component
+AFPGLEEL_00312	gene	1008	manX_2			
+AFPGLEEL_00312	CDS	1008	manX_2	2.7.1.191		PTS system mannose-specific EIIAB component
+AFPGLEEL_00313	gene	732				
+AFPGLEEL_00313	CDS	732		3.5.2.20	COG1878	Isatin hydrolase
+AFPGLEEL_00314	gene	813	yitU			
+AFPGLEEL_00314	CDS	813	yitU	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU
+AFPGLEEL_00315	gene	1422	adeQ			
+AFPGLEEL_00315	CDS	1422	adeQ		COG2252	Adenine permease AdeQ
+AFPGLEEL_00316	gene	444	tsaE			
+AFPGLEEL_00316	CDS	444	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+AFPGLEEL_00317	gene	522	aaaT			
+AFPGLEEL_00317	CDS	522	aaaT	2.3.1.-	COG0454	L-amino acid N-acetyltransferase AaaT
+AFPGLEEL_00318	gene	1254	brpA			
+AFPGLEEL_00318	CDS	1254	brpA		COG1316	Biofilm regulatory protein A
+AFPGLEEL_00319	gene	474	rimP			
+AFPGLEEL_00319	CDS	474	rimP		COG0779	Ribosome maturation factor RimP
+AFPGLEEL_00320	gene	1188	nusA			
+AFPGLEEL_00320	CDS	1188	nusA		COG0195	Transcription termination/antitermination protein NusA
+AFPGLEEL_00321	gene	297				
+AFPGLEEL_00321	CDS	297				hypothetical protein
+AFPGLEEL_00322	gene	276	rplGA			
+AFPGLEEL_00322	CDS	276	rplGA		COG1358	putative ribosomal protein YlxQ
+AFPGLEEL_00323	gene	2835	infB			
+AFPGLEEL_00323	CDS	2835	infB			Translation initiation factor IF-2
+AFPGLEEL_00324	gene	354	rbfA			
+AFPGLEEL_00324	CDS	354	rbfA			Ribosome-binding factor A
+AFPGLEEL_00325	gene	564				
+AFPGLEEL_00325	CDS	564		3.2.2.-	COG1611	Putative cytokinin riboside 5'-monophosphate phosphoribohydrolase
+AFPGLEEL_00326	gene	1251				
+AFPGLEEL_00326	CDS	1251				hypothetical protein
+AFPGLEEL_00327	gene	1446	murE			
+AFPGLEEL_00327	CDS	1446	murE	6.3.2.7	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+AFPGLEEL_00328	gene	1707	murJ_1			
+AFPGLEEL_00328	CDS	1707	murJ_1		COG2244	Lipid II flippase MurJ
+AFPGLEEL_00329	gene	2781	pacL			
+AFPGLEEL_00329	CDS	2781	pacL	7.2.2.10	COG0474	Calcium-transporting ATPase
+AFPGLEEL_00330	gene	1095	metI			
+AFPGLEEL_00330	CDS	1095	metI	2.5.1.-	COG0626	Cystathionine gamma-synthase/O-acetylhomoserine (thiol)-lyase
+AFPGLEEL_00331	gene	1164	patB			
+AFPGLEEL_00331	CDS	1164	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+AFPGLEEL_00332	gene	1722				
+AFPGLEEL_00332	CDS	1722				hypothetical protein
+AFPGLEEL_00333	gene	2916				
+AFPGLEEL_00333	CDS	2916				hypothetical protein
+AFPGLEEL_00334	gene	630	upp			
+AFPGLEEL_00334	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+AFPGLEEL_00335	gene	591	clpP			
+AFPGLEEL_00335	CDS	591	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+AFPGLEEL_00336	gene	450				
+AFPGLEEL_00336	CDS	450				hypothetical protein
+AFPGLEEL_00337	gene	282				
+AFPGLEEL_00337	CDS	282				hypothetical protein
+AFPGLEEL_00338	gene	1176				
+AFPGLEEL_00338	CDS	1176				hypothetical protein
+AFPGLEEL_00339	gene	885	livH			
+AFPGLEEL_00339	CDS	885	livH		COG0559	High-affinity branched-chain amino acid transport system permease protein LivH
+AFPGLEEL_00340	gene	951				
+AFPGLEEL_00340	CDS	951				hypothetical protein
+AFPGLEEL_00341	gene	765	lptB			
+AFPGLEEL_00341	CDS	765	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+AFPGLEEL_00342	gene	711	livF			
+AFPGLEEL_00342	CDS	711	livF		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+AFPGLEEL_00343	gene	660	IMPDH_1			
+AFPGLEEL_00343	CDS	660	IMPDH_1	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+AFPGLEEL_00344	gene	927	cysK			
+AFPGLEEL_00344	CDS	927	cysK	2.5.1.47		Cysteine synthase
+AFPGLEEL_00345	gene	627	yigZ			
+AFPGLEEL_00345	CDS	627	yigZ		COG1739	IMPACT family member YigZ
+AFPGLEEL_00346	gene	1320	comFA			
+AFPGLEEL_00346	CDS	1320	comFA	3.6.4.12	COG4098	ComF operon protein 1
+AFPGLEEL_00347	gene	663				
+AFPGLEEL_00347	CDS	663				hypothetical protein
+AFPGLEEL_00348	gene	549	hpf			
+AFPGLEEL_00348	CDS	549	hpf			Ribosome hibernation promotion factor
+AFPGLEEL_00349	gene	1544				
+AFPGLEEL_00349	rRNA	1544				16S ribosomal RNA
+AFPGLEEL_00350	gene	75				
+AFPGLEEL_00350	tRNA	75				tRNA-Ala(tgc)
+AFPGLEEL_00351	gene	2895				
+AFPGLEEL_00351	rRNA	2895				23S ribosomal RNA
+AFPGLEEL_00352	gene	109				
+AFPGLEEL_00352	rRNA	109				5S ribosomal RNA
+AFPGLEEL_00353	gene	73				
+AFPGLEEL_00353	tRNA	73				tRNA-Val(tac)
+AFPGLEEL_00354	gene	73				
+AFPGLEEL_00354	tRNA	73				tRNA-Asp(gtc)
+AFPGLEEL_00355	gene	73				
+AFPGLEEL_00355	tRNA	73				tRNA-Lys(ttt)
+AFPGLEEL_00356	gene	84				
+AFPGLEEL_00356	tRNA	84				tRNA-Leu(tag)
+AFPGLEEL_00357	gene	73				
+AFPGLEEL_00357	tRNA	73				tRNA-Thr(tgt)
+AFPGLEEL_00358	gene	74				
+AFPGLEEL_00358	tRNA	74				tRNA-Glu(ttc)
+AFPGLEEL_00359	gene	933	ppaC			
+AFPGLEEL_00359	CDS	933	ppaC	3.6.1.1	COG1227	putative manganese-dependent inorganic pyrophosphatase
+AFPGLEEL_00360	gene	660				
+AFPGLEEL_00360	CDS	660				hypothetical protein
+AFPGLEEL_00361	gene	534				
+AFPGLEEL_00361	CDS	534				hypothetical protein
+AFPGLEEL_00362	gene	777	recX			
+AFPGLEEL_00362	CDS	777	recX			Regulatory protein RecX
+AFPGLEEL_00363	gene	1356	rlmCD			
+AFPGLEEL_00363	CDS	1356	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+AFPGLEEL_00364	gene	993	asnA			
+AFPGLEEL_00364	CDS	993	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+AFPGLEEL_00365	gene	1359	yclM			
+AFPGLEEL_00365	CDS	1359	yclM	2.7.2.4	COG0527	Aspartokinase 3
+AFPGLEEL_00366	gene	639				
+AFPGLEEL_00366	CDS	639		3.1.3.-	COG0637	Phosphorylated carbohydrates phosphatase
+AFPGLEEL_00367	gene	792	fabM			
+AFPGLEEL_00367	CDS	792	fabM	5.3.3.14	COG1024	Trans-2-decenoyl-[acyl-carrier-protein] isomerase
+AFPGLEEL_00368	gene	435				
+AFPGLEEL_00368	CDS	435				hypothetical protein
+AFPGLEEL_00369	gene	963	fabH_1			
+AFPGLEEL_00369	CDS	963	fabH_1	2.3.1.180		3-oxoacyl-[acyl-carrier-protein] synthase 3
+AFPGLEEL_00370	gene	225	acpP_2			
+AFPGLEEL_00370	CDS	225	acpP_2		COG0236	Acyl carrier protein
+AFPGLEEL_00371	gene	966				
+AFPGLEEL_00371	CDS	966		1.6.5.11	COG2070	NADH:quinone reductase
+AFPGLEEL_00372	gene	921	fabD			
+AFPGLEEL_00372	CDS	921	fabD	2.3.1.39	COG0331	Malonyl CoA-acyl carrier protein transacylase
+AFPGLEEL_00373	gene	735	fabG			
+AFPGLEEL_00373	CDS	735	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+AFPGLEEL_00374	gene	1233	fabF_1			
+AFPGLEEL_00374	CDS	1233	fabF_1	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+AFPGLEEL_00375	gene	495	accB			
+AFPGLEEL_00375	CDS	495	accB			Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+AFPGLEEL_00376	gene	426	fabZ			
+AFPGLEEL_00376	CDS	426	fabZ	4.2.1.59	COG0764	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+AFPGLEEL_00377	gene	1371	accC			
+AFPGLEEL_00377	CDS	1371	accC	6.3.4.14	COG0439	Biotin carboxylase
+AFPGLEEL_00378	gene	867	accD			
+AFPGLEEL_00378	CDS	867	accD	2.1.3.15	COG0777	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+AFPGLEEL_00379	gene	771	accA			
+AFPGLEEL_00379	CDS	771	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+AFPGLEEL_00380	gene	483	luxS			
+AFPGLEEL_00380	CDS	483	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase
+AFPGLEEL_00381	gene	1608	rny			
+AFPGLEEL_00381	CDS	1608	rny	3.1.-.-	COG1418	Ribonuclease Y
+AFPGLEEL_00382	gene	747	lacR			
+AFPGLEEL_00382	CDS	747	lacR			Lactose phosphotransferase system repressor
+AFPGLEEL_00383	gene	912	lacC_1			
+AFPGLEEL_00383	CDS	912	lacC_1	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+AFPGLEEL_00384	gene	1977	fruA_1			
+AFPGLEEL_00384	CDS	1977	fruA_1		COG1299	PTS system fructose-specific EIIABC component
+AFPGLEEL_00385	gene	1353	gor			
+AFPGLEEL_00385	CDS	1353	gor	1.8.1.7	COG1249	Glutathione reductase
+AFPGLEEL_00386	gene	1257	fpgS_1			
+AFPGLEEL_00386	CDS	1257	fpgS_1	6.3.2.17		Folylpolyglutamate synthase
+AFPGLEEL_00387	gene	462				
+AFPGLEEL_00387	CDS	462				hypothetical protein
+AFPGLEEL_00388	gene	1146	iscS_1			
+AFPGLEEL_00388	CDS	1146	iscS_1	2.8.1.7		Cysteine desulfurase IscS
+AFPGLEEL_00389	gene	1224	thiI			
+AFPGLEEL_00389	CDS	1224	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+AFPGLEEL_00390	gene	1512	gtfA_1			
+AFPGLEEL_00390	CDS	1512	gtfA_1	2.4.1.-	COG0438	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+AFPGLEEL_00391	gene	1320	gtfB_1			
+AFPGLEEL_00391	CDS	1320	gtfB_1			UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase stabilizing protein GtfB
+AFPGLEEL_00392	gene	537				
+AFPGLEEL_00392	CDS	537				hypothetical protein
+AFPGLEEL_00393	gene	315	rplU			
+AFPGLEEL_00393	CDS	315	rplU		COG0261	50S ribosomal protein L21
+AFPGLEEL_00394	gene	291	rpmA			
+AFPGLEEL_00394	CDS	291	rpmA		COG0211	50S ribosomal protein L27
+AFPGLEEL_00395	gene	696				
+AFPGLEEL_00395	CDS	696				hypothetical protein
+AFPGLEEL_00396	gene	375				
+AFPGLEEL_00396	CDS	375				hypothetical protein
+AFPGLEEL_00397	gene	843				
+AFPGLEEL_00397	CDS	843			COG1307	DegV domain-containing protein
+AFPGLEEL_00398	gene	768	dapB			
+AFPGLEEL_00398	CDS	768	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+AFPGLEEL_00399	gene	1203	cca			
+AFPGLEEL_00399	CDS	1203	cca	2.7.7.72		CCA-adding enzyme
+AFPGLEEL_00400	gene	1881	ettA			
+AFPGLEEL_00400	CDS	1881	ettA		COG0488	Energy-dependent translational throttle protein EttA
+AFPGLEEL_00401	gene	504				
+AFPGLEEL_00401	CDS	504				hypothetical protein
+AFPGLEEL_00402	gene	762				
+AFPGLEEL_00402	CDS	762				hypothetical protein
+AFPGLEEL_00403	gene	1107	nadR			
+AFPGLEEL_00403	CDS	1107	nadR		COG1056	Bifunctional NAD biosynthesis protein NadR
+AFPGLEEL_00404	gene	1353	gdh			
+AFPGLEEL_00404	CDS	1353	gdh	1.4.1.4	COG0334	NADP-specific glutamate dehydrogenase
+AFPGLEEL_00405	gene	1644				
+AFPGLEEL_00405	CDS	1644				hypothetical protein
+AFPGLEEL_00406	gene	411	def_2			
+AFPGLEEL_00406	CDS	411	def_2	3.5.1.88		Peptide deformylase
+AFPGLEEL_00407	gene	444				
+AFPGLEEL_00407	CDS	444				hypothetical protein
+AFPGLEEL_00408	gene	1815				
+AFPGLEEL_00408	CDS	1815			COG1132	putative ABC transporter ATP-binding protein
+AFPGLEEL_00409	gene	1779				
+AFPGLEEL_00409	CDS	1779		7.6.2.-	COG1132	Fatty acid ABC transporter ATP-binding/permease protein
+AFPGLEEL_00410	gene	624				
+AFPGLEEL_00410	CDS	624				hypothetical protein
+AFPGLEEL_00411	gene	624				
+AFPGLEEL_00411	CDS	624				hypothetical protein
+AFPGLEEL_00412	gene	678	mprA			
+AFPGLEEL_00412	CDS	678	mprA		COG0745	Response regulator MprA
+AFPGLEEL_00413	gene	1224	sasA_1			
+AFPGLEEL_00413	CDS	1224	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+AFPGLEEL_00414	gene	738	pyrH			
+AFPGLEEL_00414	CDS	738	pyrH	2.7.4.22	COG0528	Uridylate kinase
+AFPGLEEL_00415	gene	558	frr			
+AFPGLEEL_00415	CDS	558	frr			Ribosome-recycling factor
+AFPGLEEL_00416	gene	858	cvfB			
+AFPGLEEL_00416	CDS	858	cvfB			Conserved virulence factor B
+AFPGLEEL_00417	gene	216				
+AFPGLEEL_00417	CDS	216				hypothetical protein
+AFPGLEEL_00418	gene	1191				
+AFPGLEEL_00418	CDS	1191				hypothetical protein
+AFPGLEEL_00419	gene	1065				
+AFPGLEEL_00419	CDS	1065			COG1702	PhoH-like protein
+AFPGLEEL_00420	gene	699				
+AFPGLEEL_00420	CDS	699				hypothetical protein
+AFPGLEEL_00421	gene	1053				
+AFPGLEEL_00421	CDS	1053				hypothetical protein
+AFPGLEEL_00422	gene	879				
+AFPGLEEL_00422	CDS	879				hypothetical protein
+AFPGLEEL_00423	gene	2004	metG			
+AFPGLEEL_00423	CDS	2004	metG	6.1.1.10		Methionine--tRNA ligase
+AFPGLEEL_00424	gene	846				
+AFPGLEEL_00424	CDS	846		1.-.-.-	COG0656	putative oxidoreductase/MSMEI_2347
+AFPGLEEL_00425	gene	897	hdfR_1			
+AFPGLEEL_00425	CDS	897	hdfR_1			HTH-type transcriptional regulator HdfR
+AFPGLEEL_00426	gene	741				
+AFPGLEEL_00426	CDS	741				hypothetical protein
+AFPGLEEL_00427	gene	1938				
+AFPGLEEL_00427	CDS	1938				hypothetical protein
+AFPGLEEL_00428	gene	960				
+AFPGLEEL_00428	CDS	960				hypothetical protein
+AFPGLEEL_00429	gene	1806	pepF1			
+AFPGLEEL_00429	CDS	1806	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+AFPGLEEL_00430	gene	1221				
+AFPGLEEL_00430	CDS	1221				L-lactate transporter
+AFPGLEEL_00431	gene	672	trmR			
+AFPGLEEL_00431	CDS	672	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+AFPGLEEL_00432	gene	1143	prsA			
+AFPGLEEL_00432	CDS	1143	prsA	5.2.1.8		Foldase protein PrsA
+AFPGLEEL_00433	gene	486				
+AFPGLEEL_00433	CDS	486				hypothetical protein
+AFPGLEEL_00434	gene	2619	alaS			
+AFPGLEEL_00434	CDS	2619	alaS	6.1.1.7		Alanine--tRNA ligase
+AFPGLEEL_00435	gene	2556				
+AFPGLEEL_00435	CDS	2556				hypothetical protein
+AFPGLEEL_00436	gene	735	agrA_1			
+AFPGLEEL_00436	CDS	735	agrA_1		COG3279	Accessory gene regulator protein A
+AFPGLEEL_00437	gene	1320				
+AFPGLEEL_00437	CDS	1320				hypothetical protein
+AFPGLEEL_00438	gene	558				
+AFPGLEEL_00438	CDS	558				hypothetical protein
+AFPGLEEL_00439	gene	3750				
+AFPGLEEL_00439	CDS	3750				hypothetical protein
+AFPGLEEL_00440	gene	783	yafV			
+AFPGLEEL_00440	CDS	783	yafV	3.5.1.3		Omega-amidase YafV
+AFPGLEEL_00441	gene	1182	dapL			
+AFPGLEEL_00441	CDS	1182	dapL	2.6.1.83	COG0436	LL-diaminopimelate aminotransferase
+AFPGLEEL_00442	gene	1023	argC			
+AFPGLEEL_00442	CDS	1023	argC	1.2.1.38		N-acetyl-gamma-glutamyl-phosphate reductase
+AFPGLEEL_00443	gene	1194	argJ			
+AFPGLEEL_00443	CDS	1194	argJ		COG1364	Arginine biosynthesis bifunctional protein ArgJ
+AFPGLEEL_00444	gene	738	argB			
+AFPGLEEL_00444	CDS	738	argB	2.7.2.8	COG0548	Acetylglutamate kinase
+AFPGLEEL_00445	gene	1131	argD			
+AFPGLEEL_00445	CDS	1131	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+AFPGLEEL_00446	gene	879				
+AFPGLEEL_00446	CDS	879				hypothetical protein
+AFPGLEEL_00447	gene	1287	hom			
+AFPGLEEL_00447	CDS	1287	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+AFPGLEEL_00448	gene	861	thrB			
+AFPGLEEL_00448	CDS	861	thrB	2.7.1.39	COG0083	Homoserine kinase
+AFPGLEEL_00449	gene	930	rarD			
+AFPGLEEL_00449	CDS	930	rarD		COG2962	Protein RarD
+AFPGLEEL_00450	gene	618				
+AFPGLEEL_00450	CDS	618				hypothetical protein
+AFPGLEEL_00451	gene	204				
+AFPGLEEL_00451	CDS	204				hypothetical protein
+AFPGLEEL_00452	gene	750				
+AFPGLEEL_00452	CDS	750				hypothetical protein
+AFPGLEEL_00453	gene	846				
+AFPGLEEL_00453	CDS	846				hypothetical protein
+AFPGLEEL_00454	gene	2652	valS			
+AFPGLEEL_00454	CDS	2652	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+AFPGLEEL_00455	gene	1947				
+AFPGLEEL_00455	CDS	1947				hypothetical protein
+AFPGLEEL_00456	gene	507				
+AFPGLEEL_00456	CDS	507				hypothetical protein
+AFPGLEEL_00457	gene	198	atpE			
+AFPGLEEL_00457	CDS	198	atpE		COG0636	ATP synthase subunit c
+AFPGLEEL_00458	gene	708	atpB			
+AFPGLEEL_00458	CDS	708	atpB		COG0356	ATP synthase subunit a
+AFPGLEEL_00459	gene	498	atpF			
+AFPGLEEL_00459	CDS	498	atpF		COG0711	ATP synthase subunit b
+AFPGLEEL_00460	gene	537	atpH			
+AFPGLEEL_00460	CDS	537	atpH		COG0712	ATP synthase subunit delta
+AFPGLEEL_00461	gene	1506	atpA			
+AFPGLEEL_00461	CDS	1506	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+AFPGLEEL_00462	gene	879	atpG			
+AFPGLEEL_00462	CDS	879	atpG		COG0224	ATP synthase gamma chain
+AFPGLEEL_00463	gene	1407	atpD			
+AFPGLEEL_00463	CDS	1407	atpD	7.1.2.2	COG0055	ATP synthase subunit beta
+AFPGLEEL_00464	gene	417	atpC			
+AFPGLEEL_00464	CDS	417	atpC		COG0355	ATP synthase epsilon chain
+AFPGLEEL_00465	gene	1281	ftsW			
+AFPGLEEL_00465	CDS	1281	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+AFPGLEEL_00466	gene	1197	tuf			
+AFPGLEEL_00466	CDS	1197	tuf			Elongation factor Tu
+AFPGLEEL_00467	gene	759	tpiA			
+AFPGLEEL_00467	CDS	759	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+AFPGLEEL_00468	gene	2040	tkt			
+AFPGLEEL_00468	CDS	2040	tkt	2.2.1.1		Transketolase
+AFPGLEEL_00469	gene	73				
+AFPGLEEL_00469	tRNA	73				tRNA-Thr(cgt)
+AFPGLEEL_00470	gene	630	tmk			
+AFPGLEEL_00470	CDS	630	tmk	2.7.4.9	COG0125	Thymidylate kinase
+AFPGLEEL_00471	gene	876				
+AFPGLEEL_00471	CDS	876				hypothetical protein
+AFPGLEEL_00472	gene	807				
+AFPGLEEL_00472	CDS	807				hypothetical protein
+AFPGLEEL_00473	gene	321	yabA			
+AFPGLEEL_00473	CDS	321	yabA		COG4467	Initiation-control protein YabA
+AFPGLEEL_00474	gene	867	rsmI			
+AFPGLEEL_00474	CDS	867	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+AFPGLEEL_00475	gene	1236	nrgA			
+AFPGLEEL_00475	CDS	1236	nrgA			Ammonium transporter
+AFPGLEEL_00476	gene	342	glnB			
+AFPGLEEL_00476	CDS	342	glnB		COG0347	Nitrogen regulatory protein P-II
+AFPGLEEL_00477	gene	657				
+AFPGLEEL_00477	CDS	657				hypothetical protein
+AFPGLEEL_00478	gene	822				
+AFPGLEEL_00478	CDS	822		3.1.3.-		Putative phosphatase
+AFPGLEEL_00479	gene	534				
+AFPGLEEL_00479	CDS	534				hypothetical protein
+AFPGLEEL_00480	gene	1077				
+AFPGLEEL_00480	CDS	1077				hypothetical protein
+AFPGLEEL_00481	gene	1632				
+AFPGLEEL_00481	CDS	1632				hypothetical protein
+AFPGLEEL_00482	gene	1149	agaA			
+AFPGLEEL_00482	CDS	1149	agaA	3.5.1.-	COG1820	N-acetylgalactosamine-6-phosphate deacetylase
+AFPGLEEL_00483	gene	1245				
+AFPGLEEL_00483	CDS	1245				hypothetical protein
+AFPGLEEL_00484	gene	918	glyQ			
+AFPGLEEL_00484	CDS	918	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+AFPGLEEL_00485	gene	2037	glyS			
+AFPGLEEL_00485	CDS	2037	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+AFPGLEEL_00486	gene	258				
+AFPGLEEL_00486	CDS	258				hypothetical protein
+AFPGLEEL_00487	gene	1392	serP2			
+AFPGLEEL_00487	CDS	1392	serP2		COG1113	DL-alanine permease SerP2
+AFPGLEEL_00488	gene	636				
+AFPGLEEL_00488	CDS	636				hypothetical protein
+AFPGLEEL_00489	gene	1902	bglF_1			
+AFPGLEEL_00489	CDS	1902	bglF_1		COG1263	PTS system beta-glucoside-specific EIIBCA component
+AFPGLEEL_00490	gene	759				
+AFPGLEEL_00490	CDS	759				hypothetical protein
+AFPGLEEL_00491	gene	1368				
+AFPGLEEL_00491	CDS	1368				hypothetical protein
+AFPGLEEL_00492	gene	786				
+AFPGLEEL_00492	CDS	786				hypothetical protein
+AFPGLEEL_00493	gene	237				
+AFPGLEEL_00493	CDS	237				hypothetical protein
+AFPGLEEL_00494	gene	468				
+AFPGLEEL_00494	CDS	468				hypothetical protein
+AFPGLEEL_00495	gene	1239				
+AFPGLEEL_00495	CDS	1239				hypothetical protein
+AFPGLEEL_00496	gene	906	oxyR			
+AFPGLEEL_00496	CDS	906	oxyR			Hydrogen peroxide-inducible genes activator
+AFPGLEEL_00497	gene	462	lspA			
+AFPGLEEL_00497	CDS	462	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+AFPGLEEL_00498	gene	891	rluD_1			
+AFPGLEEL_00498	CDS	891	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+AFPGLEEL_00499	gene	522	pyrR			
+AFPGLEEL_00499	CDS	522	pyrR		COG2065	Bifunctional protein PyrR
+AFPGLEEL_00500	gene	1278	pyrP			
+AFPGLEEL_00500	CDS	1278	pyrP			Uracil permease
+AFPGLEEL_00501	gene	927	pyrB			
+AFPGLEEL_00501	CDS	927	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+AFPGLEEL_00502	gene	1089	carA			
+AFPGLEEL_00502	CDS	1089	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+AFPGLEEL_00503	gene	3180	carB			
+AFPGLEEL_00503	CDS	3180	carB	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+AFPGLEEL_00504	gene	756	rsmJ			
+AFPGLEEL_00504	CDS	756	rsmJ	2.1.1.242		Ribosomal RNA small subunit methyltransferase J
+AFPGLEEL_00505	gene	1254	yknX			
+AFPGLEEL_00505	CDS	1254	yknX		COG0845	Putative efflux system component YknX
+AFPGLEEL_00506	gene	705	yknY_2			
+AFPGLEEL_00506	CDS	705	yknY_2	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+AFPGLEEL_00507	gene	1209	yknZ			
+AFPGLEEL_00507	CDS	1209	yknZ		COG0577	putative ABC transporter permease YknZ
+AFPGLEEL_00508	gene	504	rplJ			
+AFPGLEEL_00508	CDS	504	rplJ			50S ribosomal protein L10
+AFPGLEEL_00509	gene	369	rplL			
+AFPGLEEL_00509	CDS	369	rplL		COG0222	50S ribosomal protein L7/L12
+AFPGLEEL_00510	gene	1737				
+AFPGLEEL_00510	CDS	1737			COG1132	putative ABC transporter ATP-binding protein
+AFPGLEEL_00511	gene	1788				
+AFPGLEEL_00511	CDS	1788		7.6.2.-	COG1132	Fatty acid ABC transporter ATP-binding/permease protein
+AFPGLEEL_00512	gene	1044	queA			
+AFPGLEEL_00512	CDS	1044	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+AFPGLEEL_00513	gene	702	nagB			
+AFPGLEEL_00513	CDS	702	nagB	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase
+AFPGLEEL_00514	gene	1296				
+AFPGLEEL_00514	CDS	1296				hypothetical protein
+AFPGLEEL_00515	gene	711				
+AFPGLEEL_00515	CDS	711				hypothetical protein
+AFPGLEEL_00516	gene	912	btuD_1			
+AFPGLEEL_00516	CDS	912	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+AFPGLEEL_00517	gene	723				
+AFPGLEEL_00517	CDS	723				hypothetical protein
+AFPGLEEL_00518	gene	114				
+AFPGLEEL_00518	CDS	114				hypothetical protein
+AFPGLEEL_00519	gene	984				
+AFPGLEEL_00519	CDS	984				hypothetical protein
+AFPGLEEL_00520	gene	240				
+AFPGLEEL_00520	CDS	240				hypothetical protein
+AFPGLEEL_00521	gene	495				
+AFPGLEEL_00521	CDS	495				hypothetical protein
+AFPGLEEL_00522	gene	771	deoD_1			
+AFPGLEEL_00522	CDS	771	deoD_1	2.4.2.1		Purine nucleoside phosphorylase DeoD-type
+AFPGLEEL_00523	gene	684				
+AFPGLEEL_00523	CDS	684				hypothetical protein
+AFPGLEEL_00524	gene	777	rluB_2			
+AFPGLEEL_00524	CDS	777	rluB_2	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+AFPGLEEL_00525	gene	1140	scmP			
+AFPGLEEL_00525	CDS	1140	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+AFPGLEEL_00526	gene	1113	ald			
+AFPGLEEL_00526	CDS	1113	ald	1.4.1.1	COG0686	Alanine dehydrogenase
+AFPGLEEL_00527	gene	105				
+AFPGLEEL_00527	CDS	105				hypothetical protein
+AFPGLEEL_00528	gene	414				
+AFPGLEEL_00528	CDS	414				hypothetical protein
+AFPGLEEL_00529	gene	801	catD			
+AFPGLEEL_00529	CDS	801	catD	3.1.1.24	COG0596	3-oxoadipate enol-lactonase 2
+AFPGLEEL_00530	gene	1317	rclA			
+AFPGLEEL_00530	CDS	1317	rclA		COG1249	putative pyridine nucleotide-disulfide oxidoreductase RclA
+AFPGLEEL_00531	gene	879	galK_1			
+AFPGLEEL_00531	CDS	879	galK_1	2.7.1.6		Galactokinase
+AFPGLEEL_00532	gene	945				
+AFPGLEEL_00532	CDS	945				hypothetical protein
+AFPGLEEL_00533	gene	996				
+AFPGLEEL_00533	CDS	996		2.7.4.2		Phosphomevalonate kinase
+AFPGLEEL_00534	gene	1005	fni			
+AFPGLEEL_00534	CDS	1005	fni	5.3.3.2	COG1304	Isopentenyl-diphosphate delta-isomerase
+AFPGLEEL_00535	gene	840				
+AFPGLEEL_00535	CDS	840		3.6.3.-	COG1131	Fluoroquinolones export ATP-binding protein
+AFPGLEEL_00536	gene	720				
+AFPGLEEL_00536	CDS	720				hypothetical protein
+AFPGLEEL_00537	gene	273				
+AFPGLEEL_00537	CDS	273				hypothetical protein
+AFPGLEEL_00538	gene	2661	mgtA			
+AFPGLEEL_00538	CDS	2661	mgtA	7.2.2.14	COG0474	Magnesium-transporting ATPase, P-type 1
+AFPGLEEL_00539	gene	1383	glmU			
+AFPGLEEL_00539	CDS	1383	glmU		COG1207	Bifunctional protein GlmU
+AFPGLEEL_00540	gene	549	act			
+AFPGLEEL_00540	CDS	549	act	3.-.-.-		Methanol dehydrogenase activator
+AFPGLEEL_00541	gene	261				
+AFPGLEEL_00541	CDS	261				hypothetical protein
+AFPGLEEL_00542	gene	693	mtnN			
+AFPGLEEL_00542	CDS	693	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+AFPGLEEL_00543	gene	3018				
+AFPGLEEL_00543	CDS	3018				hypothetical protein
+AFPGLEEL_00544	gene	999	dgs			
+AFPGLEEL_00544	CDS	999	dgs	2.4.1.208	COG0438	Processive diacylglycerol alpha-glucosyltransferase
+AFPGLEEL_00545	gene	1323				
+AFPGLEEL_00545	CDS	1323		2.4.1.337	COG0438	Alpha-monoglucosyldiacylglycerol synthase
+AFPGLEEL_00546	gene	396				
+AFPGLEEL_00546	CDS	396				hypothetical protein
+AFPGLEEL_00547	gene	1947	thrS			
+AFPGLEEL_00547	CDS	1947	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+AFPGLEEL_00548	gene	939				
+AFPGLEEL_00548	CDS	939				hypothetical protein
+AFPGLEEL_00549	gene	1059				
+AFPGLEEL_00549	CDS	1059				hypothetical protein
+AFPGLEEL_00550	gene	192				
+AFPGLEEL_00550	CDS	192				hypothetical protein
+AFPGLEEL_00551	gene	678				
+AFPGLEEL_00551	CDS	678				hypothetical protein
+AFPGLEEL_00552	gene	450				
+AFPGLEEL_00552	CDS	450				hypothetical protein
+AFPGLEEL_00553	gene	1272	mvaA			
+AFPGLEEL_00553	CDS	1272	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+AFPGLEEL_00554	gene	1167	mvaS			
+AFPGLEEL_00554	CDS	1167	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+AFPGLEEL_00555	gene	861	thyA			
+AFPGLEEL_00555	CDS	861	thyA	2.1.1.45	COG0207	Thymidylate synthase
+AFPGLEEL_00556	gene	504	dhfR			
+AFPGLEEL_00556	CDS	504	dhfR	1.5.1.3	COG0262	Dihydrofolate reductase
+AFPGLEEL_00557	gene	171				
+AFPGLEEL_00557	CDS	171				hypothetical protein
+AFPGLEEL_00558	gene	1227	clpX			
+AFPGLEEL_00558	CDS	1227	clpX			ATP-dependent Clp protease ATP-binding subunit ClpX
+AFPGLEEL_00559	gene	600	engB			
+AFPGLEEL_00559	CDS	600	engB		COG0218	putative GTP-binding protein EngB
+AFPGLEEL_00560	gene	1332	rocC			
+AFPGLEEL_00560	CDS	1332	rocC		COG0833	Amino-acid permease RocC
+AFPGLEEL_00561	gene	951	mmuM			
+AFPGLEEL_00561	CDS	951	mmuM	2.1.1.10	COG2040	Homocysteine S-methyltransferase
+AFPGLEEL_00562	gene	255				
+AFPGLEEL_00562	CDS	255				hypothetical protein
+AFPGLEEL_00563	gene	378				
+AFPGLEEL_00563	CDS	378				hypothetical protein
+AFPGLEEL_00564	gene	642	plsY			
+AFPGLEEL_00564	CDS	642	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+AFPGLEEL_00565	gene	1950	parE			
+AFPGLEEL_00565	CDS	1950	parE	5.6.2.2	COG0187	DNA topoisomerase 4 subunit B
+AFPGLEEL_00566	gene	549				
+AFPGLEEL_00566	CDS	549				hypothetical protein
+AFPGLEEL_00567	gene	528				
+AFPGLEEL_00567	CDS	528				hypothetical protein
+AFPGLEEL_00568	gene	2421	parC			
+AFPGLEEL_00568	CDS	2421	parC	5.6.2.2	COG0188	DNA topoisomerase 4 subunit A
+AFPGLEEL_00569	gene	1023	ilvE			
+AFPGLEEL_00569	CDS	1023	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+AFPGLEEL_00570	gene	231				
+AFPGLEEL_00570	CDS	231				hypothetical protein
+AFPGLEEL_00571	gene	81				
+AFPGLEEL_00571	tRNA	81				tRNA-Tyr(gta)
+AFPGLEEL_00572	gene	74				
+AFPGLEEL_00572	tRNA	74				tRNA-Gln(ttg)
+AFPGLEEL_00573	gene	1203	rpsA			
+AFPGLEEL_00573	CDS	1203	rpsA		COG0539	30S Ribosomal protein S1
+AFPGLEEL_00574	gene	72				
+AFPGLEEL_00574	tRNA	72				tRNA-Arg(ccg)
+AFPGLEEL_00575	gene	347	ssrA			
+AFPGLEEL_00575	tmRNA	347	ssrA			transfer-messenger RNA, SsrA
+AFPGLEEL_00576	gene	621				
+AFPGLEEL_00576	CDS	621				hypothetical protein
+AFPGLEEL_00577	gene	684				
+AFPGLEEL_00577	CDS	684				hypothetical protein
+AFPGLEEL_00578	gene	1236	femA			
+AFPGLEEL_00578	CDS	1236	femA	2.3.2.17		Aminoacyltransferase FemA
+AFPGLEEL_00579	gene	963	iolU			
+AFPGLEEL_00579	CDS	963	iolU	1.1.1.371	COG0673	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+AFPGLEEL_00580	gene	303				
+AFPGLEEL_00580	CDS	303				hypothetical protein
+AFPGLEEL_00581	gene	459				
+AFPGLEEL_00581	CDS	459				hypothetical protein
+AFPGLEEL_00582	gene	2271	clpE			
+AFPGLEEL_00582	CDS	2271	clpE		COG0542	ATP-dependent Clp protease ATP-binding subunit ClpE
+AFPGLEEL_00583	gene	981	arcB			
+AFPGLEEL_00583	CDS	981	arcB	2.1.3.3		Ornithine carbamoyltransferase, catabolic
+AFPGLEEL_00584	gene	231				
+AFPGLEEL_00584	CDS	231				hypothetical protein
+AFPGLEEL_00585	gene	681	yecS_1			
+AFPGLEEL_00585	CDS	681	yecS_1		COG0765	L-cystine transport system permease protein YecS
+AFPGLEEL_00586	gene	735	glnQ_1			
+AFPGLEEL_00586	CDS	735	glnQ_1			Glutamine transport ATP-binding protein GlnQ
+AFPGLEEL_00587	gene	477				
+AFPGLEEL_00587	CDS	477				hypothetical protein
+AFPGLEEL_00588	gene	2139	feoB			
+AFPGLEEL_00588	CDS	2139	feoB		COG0370	Fe(2+) transporter FeoB
+AFPGLEEL_00589	gene	141				
+AFPGLEEL_00589	CDS	141				hypothetical protein
+AFPGLEEL_00590	gene	777				
+AFPGLEEL_00590	CDS	777				hypothetical protein
+AFPGLEEL_00591	gene	855	folD			
+AFPGLEEL_00591	CDS	855	folD			Bifunctional protein FolD protein
+AFPGLEEL_00592	gene	837	nnrD			
+AFPGLEEL_00592	CDS	837	nnrD	4.2.1.136	COG0063	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+AFPGLEEL_00593	gene	2115	penA			
+AFPGLEEL_00593	CDS	2115	penA		COG0768	Penicillin-binding protein 2B
+AFPGLEEL_00594	gene	597	recR			
+AFPGLEEL_00594	CDS	597	recR		COG0353	Recombination protein RecR
+AFPGLEEL_00595	gene	840	licT			
+AFPGLEEL_00595	CDS	840	licT		COG3711	Transcription antiterminator LicT
+AFPGLEEL_00596	gene	498	ybeY			
+AFPGLEEL_00596	CDS	498	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+AFPGLEEL_00597	gene	405	dgkA			
+AFPGLEEL_00597	CDS	405	dgkA	2.7.1.66	COG0818	Undecaprenol kinase
+AFPGLEEL_00598	gene	900	era			
+AFPGLEEL_00598	CDS	900	era		COG1159	GTPase Era
+AFPGLEEL_00599	gene	822	mutM			
+AFPGLEEL_00599	CDS	822	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+AFPGLEEL_00600	gene	615	coaE			
+AFPGLEEL_00600	CDS	615	coaE	2.7.1.24		Dephospho-CoA kinase
+AFPGLEEL_00601	gene	1224	sbnD			
+AFPGLEEL_00601	CDS	1224	sbnD			Staphyloferrin B transporter
+AFPGLEEL_00602	gene	237	secG			
+AFPGLEEL_00602	CDS	237	secG		COG1314	putative protein-export membrane protein SecG
+AFPGLEEL_00603	gene	2454	rnr			
+AFPGLEEL_00603	CDS	2454	rnr	3.1.13.1	COG0557	Ribonuclease R
+AFPGLEEL_00604	gene	465	smpB			
+AFPGLEEL_00604	CDS	465	smpB		COG0691	SsrA-binding protein
+AFPGLEEL_00605	gene	1407				
+AFPGLEEL_00605	CDS	1407				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+AFPGLEEL_00606	gene	369	yugI			
+AFPGLEEL_00606	CDS	369	yugI		COG1098	General stress protein 13
+AFPGLEEL_00607	gene	1083	pepQ			
+AFPGLEEL_00607	CDS	1083	pepQ	3.4.13.9	COG0006	Xaa-Pro dipeptidase
+AFPGLEEL_00608	gene	1002	ccpA			
+AFPGLEEL_00608	CDS	1002	ccpA		COG1609	Catabolite control protein A
+AFPGLEEL_00609	gene	1068				
+AFPGLEEL_00609	CDS	1068				hypothetical protein
+AFPGLEEL_00610	gene	1116	glxK			
+AFPGLEEL_00610	CDS	1116	glxK	2.7.1.31		Glycerate kinase
+AFPGLEEL_00611	gene	456				
+AFPGLEEL_00611	CDS	456				hypothetical protein
+AFPGLEEL_00612	gene	1305	eno			
+AFPGLEEL_00612	CDS	1305	eno	4.2.1.11	COG0148	Enolase
+AFPGLEEL_00613	gene	186				
+AFPGLEEL_00613	CDS	186				hypothetical protein
+AFPGLEEL_00614	gene	2187	ltaS2			
+AFPGLEEL_00614	CDS	2187	ltaS2		COG1368	Lipoteichoic acid synthase 2
+AFPGLEEL_00615	gene	1164	rlmI			
+AFPGLEEL_00615	CDS	1164	rlmI	2.1.1.191	COG1092	Ribosomal RNA large subunit methyltransferase I
+AFPGLEEL_00616	gene	678	aroD			
+AFPGLEEL_00616	CDS	678	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+AFPGLEEL_00617	gene	858	aroE			
+AFPGLEEL_00617	CDS	858	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+AFPGLEEL_00618	gene	1068	aroB			
+AFPGLEEL_00618	CDS	1068	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+AFPGLEEL_00619	gene	1167	aroC			
+AFPGLEEL_00619	CDS	1167	aroC	4.2.3.5	COG0082	Chorismate synthase
+AFPGLEEL_00620	gene	1107				
+AFPGLEEL_00620	CDS	1107				hypothetical protein
+AFPGLEEL_00621	gene	339				
+AFPGLEEL_00621	CDS	339				hypothetical protein
+AFPGLEEL_00622	gene	951				
+AFPGLEEL_00622	CDS	951		1.1.1.-		L-2-hydroxyisocaproate dehydrogenase
+AFPGLEEL_00623	gene	1284	aroA			
+AFPGLEEL_00623	CDS	1284	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+AFPGLEEL_00624	gene	492	aroK			
+AFPGLEEL_00624	CDS	492	aroK	2.7.1.71	COG0703	Shikimate kinase
+AFPGLEEL_00625	gene	825	pheA			
+AFPGLEEL_00625	CDS	825	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+AFPGLEEL_00626	gene	1422	tagU_1			
+AFPGLEEL_00626	CDS	1422	tagU_1	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+AFPGLEEL_00627	gene	939				
+AFPGLEEL_00627	CDS	939				hypothetical protein
+AFPGLEEL_00628	gene	1065				
+AFPGLEEL_00628	CDS	1065				hypothetical protein
+AFPGLEEL_00629	gene	549				
+AFPGLEEL_00629	CDS	549				hypothetical protein
+AFPGLEEL_00630	gene	1362				
+AFPGLEEL_00630	CDS	1362		2.1.1.-	COG2265	putative RNA methyltransferase
+AFPGLEEL_00631	gene	150				
+AFPGLEEL_00631	CDS	150				hypothetical protein
+AFPGLEEL_00632	gene	639				
+AFPGLEEL_00632	CDS	639				hypothetical protein
+AFPGLEEL_00633	gene	366				
+AFPGLEEL_00633	CDS	366				hypothetical protein
+AFPGLEEL_00634	gene	480				
+AFPGLEEL_00634	CDS	480				hypothetical protein
+AFPGLEEL_00635	gene	306				
+AFPGLEEL_00635	CDS	306				hypothetical protein
+AFPGLEEL_00636	gene	210				
+AFPGLEEL_00636	CDS	210				hypothetical protein
+AFPGLEEL_00637	gene	192				
+AFPGLEEL_00637	CDS	192				hypothetical protein
+AFPGLEEL_00638	gene	132				
+AFPGLEEL_00638	CDS	132				hypothetical protein
+AFPGLEEL_00639	gene	135				
+AFPGLEEL_00639	CDS	135				hypothetical protein
+AFPGLEEL_00640	gene	354				
+AFPGLEEL_00640	CDS	354				hypothetical protein
+AFPGLEEL_00641	gene	243				
+AFPGLEEL_00641	CDS	243				hypothetical protein
+AFPGLEEL_00642	gene	618				
+AFPGLEEL_00642	CDS	618				hypothetical protein
+AFPGLEEL_00643	gene	774				
+AFPGLEEL_00643	CDS	774				hypothetical protein
+AFPGLEEL_00644	gene	441				
+AFPGLEEL_00644	CDS	441				hypothetical protein
+AFPGLEEL_00645	gene	1173	nimT			
+AFPGLEEL_00645	CDS	1173	nimT		COG2807	2-nitroimidazole transporter
+AFPGLEEL_00646	gene	843				
+AFPGLEEL_00646	CDS	843			COG1307	DegV domain-containing protein
+AFPGLEEL_00647	gene	570				
+AFPGLEEL_00647	CDS	570				hypothetical protein
+AFPGLEEL_00648	gene	636	cutC			
+AFPGLEEL_00648	CDS	636	cutC		COG3142	Copper homeostasis protein CutC
+AFPGLEEL_00649	gene	273				
+AFPGLEEL_00649	CDS	273				hypothetical protein
+AFPGLEEL_00650	gene	1248				
+AFPGLEEL_00650	CDS	1248				hypothetical protein
+AFPGLEEL_00651	gene	1767	stp			
+AFPGLEEL_00651	CDS	1767	stp			Multidrug resistance protein Stp
+AFPGLEEL_00652	gene	543				
+AFPGLEEL_00652	CDS	543				hypothetical protein
+AFPGLEEL_00653	gene	840				
+AFPGLEEL_00653	CDS	840				hypothetical protein
+AFPGLEEL_00654	gene	759				
+AFPGLEEL_00654	CDS	759				hypothetical protein
+AFPGLEEL_00655	gene	1044	hmuU			
+AFPGLEEL_00655	CDS	1044	hmuU		COG0609	Hemin transport system permease protein HmuU
+AFPGLEEL_00656	gene	756	fecE			
+AFPGLEEL_00656	CDS	756	fecE		COG1120	Fe(3+) dicitrate transport ATP-binding protein FecE
+AFPGLEEL_00657	gene	1017				
+AFPGLEEL_00657	CDS	1017				hypothetical protein
+AFPGLEEL_00658	gene	690	ybbA_1			
+AFPGLEEL_00658	CDS	690	ybbA_1		COG2819	putative protein YbbA
+AFPGLEEL_00659	gene	312				
+AFPGLEEL_00659	CDS	312				hypothetical protein
+AFPGLEEL_00660	gene	750				
+AFPGLEEL_00660	CDS	750				hypothetical protein
+AFPGLEEL_00661	gene	198				
+AFPGLEEL_00661	CDS	198				hypothetical protein
+AFPGLEEL_00662	gene	420				
+AFPGLEEL_00662	CDS	420				hypothetical protein
+AFPGLEEL_00663	gene	393				
+AFPGLEEL_00663	CDS	393				hypothetical protein
+AFPGLEEL_00664	gene	363				
+AFPGLEEL_00664	CDS	363				hypothetical protein
+AFPGLEEL_00665	gene	378				
+AFPGLEEL_00665	CDS	378				hypothetical protein
+AFPGLEEL_00666	gene	363				
+AFPGLEEL_00666	CDS	363				hypothetical protein
+AFPGLEEL_00667	gene	612				
+AFPGLEEL_00667	CDS	612				hypothetical protein
+AFPGLEEL_00668	gene	270				
+AFPGLEEL_00668	CDS	270				hypothetical protein
+AFPGLEEL_00669	gene	273				
+AFPGLEEL_00669	CDS	273				hypothetical protein
+AFPGLEEL_00670	gene	615				
+AFPGLEEL_00670	CDS	615				hypothetical protein
+AFPGLEEL_00671	gene	1662	dauA			
+AFPGLEEL_00671	CDS	1662	dauA		COG0659	C4-dicarboxylic acid transporter DauA
+AFPGLEEL_00672	gene	3384	cas9-1			
+AFPGLEEL_00672	CDS	3384	cas9-1	3.1.-.-		CRISPR-associated endonuclease Cas9 1
+AFPGLEEL_00673	gene	912	cas1			
+AFPGLEEL_00673	CDS	912	cas1	3.1.-.-		CRISPR-associated endonuclease Cas1
+AFPGLEEL_00674	gene	324	cas2			
+AFPGLEEL_00674	CDS	324	cas2	3.1.-.-		CRISPR-associated endoribonuclease Cas2
+AFPGLEEL_00675	gene	1053				
+AFPGLEEL_00675	CDS	1053				hypothetical protein
+	repeat_region	898				
+AFPGLEEL_00676	gene	816				
+AFPGLEEL_00676	CDS	816			COG3689	Putative two-component membrane permease complex subunit SMU_746c
+AFPGLEEL_00677	gene	903				
+AFPGLEEL_00677	CDS	903			COG0701	Putative two-component membrane permease complex subunit SMU_747c
+AFPGLEEL_00678	gene	132				
+AFPGLEEL_00678	CDS	132				hypothetical protein
+AFPGLEEL_00679	gene	2133	yhgF			
+AFPGLEEL_00679	CDS	2133	yhgF		COG2183	Protein YhgF
+AFPGLEEL_00680	gene	441				
+AFPGLEEL_00680	CDS	441				Protein SprT-like protein
+AFPGLEEL_00681	gene	264				
+AFPGLEEL_00681	CDS	264				hypothetical protein
+AFPGLEEL_00682	gene	930	hprK			
+AFPGLEEL_00682	CDS	930	hprK	2.7.11.-		HPr kinase/phosphorylase
+AFPGLEEL_00683	gene	792	lgt			
+AFPGLEEL_00683	CDS	792	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+AFPGLEEL_00684	gene	399				
+AFPGLEEL_00684	CDS	399				hypothetical protein
+AFPGLEEL_00685	gene	441				
+AFPGLEEL_00685	CDS	441				putative protein
+AFPGLEEL_00686	gene	297				
+AFPGLEEL_00686	CDS	297				hypothetical protein
+AFPGLEEL_00687	gene	930				
+AFPGLEEL_00687	CDS	930				hypothetical protein
+AFPGLEEL_00688	gene	1287				
+AFPGLEEL_00688	CDS	1287				hypothetical protein
+AFPGLEEL_00689	gene	318				
+AFPGLEEL_00689	CDS	318				hypothetical protein
+AFPGLEEL_00690	gene	540	bioY2			
+AFPGLEEL_00690	CDS	540	bioY2		COG1268	Biotin transporter BioY2
+AFPGLEEL_00691	gene	285				
+AFPGLEEL_00691	CDS	285				hypothetical protein
+AFPGLEEL_00692	gene	213				
+AFPGLEEL_00692	CDS	213				hypothetical protein
+AFPGLEEL_00693	gene	1335	mntH			
+AFPGLEEL_00693	CDS	1335	mntH			Divalent metal cation transporter MntH
+AFPGLEEL_00694	gene	309				
+AFPGLEEL_00694	CDS	309				hypothetical protein
+AFPGLEEL_00695	gene	546				
+AFPGLEEL_00695	CDS	546				hypothetical protein
+AFPGLEEL_00696	gene	1491	lysS			
+AFPGLEEL_00696	CDS	1491	lysS	6.1.1.6	COG1190	Lysine--tRNA ligase
+AFPGLEEL_00697	gene	1314				
+AFPGLEEL_00697	CDS	1314				hypothetical protein
+AFPGLEEL_00698	gene	480				
+AFPGLEEL_00698	CDS	480				hypothetical protein
+AFPGLEEL_00699	gene	903	gph_1			
+AFPGLEEL_00699	CDS	903	gph_1	3.1.3.18		Phosphoglycolate phosphatase
+AFPGLEEL_00700	gene	639	pspB			
+AFPGLEEL_00700	CDS	639	pspB	3.1.3.3	COG0406	Putative phosphoserine phosphatase 2
+AFPGLEEL_00701	gene	474				
+AFPGLEEL_00701	CDS	474				hypothetical protein
+AFPGLEEL_00702	gene	912				
+AFPGLEEL_00702	CDS	912				hypothetical protein
+AFPGLEEL_00703	gene	390				
+AFPGLEEL_00703	CDS	390				hypothetical protein
+AFPGLEEL_00704	gene	843	ycsE			
+AFPGLEEL_00704	CDS	843	ycsE	3.1.3.104		5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YcsE
+AFPGLEEL_00705	gene	627				
+AFPGLEEL_00705	CDS	627				hypothetical protein
+AFPGLEEL_00706	gene	1158				
+AFPGLEEL_00706	CDS	1158				hypothetical protein
+AFPGLEEL_00707	gene	765	ydfG			
+AFPGLEEL_00707	CDS	765	ydfG	1.1.1.381	COG4221	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+AFPGLEEL_00708	gene	3069				
+AFPGLEEL_00708	CDS	3069				hypothetical protein
+AFPGLEEL_00709	gene	1605				
+AFPGLEEL_00709	CDS	1605				hypothetical protein
+AFPGLEEL_00710	gene	1206				
+AFPGLEEL_00710	CDS	1206				hypothetical protein
+AFPGLEEL_00711	gene	834				
+AFPGLEEL_00711	CDS	834				hypothetical protein
+AFPGLEEL_00712	gene	414				
+AFPGLEEL_00712	CDS	414				hypothetical protein
+AFPGLEEL_00713	gene	339				
+AFPGLEEL_00713	CDS	339				hypothetical protein
+AFPGLEEL_00714	gene	1086				
+AFPGLEEL_00714	CDS	1086				hypothetical protein
+AFPGLEEL_00715	gene	912				
+AFPGLEEL_00715	CDS	912				hypothetical protein
+AFPGLEEL_00716	gene	3339				
+AFPGLEEL_00716	CDS	3339				hypothetical protein
+AFPGLEEL_00717	gene	1002				
+AFPGLEEL_00717	CDS	1002				hypothetical protein
+AFPGLEEL_00718	gene	561	lemA			
+AFPGLEEL_00718	CDS	561	lemA		COG1704	Protein LemA
+AFPGLEEL_00719	gene	900	htpX			
+AFPGLEEL_00719	CDS	900	htpX	3.4.24.-	COG0501	Protease HtpX 
+AFPGLEEL_00720	gene	648	mntR			
+AFPGLEEL_00720	CDS	648	mntR			HTH-type transcriptional regulator MntR
+AFPGLEEL_00721	gene	927	psaA			
+AFPGLEEL_00721	CDS	927	psaA		COG0803	Manganese ABC transporter substrate-binding lipoprotein
+AFPGLEEL_00722	gene	840	mntB			
+AFPGLEEL_00722	CDS	840	mntB			Manganese transport system membrane protein MntB
+AFPGLEEL_00723	gene	729	scaC			
+AFPGLEEL_00723	CDS	729	scaC	7.2.2.5	COG1121	Manganese import ATP-binding protein ScaC
+AFPGLEEL_00724	gene	474				
+AFPGLEEL_00724	CDS	474				hypothetical protein
+AFPGLEEL_00725	gene	396				
+AFPGLEEL_00725	CDS	396				hypothetical protein
+AFPGLEEL_00726	gene	2823	ppc			
+AFPGLEEL_00726	CDS	2823	ppc	4.1.1.31	COG2352	Phosphoenolpyruvate carboxylase
+AFPGLEEL_00727	gene	1035	yqeN			
+AFPGLEEL_00727	CDS	1035	yqeN		COG1466	putative protein YqeN
+AFPGLEEL_00728	gene	606	sodA			
+AFPGLEEL_00728	CDS	606	sodA	1.15.1.1	COG0605	Superoxide dismutase [Mn]
+AFPGLEEL_00729	gene	1398				
+AFPGLEEL_00729	CDS	1398				hypothetical protein
+AFPGLEEL_00730	gene	657	pppA			
+AFPGLEEL_00730	CDS	657	pppA		COG1989	Prepilin peptidase PppA
+AFPGLEEL_00731	gene	522	dps			
+AFPGLEEL_00731	CDS	522	dps	1.16.-.-	COG0783	DNA protection during starvation protein
+AFPGLEEL_00732	gene	438	perR			
+AFPGLEEL_00732	CDS	438	perR		COG0735	Peroxide-responsive repressor PerR
+AFPGLEEL_00733	gene	207	yqgQ			
+AFPGLEEL_00733	CDS	207	yqgQ		COG4483	putative protein YqgQ
+AFPGLEEL_00734	gene	969	glcK			
+AFPGLEEL_00734	CDS	969	glcK	2.7.1.2	COG1940	Glucokinase
+AFPGLEEL_00735	gene	1896	typA			
+AFPGLEEL_00735	CDS	1896	typA		COG1217	GTP-binding protein TypA/BipA
+AFPGLEEL_00736	gene	270				
+AFPGLEEL_00736	CDS	270				hypothetical protein
+AFPGLEEL_00737	gene	1353	murD			
+AFPGLEEL_00737	CDS	1353	murD	6.3.2.9	COG0771	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+AFPGLEEL_00738	gene	1071	murG			
+AFPGLEEL_00738	CDS	1071	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+AFPGLEEL_00739	gene	1143	divIB			
+AFPGLEEL_00739	CDS	1143	divIB			Cell division protein DivIB
+AFPGLEEL_00740	gene	1377	ftsA			
+AFPGLEEL_00740	CDS	1377	ftsA		COG0849	Cell division protein FtsA
+AFPGLEEL_00741	gene	1323	ftsZ			
+AFPGLEEL_00741	CDS	1323	ftsZ			Cell division protein FtsZ
+AFPGLEEL_00742	gene	684				
+AFPGLEEL_00742	CDS	684			COG0325	Pyridoxal phosphate homeostasis protein
+AFPGLEEL_00743	gene	585	sepF			
+AFPGLEEL_00743	CDS	585	sepF		COG1799	Cell division protein SepF
+AFPGLEEL_00744	gene	258				
+AFPGLEEL_00744	CDS	258				hypothetical protein
+AFPGLEEL_00745	gene	804				
+AFPGLEEL_00745	CDS	804				hypothetical protein
+AFPGLEEL_00746	gene	876	divIVA			
+AFPGLEEL_00746	CDS	876	divIVA		COG3599	Cell division protein DivIVA
+AFPGLEEL_00747	gene	2799	ileS			
+AFPGLEEL_00747	CDS	2799	ileS	6.1.1.5		Isoleucine--tRNA ligase
+AFPGLEEL_00748	gene	960	nrdF2			
+AFPGLEEL_00748	CDS	960	nrdF2	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta nrdF2
+AFPGLEEL_00749	gene	2160	nrdE2			
+AFPGLEEL_00749	CDS	2160	nrdE2	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha 2
+AFPGLEEL_00750	gene	225	nrdH			
+AFPGLEEL_00750	CDS	225	nrdH		COG0695	Glutaredoxin-like protein NrdH
+AFPGLEEL_00751	gene	2664	citB			
+AFPGLEEL_00751	CDS	2664	citB	4.2.1.-	COG1048	Aconitate/2-methylaconitate hydratase
+AFPGLEEL_00752	gene	1125	citZ			
+AFPGLEEL_00752	CDS	1125	citZ	2.3.3.16	COG0372	Citrate synthase 2
+AFPGLEEL_00753	gene	1176	icd			
+AFPGLEEL_00753	CDS	1176	icd	1.1.1.42	COG0538	Isocitrate dehydrogenase [NADP]
+AFPGLEEL_00754	gene	264	ptsH			
+AFPGLEEL_00754	CDS	264	ptsH		COG1925	Phosphocarrier protein HPr
+AFPGLEEL_00755	gene	1734	ptsI			
+AFPGLEEL_00755	CDS	1734	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+AFPGLEEL_00756	gene	1257				
+AFPGLEEL_00756	CDS	1257				ISL3 family transposase IS1193
+AFPGLEEL_00757	gene	1434	gapN			
+AFPGLEEL_00757	CDS	1434	gapN	1.2.1.9	COG1012	NADP-dependent glyceraldehyde-3-phosphate dehydrogenase
+AFPGLEEL_00758	gene	828	ybbA_2			
+AFPGLEEL_00758	CDS	828	ybbA_2		COG2819	putative protein YbbA
+AFPGLEEL_00759	gene	741				
+AFPGLEEL_00759	CDS	741				hypothetical protein
+AFPGLEEL_00760	gene	1164				
+AFPGLEEL_00760	CDS	1164				hypothetical protein
+AFPGLEEL_00761	gene	1083	yfmL			
+AFPGLEEL_00761	CDS	1083	yfmL	3.6.4.13	COG0513	putative ATP-dependent RNA helicase YfmL
+AFPGLEEL_00762	gene	636	udk			
+AFPGLEEL_00762	CDS	636	udk	2.7.1.48	COG0572	Uridine kinase
+AFPGLEEL_00763	gene	1920	yheS_1			
+AFPGLEEL_00763	CDS	1920	yheS_1		COG0488	putative ABC transporter ATP-binding protein YheS
+AFPGLEEL_00764	gene	261				
+AFPGLEEL_00764	CDS	261				hypothetical protein
+AFPGLEEL_00765	gene	720	rutD			
+AFPGLEEL_00765	CDS	720	rutD	3.5.1.-		Putative aminoacrylate hydrolase RutD
+AFPGLEEL_00766	gene	2556	mprF			
+AFPGLEEL_00766	CDS	2556	mprF	2.3.2.3		Phosphatidylglycerol lysyltransferase
+AFPGLEEL_00767	gene	789	gatD			
+AFPGLEEL_00767	CDS	789	gatD	6.3.5.13	COG3442	Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit GatD
+AFPGLEEL_00768	gene	1344	murT			
+AFPGLEEL_00768	CDS	1344	murT	6.3.5.13	COG0769	Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT
+AFPGLEEL_00769	gene	852	cdaA			
+AFPGLEEL_00769	CDS	852	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+AFPGLEEL_00770	gene	966	cdaR			
+AFPGLEEL_00770	CDS	966	cdaR		COG4856	CdaA regulatory protein CdaR
+AFPGLEEL_00771	gene	1353	glmM			
+AFPGLEEL_00771	CDS	1353	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+AFPGLEEL_00772	gene	441				
+AFPGLEEL_00772	CDS	441				hypothetical protein
+AFPGLEEL_00773	gene	687	trmK			
+AFPGLEEL_00773	CDS	687	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+AFPGLEEL_00774	gene	789				
+AFPGLEEL_00774	CDS	789			COG0327	GTP cyclohydrolase 1 type 2 
+AFPGLEEL_00775	gene	828	zupT			
+AFPGLEEL_00775	CDS	828	zupT		COG0428	Zinc transporter ZupT
+AFPGLEEL_00776	gene	1089	thiO			
+AFPGLEEL_00776	CDS	1089	thiO	1.4.3.19		Glycine oxidase
+AFPGLEEL_00777	gene	1347				
+AFPGLEEL_00777	CDS	1347				hypothetical protein
+AFPGLEEL_00778	gene	870	rfbA			
+AFPGLEEL_00778	CDS	870	rfbA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase 1
+AFPGLEEL_00779	gene	594	rfbC			
+AFPGLEEL_00779	CDS	594	rfbC	5.1.3.-		Protein RmlC 
+AFPGLEEL_00780	gene	1047	rmlB			
+AFPGLEEL_00780	CDS	1047	rmlB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+AFPGLEEL_00781	gene	1089				
+AFPGLEEL_00781	CDS	1089				hypothetical protein
+AFPGLEEL_00782	gene	735				
+AFPGLEEL_00782	CDS	735				hypothetical protein
+AFPGLEEL_00783	gene	1137	hemW			
+AFPGLEEL_00783	CDS	1137	hemW		COG0635	Heme chaperone HemW
+AFPGLEEL_00784	gene	744				
+AFPGLEEL_00784	CDS	744				hypothetical protein
+AFPGLEEL_00785	gene	774	yutF			
+AFPGLEEL_00785	CDS	774	yutF	3.1.3.-	COG0647	Acid sugar phosphatase
+AFPGLEEL_00786	gene	645				
+AFPGLEEL_00786	CDS	645				hypothetical protein
+AFPGLEEL_00787	gene	741				
+AFPGLEEL_00787	CDS	741				hypothetical protein
+AFPGLEEL_00788	gene	924				
+AFPGLEEL_00788	CDS	924				hypothetical protein
+AFPGLEEL_00789	gene	270				
+AFPGLEEL_00789	CDS	270				hypothetical protein
+AFPGLEEL_00790	gene	1053	hisC_1			
+AFPGLEEL_00790	CDS	1053	hisC_1	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+AFPGLEEL_00791	gene	981	hisZ			
+AFPGLEEL_00791	CDS	981	hisZ		COG3705	ATP phosphoribosyltransferase regulatory subunit
+AFPGLEEL_00792	gene	651	hisG			
+AFPGLEEL_00792	CDS	651	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+AFPGLEEL_00793	gene	1284	hisD			
+AFPGLEEL_00793	CDS	1284	hisD	1.1.1.23	COG0141	Histidinol dehydrogenase
+AFPGLEEL_00794	gene	585	hisB			
+AFPGLEEL_00794	CDS	585	hisB	4.2.1.19		Imidazoleglycerol-phosphate dehydratase
+AFPGLEEL_00795	gene	609	hisH			
+AFPGLEEL_00795	CDS	609	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+AFPGLEEL_00796	gene	720	hisA			
+AFPGLEEL_00796	CDS	720	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+AFPGLEEL_00797	gene	759	hisF			
+AFPGLEEL_00797	CDS	759	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+AFPGLEEL_00798	gene	339	hisI			
+AFPGLEEL_00798	CDS	339	hisI	3.5.4.19		Phosphoribosyl-AMP cyclohydrolase
+AFPGLEEL_00799	gene	315	hisE			
+AFPGLEEL_00799	CDS	315	hisE	3.6.1.31	COG0140	Phosphoribosyl-ATP pyrophosphatase
+AFPGLEEL_00800	gene	795				
+AFPGLEEL_00800	CDS	795				hypothetical protein
+AFPGLEEL_00801	gene	684				
+AFPGLEEL_00801	CDS	684				hypothetical protein
+AFPGLEEL_00802	gene	780				
+AFPGLEEL_00802	CDS	780				hypothetical protein
+AFPGLEEL_00803	gene	1281				
+AFPGLEEL_00803	CDS	1281				hypothetical protein
+AFPGLEEL_00804	gene	1023				
+AFPGLEEL_00804	CDS	1023				hypothetical protein
+AFPGLEEL_00805	gene	4476	gtfC_1			
+AFPGLEEL_00805	CDS	4476	gtfC_1	2.4.1.5		Glucosyltransferase-SI
+AFPGLEEL_00806	gene	4554	gtfC_2			
+AFPGLEEL_00806	CDS	4554	gtfC_2	2.4.1.5		Glucosyltransferase-SI
+AFPGLEEL_00807	gene	993				
+AFPGLEEL_00807	CDS	993				ISL3 family transposase IS1193
+AFPGLEEL_00808	gene	549	tag_2			
+AFPGLEEL_00808	CDS	549	tag_2	3.2.2.20	COG2818	DNA-3-methyladenine glycosylase 1
+AFPGLEEL_00809	gene	264				
+AFPGLEEL_00809	CDS	264				hypothetical protein
+AFPGLEEL_00810	gene	258				
+AFPGLEEL_00810	CDS	258				hypothetical protein
+AFPGLEEL_00811	gene	4800	gtfC_3			
+AFPGLEEL_00811	CDS	4800	gtfC_3	2.4.1.5		Glucosyltransferase-SI
+AFPGLEEL_00812	gene	1428	mrdB			
+AFPGLEEL_00812	CDS	1428	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+AFPGLEEL_00813	gene	1239	hflX			
+AFPGLEEL_00813	CDS	1239	hflX			GTPase HflX
+AFPGLEEL_00814	gene	642				
+AFPGLEEL_00814	CDS	642				hypothetical protein
+AFPGLEEL_00815	gene	930	rnz			
+AFPGLEEL_00815	CDS	930	rnz	3.1.26.11	COG1234	Ribonuclease Z
+AFPGLEEL_00816	gene	768				
+AFPGLEEL_00816	CDS	768		1.-.-.-		putative oxidoreductase
+AFPGLEEL_00817	gene	711	cmoM			
+AFPGLEEL_00817	CDS	711	cmoM	2.1.1.-	COG0500	tRNA 5-carboxymethoxyuridine methyltransferase
+AFPGLEEL_00818	gene	405				
+AFPGLEEL_00818	CDS	405				hypothetical protein
+AFPGLEEL_00819	gene	2226				
+AFPGLEEL_00819	CDS	2226				hypothetical protein
+AFPGLEEL_00820	gene	519	apt			
+AFPGLEEL_00820	CDS	519	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+AFPGLEEL_00821	gene	945	metAA			
+AFPGLEEL_00821	CDS	945	metAA	2.3.1.31	COG1897	Homoserine O-acetyltransferase
+AFPGLEEL_00822	gene	699				
+AFPGLEEL_00822	CDS	699				hypothetical protein
+AFPGLEEL_00823	gene	645	pdg			
+AFPGLEEL_00823	CDS	645	pdg			Ultraviolet N-glycosylase/AP lyase
+AFPGLEEL_00824	gene	762				
+AFPGLEEL_00824	CDS	762				hypothetical protein
+AFPGLEEL_00825	gene	1329	xseA			
+AFPGLEEL_00825	CDS	1329	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+AFPGLEEL_00826	gene	216	xseB			
+AFPGLEEL_00826	CDS	216	xseB	3.1.11.6	COG1722	Exodeoxyribonuclease 7 small subunit
+AFPGLEEL_00827	gene	873				
+AFPGLEEL_00827	CDS	873		2.5.1.10		Farnesyl diphosphate synthase
+AFPGLEEL_00828	gene	828	tlyA			
+AFPGLEEL_00828	CDS	828	tlyA		COG1189	Hemolysin A
+AFPGLEEL_00829	gene	447	argR_2			
+AFPGLEEL_00829	CDS	447	argR_2		COG1438	Arginine repressor
+AFPGLEEL_00830	gene	1671	recN			
+AFPGLEEL_00830	CDS	1671	recN		COG0497	DNA repair protein RecN
+AFPGLEEL_00831	gene	837				
+AFPGLEEL_00831	CDS	837			COG1307	DegV domain-containing protein
+AFPGLEEL_00832	gene	876				
+AFPGLEEL_00832	CDS	876				hypothetical protein
+AFPGLEEL_00833	gene	573				
+AFPGLEEL_00833	CDS	573				hypothetical protein
+AFPGLEEL_00834	gene	276	hup			
+AFPGLEEL_00834	CDS	276	hup		COG0776	DNA-binding protein HU
+AFPGLEEL_00835	gene	201				
+AFPGLEEL_00835	CDS	201				hypothetical protein
+AFPGLEEL_00836	gene	936	pyrDA			
+AFPGLEEL_00836	CDS	936	pyrDA	1.3.98.1	COG0167	putative dihydroorotate dehydrogenase A (fumarate)
+AFPGLEEL_00837	gene	693	gpmA_2			
+AFPGLEEL_00837	CDS	693	gpmA_2	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+AFPGLEEL_00838	gene	1557	leuA			
+AFPGLEEL_00838	CDS	1557	leuA	2.3.3.13		2-isopropylmalate synthase
+AFPGLEEL_00839	gene	1038	leuB			
+AFPGLEEL_00839	CDS	1038	leuB	1.1.1.85	COG0473	3-isopropylmalate dehydrogenase
+AFPGLEEL_00840	gene	282				
+AFPGLEEL_00840	CDS	282				hypothetical protein
+AFPGLEEL_00841	gene	1392	leuC			
+AFPGLEEL_00841	CDS	1392	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+AFPGLEEL_00842	gene	591	leuD			
+AFPGLEEL_00842	CDS	591	leuD	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit
+AFPGLEEL_00843	gene	3111	dnaE2			
+AFPGLEEL_00843	CDS	3111	dnaE2	2.7.7.7		Error-prone DNA polymerase
+AFPGLEEL_00844	gene	1020	pfkA			
+AFPGLEEL_00844	CDS	1020	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+AFPGLEEL_00845	gene	1503	pyk			
+AFPGLEEL_00845	CDS	1503	pyk	2.7.1.40	COG0469	Pyruvate kinase
+AFPGLEEL_00846	gene	12090				
+AFPGLEEL_00846	CDS	12090				hypothetical protein
+AFPGLEEL_00847	gene	222				
+AFPGLEEL_00847	CDS	222				hypothetical protein
+AFPGLEEL_00848	gene	1002				
+AFPGLEEL_00848	CDS	1002				hypothetical protein
+AFPGLEEL_00849	gene	870				
+AFPGLEEL_00849	CDS	870				hypothetical protein
+AFPGLEEL_00850	gene	759	potA_1			
+AFPGLEEL_00850	CDS	759	potA_1	7.6.2.11	COG3842	Spermidine/putrescine import ATP-binding protein PotA
+AFPGLEEL_00851	gene	1662	rnj2			
+AFPGLEEL_00851	CDS	1662	rnj2	3.1.-.-		Ribonuclease J 2
+AFPGLEEL_00852	gene	783				
+AFPGLEEL_00852	CDS	783				hypothetical protein
+AFPGLEEL_00853	gene	720				
+AFPGLEEL_00853	CDS	720				hypothetical protein
+AFPGLEEL_00854	gene	372				
+AFPGLEEL_00854	CDS	372				hypothetical protein
+AFPGLEEL_00855	gene	444				
+AFPGLEEL_00855	CDS	444				Flavodoxin
+AFPGLEEL_00856	gene	1536	clcA			
+AFPGLEEL_00856	CDS	1536	clcA			H(+)/Cl(-) exchange transporter ClcA
+AFPGLEEL_00857	gene	285				
+AFPGLEEL_00857	CDS	285				hypothetical protein
+AFPGLEEL_00858	gene	1227	eriC			
+AFPGLEEL_00858	CDS	1227	eriC		COG0038	Chloride/fluoride channel protein
+AFPGLEEL_00859	gene	348	rplS			
+AFPGLEEL_00859	CDS	348	rplS		COG0335	50S ribosomal protein L19
+AFPGLEEL_00860	gene	72				
+AFPGLEEL_00860	tRNA	72				tRNA-Arg(cct)
+AFPGLEEL_00861	gene	546				
+AFPGLEEL_00861	CDS	546				hypothetical protein
+AFPGLEEL_00862	gene	177				
+AFPGLEEL_00862	CDS	177				hypothetical protein
+AFPGLEEL_00863	gene	912	miaA			
+AFPGLEEL_00863	CDS	912	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+AFPGLEEL_00864	gene	510				
+AFPGLEEL_00864	CDS	510				hypothetical protein
+AFPGLEEL_00865	gene	1653	dnaX			
+AFPGLEEL_00865	CDS	1653	dnaX	2.7.7.7	COG2812	DNA polymerase III subunit gamma/tau
+AFPGLEEL_00866	gene	186				
+AFPGLEEL_00866	CDS	186				hypothetical protein
+AFPGLEEL_00867	gene	939	birA			
+AFPGLEEL_00867	CDS	939	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+AFPGLEEL_00868	gene	1194	metK			
+AFPGLEEL_00868	CDS	1194	metK	2.5.1.6		S-adenosylmethionine synthase
+AFPGLEEL_00869	gene	1773				
+AFPGLEEL_00869	CDS	1773				hypothetical protein
+AFPGLEEL_00870	gene	918				
+AFPGLEEL_00870	CDS	918				hypothetical protein
+AFPGLEEL_00871	gene	1827				
+AFPGLEEL_00871	CDS	1827				hypothetical protein
+AFPGLEEL_00872	gene	1407				
+AFPGLEEL_00872	CDS	1407				hypothetical protein
+AFPGLEEL_00873	gene	1452				
+AFPGLEEL_00873	CDS	1452				hypothetical protein
+AFPGLEEL_00874	gene	1767				
+AFPGLEEL_00874	CDS	1767				hypothetical protein
+AFPGLEEL_00875	gene	729				
+AFPGLEEL_00875	CDS	729				hypothetical protein
+AFPGLEEL_00876	gene	672				
+AFPGLEEL_00876	CDS	672				hypothetical protein
+AFPGLEEL_00877	gene	1422				
+AFPGLEEL_00877	CDS	1422				hypothetical protein
+AFPGLEEL_00878	gene	1014	lnpD			
+AFPGLEEL_00878	CDS	1014	lnpD	5.1.3.2		UDP-glucose 4-epimerase
+AFPGLEEL_00879	gene	309				
+AFPGLEEL_00879	CDS	309				hypothetical protein
+AFPGLEEL_00880	gene	1272	murA1_1			
+AFPGLEEL_00880	CDS	1272	murA1_1	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+AFPGLEEL_00881	gene	189				
+AFPGLEEL_00881	CDS	189				hypothetical protein
+AFPGLEEL_00882	gene	882	endA			
+AFPGLEEL_00882	CDS	882	endA	3.1.30.-		DNA-entry nuclease
+AFPGLEEL_00883	gene	651	glnP_1			
+AFPGLEEL_00883	CDS	651	glnP_1		COG0765	putative glutamine ABC transporter permease protein GlnP
+AFPGLEEL_00884	gene	699	glnM_1			
+AFPGLEEL_00884	CDS	699	glnM_1		COG0765	putative glutamine ABC transporter permease protein GlnM
+AFPGLEEL_00885	gene	834	peb1A			
+AFPGLEEL_00885	CDS	834	peb1A		COG0834	Major cell-binding factor
+AFPGLEEL_00886	gene	768	glnQ_2			
+AFPGLEEL_00886	CDS	768	glnQ_2	3.6.3.-	COG1126	Glutamine transport ATP-binding protein GlnQ
+AFPGLEEL_00887	gene	651	glnP_2			
+AFPGLEEL_00887	CDS	651	glnP_2		COG0765	putative glutamine ABC transporter permease protein GlnP
+AFPGLEEL_00888	gene	699	glnM_2			
+AFPGLEEL_00888	CDS	699	glnM_2		COG0765	putative glutamine ABC transporter permease protein GlnM
+AFPGLEEL_00889	gene	834	mltF_1			
+AFPGLEEL_00889	CDS	834	mltF_1	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+AFPGLEEL_00890	gene	768	glnQ_3			
+AFPGLEEL_00890	CDS	768	glnQ_3	3.6.3.-	COG1126	Glutamine transport ATP-binding protein GlnQ
+AFPGLEEL_00891	gene	708	walR_1			
+AFPGLEEL_00891	CDS	708	walR_1		COG0745	Transcriptional regulatory protein WalR
+AFPGLEEL_00892	gene	1341	walK			
+AFPGLEEL_00892	CDS	1341	walK	2.7.13.3		Sensor histidine kinase WalK
+AFPGLEEL_00893	gene	831	yycJ			
+AFPGLEEL_00893	CDS	831	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+AFPGLEEL_00894	gene	360	ybaN			
+AFPGLEEL_00894	CDS	360	ybaN		COG2832	Inner membrane protein YbaN
+AFPGLEEL_00895	gene	1215	femX			
+AFPGLEEL_00895	CDS	1215	femX	2.3.2.16	COG2348	Lipid II:glycine glycyltransferase
+AFPGLEEL_00896	gene	810				
+AFPGLEEL_00896	CDS	810		3.1.3.-		Putative phosphatase
+AFPGLEEL_00897	gene	867	mshD			
+AFPGLEEL_00897	CDS	867	mshD	2.3.1.189		Mycothiol acetyltransferase
+AFPGLEEL_00898	gene	387				
+AFPGLEEL_00898	CDS	387				hypothetical protein
+AFPGLEEL_00899	gene	2685				
+AFPGLEEL_00899	CDS	2685		7.2.2.10		Calcium-transporting ATPase 1
+AFPGLEEL_00900	gene	747	nfrA			
+AFPGLEEL_00900	CDS	747	nfrA	1.6.-.-	COG0778	NADPH-dependent oxidoreductase
+AFPGLEEL_00901	gene	858	cpdA_1			
+AFPGLEEL_00901	CDS	858	cpdA_1	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+AFPGLEEL_00902	gene	1119	queG			
+AFPGLEEL_00902	CDS	1119	queG	1.17.99.6	COG1600	Epoxyqueuosine reductase
+AFPGLEEL_00903	gene	981	prfB			
+AFPGLEEL_00903	CDS	981	prfB			Peptide chain release factor 2
+AFPGLEEL_00904	gene	693	ftsE			
+AFPGLEEL_00904	CDS	693	ftsE		COG2884	Cell division ATP-binding protein FtsE
+AFPGLEEL_00905	gene	930	ftsX			
+AFPGLEEL_00905	CDS	930	ftsX		COG2177	Cell division protein FtsX
+AFPGLEEL_00906	gene	483	mutX			
+AFPGLEEL_00906	CDS	483	mutX	3.6.1.55	COG0494	8-oxo-dGTP diphosphatase
+AFPGLEEL_00907	gene	1179				
+AFPGLEEL_00907	CDS	1179				hypothetical protein
+AFPGLEEL_00908	gene	1230	lapB			
+AFPGLEEL_00908	CDS	1230	lapB			Lipopolysaccharide assembly protein B
+AFPGLEEL_00909	gene	558	spsB_1			
+AFPGLEEL_00909	CDS	558	spsB_1	3.4.21.89		Signal peptidase IB
+AFPGLEEL_00910	gene	2127				
+AFPGLEEL_00910	CDS	2127				hypothetical protein
+AFPGLEEL_00911	gene	1224	pepT			
+AFPGLEEL_00911	CDS	1224	pepT	3.4.11.4		Peptidase T
+AFPGLEEL_00912	gene	501				
+AFPGLEEL_00912	CDS	501				hypothetical protein
+AFPGLEEL_00913	gene	198				
+AFPGLEEL_00913	CDS	198				hypothetical protein
+AFPGLEEL_00914	gene	651				
+AFPGLEEL_00914	CDS	651				hypothetical protein
+AFPGLEEL_00915	gene	681	cmk			
+AFPGLEEL_00915	CDS	681	cmk	2.7.4.25		Cytidylate kinase
+AFPGLEEL_00916	gene	531	infC			
+AFPGLEEL_00916	CDS	531	infC		COG0290	Translation initiation factor IF-3
+AFPGLEEL_00917	gene	201	rpmI			
+AFPGLEEL_00917	CDS	201	rpmI		COG0291	50S ribosomal protein L35
+AFPGLEEL_00918	gene	360	rplT			
+AFPGLEEL_00918	CDS	360	rplT		COG0292	50S ribosomal protein L20
+AFPGLEEL_00919	gene	474				
+AFPGLEEL_00919	CDS	474				hypothetical protein
+AFPGLEEL_00920	gene	522				
+AFPGLEEL_00920	CDS	522				hypothetical protein
+AFPGLEEL_00921	gene	186	xylH			
+AFPGLEEL_00921	CDS	186	xylH	5.3.2.6		2-hydroxymuconate tautomerase
+AFPGLEEL_00922	gene	1407	pepV			
+AFPGLEEL_00922	CDS	1407	pepV	3.4.13.-		Beta-Ala-Xaa dipeptidase
+AFPGLEEL_00923	gene	585				
+AFPGLEEL_00923	CDS	585				hypothetical protein
+AFPGLEEL_00924	gene	3789				
+AFPGLEEL_00924	CDS	3789				hypothetical protein
+AFPGLEEL_00925	gene	3114				
+AFPGLEEL_00925	CDS	3114				hypothetical protein
+AFPGLEEL_00926	gene	681	rpiA			
+AFPGLEEL_00926	CDS	681	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+AFPGLEEL_00927	gene	1212	deoB			
+AFPGLEEL_00927	CDS	1212	deoB	5.4.2.7	COG1015	Phosphopentomutase
+AFPGLEEL_00928	gene	546				
+AFPGLEEL_00928	CDS	546				hypothetical protein
+AFPGLEEL_00929	gene	810	punA			
+AFPGLEEL_00929	CDS	810	punA	2.4.2.1	COG0005	Purine nucleoside phosphorylase 1
+AFPGLEEL_00930	gene	1248	clcB			
+AFPGLEEL_00930	CDS	1248	clcB			Voltage-gated ClC-type chloride channel ClcB
+AFPGLEEL_00931	gene	714				
+AFPGLEEL_00931	CDS	714				hypothetical protein
+AFPGLEEL_00932	gene	711	deoD_2			
+AFPGLEEL_00932	CDS	711	deoD_2	2.4.2.1	COG0813	Purine nucleoside phosphorylase DeoD-type
+AFPGLEEL_00933	gene	1461	tagU_2			
+AFPGLEEL_00933	CDS	1461	tagU_2	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+AFPGLEEL_00934	gene	732	cpsB			
+AFPGLEEL_00934	CDS	732	cpsB	3.1.3.48	COG4464	Tyrosine-protein phosphatase CpsB
+AFPGLEEL_00935	gene	693				
+AFPGLEEL_00935	CDS	693				hypothetical protein
+AFPGLEEL_00936	gene	741	cpsD			
+AFPGLEEL_00936	CDS	741	cpsD	2.7.10.2		Tyrosine-protein kinase CpsD
+AFPGLEEL_00937	gene	1368				
+AFPGLEEL_00937	CDS	1368				hypothetical protein
+AFPGLEEL_00938	gene	1173				
+AFPGLEEL_00938	CDS	1173				hypothetical protein
+AFPGLEEL_00939	gene	1146	mshA_1			
+AFPGLEEL_00939	CDS	1146	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+AFPGLEEL_00940	gene	639				
+AFPGLEEL_00940	CDS	639				hypothetical protein
+AFPGLEEL_00941	gene	975	arnC_1			
+AFPGLEEL_00941	CDS	975	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+AFPGLEEL_00942	gene	990	cpsY			
+AFPGLEEL_00942	CDS	990	cpsY	2.7.-.-		Exopolysaccharide phosphotransferase CpsY
+AFPGLEEL_00943	gene	1113	epsF_1			
+AFPGLEEL_00943	CDS	1113	epsF_1	2.4.-.-	COG0438	Putative glycosyltransferase EpsF
+AFPGLEEL_00944	gene	930				
+AFPGLEEL_00944	CDS	930				hypothetical protein
+AFPGLEEL_00945	gene	1242				
+AFPGLEEL_00945	CDS	1242				hypothetical protein
+AFPGLEEL_00946	gene	1455	murJ_2			
+AFPGLEEL_00946	CDS	1455	murJ_2			lipid II flippase MurJ
+AFPGLEEL_00947	gene	1107	mshA_2			
+AFPGLEEL_00947	CDS	1107	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+AFPGLEEL_00948	gene	819	ybjI_1			
+AFPGLEEL_00948	CDS	819	ybjI_1	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+AFPGLEEL_00949	gene	603	cobC			
+AFPGLEEL_00949	CDS	603	cobC	3.1.3.73	COG0406	Adenosylcobalamin/alpha-ribazole phosphatase
+AFPGLEEL_00950	gene	609	gpmA_3			
+AFPGLEEL_00950	CDS	609	gpmA_3	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+AFPGLEEL_00951	gene	597	gpmA_4			
+AFPGLEEL_00951	CDS	597	gpmA_4	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+AFPGLEEL_00952	gene	1137				
+AFPGLEEL_00952	CDS	1137				hypothetical protein
+AFPGLEEL_00953	gene	1437	bglH_1			
+AFPGLEEL_00953	CDS	1437	bglH_1	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglH
+AFPGLEEL_00954	gene	279				
+AFPGLEEL_00954	CDS	279				hypothetical protein
+AFPGLEEL_00955	gene	1578	ubiB			
+AFPGLEEL_00955	CDS	1578	ubiB	2.7.-.-		protein kinase UbiB
+AFPGLEEL_00956	gene	621	neuA			
+AFPGLEEL_00956	CDS	621	neuA	2.7.7.43		N-acylneuraminate cytidylyltransferase
+AFPGLEEL_00957	gene	852				
+AFPGLEEL_00957	CDS	852				hypothetical protein
+AFPGLEEL_00958	gene	1380				
+AFPGLEEL_00958	CDS	1380				hypothetical protein
+AFPGLEEL_00959	gene	1347				
+AFPGLEEL_00959	CDS	1347				hypothetical protein
+AFPGLEEL_00960	gene	1197	fieF			
+AFPGLEEL_00960	CDS	1197	fieF			Ferrous-iron efflux pump FieF
+AFPGLEEL_00961	gene	654	ung			
+AFPGLEEL_00961	CDS	654	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+AFPGLEEL_00962	gene	1269	pyrC			
+AFPGLEEL_00962	CDS	1269	pyrC	3.5.2.3	COG0044	Dihydroorotase
+AFPGLEEL_00963	gene	1944				
+AFPGLEEL_00963	CDS	1944				hypothetical protein
+AFPGLEEL_00964	gene	1290				
+AFPGLEEL_00964	CDS	1290				hypothetical protein
+AFPGLEEL_00965	gene	1263				
+AFPGLEEL_00965	CDS	1263				hypothetical protein
+AFPGLEEL_00966	gene	972	acoA			
+AFPGLEEL_00966	CDS	972	acoA	1.1.1.-	COG1071	Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha
+AFPGLEEL_00967	gene	999	bfmBAB			
+AFPGLEEL_00967	CDS	999	bfmBAB	1.2.4.4	COG0022	2-oxoisovalerate dehydrogenase subunit beta
+AFPGLEEL_00968	gene	1143				
+AFPGLEEL_00968	CDS	1143				hypothetical protein
+AFPGLEEL_00969	gene	1512				
+AFPGLEEL_00969	CDS	1512		1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+AFPGLEEL_00970	gene	3552				
+AFPGLEEL_00970	CDS	3552				hypothetical protein
+AFPGLEEL_00971	gene	2931				
+AFPGLEEL_00971	CDS	2931				hypothetical protein
+AFPGLEEL_00972	gene	3816	glgX			
+AFPGLEEL_00972	CDS	3816	glgX	3.2.1.196		Glycogen debranching enzyme
+AFPGLEEL_00973	gene	882	efeM			
+AFPGLEEL_00973	CDS	882	efeM		COG2822	putative iron uptake system component EfeM
+AFPGLEEL_00974	gene	1206	efeN			
+AFPGLEEL_00974	CDS	1206	efeN	1.11.1.-	COG2837	putative deferrochelatase/peroxidase EfeN
+AFPGLEEL_00975	gene	1686				
+AFPGLEEL_00975	CDS	1686				hypothetical protein
+AFPGLEEL_00976	gene	729	tatC1			
+AFPGLEEL_00976	CDS	729	tatC1		COG0805	Sec-independent protein translocase protein TatCd
+AFPGLEEL_00977	gene	189	tatAd			
+AFPGLEEL_00977	CDS	189	tatAd			Sec-independent protein translocase protein TatAd
+AFPGLEEL_00978	gene	1137	msmX			
+AFPGLEEL_00978	CDS	1137	msmX	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+AFPGLEEL_00979	gene	837	dasC			
+AFPGLEEL_00979	CDS	837	dasC		COG0395	Diacetylchitobiose uptake system permease protein DasC
+AFPGLEEL_00980	gene	1359				
+AFPGLEEL_00980	CDS	1359				hypothetical protein
+AFPGLEEL_00981	gene	1248	malX			
+AFPGLEEL_00981	CDS	1248	malX		COG2182	Maltose/maltodextrin-binding protein
+AFPGLEEL_00982	gene	993	malR			
+AFPGLEEL_00982	CDS	993	malR		COG1609	HTH-type transcriptional regulator MalR
+AFPGLEEL_00983	gene	1500	malQ			
+AFPGLEEL_00983	CDS	1500	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+AFPGLEEL_00984	gene	2262	malP			
+AFPGLEEL_00984	CDS	2262	malP	2.4.1.1	COG0058	Maltodextrin phosphorylase
+AFPGLEEL_00985	gene	1257				
+AFPGLEEL_00985	CDS	1257				ISL3 family transposase IS1193
+AFPGLEEL_00986	gene	1128				
+AFPGLEEL_00986	CDS	1128				hypothetical protein
+AFPGLEEL_00987	gene	990	lplJ			
+AFPGLEEL_00987	CDS	990	lplJ	6.3.1.20	COG0095	Lipoate-protein ligase LplJ
+AFPGLEEL_00988	gene	1071	xerS			
+AFPGLEEL_00988	CDS	1071	xerS		COG0582	Tyrosine recombinase XerS
+AFPGLEEL_00989	gene	2541	pepN			
+AFPGLEEL_00989	CDS	2541	pepN	3.4.11.2		Aminopeptidase N
+AFPGLEEL_00990	gene	657	phoU			
+AFPGLEEL_00990	CDS	657	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU 
+AFPGLEEL_00991	gene	759	pstB3_1			
+AFPGLEEL_00991	CDS	759	pstB3_1	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+AFPGLEEL_00992	gene	804	pstB3_2			
+AFPGLEEL_00992	CDS	804	pstB3_2	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+AFPGLEEL_00993	gene	885				
+AFPGLEEL_00993	CDS	885				hypothetical protein
+AFPGLEEL_00994	gene	915				
+AFPGLEEL_00994	CDS	915				hypothetical protein
+AFPGLEEL_00995	gene	876	pstS1			
+AFPGLEEL_00995	CDS	876	pstS1		COG0226	Phosphate-binding protein PstS 1
+AFPGLEEL_00996	gene	1311	rsmF			
+AFPGLEEL_00996	CDS	1311	rsmF	2.1.1.-	COG0144	Ribosomal RNA small subunit methyltransferase F
+AFPGLEEL_00997	gene	768	suhB			
+AFPGLEEL_00997	CDS	768	suhB	3.1.3.11	COG0483	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+AFPGLEEL_00998	gene	282				
+AFPGLEEL_00998	CDS	282				hypothetical protein
+AFPGLEEL_00999	gene	414	spxA_2			
+AFPGLEEL_00999	CDS	414	spxA_2		COG1393	Regulatory protein Spx
+AFPGLEEL_01000	gene	912	ribF			
+AFPGLEEL_01000	CDS	912	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+AFPGLEEL_01001	gene	843	truB			
+AFPGLEEL_01001	CDS	843	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+AFPGLEEL_01002	gene	1353				
+AFPGLEEL_01002	CDS	1353				hypothetical protein
+AFPGLEEL_01003	gene	234				
+AFPGLEEL_01003	CDS	234				hypothetical protein
+AFPGLEEL_01004	gene	621				
+AFPGLEEL_01004	CDS	621				hypothetical protein
+AFPGLEEL_01005	gene	495	tpx			
+AFPGLEEL_01005	CDS	495	tpx	1.11.1.15	COG2077	Thiol peroxidase
+AFPGLEEL_01006	gene	756				
+AFPGLEEL_01006	CDS	756				hypothetical protein
+AFPGLEEL_01007	gene	1281				
+AFPGLEEL_01007	CDS	1281		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+AFPGLEEL_01008	gene	2310	pcrA			
+AFPGLEEL_01008	CDS	2310	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+AFPGLEEL_01009	gene	1344	alsT			
+AFPGLEEL_01009	CDS	1344	alsT		COG1115	Amino-acid carrier protein AlsT
+AFPGLEEL_01010	gene	1371	mnmE			
+AFPGLEEL_01010	CDS	1371	mnmE	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+AFPGLEEL_01011	gene	969	rhaS			
+AFPGLEEL_01011	CDS	969	rhaS			HTH-type transcriptional activator RhaS
+AFPGLEEL_01012	gene	2247				
+AFPGLEEL_01012	CDS	2247				hypothetical protein
+AFPGLEEL_01013	gene	654	yecS_2			
+AFPGLEEL_01013	CDS	654	yecS_2		COG0765	L-cystine transport system permease protein YecS
+AFPGLEEL_01014	gene	849	yckB			
+AFPGLEEL_01014	CDS	849	yckB		COG0834	putative ABC transporter extracellular-binding protein YckB
+AFPGLEEL_01015	gene	1452	nylA			
+AFPGLEEL_01015	CDS	1452	nylA	3.5.2.12		6-aminohexanoate-cyclic-dimer hydrolase
+AFPGLEEL_01016	gene	630	pyrE			
+AFPGLEEL_01016	CDS	630	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+AFPGLEEL_01017	gene	696	pyrF			
+AFPGLEEL_01017	CDS	696	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+AFPGLEEL_01018	gene	1170				
+AFPGLEEL_01018	CDS	1170				hypothetical protein
+AFPGLEEL_01019	gene	771				
+AFPGLEEL_01019	CDS	771				hypothetical protein
+AFPGLEEL_01020	gene	957	pyrDB			
+AFPGLEEL_01020	CDS	957	pyrDB	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+AFPGLEEL_01021	gene	804	pyrK			
+AFPGLEEL_01021	CDS	804	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+AFPGLEEL_01022	gene	549	yajL			
+AFPGLEEL_01022	CDS	549	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+AFPGLEEL_01023	gene	801				
+AFPGLEEL_01023	CDS	801				hypothetical protein
+AFPGLEEL_01024	gene	1659	rqcH			
+AFPGLEEL_01024	CDS	1659	rqcH		COG1293	Rqc2 RqcH
+AFPGLEEL_01025	gene	1545				
+AFPGLEEL_01025	CDS	1545				hypothetical protein
+AFPGLEEL_01026	gene	1341	mepA			
+AFPGLEEL_01026	CDS	1341	mepA			Multidrug export protein MepA
+AFPGLEEL_01027	gene	969	yfmC			
+AFPGLEEL_01027	CDS	969	yfmC		COG4594	Fe(3+)-citrate-binding protein YfmC
+AFPGLEEL_01028	gene	888				
+AFPGLEEL_01028	CDS	888				hypothetical protein
+AFPGLEEL_01029	gene	432				
+AFPGLEEL_01029	CDS	432				hypothetical protein
+AFPGLEEL_01030	gene	2715				
+AFPGLEEL_01030	CDS	2715				hypothetical protein
+AFPGLEEL_01031	gene	636				
+AFPGLEEL_01031	CDS	636			COG0546	putative protein
+AFPGLEEL_01032	gene	765	deoD_3			
+AFPGLEEL_01032	CDS	765	deoD_3	2.4.2.1		Purine nucleoside phosphorylase DeoD-type
+AFPGLEEL_01033	gene	624	betI			
+AFPGLEEL_01033	CDS	624	betI			HTH-type transcriptional regulator BetI
+AFPGLEEL_01034	gene	1083	ybhR			
+AFPGLEEL_01034	CDS	1083	ybhR		COG0842	putative multidrug ABC transporter permease YbhR
+AFPGLEEL_01035	gene	717	ybhF_1			
+AFPGLEEL_01035	CDS	717	ybhF_1		COG1131	putative multidrug ABC transporter ATP-binding protein YbhF
+AFPGLEEL_01036	gene	1038	adh			
+AFPGLEEL_01036	CDS	1038	adh	1.1.1.1	COG1063	Alcohol dehydrogenase
+AFPGLEEL_01037	gene	1095	hemH			
+AFPGLEEL_01037	CDS	1095	hemH	4.99.1.1		Ferrochelatase
+AFPGLEEL_01038	gene	903	czcD			
+AFPGLEEL_01038	CDS	903	czcD		COG1230	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+AFPGLEEL_01039	gene	576				
+AFPGLEEL_01039	CDS	576				hypothetical protein
+AFPGLEEL_01040	gene	471				
+AFPGLEEL_01040	CDS	471				hypothetical protein
+AFPGLEEL_01041	gene	333				
+AFPGLEEL_01041	CDS	333				hypothetical protein
+AFPGLEEL_01042	gene	177				
+AFPGLEEL_01042	CDS	177				hypothetical protein
+AFPGLEEL_01043	gene	597				
+AFPGLEEL_01043	CDS	597				ISL3 family transposase ISSg1
+AFPGLEEL_01044	gene	2088				
+AFPGLEEL_01044	CDS	2088				hypothetical protein
+AFPGLEEL_01045	gene	699	saeR			
+AFPGLEEL_01045	CDS	699	saeR		COG0745	Response regulator SaeR
+AFPGLEEL_01046	gene	1035	saeS			
+AFPGLEEL_01046	CDS	1035	saeS	2.7.13.3	COG0642	Histidine protein kinase SaeS
+AFPGLEEL_01047	gene	402				
+AFPGLEEL_01047	CDS	402				hypothetical protein
+AFPGLEEL_01048	gene	801	ecfA2_1			
+AFPGLEEL_01048	CDS	801	ecfA2_1	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+AFPGLEEL_01049	gene	837	ecfA1_1			
+AFPGLEEL_01049	CDS	837	ecfA1_1	7.-.-.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA1
+AFPGLEEL_01050	gene	795	ecfT_1			
+AFPGLEEL_01050	CDS	795	ecfT_1		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+AFPGLEEL_01051	gene	603				
+AFPGLEEL_01051	CDS	603				hypothetical protein
+AFPGLEEL_01052	gene	795	yddE			
+AFPGLEEL_01052	CDS	795	yddE	5.1.-.-	COG0384	putative isomerase YddE
+AFPGLEEL_01053	gene	546				
+AFPGLEEL_01053	CDS	546				hypothetical protein
+AFPGLEEL_01054	gene	702				
+AFPGLEEL_01054	CDS	702			COG1136	putative ABC transporter ATP-binding protein
+AFPGLEEL_01055	gene	2664				
+AFPGLEEL_01055	CDS	2664				hypothetical protein
+AFPGLEEL_01056	gene	228				
+AFPGLEEL_01056	CDS	228				hypothetical protein
+AFPGLEEL_01057	gene	243				
+AFPGLEEL_01057	CDS	243				IS3 family transposase ISSth6
+AFPGLEEL_01058	gene	624	nth			
+AFPGLEEL_01058	CDS	624	nth	4.2.99.18		Endonuclease III
+AFPGLEEL_01059	gene	1521				
+AFPGLEEL_01059	CDS	1521				hypothetical protein
+AFPGLEEL_01060	gene	729	opuCA			
+AFPGLEEL_01060	CDS	729	opuCA	7.6.2.9	COG1125	Carnitine transport ATP-binding protein OpuCA
+AFPGLEEL_01061	gene	855	qorB			
+AFPGLEEL_01061	CDS	855	qorB	1.6.5.2	COG0702	Quinone oxidoreductase 2
+AFPGLEEL_01062	gene	450				
+AFPGLEEL_01062	CDS	450				hypothetical protein
+AFPGLEEL_01063	gene	765				
+AFPGLEEL_01063	CDS	765		3.2.1.-		Protein-ADP-ribose hydrolase
+AFPGLEEL_01064	gene	834				
+AFPGLEEL_01064	CDS	834		2.4.2.-		Protein ADP-ribosyltransferase
+AFPGLEEL_01065	gene	336				
+AFPGLEEL_01065	CDS	336				hypothetical protein
+AFPGLEEL_01066	gene	720	aldC			
+AFPGLEEL_01066	CDS	720	aldC	4.1.1.5	COG3527	Alpha-acetolactate decarboxylase
+AFPGLEEL_01067	gene	1677	alsS			
+AFPGLEEL_01067	CDS	1677	alsS	2.2.1.6	COG0028	Acetolactate synthase
+AFPGLEEL_01068	gene	342				
+AFPGLEEL_01068	CDS	342				hypothetical protein
+AFPGLEEL_01069	gene	1086				
+AFPGLEEL_01069	CDS	1086				hypothetical protein
+AFPGLEEL_01070	gene	156				
+AFPGLEEL_01070	CDS	156				hypothetical protein
+AFPGLEEL_01071	gene	1833	lepA			
+AFPGLEEL_01071	CDS	1833	lepA	3.6.5.-	COG0481	Elongation factor 4
+AFPGLEEL_01072	gene	165				
+AFPGLEEL_01072	CDS	165				hypothetical protein
+AFPGLEEL_01073	gene	765	butA			
+AFPGLEEL_01073	CDS	765	butA	1.1.1.304		Diacetyl reductase [(S)-acetoin forming]
+AFPGLEEL_01074	gene	354				
+AFPGLEEL_01074	CDS	354				hypothetical protein
+AFPGLEEL_01075	gene	414	ndk			
+AFPGLEEL_01075	CDS	414	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+AFPGLEEL_01076	gene	1146				
+AFPGLEEL_01076	CDS	1146				hypothetical protein
+AFPGLEEL_01077	gene	1344	trmFO			
+AFPGLEEL_01077	CDS	1344	trmFO	2.1.1.74	COG1206	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+AFPGLEEL_01078	gene	1377	rcsC_2			
+AFPGLEEL_01078	CDS	1377	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+AFPGLEEL_01079	gene	660	arlR_2			
+AFPGLEEL_01079	CDS	660	arlR_2		COG0745	Response regulator ArlR
+AFPGLEEL_01080	gene	825				
+AFPGLEEL_01080	CDS	825				hypothetical protein
+AFPGLEEL_01081	gene	2145	topA			
+AFPGLEEL_01081	CDS	2145	topA	5.6.2.1		DNA topoisomerase 1
+AFPGLEEL_01082	gene	840	dprA			
+AFPGLEEL_01082	CDS	840	dprA		COG0758	DNA processing protein DprA
+AFPGLEEL_01083	gene	921	bglK_1			
+AFPGLEEL_01083	CDS	921	bglK_1	2.7.1.85	COG1940	Beta-glucoside kinase
+AFPGLEEL_01084	gene	771	rnhB			
+AFPGLEEL_01084	CDS	771	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+AFPGLEEL_01085	gene	855	rbgA			
+AFPGLEEL_01085	CDS	855	rbgA		COG1161	Ribosome biogenesis GTPase A
+AFPGLEEL_01086	gene	690				
+AFPGLEEL_01086	CDS	690				hypothetical protein
+AFPGLEEL_01087	gene	516	niaR			
+AFPGLEEL_01087	CDS	516	niaR		COG1827	putative transcription repressor NiaR
+AFPGLEEL_01088	gene	528	niaX			
+AFPGLEEL_01088	CDS	528	niaX			Niacin transporter NiaX
+AFPGLEEL_01089	gene	1563	ffh			
+AFPGLEEL_01089	CDS	1563	ffh		COG0541	Signal recognition particle protein
+AFPGLEEL_01090	gene	333				
+AFPGLEEL_01090	CDS	333				hypothetical protein
+AFPGLEEL_01091	gene	699	nagR			
+AFPGLEEL_01091	CDS	699	nagR		COG2188	HTH-type transcriptional repressor NagR
+AFPGLEEL_01092	gene	1563	guaA			
+AFPGLEEL_01092	CDS	1563	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+AFPGLEEL_01093	gene	1176				
+AFPGLEEL_01093	CDS	1176				hypothetical protein
+AFPGLEEL_01094	gene	168				
+AFPGLEEL_01094	CDS	168				hypothetical protein
+AFPGLEEL_01095	gene	321				
+AFPGLEEL_01095	CDS	321				hypothetical protein
+AFPGLEEL_01096	gene	453				
+AFPGLEEL_01096	CDS	453				hypothetical protein
+AFPGLEEL_01097	gene	246				
+AFPGLEEL_01097	CDS	246				hypothetical protein
+AFPGLEEL_01098	gene	522				
+AFPGLEEL_01098	CDS	522				hypothetical protein
+AFPGLEEL_01099	gene	1755				
+AFPGLEEL_01099	CDS	1755				hypothetical protein
+AFPGLEEL_01100	gene	435				
+AFPGLEEL_01100	CDS	435				hypothetical protein
+AFPGLEEL_01101	gene	381				
+AFPGLEEL_01101	CDS	381				hypothetical protein
+AFPGLEEL_01102	gene	1077				
+AFPGLEEL_01102	CDS	1077				hypothetical protein
+AFPGLEEL_01103	gene	618				
+AFPGLEEL_01103	CDS	618				hypothetical protein
+AFPGLEEL_01104	gene	588	repB			
+AFPGLEEL_01104	CDS	588	repB			Replication protein RepB
+AFPGLEEL_01105	gene	192				
+AFPGLEEL_01105	CDS	192				hypothetical protein
+AFPGLEEL_01106	gene	1209	xerC_1			
+AFPGLEEL_01106	CDS	1209	xerC_1			Tyrosine recombinase XerC
+AFPGLEEL_01107	gene	585				
+AFPGLEEL_01107	CDS	585				hypothetical protein
+AFPGLEEL_01108	gene	1020	adhA			
+AFPGLEEL_01108	CDS	1020	adhA	1.1.1.1		Alcohol dehydrogenase 1
+AFPGLEEL_01109	gene	282				
+AFPGLEEL_01109	CDS	282				hypothetical protein
+AFPGLEEL_01110	gene	378				
+AFPGLEEL_01110	CDS	378				hypothetical protein
+AFPGLEEL_01111	gene	1416	dinB_1			
+AFPGLEEL_01111	CDS	1416	dinB_1	2.7.7.7		DNA polymerase IV
+AFPGLEEL_01112	gene	852	artP_1			
+AFPGLEEL_01112	CDS	852	artP_1		COG0834	Arginine-binding extracellular protein ArtP
+AFPGLEEL_01113	gene	630	glnQ_4			
+AFPGLEEL_01113	CDS	630	glnQ_4		COG1126	Glutamine transport ATP-binding protein GlnQ
+AFPGLEEL_01114	gene	642	yecS_3			
+AFPGLEEL_01114	CDS	642	yecS_3		COG0765	L-cystine transport system permease protein YecS
+AFPGLEEL_01115	gene	333				
+AFPGLEEL_01115	CDS	333				hypothetical protein
+AFPGLEEL_01116	gene	1809	glmS			
+AFPGLEEL_01116	CDS	1809	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+AFPGLEEL_01117	gene	909	hdfR_2			
+AFPGLEEL_01117	CDS	909	hdfR_2			HTH-type transcriptional regulator HdfR
+AFPGLEEL_01118	gene	714				
+AFPGLEEL_01118	CDS	714				hypothetical protein
+AFPGLEEL_01119	gene	1008				
+AFPGLEEL_01119	CDS	1008				hypothetical protein
+AFPGLEEL_01120	gene	312				
+AFPGLEEL_01120	CDS	312				hypothetical protein
+AFPGLEEL_01121	gene	399				
+AFPGLEEL_01121	CDS	399				hypothetical protein
+AFPGLEEL_01122	gene	1545				
+AFPGLEEL_01122	CDS	1545				hypothetical protein
+AFPGLEEL_01123	gene	822				
+AFPGLEEL_01123	CDS	822				hypothetical protein
+AFPGLEEL_01124	gene	1398	pepD			
+AFPGLEEL_01124	CDS	1398	pepD	3.4.-.-	COG4690	Dipeptidase
+AFPGLEEL_01125	gene	912	whiA			
+AFPGLEEL_01125	CDS	912	whiA		COG1481	putative cell division protein WhiA
+AFPGLEEL_01126	gene	975				
+AFPGLEEL_01126	CDS	975			COG0391	Putative gluconeogenesis factor
+AFPGLEEL_01127	gene	891	yvcJ			
+AFPGLEEL_01127	CDS	891	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+AFPGLEEL_01128	gene	771				
+AFPGLEEL_01128	CDS	771				hypothetical protein
+AFPGLEEL_01129	gene	1953				
+AFPGLEEL_01129	CDS	1953				hypothetical protein
+AFPGLEEL_01130	gene	492	queF			
+AFPGLEEL_01130	CDS	492	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase
+AFPGLEEL_01131	gene	717	queE			
+AFPGLEEL_01131	CDS	717	queE	4.3.99.3	COG0602	7-carboxy-7-deazaguanine synthase
+AFPGLEEL_01132	gene	444	queD			
+AFPGLEEL_01132	CDS	444	queD	4.1.2.50	COG0720	6-carboxy-5,6,7,8-tetrahydropterin synthase
+AFPGLEEL_01133	gene	654	queC			
+AFPGLEEL_01133	CDS	654	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+AFPGLEEL_01134	gene	381	yabJ			
+AFPGLEEL_01134	CDS	381	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+AFPGLEEL_01135	gene	408				
+AFPGLEEL_01135	CDS	408				hypothetical protein
+AFPGLEEL_01136	gene	1347	asnS			
+AFPGLEEL_01136	CDS	1347	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+AFPGLEEL_01137	gene	1182	aspB			
+AFPGLEEL_01137	CDS	1182	aspB	2.6.1.14	COG0436	Asparagine--oxo-acid transaminase
+AFPGLEEL_01138	gene	483				
+AFPGLEEL_01138	CDS	483				hypothetical protein
+AFPGLEEL_01139	gene	2487	dinG			
+AFPGLEEL_01139	CDS	2487	dinG	3.1.-.-		3'-5' exonuclease DinG
+AFPGLEEL_01140	gene	636				
+AFPGLEEL_01140	CDS	636		3.-.-.-		putative metallo-hydrolase
+AFPGLEEL_01141	gene	957				
+AFPGLEEL_01141	CDS	957				hypothetical protein
+AFPGLEEL_01142	gene	1068				
+AFPGLEEL_01142	CDS	1068				hypothetical protein
+AFPGLEEL_01143	gene	1539	mglA			
+AFPGLEEL_01143	CDS	1539	mglA	7.5.2.11	COG1129	Galactose/methyl galactoside import ATP-binding protein MglA
+AFPGLEEL_01144	gene	1071	tmpC			
+AFPGLEEL_01144	CDS	1071	tmpC		COG1744	Membrane lipoprotein TmpC
+AFPGLEEL_01145	gene	399	cdd			
+AFPGLEEL_01145	CDS	399	cdd	3.5.4.5	COG0295	Cytidine deaminase
+AFPGLEEL_01146	gene	663	deoC			
+AFPGLEEL_01146	CDS	663	deoC	4.1.2.4	COG0274	Deoxyribose-phosphate aldolase
+AFPGLEEL_01147	gene	1278	pdp			
+AFPGLEEL_01147	CDS	1278	pdp	2.4.2.2		Pyrimidine-nucleoside phosphorylase
+AFPGLEEL_01148	gene	591	rsmC			
+AFPGLEEL_01148	CDS	591	rsmC	2.1.1.172	COG2813	Ribosomal RNA small subunit methyltransferase C
+AFPGLEEL_01149	gene	930	coaA			
+AFPGLEEL_01149	CDS	930	coaA	2.7.1.33	COG1072	Pantothenate kinase
+AFPGLEEL_01150	gene	237	rpsT			
+AFPGLEEL_01150	CDS	237	rpsT		COG0268	30S ribosomal protein S20
+AFPGLEEL_01151	gene	1314	sasA_2			
+AFPGLEEL_01151	CDS	1314	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+AFPGLEEL_01152	gene	675	arlR_3			
+AFPGLEEL_01152	CDS	675	arlR_3		COG0745	Response regulator ArlR
+AFPGLEEL_01153	gene	1671	fhs1			
+AFPGLEEL_01153	CDS	1671	fhs1	6.3.4.3		Formate--tetrahydrofolate ligase 1
+AFPGLEEL_01154	gene	684	coaBC_1			
+AFPGLEEL_01154	CDS	684	coaBC_1		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+AFPGLEEL_01155	gene	546	coaBC_2			
+AFPGLEEL_01155	CDS	546	coaBC_2		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+AFPGLEEL_01156	gene	573	panT_1			
+AFPGLEEL_01156	CDS	573	panT_1		COG4684	Pantothenic acid transporter PanT
+AFPGLEEL_01157	gene	561	panT_2			
+AFPGLEEL_01157	CDS	561	panT_2		COG4684	Pantothenic acid transporter PanT
+AFPGLEEL_01158	gene	1719	pgcA			
+AFPGLEEL_01158	CDS	1719	pgcA	5.4.2.2		Phosphoglucomutase
+AFPGLEEL_01159	gene	876	metF			
+AFPGLEEL_01159	CDS	876	metF	1.5.1.20	COG0685	5,10-methylenetetrahydrofolate reductase
+AFPGLEEL_01160	gene	2250	metE			
+AFPGLEEL_01160	CDS	2250	metE	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+AFPGLEEL_01161	gene	351				
+AFPGLEEL_01161	CDS	351				hypothetical protein
+AFPGLEEL_01162	gene	1731	menF			
+AFPGLEEL_01162	CDS	1731	menF	5.4.4.2		Isochorismate synthase MenF
+AFPGLEEL_01163	gene	2637				
+AFPGLEEL_01163	CDS	2637		7.2.2.10	COG0474	Calcium-transporting ATPase
+AFPGLEEL_01164	gene	1269	dltD			
+AFPGLEEL_01164	CDS	1269	dltD		COG3966	Protein DltD
+AFPGLEEL_01165	gene	240	dltC			
+AFPGLEEL_01165	CDS	240	dltC			D-alanyl carrier protein
+AFPGLEEL_01166	gene	1248				
+AFPGLEEL_01166	CDS	1248				hypothetical protein
+AFPGLEEL_01167	gene	1551	dltA			
+AFPGLEEL_01167	CDS	1551	dltA	6.2.1.54		D-alanine--D-alanyl carrier protein ligase
+AFPGLEEL_01168	gene	132				
+AFPGLEEL_01168	CDS	132				hypothetical protein
+AFPGLEEL_01169	gene	1749				
+AFPGLEEL_01169	CDS	1749			COG1132	putative ABC transporter ATP-binding protein
+AFPGLEEL_01170	gene	1740				
+AFPGLEEL_01170	CDS	1740			COG1132	putative ABC transporter ATP-binding protein
+AFPGLEEL_01171	gene	612				
+AFPGLEEL_01171	CDS	612				hypothetical protein
+AFPGLEEL_01172	gene	978				
+AFPGLEEL_01172	CDS	978				hypothetical protein
+AFPGLEEL_01173	gene	1251	glyA			
+AFPGLEEL_01173	CDS	1251	glyA	2.1.2.1		Serine hydroxymethyltransferase
+AFPGLEEL_01174	gene	603	ywlC			
+AFPGLEEL_01174	CDS	603	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+AFPGLEEL_01175	gene	834	prmC			
+AFPGLEEL_01175	CDS	834	prmC	2.1.1.297		Release factor glutamine methyltransferase
+AFPGLEEL_01176	gene	1080	prfA			
+AFPGLEEL_01176	CDS	1080	prfA		COG0216	Peptide chain release factor 1
+AFPGLEEL_01177	gene	597	tdk			
+AFPGLEEL_01177	CDS	597	tdk	2.7.1.21	COG1435	Thymidine kinase
+AFPGLEEL_01178	gene	1011	add			
+AFPGLEEL_01178	CDS	1011	add	3.5.4.4	COG1816	Adenosine deaminase
+AFPGLEEL_01179	gene	789	yghU			
+AFPGLEEL_01179	CDS	789	yghU	1.8.4.-	COG0625	Disulfide-bond oxidoreductase YghU
+AFPGLEEL_01180	gene	945	nrnA			
+AFPGLEEL_01180	CDS	945	nrnA	3.1.-.-	COG0618	putative bifunctional oligoribonuclease and PAP phosphatase NrnA
+AFPGLEEL_01181	gene	933	apbE			
+AFPGLEEL_01181	CDS	933	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+AFPGLEEL_01182	gene	267	rpmE2			
+AFPGLEEL_01182	CDS	267	rpmE2		COG0254	50S ribosomal protein L31 type B
+AFPGLEEL_01183	gene	1263				
+AFPGLEEL_01183	CDS	1263				hypothetical protein
+AFPGLEEL_01184	gene	969	ypuA			
+AFPGLEEL_01184	CDS	969	ypuA		COG4086	putative protein YpuA
+AFPGLEEL_01185	gene	402				
+AFPGLEEL_01185	CDS	402				hypothetical protein
+AFPGLEEL_01186	gene	762	strA			
+AFPGLEEL_01186	CDS	762	strA	3.4.22.-	COG3764	Sortase A
+AFPGLEEL_01187	gene	2469	gyrA			
+AFPGLEEL_01187	CDS	2469	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+AFPGLEEL_01188	gene	987	ldh			
+AFPGLEEL_01188	CDS	987	ldh	1.1.1.27	COG0039	L-lactate dehydrogenase
+AFPGLEEL_01189	gene	1374				
+AFPGLEEL_01189	CDS	1374		1.6.99.3		putative NADH oxidase
+AFPGLEEL_01190	gene	1539	ybiT_1			
+AFPGLEEL_01190	CDS	1539	ybiT_1		COG0488	putative ABC transporter ATP-binding protein YbiT
+AFPGLEEL_01191	gene	531				
+AFPGLEEL_01191	CDS	531				hypothetical protein
+AFPGLEEL_01192	gene	858	pdxY			
+AFPGLEEL_01192	CDS	858	pdxY	2.7.1.35		Pyridoxal kinase PdxY
+AFPGLEEL_01193	gene	510				
+AFPGLEEL_01193	CDS	510				hypothetical protein
+AFPGLEEL_01194	gene	531				
+AFPGLEEL_01194	CDS	531				hypothetical protein
+AFPGLEEL_01195	gene	1266	hisC_2			
+AFPGLEEL_01195	CDS	1266	hisC_2	2.6.1.9		Histidinol-phosphate aminotransferase
+AFPGLEEL_01196	gene	339	nrdD_1			
+AFPGLEEL_01196	CDS	339	nrdD_1	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+AFPGLEEL_01197	gene	582				
+AFPGLEEL_01197	CDS	582				hypothetical protein
+AFPGLEEL_01198	gene	2409	pheT			
+AFPGLEEL_01198	CDS	2409	pheT	6.1.1.20		Phenylalanine--tRNA ligase beta subunit
+AFPGLEEL_01199	gene	519	paiA			
+AFPGLEEL_01199	CDS	519	paiA	2.3.1.57	COG0454	Spermidine/spermine N(1)-acetyltransferase
+AFPGLEEL_01200	gene	1044	pheS			
+AFPGLEEL_01200	CDS	1044	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+AFPGLEEL_01201	gene	234				
+AFPGLEEL_01201	CDS	234				hypothetical protein
+AFPGLEEL_01202	gene	198				
+AFPGLEEL_01202	CDS	198				hypothetical protein
+AFPGLEEL_01203	gene	546				
+AFPGLEEL_01203	CDS	546				hypothetical protein
+AFPGLEEL_01204	gene	3534	smc_1			
+AFPGLEEL_01204	CDS	3534	smc_1		COG1196	Chromosome partition protein Smc
+AFPGLEEL_01205	gene	690	rnc			
+AFPGLEEL_01205	CDS	690	rnc	3.1.26.3	COG0571	Ribonuclease 3
+AFPGLEEL_01206	gene	1182	dapA			
+AFPGLEEL_01206	CDS	1182	dapA	4.3.3.7		4-hydroxy-tetrahydrodipicolinate synthase
+AFPGLEEL_01207	gene	1077	asd			
+AFPGLEEL_01207	CDS	1077	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+AFPGLEEL_01208	gene	888				
+AFPGLEEL_01208	CDS	888				hypothetical protein
+AFPGLEEL_01209	gene	1575	ywiE			
+AFPGLEEL_01209	CDS	1575	ywiE	2.7.8.-	COG1502	putative cardiolipin synthase YwiE
+AFPGLEEL_01210	gene	513	pat			
+AFPGLEEL_01210	CDS	513	pat	2.3.1.183	COG1247	Phosphinothricin N-acetyltransferase
+AFPGLEEL_01211	gene	1446	clsA			
+AFPGLEEL_01211	CDS	1446	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+AFPGLEEL_01212	gene	1473	opuD			
+AFPGLEEL_01212	CDS	1473	opuD		COG1292	Glycine betaine transporter OpuD
+AFPGLEEL_01213	gene	336				
+AFPGLEEL_01213	CDS	336				ISL3 family transposase IS1193
+AFPGLEEL_01214	gene	1785	uvrC			
+AFPGLEEL_01214	CDS	1785	uvrC		COG0322	UvrABC system protein C
+AFPGLEEL_01215	gene	696	yfnB			
+AFPGLEEL_01215	CDS	696	yfnB	3.-.-.-	COG1011	Putative HAD-hydrolase YfnB
+AFPGLEEL_01216	gene	672	sdhB			
+AFPGLEEL_01216	CDS	672	sdhB	4.3.1.17		L-serine dehydratase, beta chain
+AFPGLEEL_01217	gene	870	sdhA			
+AFPGLEEL_01217	CDS	870	sdhA	4.3.1.17		L-serine dehydratase, alpha chain
+AFPGLEEL_01218	gene	3909	fruA_2			
+AFPGLEEL_01218	CDS	3909	fruA_2	3.2.1.80	COG1621	Fructan beta-fructosidase
+AFPGLEEL_01219	gene	519				
+AFPGLEEL_01219	CDS	519				hypothetical protein
+AFPGLEEL_01220	gene	912				
+AFPGLEEL_01220	CDS	912				hypothetical protein
+AFPGLEEL_01221	gene	513	ywrO			
+AFPGLEEL_01221	CDS	513	ywrO	1.6.99.-	COG2249	General stress protein 14
+AFPGLEEL_01222	gene	6570				
+AFPGLEEL_01222	CDS	6570				hypothetical protein
+AFPGLEEL_01223	gene	462				
+AFPGLEEL_01223	CDS	462				hypothetical protein
+AFPGLEEL_01224	gene	786				
+AFPGLEEL_01224	CDS	786				hypothetical protein
+AFPGLEEL_01225	gene	819				
+AFPGLEEL_01225	CDS	819				hypothetical protein
+AFPGLEEL_01226	gene	993	btuD_2			
+AFPGLEEL_01226	CDS	993	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+AFPGLEEL_01227	gene	567				
+AFPGLEEL_01227	CDS	567				hypothetical protein
+AFPGLEEL_01228	gene	603	desR			
+AFPGLEEL_01228	CDS	603	desR		COG2197	Transcriptional regulatory protein DesR
+AFPGLEEL_01229	gene	1095	desK			
+AFPGLEEL_01229	CDS	1095	desK	2.7.13.3	COG4585	Sensor histidine kinase DesK
+AFPGLEEL_01230	gene	738				
+AFPGLEEL_01230	CDS	738				hypothetical protein
+AFPGLEEL_01231	gene	882	lnrL			
+AFPGLEEL_01231	CDS	882	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+AFPGLEEL_01232	gene	180				
+AFPGLEEL_01232	CDS	180				hypothetical protein
+AFPGLEEL_01233	gene	297				
+AFPGLEEL_01233	CDS	297				hypothetical protein
+AFPGLEEL_01234	gene	945	fabH_2			
+AFPGLEEL_01234	CDS	945	fabH_2	2.3.1.180		3-oxoacyl-[acyl-carrier-protein] synthase 3
+AFPGLEEL_01235	gene	1263				
+AFPGLEEL_01235	CDS	1263				hypothetical protein
+AFPGLEEL_01236	gene	816				
+AFPGLEEL_01236	CDS	816				hypothetical protein
+AFPGLEEL_01237	gene	981	oleD			
+AFPGLEEL_01237	CDS	981	oleD	1.1.1.412	COG0451	2-alkyl-3-oxoalkanoate reductase
+AFPGLEEL_01238	gene	1275	rebG			
+AFPGLEEL_01238	CDS	1275	rebG	4.3.3.5		4'-demethylrebeccamycin synthase
+AFPGLEEL_01239	gene	777				
+AFPGLEEL_01239	CDS	777				hypothetical protein
+AFPGLEEL_01240	gene	1143				
+AFPGLEEL_01240	CDS	1143				hypothetical protein
+AFPGLEEL_01241	gene	657				
+AFPGLEEL_01241	CDS	657				hypothetical protein
+AFPGLEEL_01242	gene	1284				
+AFPGLEEL_01242	CDS	1284				hypothetical protein
+AFPGLEEL_01243	gene	486				
+AFPGLEEL_01243	CDS	486				hypothetical protein
+AFPGLEEL_01244	gene	1356				
+AFPGLEEL_01244	CDS	1356				hypothetical protein
+AFPGLEEL_01245	gene	1770	hscC			
+AFPGLEEL_01245	CDS	1770	hscC		COG0443	Chaperone protein HscC
+AFPGLEEL_01246	gene	939	panS			
+AFPGLEEL_01246	CDS	939	panS		COG0385	Pantothenate precursors transporter PanS
+AFPGLEEL_01247	gene	450				
+AFPGLEEL_01247	CDS	450				hypothetical protein
+AFPGLEEL_01248	gene	738				
+AFPGLEEL_01248	CDS	738				hypothetical protein
+AFPGLEEL_01249	gene	882	ybhF_2			
+AFPGLEEL_01249	CDS	882	ybhF_2		COG1131	putative multidrug ABC transporter ATP-binding protein YbhF
+AFPGLEEL_01250	gene	678				
+AFPGLEEL_01250	CDS	678				hypothetical protein
+AFPGLEEL_01251	gene	666				
+AFPGLEEL_01251	CDS	666				hypothetical protein
+AFPGLEEL_01252	gene	495				
+AFPGLEEL_01252	CDS	495				hypothetical protein
+AFPGLEEL_01253	gene	2001	yxdM			
+AFPGLEEL_01253	CDS	2001	yxdM			ABC transporter permease protein YxdM
+AFPGLEEL_01254	gene	759	bceA_1			
+AFPGLEEL_01254	CDS	759	bceA_1		COG1136	Bacitracin export ATP-binding protein BceA
+AFPGLEEL_01255	gene	975	graS			
+AFPGLEEL_01255	CDS	975	graS	2.7.13.3		Sensor histidine kinase GraS
+AFPGLEEL_01256	gene	681	graR			
+AFPGLEEL_01256	CDS	681	graR		COG0745	Response regulator protein GraR
+AFPGLEEL_01257	gene	582	xpt			
+AFPGLEEL_01257	CDS	582	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+AFPGLEEL_01258	gene	1269	pucK			
+AFPGLEEL_01258	CDS	1269	pucK		COG2233	Uric acid permease PucK
+AFPGLEEL_01259	gene	417				
+AFPGLEEL_01259	CDS	417				hypothetical protein
+AFPGLEEL_01260	gene	1347	mdtK			
+AFPGLEEL_01260	CDS	1347	mdtK		COG0534	Multidrug resistance protein MdtK
+AFPGLEEL_01261	gene	297				
+AFPGLEEL_01261	CDS	297				hypothetical protein
+AFPGLEEL_01262	gene	168				
+AFPGLEEL_01262	CDS	168				hypothetical protein
+AFPGLEEL_01263	gene	951	msrAB1			
+AFPGLEEL_01263	CDS	951	msrAB1		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB 1
+AFPGLEEL_01264	gene	1329	brnQ			
+AFPGLEEL_01264	CDS	1329	brnQ		COG1114	Branched-chain amino acid transport system 2 carrier protein
+AFPGLEEL_01265	gene	942	gmuF			
+AFPGLEEL_01265	CDS	942	gmuF	5.3.1.8	COG1482	putative mannose-6-phosphate isomerase GmuF
+AFPGLEEL_01266	gene	453				
+AFPGLEEL_01266	CDS	453				hypothetical protein
+AFPGLEEL_01267	gene	633				
+AFPGLEEL_01267	CDS	633				hypothetical protein
+AFPGLEEL_01268	gene	195				
+AFPGLEEL_01268	CDS	195				hypothetical protein
+AFPGLEEL_01269	gene	2649				
+AFPGLEEL_01269	CDS	2649				hypothetical protein
+AFPGLEEL_01270	gene	444				
+AFPGLEEL_01270	CDS	444				hypothetical protein
+AFPGLEEL_01271	gene	1386	yhdG			
+AFPGLEEL_01271	CDS	1386	yhdG		COG0531	putative amino acid permease YhdG
+AFPGLEEL_01272	gene	3216				
+AFPGLEEL_01272	CDS	3216				hypothetical protein
+AFPGLEEL_01273	gene	483	bsaA			
+AFPGLEEL_01273	CDS	483	bsaA			Glutathione peroxidase BsaA
+AFPGLEEL_01274	gene	261				
+AFPGLEEL_01274	CDS	261				hypothetical protein
+AFPGLEEL_01275	gene	1146				
+AFPGLEEL_01275	CDS	1146				hypothetical protein
+AFPGLEEL_01276	gene	681	bceA_2			
+AFPGLEEL_01276	CDS	681	bceA_2		COG1136	Bacitracin export ATP-binding protein BceA
+AFPGLEEL_01277	gene	576				
+AFPGLEEL_01277	CDS	576				hypothetical protein
+AFPGLEEL_01278	gene	924	ydhF			
+AFPGLEEL_01278	CDS	924	ydhF	1.-.-.-	COG4989	Oxidoreductase YdhF
+AFPGLEEL_01279	gene	804				
+AFPGLEEL_01279	CDS	804				hypothetical protein
+AFPGLEEL_01280	gene	210				
+AFPGLEEL_01280	CDS	210				hypothetical protein
+AFPGLEEL_01281	gene	303				
+AFPGLEEL_01281	CDS	303				hypothetical protein
+AFPGLEEL_01282	gene	603				
+AFPGLEEL_01282	CDS	603				hypothetical protein
+AFPGLEEL_01283	gene	855	catE			
+AFPGLEEL_01283	CDS	855	catE	1.13.11.2	COG2514	Catechol-2,3-dioxygenase
+AFPGLEEL_01284	gene	450	ywnA			
+AFPGLEEL_01284	CDS	450	ywnA		COG1959	Putative HTH-type transcriptional regulator YwnA
+AFPGLEEL_01285	gene	864				
+AFPGLEEL_01285	CDS	864				hypothetical protein
+AFPGLEEL_01286	gene	1293				
+AFPGLEEL_01286	CDS	1293				hypothetical protein
+AFPGLEEL_01287	gene	921	bcrA			
+AFPGLEEL_01287	CDS	921	bcrA			Bacitracin transport ATP-binding protein BcrA
+AFPGLEEL_01288	gene	756				
+AFPGLEEL_01288	CDS	756				hypothetical protein
+AFPGLEEL_01289	gene	687				
+AFPGLEEL_01289	CDS	687				hypothetical protein
+AFPGLEEL_01290	gene	3234				
+AFPGLEEL_01290	CDS	3234				hypothetical protein
+AFPGLEEL_01291	gene	918				
+AFPGLEEL_01291	CDS	918				hypothetical protein
+AFPGLEEL_01292	gene	771				
+AFPGLEEL_01292	CDS	771				hypothetical protein
+AFPGLEEL_01293	gene	876	sasA_3			
+AFPGLEEL_01293	CDS	876	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+AFPGLEEL_01294	gene	684	walR_2			
+AFPGLEEL_01294	CDS	684	walR_2		COG0745	Transcriptional regulatory protein WalR
+AFPGLEEL_01295	gene	633	yodC			
+AFPGLEEL_01295	CDS	633	yodC	1.-.-.-	COG0778	Putative NAD(P)H nitroreductase YodC
+AFPGLEEL_01296	gene	687				
+AFPGLEEL_01296	CDS	687				hypothetical protein
+AFPGLEEL_01297	gene	255				
+AFPGLEEL_01297	CDS	255				hypothetical protein
+AFPGLEEL_01298	gene	216				
+AFPGLEEL_01298	CDS	216				hypothetical protein
+AFPGLEEL_01299	gene	843	yvgN			
+AFPGLEEL_01299	CDS	843	yvgN	1.1.1.-	COG0656	Glyoxal reductase
+AFPGLEEL_01300	gene	513				
+AFPGLEEL_01300	CDS	513				hypothetical protein
+AFPGLEEL_01301	gene	3018	lacZ			
+AFPGLEEL_01301	CDS	3018	lacZ	3.2.1.23	COG3250	Beta-galactosidase
+AFPGLEEL_01302	gene	1905	lacS			
+AFPGLEEL_01302	CDS	1905	lacS		COG2190	Lactose permease
+AFPGLEEL_01303	gene	1047				
+AFPGLEEL_01303	CDS	1047		5.1.3.21	COG2017	Maltose epimerase
+AFPGLEEL_01304	gene	1002	galE			
+AFPGLEEL_01304	CDS	1002	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+AFPGLEEL_01305	gene	1482	galT			
+AFPGLEEL_01305	CDS	1482	galT	2.7.7.12		Galactose-1-phosphate uridylyltransferase
+AFPGLEEL_01306	gene	1167	galK_2			
+AFPGLEEL_01306	CDS	1167	galK_2	2.7.1.6	COG0153	Galactokinase
+AFPGLEEL_01307	gene	996	melR			
+AFPGLEEL_01307	CDS	996	melR		COG1609	HTH-type transcriptional repressor MelR
+AFPGLEEL_01308	gene	1611	dexB			
+AFPGLEEL_01308	CDS	1611	dexB	3.2.1.70	COG0366	Glucan 1,6-alpha-glucosidase
+AFPGLEEL_01309	gene	1305				
+AFPGLEEL_01309	CDS	1305				hypothetical protein
+AFPGLEEL_01310	gene	654	regX3			
+AFPGLEEL_01310	CDS	654	regX3		COG0745	Sensory transduction protein regX3
+AFPGLEEL_01311	gene	1377				
+AFPGLEEL_01311	CDS	1377				hypothetical protein
+AFPGLEEL_01312	gene	633				
+AFPGLEEL_01312	CDS	633			COG1136	putative ABC transporter ATP-binding protein
+AFPGLEEL_01313	gene	1260				
+AFPGLEEL_01313	CDS	1260				hypothetical protein
+AFPGLEEL_01314	gene	132				
+AFPGLEEL_01314	CDS	132				hypothetical protein
+AFPGLEEL_01315	gene	1485				
+AFPGLEEL_01315	CDS	1485				hypothetical protein
+AFPGLEEL_01316	gene	345				
+AFPGLEEL_01316	CDS	345				hypothetical protein
+AFPGLEEL_01317	gene	1092	gldA			
+AFPGLEEL_01317	CDS	1092	gldA	1.1.1.6		Glycerol dehydrogenase
+AFPGLEEL_01318	gene	984	iolG			
+AFPGLEEL_01318	CDS	984	iolG	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+AFPGLEEL_01319	gene	375	dhaM			
+AFPGLEEL_01319	CDS	375	dhaM	2.7.1.121	COG3412	PTS-dependent dihydroxyacetone kinase, phosphotransferase subunit DhaM
+AFPGLEEL_01320	gene	576	dhaL			
+AFPGLEEL_01320	CDS	576	dhaL	2.7.1.121	COG2376	PTS-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL
+AFPGLEEL_01321	gene	990	dhaK			
+AFPGLEEL_01321	CDS	990	dhaK	2.7.1.121	COG2376	PTS-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit DhaK
+AFPGLEEL_01322	gene	1266				
+AFPGLEEL_01322	CDS	1266				hypothetical protein
+AFPGLEEL_01323	gene	3501				
+AFPGLEEL_01323	CDS	3501				hypothetical protein
+AFPGLEEL_01324	gene	321				
+AFPGLEEL_01324	CDS	321				hypothetical protein
+AFPGLEEL_01325	gene	330				
+AFPGLEEL_01325	CDS	330				hypothetical protein
+AFPGLEEL_01326	gene	1032	ykfA			
+AFPGLEEL_01326	CDS	1032	ykfA	3.4.16.-	COG1619	putative murein peptide carboxypeptidase
+AFPGLEEL_01327	gene	588				
+AFPGLEEL_01327	CDS	588				hypothetical protein
+AFPGLEEL_01328	gene	276	sdpR			
+AFPGLEEL_01328	CDS	276	sdpR		COG0640	Transcriptional repressor SdpR
+AFPGLEEL_01329	gene	738				
+AFPGLEEL_01329	CDS	738				hypothetical protein
+AFPGLEEL_01330	gene	4740	gtfC_4			
+AFPGLEEL_01330	CDS	4740	gtfC_4	2.4.1.5		Glucosyltransferase-SI
+AFPGLEEL_01331	gene	147				
+AFPGLEEL_01331	CDS	147				hypothetical protein
+AFPGLEEL_01332	gene	1986				
+AFPGLEEL_01332	CDS	1986				hypothetical protein
+AFPGLEEL_01333	gene	4743	gtfC_5			
+AFPGLEEL_01333	CDS	4743	gtfC_5	2.4.1.5		Glucosyltransferase-SI
+AFPGLEEL_01334	gene	2850				
+AFPGLEEL_01334	CDS	2850				hypothetical protein
+AFPGLEEL_01335	gene	3606				
+AFPGLEEL_01335	CDS	3606				hypothetical protein
+AFPGLEEL_01336	gene	2529				
+AFPGLEEL_01336	CDS	2529				hypothetical protein
+AFPGLEEL_01337	gene	1524				
+AFPGLEEL_01337	CDS	1524				hypothetical protein
+AFPGLEEL_01338	gene	2430				
+AFPGLEEL_01338	CDS	2430				hypothetical protein
+AFPGLEEL_01339	gene	594	pdxT			
+AFPGLEEL_01339	CDS	594	pdxT	4.3.3.6		Pyridoxal 5'-phosphate synthase subunit PdxT
+AFPGLEEL_01340	gene	873	pdxS			
+AFPGLEEL_01340	CDS	873	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+AFPGLEEL_01341	gene	1959				
+AFPGLEEL_01341	CDS	1959				hypothetical protein
+AFPGLEEL_01342	gene	2238				
+AFPGLEEL_01342	CDS	2238				hypothetical protein
+AFPGLEEL_01343	gene	3093				
+AFPGLEEL_01343	CDS	3093				hypothetical protein
+AFPGLEEL_01344	gene	3321				
+AFPGLEEL_01344	CDS	3321				hypothetical protein
+AFPGLEEL_01345	gene	2526				
+AFPGLEEL_01345	CDS	2526				hypothetical protein
+AFPGLEEL_01346	gene	906				
+AFPGLEEL_01346	CDS	906				hypothetical protein
+AFPGLEEL_01347	gene	726				
+AFPGLEEL_01347	CDS	726				hypothetical protein
+AFPGLEEL_01348	gene	210				
+AFPGLEEL_01348	CDS	210				hypothetical protein
+AFPGLEEL_01349	gene	144				
+AFPGLEEL_01349	CDS	144				hypothetical protein
+AFPGLEEL_01350	gene	1017				
+AFPGLEEL_01350	CDS	1017				hypothetical protein
+AFPGLEEL_01351	gene	759				
+AFPGLEEL_01351	CDS	759				hypothetical protein
+AFPGLEEL_01352	gene	1386	emrB			
+AFPGLEEL_01352	CDS	1386	emrB			Colistin resistance protein EmrB
+AFPGLEEL_01353	gene	411				
+AFPGLEEL_01353	CDS	411				hypothetical protein
+AFPGLEEL_01354	gene	564	maa			
+AFPGLEEL_01354	CDS	564	maa	2.3.1.79	COG0110	Maltose O-acetyltransferase
+AFPGLEEL_01355	gene	750				
+AFPGLEEL_01355	CDS	750				hypothetical protein
+AFPGLEEL_01356	gene	171				
+AFPGLEEL_01356	CDS	171				hypothetical protein
+AFPGLEEL_01357	gene	3984				
+AFPGLEEL_01357	CDS	3984				hypothetical protein
+AFPGLEEL_01358	gene	4356	gtfC_6			
+AFPGLEEL_01358	CDS	4356	gtfC_6	2.4.1.5		Glucosyltransferase-SI
+AFPGLEEL_01359	gene	147				
+AFPGLEEL_01359	CDS	147				hypothetical protein
+AFPGLEEL_01360	gene	444				
+AFPGLEEL_01360	CDS	444				hypothetical protein
+AFPGLEEL_01361	gene	1788				
+AFPGLEEL_01361	CDS	1788				hypothetical protein
+AFPGLEEL_01362	gene	357				
+AFPGLEEL_01362	CDS	357				hypothetical protein
+AFPGLEEL_01363	gene	324				
+AFPGLEEL_01363	CDS	324				hypothetical protein
+AFPGLEEL_01364	gene	444				
+AFPGLEEL_01364	CDS	444				hypothetical protein
+AFPGLEEL_01365	gene	669				
+AFPGLEEL_01365	CDS	669				hypothetical protein
+AFPGLEEL_01366	gene	1578				
+AFPGLEEL_01366	CDS	1578				hypothetical protein
+AFPGLEEL_01367	gene	432				
+AFPGLEEL_01367	CDS	432				hypothetical protein
+AFPGLEEL_01368	gene	285				
+AFPGLEEL_01368	CDS	285				hypothetical protein
+AFPGLEEL_01369	gene	1416				
+AFPGLEEL_01369	CDS	1416				hypothetical protein
+AFPGLEEL_01370	gene	1497				
+AFPGLEEL_01370	CDS	1497				hypothetical protein
+AFPGLEEL_01371	gene	1002	gtf3			
+AFPGLEEL_01371	CDS	1002	gtf3	2.4.1.-		Glucosyltransferase 3
+AFPGLEEL_01372	gene	225				
+AFPGLEEL_01372	CDS	225				hypothetical protein
+AFPGLEEL_01373	gene	180				
+AFPGLEEL_01373	CDS	180				hypothetical protein
+AFPGLEEL_01374	gene	1353	gtfB_2			
+AFPGLEEL_01374	CDS	1353	gtfB_2			UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase stabilizing protein GtfB
+AFPGLEEL_01375	gene	1509	gtfA_2			
+AFPGLEEL_01375	CDS	1509	gtfA_2	2.4.1.-	COG0438	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+AFPGLEEL_01376	gene	2376	secA_1			
+AFPGLEEL_01376	CDS	2376	secA_1		COG0653	Protein translocase subunit SecA
+AFPGLEEL_01377	gene	447	asp3			
+AFPGLEEL_01377	CDS	447	asp3			Accessory Sec system protein Asp3
+AFPGLEEL_01378	gene	1539	asp2			
+AFPGLEEL_01378	CDS	1539	asp2			Accessory Sec system protein Asp2
+AFPGLEEL_01379	gene	1572	asp1			
+AFPGLEEL_01379	CDS	1572	asp1			Accessory Sec system protein Asp1
+AFPGLEEL_01380	gene	1227	secY_1			
+AFPGLEEL_01380	CDS	1227	secY_1			Protein translocase subunit SecY
+AFPGLEEL_01381	gene	2094	gtfB_3			
+AFPGLEEL_01381	CDS	2094	gtfB_3			UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase stabilizing protein GtfB
+AFPGLEEL_01382	gene	3180	smc_2			
+AFPGLEEL_01382	CDS	3180	smc_2			Chromosome partition protein Smc
+AFPGLEEL_01383	gene	1209	cpdA_2			
+AFPGLEEL_01383	CDS	1209	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+AFPGLEEL_01384	gene	3690				
+AFPGLEEL_01384	CDS	3690				hypothetical protein
+AFPGLEEL_01385	gene	6237				
+AFPGLEEL_01385	CDS	6237				hypothetical protein
+AFPGLEEL_01386	gene	2685	bca			
+AFPGLEEL_01386	CDS	2685	bca			C protein alpha-antigen
+AFPGLEEL_01387	gene	177				
+AFPGLEEL_01387	CDS	177				hypothetical protein
+AFPGLEEL_01388	gene	174				
+AFPGLEEL_01388	CDS	174				hypothetical protein
+AFPGLEEL_01389	gene	339				
+AFPGLEEL_01389	CDS	339				hypothetical protein
+AFPGLEEL_01390	gene	16272				
+AFPGLEEL_01390	CDS	16272				hypothetical protein
+AFPGLEEL_01391	gene	1188				
+AFPGLEEL_01391	CDS	1188				hypothetical protein
+AFPGLEEL_01392	gene	1524	yheS_2			
+AFPGLEEL_01392	CDS	1524	yheS_2		COG0488	putative ABC transporter ATP-binding protein YheS
+AFPGLEEL_01393	gene	1869				
+AFPGLEEL_01393	CDS	1869			COG1132	putative ABC transporter ATP-binding protein
+AFPGLEEL_01394	gene	1746				
+AFPGLEEL_01394	CDS	1746			COG1132	putative ABC transporter ATP-binding protein
+AFPGLEEL_01395	gene	2265	gshAB			
+AFPGLEEL_01395	CDS	2265	gshAB			Glutathione biosynthesis bifunctional protein GshAB
+AFPGLEEL_01396	gene	639				
+AFPGLEEL_01396	CDS	639				hypothetical protein
+AFPGLEEL_01397	gene	1530				
+AFPGLEEL_01397	CDS	1530				hypothetical protein
+AFPGLEEL_01398	gene	561				
+AFPGLEEL_01398	CDS	561				hypothetical protein
+AFPGLEEL_01399	gene	2406	glgP			
+AFPGLEEL_01399	CDS	2406	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+AFPGLEEL_01400	gene	1431	glgA			
+AFPGLEEL_01400	CDS	1431	glgA	2.4.1.21	COG0297	Glycogen synthase
+AFPGLEEL_01401	gene	1083	glgD			
+AFPGLEEL_01401	CDS	1083	glgD		COG0448	Glycogen biosynthesis protein GlgD
+AFPGLEEL_01402	gene	1143	glgC			
+AFPGLEEL_01402	CDS	1143	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+AFPGLEEL_01403	gene	1881	glgB			
+AFPGLEEL_01403	CDS	1881	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+AFPGLEEL_01404	gene	2196	amyX			
+AFPGLEEL_01404	CDS	2196	amyX	3.2.1.41	COG1523	Pullulanase
+AFPGLEEL_01405	gene	2415	ftsK			
+AFPGLEEL_01405	CDS	2415	ftsK		COG1674	DNA translocase FtsK
+AFPGLEEL_01406	gene	999	yumC			
+AFPGLEEL_01406	CDS	999	yumC	1.18.1.2	COG0492	Ferredoxin--NADP reductase 2
+AFPGLEEL_01407	gene	720	trmD			
+AFPGLEEL_01407	CDS	720	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+AFPGLEEL_01408	gene	519	rimM			
+AFPGLEEL_01408	CDS	519	rimM			Ribosome maturation factor RimM
+AFPGLEEL_01409	gene	74				
+AFPGLEEL_01409	tRNA	74				tRNA-Glu(ttc)
+AFPGLEEL_01410	gene	74				
+AFPGLEEL_01410	tRNA	74				tRNA-Gln(ttg)
+AFPGLEEL_01411	gene	645	liaR			
+AFPGLEEL_01411	CDS	645	liaR		COG2197	Transcriptional regulatory protein LiaR
+AFPGLEEL_01412	gene	1011				
+AFPGLEEL_01412	CDS	1011				hypothetical protein
+AFPGLEEL_01413	gene	699				
+AFPGLEEL_01413	CDS	699				hypothetical protein
+AFPGLEEL_01414	gene	168				
+AFPGLEEL_01414	CDS	168				hypothetical protein
+AFPGLEEL_01415	gene	759				
+AFPGLEEL_01415	CDS	759				hypothetical protein
+AFPGLEEL_01416	gene	1872	stkP			
+AFPGLEEL_01416	CDS	1872	stkP	2.7.11.1	COG0515	Serine/threonine-protein kinase StkP
+AFPGLEEL_01417	gene	765				
+AFPGLEEL_01417	CDS	765		3.1.3.16		Putative protein phosphatase 2C-type
+AFPGLEEL_01418	gene	1329	rsmB			
+AFPGLEEL_01418	CDS	1329	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+AFPGLEEL_01419	gene	936	fmt			
+AFPGLEEL_01419	CDS	936	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+AFPGLEEL_01420	gene	2397	priA			
+AFPGLEEL_01420	CDS	2397	priA	3.6.4.-	COG1198	Primosomal protein N'
+AFPGLEEL_01421	gene	315	rpoZ			
+AFPGLEEL_01421	CDS	315	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+AFPGLEEL_01422	gene	630	gmk			
+AFPGLEEL_01422	CDS	630	gmk	2.7.4.8		Guanylate kinase
+AFPGLEEL_01423	gene	1401	ftsY			
+AFPGLEEL_01423	CDS	1401	ftsY			Signal recognition particle receptor FtsY
+AFPGLEEL_01424	gene	819				
+AFPGLEEL_01424	CDS	819		3.1.3.-		Putative phosphatase
+AFPGLEEL_01425	gene	795	ybjI_2			
+AFPGLEEL_01425	CDS	795	ybjI_2	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+AFPGLEEL_01426	gene	378				
+AFPGLEEL_01426	CDS	378				hypothetical protein
+AFPGLEEL_01427	gene	699	ecsA_1			
+AFPGLEEL_01427	CDS	699	ecsA_1		COG1131	ABC-type transporter ATP-binding protein EcsA
+AFPGLEEL_01428	gene	786				
+AFPGLEEL_01428	CDS	786				hypothetical protein
+AFPGLEEL_01429	gene	930	oppF			
+AFPGLEEL_01429	CDS	930	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+AFPGLEEL_01430	gene	1086	oppD			
+AFPGLEEL_01430	CDS	1086	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+AFPGLEEL_01431	gene	927	oppC			
+AFPGLEEL_01431	CDS	927	oppC		COG1173	Oligopeptide transport system permease protein OppC
+AFPGLEEL_01432	gene	1494				
+AFPGLEEL_01432	CDS	1494				hypothetical protein
+AFPGLEEL_01433	gene	1971	amiA_1			
+AFPGLEEL_01433	CDS	1971	amiA_1		COG4166	Oligopeptide-binding protein AmiA
+AFPGLEEL_01434	gene	1971	amiA_2			
+AFPGLEEL_01434	CDS	1971	amiA_2		COG4166	Oligopeptide-binding protein AmiA
+AFPGLEEL_01435	gene	984	pta			
+AFPGLEEL_01435	CDS	984	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+AFPGLEEL_01436	gene	897	rluD_2			
+AFPGLEEL_01436	CDS	897	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+AFPGLEEL_01437	gene	837	nadK			
+AFPGLEEL_01437	CDS	837	nadK	2.7.1.23	COG0061	NAD kinase
+AFPGLEEL_01438	gene	669	yjbM			
+AFPGLEEL_01438	CDS	669	yjbM	2.7.6.5	COG2357	GTP pyrophosphokinase YjbM
+AFPGLEEL_01439	gene	576	yjbK			
+AFPGLEEL_01439	CDS	576	yjbK	3.6.1.-	COG4116	Putative triphosphatase YjbK
+AFPGLEEL_01440	gene	972	prs2			
+AFPGLEEL_01440	CDS	972	prs2	2.7.6.1		Putative ribose-phosphate pyrophosphokinase 2
+AFPGLEEL_01441	gene	1113	iscS_2			
+AFPGLEEL_01441	CDS	1113	iscS_2	2.8.1.7		Cysteine desulfurase IscS
+AFPGLEEL_01442	gene	348				
+AFPGLEEL_01442	CDS	348				hypothetical protein
+AFPGLEEL_01443	gene	660	rex			
+AFPGLEEL_01443	CDS	660	rex		COG2344	Redox-sensing transcriptional repressor Rex
+AFPGLEEL_01444	gene	696				
+AFPGLEEL_01444	CDS	696		2.4.2.-	COG2071	Putative glutamine amidotransferase
+AFPGLEEL_01445	gene	687				
+AFPGLEEL_01445	CDS	687				hypothetical protein
+AFPGLEEL_01446	gene	1644				
+AFPGLEEL_01446	CDS	1644				hypothetical protein
+AFPGLEEL_01447	gene	1203	btuD_3			
+AFPGLEEL_01447	CDS	1203	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+AFPGLEEL_01448	gene	807				
+AFPGLEEL_01448	CDS	807				hypothetical protein
+AFPGLEEL_01449	gene	939				
+AFPGLEEL_01449	CDS	939				hypothetical protein
+AFPGLEEL_01450	gene	1149				
+AFPGLEEL_01450	CDS	1149				hypothetical protein
+AFPGLEEL_01451	gene	1248				
+AFPGLEEL_01451	CDS	1248				hypothetical protein
+AFPGLEEL_01452	gene	1236				
+AFPGLEEL_01452	CDS	1236				hypothetical protein
+AFPGLEEL_01453	gene	2952				
+AFPGLEEL_01453	CDS	2952				hypothetical protein
+AFPGLEEL_01454	gene	1308				
+AFPGLEEL_01454	CDS	1308				hypothetical protein
+AFPGLEEL_01455	gene	777				
+AFPGLEEL_01455	CDS	777				hypothetical protein
+AFPGLEEL_01456	gene	357				
+AFPGLEEL_01456	CDS	357				hypothetical protein
+AFPGLEEL_01457	gene	705	ppm1			
+AFPGLEEL_01457	CDS	705	ppm1	2.4.1.-		Polyprenol monophosphomannose synthase
+AFPGLEEL_01458	gene	969	epsJ			
+AFPGLEEL_01458	CDS	969	epsJ	2.4.-.-	COG0463	putative glycosyltransferase EpsJ
+AFPGLEEL_01459	gene	945	arnC_2			
+AFPGLEEL_01459	CDS	945	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+AFPGLEEL_01460	gene	1287				
+AFPGLEEL_01460	CDS	1287				hypothetical protein
+AFPGLEEL_01461	gene	852	rmlD			
+AFPGLEEL_01461	CDS	852	rmlD	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+AFPGLEEL_01462	gene	1476				
+AFPGLEEL_01462	CDS	1476				hypothetical protein
+AFPGLEEL_01463	gene	927	csbB			
+AFPGLEEL_01463	CDS	927	csbB	2.4.-.-	COG0463	Putative glycosyltransferase CsbB
+AFPGLEEL_01464	gene	336				
+AFPGLEEL_01464	CDS	336				hypothetical protein
+AFPGLEEL_01465	gene	1110	sigA			
+AFPGLEEL_01465	CDS	1110	sigA		COG0568	RNA polymerase sigma factor SigA
+AFPGLEEL_01466	gene	1812	dnaG			
+AFPGLEEL_01466	CDS	1812	dnaG	2.7.7.-		DNA primase
+AFPGLEEL_01467	gene	381	mscL			
+AFPGLEEL_01467	CDS	381	mscL			Large-conductance mechanosensitive channel
+AFPGLEEL_01468	gene	177	rpsU			
+AFPGLEEL_01468	CDS	177	rpsU		COG0828	30S ribosomal protein S21
+AFPGLEEL_01469	gene	801	artP_2			
+AFPGLEEL_01469	CDS	801	artP_2		COG0834	Arginine-binding extracellular protein ArtP
+AFPGLEEL_01470	gene	1110	vioD			
+AFPGLEEL_01470	CDS	1110	vioD	4.2.1.145		Capreomycidine synthase
+AFPGLEEL_01471	gene	798	artP_3			
+AFPGLEEL_01471	CDS	798	artP_3		COG0834	Arginine-binding extracellular protein ArtP
+AFPGLEEL_01472	gene	873	artP_4			
+AFPGLEEL_01472	CDS	873	artP_4		COG0834	Arginine-binding extracellular protein ArtP
+AFPGLEEL_01473	gene	465				
+AFPGLEEL_01473	CDS	465				hypothetical protein
+AFPGLEEL_01474	gene	1992	uvrB			
+AFPGLEEL_01474	CDS	1992	uvrB		COG0556	UvrABC system protein B
+AFPGLEEL_01475	gene	621				
+AFPGLEEL_01475	CDS	621				hypothetical protein
+AFPGLEEL_01476	gene	936				
+AFPGLEEL_01476	CDS	936				hypothetical protein
+AFPGLEEL_01477	gene	2199	mltF_2			
+AFPGLEEL_01477	CDS	2199	mltF_2	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+AFPGLEEL_01478	gene	741	glnQ_5			
+AFPGLEEL_01478	CDS	741	glnQ_5			Glutamine transport ATP-binding protein GlnQ
+AFPGLEEL_01479	gene	198				
+AFPGLEEL_01479	CDS	198				hypothetical protein
+AFPGLEEL_01480	gene	1314	obg			
+AFPGLEEL_01480	CDS	1314	obg	3.6.5.-	COG0536	GTPase Obg
+AFPGLEEL_01481	gene	129				
+AFPGLEEL_01481	CDS	129				hypothetical protein
+AFPGLEEL_01482	gene	732	rluB_3			
+AFPGLEEL_01482	CDS	732	rluB_3	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+AFPGLEEL_01483	gene	975				
+AFPGLEEL_01483	CDS	975				hypothetical protein
+AFPGLEEL_01484	gene	384				
+AFPGLEEL_01484	CDS	384				hypothetical protein
+AFPGLEEL_01485	gene	366				
+AFPGLEEL_01485	CDS	366				hypothetical protein
+AFPGLEEL_01486	gene	366				
+AFPGLEEL_01486	CDS	366				hypothetical protein
+AFPGLEEL_01487	gene	891				
+AFPGLEEL_01487	CDS	891				hypothetical protein
+AFPGLEEL_01488	gene	240				
+AFPGLEEL_01488	CDS	240				hypothetical protein
+AFPGLEEL_01489	gene	648	serB			
+AFPGLEEL_01489	CDS	648	serB	3.1.3.3	COG0560	Phosphoserine phosphatase
+AFPGLEEL_01490	gene	1725	ezrA			
+AFPGLEEL_01490	CDS	1725	ezrA			Septation ring formation regulator EzrA
+AFPGLEEL_01491	gene	1953	gyrB			
+AFPGLEEL_01491	CDS	1953	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+AFPGLEEL_01492	gene	561	gph_2			
+AFPGLEEL_01492	CDS	561	gph_2	3.1.3.18		Phosphoglycolate phosphatase
+AFPGLEEL_01493	gene	696	yohK			
+AFPGLEEL_01493	CDS	696	yohK		COG1346	Inner membrane protein YohK
+AFPGLEEL_01494	gene	375	lrgA			
+AFPGLEEL_01494	CDS	375	lrgA		COG1380	Antiholin-like protein LrgA
+AFPGLEEL_01495	gene	74				
+AFPGLEEL_01495	tRNA	74				tRNA-Thr(ggt)
+AFPGLEEL_01496	gene	354	mgsR			
+AFPGLEEL_01496	CDS	354	mgsR		COG1393	Regulatory protein MgsR
+AFPGLEEL_01497	gene	495	ogt			
+AFPGLEEL_01497	CDS	495	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+AFPGLEEL_01498	gene	1182				
+AFPGLEEL_01498	CDS	1182		1.17.1.9		Formate dehydrogenase, mitochondrial
+AFPGLEEL_01499	gene	558				
+AFPGLEEL_01499	CDS	558				hypothetical protein
+AFPGLEEL_01500	gene	1095	serC			
+AFPGLEEL_01500	CDS	1095	serC	2.6.1.52		Phosphoserine aminotransferase
+AFPGLEEL_01501	gene	894	bglK_2			
+AFPGLEEL_01501	CDS	894	bglK_2	2.7.1.85	COG1940	Beta-glucoside kinase
+AFPGLEEL_01502	gene	396	gloA			
+AFPGLEEL_01502	CDS	396	gloA	4.4.1.5	COG0346	Lactoylglutathione lyase
+AFPGLEEL_01503	gene	900				
+AFPGLEEL_01503	CDS	900			COG0330	putative protein
+AFPGLEEL_01504	gene	1068	potD			
+AFPGLEEL_01504	CDS	1068	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+AFPGLEEL_01505	gene	777	ydcV			
+AFPGLEEL_01505	CDS	777	ydcV			Inner membrane ABC transporter permease protein YdcV
+AFPGLEEL_01506	gene	795	potB			
+AFPGLEEL_01506	CDS	795	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+AFPGLEEL_01507	gene	1155	potA_2			
+AFPGLEEL_01507	CDS	1155	potA_2	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+AFPGLEEL_01508	gene	966	murB			
+AFPGLEEL_01508	CDS	966	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+AFPGLEEL_01509	gene	492	folK			
+AFPGLEEL_01509	CDS	492	folK	2.7.6.3	COG0801	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+AFPGLEEL_01510	gene	360	folB			
+AFPGLEEL_01510	CDS	360	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+AFPGLEEL_01511	gene	1452	amyS			
+AFPGLEEL_01511	CDS	1452	amyS	3.2.1.1		Alpha-amylase
+AFPGLEEL_01512	gene	801	folP			
+AFPGLEEL_01512	CDS	801	folP	2.5.1.15		Dihydropteroate synthase
+AFPGLEEL_01513	gene	564	folE			
+AFPGLEEL_01513	CDS	564	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+AFPGLEEL_01514	gene	1845	kimA			
+AFPGLEEL_01514	CDS	1845	kimA		COG0531	Potassium transporter KimA
+AFPGLEEL_01515	gene	1263	fpgS_2			
+AFPGLEEL_01515	CDS	1263	fpgS_2	6.3.2.17		Folylpolyglutamate synthase
+AFPGLEEL_01516	gene	249				
+AFPGLEEL_01516	CDS	249				hypothetical protein
+AFPGLEEL_01517	gene	273	rpsP			
+AFPGLEEL_01517	CDS	273	rpsP		COG0228	30S ribosomal protein S16
+AFPGLEEL_01518	gene	1380				
+AFPGLEEL_01518	CDS	1380				hypothetical protein
+AFPGLEEL_01519	gene	1326				
+AFPGLEEL_01519	CDS	1326				hypothetical protein
+AFPGLEEL_01520	gene	738	agrA_2			
+AFPGLEEL_01520	CDS	738	agrA_2		COG3279	Accessory gene regulator protein A
+AFPGLEEL_01521	gene	1323				
+AFPGLEEL_01521	CDS	1323				hypothetical protein
+AFPGLEEL_01522	gene	207				
+AFPGLEEL_01522	CDS	207				hypothetical protein
+AFPGLEEL_01523	gene	879	tehB			
+AFPGLEEL_01523	CDS	879	tehB	2.1.1.-	COG0500	putative S-adenosyl-L-methionine-dependent methyltransferase TehB
+AFPGLEEL_01524	gene	753				
+AFPGLEEL_01524	CDS	753				hypothetical protein
+AFPGLEEL_01525	gene	465				
+AFPGLEEL_01525	CDS	465				hypothetical protein
+AFPGLEEL_01526	gene	333				
+AFPGLEEL_01526	CDS	333				hypothetical protein
+AFPGLEEL_01527	gene	828	exoA			
+AFPGLEEL_01527	CDS	828	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+AFPGLEEL_01528	gene	480				
+AFPGLEEL_01528	CDS	480				hypothetical protein
+AFPGLEEL_01529	gene	1629				
+AFPGLEEL_01529	CDS	1629				hypothetical protein
+AFPGLEEL_01530	gene	987				
+AFPGLEEL_01530	CDS	987				hypothetical protein
+AFPGLEEL_01531	gene	1023				
+AFPGLEEL_01531	CDS	1023				hypothetical protein
+AFPGLEEL_01532	gene	1014	dagK			
+AFPGLEEL_01532	CDS	1014	dagK	2.7.1.107	COG1597	Diacylglycerol kinase
+AFPGLEEL_01533	gene	1947	ligA			
+AFPGLEEL_01533	CDS	1947	ligA	6.5.1.2		DNA ligase
+AFPGLEEL_01534	gene	510	queT			
+AFPGLEEL_01534	CDS	510	queT		COG4708	Queuosine precursor transporter QueT
+AFPGLEEL_01535	gene	960				
+AFPGLEEL_01535	CDS	960				hypothetical protein
+AFPGLEEL_01536	gene	861	map			
+AFPGLEEL_01536	CDS	861	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+AFPGLEEL_01537	gene	1281	IMPDH_2			
+AFPGLEEL_01537	CDS	1281	IMPDH_2	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+AFPGLEEL_01538	gene	546				
+AFPGLEEL_01538	CDS	546				hypothetical protein
+AFPGLEEL_01539	gene	1263	murA1_2			
+AFPGLEEL_01539	CDS	1263	murA1_2	2.5.1.7		UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+AFPGLEEL_01540	gene	2241	comEC			
+AFPGLEEL_01540	CDS	2241	comEC		COG0658	ComE operon protein 3
+AFPGLEEL_01541	gene	696				
+AFPGLEEL_01541	CDS	696				hypothetical protein
+AFPGLEEL_01542	gene	756	plsC			
+AFPGLEEL_01542	CDS	756	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+AFPGLEEL_01543	gene	936				
+AFPGLEEL_01543	CDS	936				hypothetical protein
+AFPGLEEL_01544	gene	765	yfiC			
+AFPGLEEL_01544	CDS	765	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+AFPGLEEL_01545	gene	270				
+AFPGLEEL_01545	CDS	270				hypothetical protein
+AFPGLEEL_01546	gene	816				
+AFPGLEEL_01546	CDS	816				hypothetical protein
+AFPGLEEL_01547	gene	1587	cshA			
+AFPGLEEL_01547	CDS	1587	cshA	3.6.4.13	COG0513	ATP-dependent RNA helicase CshA
+AFPGLEEL_01548	gene	906				
+AFPGLEEL_01548	CDS	906				hypothetical protein
+AFPGLEEL_01549	gene	381				
+AFPGLEEL_01549	CDS	381				hypothetical protein
+AFPGLEEL_01550	gene	576	thiT			
+AFPGLEEL_01550	CDS	576	thiT			Thiamine transporter ThiT
+AFPGLEEL_01551	gene	864				
+AFPGLEEL_01551	CDS	864				hypothetical protein
+AFPGLEEL_01552	gene	1179				
+AFPGLEEL_01552	CDS	1179				hypothetical protein
+AFPGLEEL_01553	gene	1545	prfC			
+AFPGLEEL_01553	CDS	1545	prfC			Peptide chain release factor 3
+AFPGLEEL_01554	gene	666				
+AFPGLEEL_01554	CDS	666				hypothetical protein
+AFPGLEEL_01555	gene	804				
+AFPGLEEL_01555	CDS	804				hypothetical protein
+AFPGLEEL_01556	gene	774				
+AFPGLEEL_01556	CDS	774				hypothetical protein
+AFPGLEEL_01557	gene	681				
+AFPGLEEL_01557	CDS	681				hypothetical protein
+AFPGLEEL_01558	gene	573				
+AFPGLEEL_01558	CDS	573				hypothetical protein
+AFPGLEEL_01559	gene	840				
+AFPGLEEL_01559	CDS	840				hypothetical protein
+AFPGLEEL_01560	gene	501				
+AFPGLEEL_01560	CDS	501				hypothetical protein
+AFPGLEEL_01561	gene	1374	murF			
+AFPGLEEL_01561	CDS	1374	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+AFPGLEEL_01562	gene	732				
+AFPGLEEL_01562	CDS	732				hypothetical protein
+AFPGLEEL_01563	gene	729				
+AFPGLEEL_01563	CDS	729				hypothetical protein
+AFPGLEEL_01564	gene	702				
+AFPGLEEL_01564	CDS	702				hypothetical protein
+AFPGLEEL_01565	gene	855	glnH			
+AFPGLEEL_01565	CDS	855	glnH		COG0834	ABC transporter glutamine-binding protein GlnH
+AFPGLEEL_01566	gene	759	tcyC			
+AFPGLEEL_01566	CDS	759	tcyC	3.6.3.-	COG1126	L-cystine import ATP-binding protein TcyC
+AFPGLEEL_01567	gene	678	yecS_4			
+AFPGLEEL_01567	CDS	678	yecS_4		COG0765	L-cystine transport system permease protein YecS
+AFPGLEEL_01568	gene	681	glnM_3			
+AFPGLEEL_01568	CDS	681	glnM_3		COG0765	putative glutamine ABC transporter permease protein GlnM
+AFPGLEEL_01569	gene	1047	ddl			
+AFPGLEEL_01569	CDS	1047	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+AFPGLEEL_01570	gene	204				
+AFPGLEEL_01570	CDS	204				hypothetical protein
+AFPGLEEL_01571	gene	2265	copA			
+AFPGLEEL_01571	CDS	2265	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+AFPGLEEL_01572	gene	432	copY			
+AFPGLEEL_01572	CDS	432	copY			Transcriptional repressor CopY
+AFPGLEEL_01573	gene	1173				
+AFPGLEEL_01573	CDS	1173				hypothetical protein
+AFPGLEEL_01574	gene	783	trpA			
+AFPGLEEL_01574	CDS	783	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+AFPGLEEL_01575	gene	1209	trpB			
+AFPGLEEL_01575	CDS	1209	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+AFPGLEEL_01576	gene	582	trpF			
+AFPGLEEL_01576	CDS	582	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+AFPGLEEL_01577	gene	768	trpC			
+AFPGLEEL_01577	CDS	768	trpC	4.1.1.48		Indole-3-glycerol phosphate synthase
+AFPGLEEL_01578	gene	1005	trpD			
+AFPGLEEL_01578	CDS	1005	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+AFPGLEEL_01579	gene	567	pabA			
+AFPGLEEL_01579	CDS	567	pabA	2.6.1.85	COG0512	Aminodeoxychorismate/anthranilate synthase component 2
+AFPGLEEL_01580	gene	1356	trpE			
+AFPGLEEL_01580	CDS	1356	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+AFPGLEEL_01581	gene	297	tyrA			
+AFPGLEEL_01581	CDS	297	tyrA		COG0287	T-protein
+AFPGLEEL_01582	gene	351				
+AFPGLEEL_01582	CDS	351				hypothetical protein
+AFPGLEEL_01583	gene	2349	ctpE			
+AFPGLEEL_01583	CDS	2349	ctpE	7.2.2.10	COG0474	Calcium-transporting ATPase CtpE
+AFPGLEEL_01584	gene	516				
+AFPGLEEL_01584	CDS	516				hypothetical protein
+AFPGLEEL_01585	gene	507				
+AFPGLEEL_01585	CDS	507				hypothetical protein
+AFPGLEEL_01586	gene	282				
+AFPGLEEL_01586	CDS	282			COG0718	Nucleoid-associated protein
+AFPGLEEL_01587	gene	615				
+AFPGLEEL_01587	CDS	615				hypothetical protein
+AFPGLEEL_01588	gene	126				
+AFPGLEEL_01588	CDS	126				hypothetical protein
+AFPGLEEL_01589	gene	702				
+AFPGLEEL_01589	CDS	702			COG1136	putative ABC transporter ATP-binding protein
+AFPGLEEL_01590	gene	2643				
+AFPGLEEL_01590	CDS	2643				hypothetical protein
+AFPGLEEL_01591	gene	729				
+AFPGLEEL_01591	CDS	729				hypothetical protein
+AFPGLEEL_01592	gene	591	polC_2			
+AFPGLEEL_01592	CDS	591	polC_2	2.7.7.7		DNA polymerase III PolC-type
+AFPGLEEL_01593	gene	537				
+AFPGLEEL_01593	CDS	537				putative protein
+AFPGLEEL_01594	gene	360				
+AFPGLEEL_01594	CDS	360				hypothetical protein
+AFPGLEEL_01595	gene	504				
+AFPGLEEL_01595	CDS	504				hypothetical protein
+AFPGLEEL_01596	gene	1704	ilvD_1			
+AFPGLEEL_01596	CDS	1704	ilvD_1	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+AFPGLEEL_01597	gene	1182				
+AFPGLEEL_01597	CDS	1182			COG2081	putative protein
+AFPGLEEL_01598	gene	87				
+AFPGLEEL_01598	tRNA	87				tRNA-Ser(gga)
+AFPGLEEL_01599	gene	642	trmB			
+AFPGLEEL_01599	CDS	642	trmB	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+AFPGLEEL_01600	gene	792				
+AFPGLEEL_01600	CDS	792				hypothetical protein
+AFPGLEEL_01601	gene	1038				
+AFPGLEEL_01601	CDS	1038				hypothetical protein
+AFPGLEEL_01602	gene	732	ecsA_2			
+AFPGLEEL_01602	CDS	732	ecsA_2		COG1131	ABC-type transporter ATP-binding protein EcsA
+AFPGLEEL_01603	gene	420	hit			
+AFPGLEEL_01603	CDS	420	hit		COG0537	Protein hit
+AFPGLEEL_01604	gene	300				
+AFPGLEEL_01604	CDS	300				hypothetical protein
+AFPGLEEL_01605	gene	168				
+AFPGLEEL_01605	CDS	168				hypothetical protein
+AFPGLEEL_01606	gene	609				
+AFPGLEEL_01606	CDS	609				hypothetical protein
+AFPGLEEL_01607	gene	126				
+AFPGLEEL_01607	CDS	126				hypothetical protein
+AFPGLEEL_01608	gene	2106	clpC_2			
+AFPGLEEL_01608	CDS	2106	clpC_2			putative ATP-dependent Clp protease ATP-binding subunit
+AFPGLEEL_01609	gene	255	relK			
+AFPGLEEL_01609	CDS	255	relK	3.1.-.-	COG4115	Toxin RelK
+AFPGLEEL_01610	gene	261				
+AFPGLEEL_01610	CDS	261				hypothetical protein
+AFPGLEEL_01611	gene	1092	tmcAL			
+AFPGLEEL_01611	CDS	1092	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+AFPGLEEL_01612	gene	741	COQ5			
+AFPGLEEL_01612	CDS	741	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+AFPGLEEL_01613	gene	354	rsfS			
+AFPGLEEL_01613	CDS	354	rsfS		COG0799	Ribosomal silencing factor RsfS
+AFPGLEEL_01614	gene	591				
+AFPGLEEL_01614	CDS	591				hypothetical protein
+AFPGLEEL_01615	gene	633	nadD			
+AFPGLEEL_01615	CDS	633	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+AFPGLEEL_01616	gene	318	yhbY			
+AFPGLEEL_01616	CDS	318	yhbY		COG1534	RNA-binding protein YhbY
+AFPGLEEL_01617	gene	1119	yqeH			
+AFPGLEEL_01617	CDS	1119	yqeH		COG1161	putative protein YqeH
+AFPGLEEL_01618	gene	528	ppaX			
+AFPGLEEL_01618	CDS	528	ppaX	3.6.1.1		Pyrophosphatase PpaX
+AFPGLEEL_01619	gene	918	yicL			
+AFPGLEEL_01619	CDS	918	yicL		COG0697	putative inner membrane transporter YicL
+AFPGLEEL_01620	gene	1044	gutB			
+AFPGLEEL_01620	CDS	1044	gutB	1.1.1.-	COG1063	Sorbitol dehydrogenase
+AFPGLEEL_01621	gene	384				
+AFPGLEEL_01621	CDS	384				hypothetical protein
+AFPGLEEL_01622	gene	1347	licC			
+AFPGLEEL_01622	CDS	1347	licC		COG1455	Lichenan permease IIC component
+AFPGLEEL_01623	gene	507				
+AFPGLEEL_01623	CDS	507				hypothetical protein
+AFPGLEEL_01624	gene	315	licA			
+AFPGLEEL_01624	CDS	315	licA		COG1447	Lichenan-specific phosphotransferase enzyme IIA component
+AFPGLEEL_01625	gene	1971	licR			
+AFPGLEEL_01625	CDS	1971	licR		COG1762	putative licABCH operon regulator
+AFPGLEEL_01626	gene	315				
+AFPGLEEL_01626	CDS	315				hypothetical protein
+AFPGLEEL_01627	gene	240				
+AFPGLEEL_01627	CDS	240			COG4095	Sugar transporter SemiSWEET
+AFPGLEEL_01628	gene	726				
+AFPGLEEL_01628	CDS	726				hypothetical protein
+AFPGLEEL_01629	gene	1437	bglA			
+AFPGLEEL_01629	CDS	1437	bglA	3.2.1.86	COG2723	6-phospho-beta-glucosidase BglA
+AFPGLEEL_01630	gene	366				
+AFPGLEEL_01630	CDS	366				hypothetical protein
+AFPGLEEL_01631	gene	1443	gatB			
+AFPGLEEL_01631	CDS	1443	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+AFPGLEEL_01632	gene	1467	gatA			
+AFPGLEEL_01632	CDS	1467	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+AFPGLEEL_01633	gene	303	gatC			
+AFPGLEEL_01633	CDS	303	gatC	6.3.5.-	COG0721	Glutamyl-tRNA(Gln) amidotransferase subunit C
+AFPGLEEL_01634	gene	1473	gtfA_3			
+AFPGLEEL_01634	CDS	1473	gtfA_3	2.4.1.-	COG0438	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+AFPGLEEL_01635	gene	1299	gtfB_4			
+AFPGLEEL_01635	CDS	1299	gtfB_4			UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase stabilizing protein GtfB
+AFPGLEEL_01636	gene	882	glyG			
+AFPGLEEL_01636	CDS	882	glyG			Glycosyltransferase GlyG
+AFPGLEEL_01637	gene	1209	glyE			
+AFPGLEEL_01637	CDS	1209	glyE			Glycosyltransferase GlyE
+AFPGLEEL_01638	gene	1440	bglH_2			
+AFPGLEEL_01638	CDS	1440	bglH_2	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglH
+AFPGLEEL_01639	gene	552	rutB			
+AFPGLEEL_01639	CDS	552	rutB	3.5.1.110		Peroxyureidoacrylate/ureidoacrylate amidohydrolase RutB
+AFPGLEEL_01640	gene	786	codY			
+AFPGLEEL_01640	CDS	786	codY		COG4465	GTP-sensing transcriptional pleiotropic repressor CodY
+AFPGLEEL_01641	gene	1215	alaA			
+AFPGLEEL_01641	CDS	1215	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA
+AFPGLEEL_01642	gene	453				
+AFPGLEEL_01642	CDS	453				Putative universal stress protein
+AFPGLEEL_01643	gene	777				
+AFPGLEEL_01643	CDS	777				hypothetical protein
+AFPGLEEL_01644	gene	801	pflA			
+AFPGLEEL_01644	CDS	801	pflA	1.97.1.4	COG1180	Pyruvate formate-lyase 1-activating enzyme
+AFPGLEEL_01645	gene	741				
+AFPGLEEL_01645	CDS	741				hypothetical protein
+AFPGLEEL_01646	gene	1332				
+AFPGLEEL_01646	CDS	1332				hypothetical protein
+AFPGLEEL_01647	gene	783	ylmA			
+AFPGLEEL_01647	CDS	783	ylmA	3.6.3.-	COG1119	putative ABC transporter ATP-binding protein YlmA
+AFPGLEEL_01648	gene	1161				
+AFPGLEEL_01648	CDS	1161				hypothetical protein
+AFPGLEEL_01649	gene	321				
+AFPGLEEL_01649	CDS	321				hypothetical protein
+AFPGLEEL_01650	gene	2241				
+AFPGLEEL_01650	CDS	2241				hypothetical protein
+AFPGLEEL_01651	gene	2067				
+AFPGLEEL_01651	CDS	2067				hypothetical protein
+AFPGLEEL_01652	gene	243				
+AFPGLEEL_01652	CDS	243				hypothetical protein
+AFPGLEEL_01653	gene	549				
+AFPGLEEL_01653	CDS	549				hypothetical protein
+AFPGLEEL_01654	gene	945				
+AFPGLEEL_01654	CDS	945				hypothetical protein
+AFPGLEEL_01655	gene	1116	ylbL			
+AFPGLEEL_01655	CDS	1116	ylbL		COG3480	putative protein YlbL
+AFPGLEEL_01656	gene	498	coaD			
+AFPGLEEL_01656	CDS	498	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+AFPGLEEL_01657	gene	540	rsmD			
+AFPGLEEL_01657	CDS	540	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+AFPGLEEL_01658	gene	921	trxB			
+AFPGLEEL_01658	CDS	921	trxB	1.8.1.9		Thioredoxin reductase
+AFPGLEEL_01659	gene	225				
+AFPGLEEL_01659	CDS	225				hypothetical protein
+AFPGLEEL_01660	gene	744	tcyN			
+AFPGLEEL_01660	CDS	744	tcyN	3.6.3.-	COG1126	L-cystine import ATP-binding protein TcyN
+AFPGLEEL_01661	gene	924				
+AFPGLEEL_01661	CDS	924				hypothetical protein
+AFPGLEEL_01662	gene	315				
+AFPGLEEL_01662	CDS	315				hypothetical protein
+AFPGLEEL_01663	gene	831	tcyA_2			
+AFPGLEEL_01663	CDS	831	tcyA_2		COG0834	L-cystine-binding protein TcyA
+AFPGLEEL_01664	gene	891				
+AFPGLEEL_01664	CDS	891				hypothetical protein
+AFPGLEEL_01665	gene	1110	dinB_2			
+AFPGLEEL_01665	CDS	1110	dinB_2	2.7.7.7	COG0389	DNA polymerase IV
+AFPGLEEL_01666	gene	2313	pflB			
+AFPGLEEL_01666	CDS	2313	pflB	2.3.1.54		Formate acetyltransferase
+AFPGLEEL_01667	gene	783	cah			
+AFPGLEEL_01667	CDS	783	cah	4.2.1.1	COG3338	Carbonic anhydrase
+AFPGLEEL_01668	gene	453				
+AFPGLEEL_01668	CDS	453		2.3.1.-		Acetyltransferase
+AFPGLEEL_01669	gene	663				
+AFPGLEEL_01669	CDS	663				hypothetical protein
+AFPGLEEL_01670	gene	504				
+AFPGLEEL_01670	CDS	504				hypothetical protein
+AFPGLEEL_01671	gene	945	yfeW			
+AFPGLEEL_01671	CDS	945	yfeW	3.4.16.4		Putative D-alanyl-D-alanine carboxypeptidase
+AFPGLEEL_01672	gene	756				
+AFPGLEEL_01672	CDS	756				hypothetical protein
+AFPGLEEL_01673	gene	672				
+AFPGLEEL_01673	CDS	672				hypothetical protein
+AFPGLEEL_01674	gene	867	gla			
+AFPGLEEL_01674	CDS	867	gla		COG0580	Glycerol facilitator-aquaporin gla
+AFPGLEEL_01675	gene	2268	pepX			
+AFPGLEEL_01675	CDS	2268	pepX	3.4.14.11		Xaa-Pro dipeptidyl-peptidase
+AFPGLEEL_01676	gene	381				
+AFPGLEEL_01676	CDS	381				hypothetical protein
+AFPGLEEL_01677	gene	417				
+AFPGLEEL_01677	CDS	417				hypothetical protein
+AFPGLEEL_01678	gene	297				
+AFPGLEEL_01678	CDS	297				hypothetical protein
+AFPGLEEL_01679	gene	393				
+AFPGLEEL_01679	CDS	393				hypothetical protein
+AFPGLEEL_01680	gene	159				
+AFPGLEEL_01680	CDS	159				hypothetical protein
+AFPGLEEL_01681	gene	741	agrA_3			
+AFPGLEEL_01681	CDS	741	agrA_3		COG3279	Accessory gene regulator protein A
+AFPGLEEL_01682	gene	1335				
+AFPGLEEL_01682	CDS	1335				hypothetical protein
+AFPGLEEL_01683	gene	162				
+AFPGLEEL_01683	CDS	162				hypothetical protein
+AFPGLEEL_01684	gene	402				
+AFPGLEEL_01684	CDS	402				hypothetical protein
+AFPGLEEL_01685	gene	171				
+AFPGLEEL_01685	CDS	171				hypothetical protein
+AFPGLEEL_01686	gene	168				
+AFPGLEEL_01686	CDS	168				hypothetical protein
+AFPGLEEL_01687	gene	126				
+AFPGLEEL_01687	CDS	126				hypothetical protein
+AFPGLEEL_01688	gene	231				
+AFPGLEEL_01688	CDS	231				hypothetical protein
+AFPGLEEL_01689	gene	1746	yheH			
+AFPGLEEL_01689	CDS	1746	yheH	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+AFPGLEEL_01690	gene	1758	yheI			
+AFPGLEEL_01690	CDS	1758	yheI	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+AFPGLEEL_01691	gene	447				
+AFPGLEEL_01691	CDS	447				hypothetical protein
+AFPGLEEL_01692	gene	528				
+AFPGLEEL_01692	CDS	528				hypothetical protein
+AFPGLEEL_01693	gene	1170	rlmN			
+AFPGLEEL_01693	CDS	1170	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+AFPGLEEL_01694	gene	729				
+AFPGLEEL_01694	CDS	729				hypothetical protein
+AFPGLEEL_01695	gene	1401				
+AFPGLEEL_01695	CDS	1401				hypothetical protein
+AFPGLEEL_01696	gene	231				
+AFPGLEEL_01696	CDS	231				hypothetical protein
+AFPGLEEL_01697	gene	231				
+AFPGLEEL_01697	CDS	231				hypothetical protein
+AFPGLEEL_01698	gene	1401	cshB			
+AFPGLEEL_01698	CDS	1401	cshB	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshB
+AFPGLEEL_01699	gene	1023	mraY			
+AFPGLEEL_01699	CDS	1023	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+AFPGLEEL_01700	gene	2268	pbpX			
+AFPGLEEL_01700	CDS	2268	pbpX		COG0768	Penicillin-binding protein 2x
+AFPGLEEL_01701	gene	321	ftsL			
+AFPGLEEL_01701	CDS	321	ftsL			Cell division protein FtsL
+AFPGLEEL_01702	gene	951	rsmH			
+AFPGLEEL_01702	CDS	951	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+AFPGLEEL_01703	gene	1050				
+AFPGLEEL_01703	CDS	1050				hypothetical protein
+AFPGLEEL_01704	gene	462				
+AFPGLEEL_01704	CDS	462				hypothetical protein
+AFPGLEEL_01705	gene	357				
+AFPGLEEL_01705	CDS	357				hypothetical protein
+AFPGLEEL_01706	gene	399	yhaH			
+AFPGLEEL_01706	CDS	399	yhaH		COG3152	Inner membrane protein YhaH
+AFPGLEEL_01707	gene	393				
+AFPGLEEL_01707	CDS	393				hypothetical protein
+AFPGLEEL_01708	gene	1251	proA			
+AFPGLEEL_01708	CDS	1251	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+AFPGLEEL_01709	gene	804	proB			
+AFPGLEEL_01709	CDS	804	proB	2.7.2.11	COG0263	Glutamate 5-kinase 1
+AFPGLEEL_01710	gene	1590				
+AFPGLEEL_01710	CDS	1590				hypothetical protein
+AFPGLEEL_01711	gene	732	ecsA_3			
+AFPGLEEL_01711	CDS	732	ecsA_3		COG1131	ABC-type transporter ATP-binding protein EcsA
+AFPGLEEL_01712	gene	732	ydfK			
+AFPGLEEL_01712	CDS	732	ydfK		COG1811	putative membrane protein YdfK
+AFPGLEEL_01713	gene	3654	addA			
+AFPGLEEL_01713	CDS	3654	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+AFPGLEEL_01714	gene	3393	rexB			
+AFPGLEEL_01714	CDS	3393	rexB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+AFPGLEEL_01715	gene	1374				
+AFPGLEEL_01715	CDS	1374				hypothetical protein
+AFPGLEEL_01716	gene	1311				
+AFPGLEEL_01716	CDS	1311				hypothetical protein
+AFPGLEEL_01717	gene	1740				
+AFPGLEEL_01717	CDS	1740				hypothetical protein
+AFPGLEEL_01718	gene	261				
+AFPGLEEL_01718	CDS	261				hypothetical protein
+AFPGLEEL_01719	gene	816				
+AFPGLEEL_01719	CDS	816				hypothetical protein
+AFPGLEEL_01720	gene	786	btuD_4			
+AFPGLEEL_01720	CDS	786	btuD_4	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+AFPGLEEL_01721	gene	513				
+AFPGLEEL_01721	CDS	513				hypothetical protein
+AFPGLEEL_01722	gene	1599	dnaK_2			
+AFPGLEEL_01722	CDS	1599	dnaK_2			Chaperone protein DnaK
+AFPGLEEL_01723	gene	696				
+AFPGLEEL_01723	CDS	696				hypothetical protein
+AFPGLEEL_01724	gene	447				
+AFPGLEEL_01724	CDS	447			COG3279	putative HTH-type transcriptional regulator
+AFPGLEEL_01725	gene	1728				
+AFPGLEEL_01725	CDS	1728				hypothetical protein
+AFPGLEEL_01726	gene	1182				
+AFPGLEEL_01726	CDS	1182				hypothetical protein
+AFPGLEEL_01727	gene	1386	cof			
+AFPGLEEL_01727	CDS	1386	cof	3.6.1.-		HMP-PP phosphatase
+AFPGLEEL_01728	gene	924	ansB			
+AFPGLEEL_01728	CDS	924	ansB	3.5.1.1	COG0252	L-asparaginase 2
+AFPGLEEL_01729	gene	144				
+AFPGLEEL_01729	CDS	144				hypothetical protein
+AFPGLEEL_01730	gene	213				
+AFPGLEEL_01730	CDS	213				hypothetical protein
+AFPGLEEL_01731	gene	609				
+AFPGLEEL_01731	CDS	609				hypothetical protein
+AFPGLEEL_01732	gene	438				
+AFPGLEEL_01732	CDS	438				hypothetical protein
+AFPGLEEL_01733	gene	507				
+AFPGLEEL_01733	CDS	507				hypothetical protein
+AFPGLEEL_01734	gene	2019	recG			
+AFPGLEEL_01734	CDS	2019	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+AFPGLEEL_01735	gene	1104	alr			
+AFPGLEEL_01735	CDS	1104	alr	5.1.1.1	COG0787	Alanine racemase
+AFPGLEEL_01736	gene	354	acpS			
+AFPGLEEL_01736	CDS	354	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+AFPGLEEL_01737	gene	1029	aroF_1			
+AFPGLEEL_01737	CDS	1029	aroF_1	2.5.1.54	COG0722	Phospho-2-dehydro-3-deoxyheptonate aldolase, Tyr-sensitive
+AFPGLEEL_01738	gene	1032	aroF_2			
+AFPGLEEL_01738	CDS	1032	aroF_2	2.5.1.54	COG0722	Phospho-2-dehydro-3-deoxyheptonate aldolase, Tyr-sensitive
+AFPGLEEL_01739	gene	2550	secA_2			
+AFPGLEEL_01739	CDS	2550	secA_2		COG0653	Protein translocase subunit SecA
+AFPGLEEL_01740	gene	345				
+AFPGLEEL_01740	CDS	345				hypothetical protein
+AFPGLEEL_01741	gene	948	manA			
+AFPGLEEL_01741	CDS	948	manA	5.3.1.8	COG1482	Mannose-6-phosphate isomerase ManA
+AFPGLEEL_01742	gene	894	gmuE			
+AFPGLEEL_01742	CDS	894	gmuE	2.7.1.4	COG1940	Putative fructokinase
+AFPGLEEL_01743	gene	1902	bglF_2			
+AFPGLEEL_01743	CDS	1902	bglF_2		COG1263	PTS system beta-glucoside-specific EIIBCA component
+AFPGLEEL_01744	gene	1443	scrB			
+AFPGLEEL_01744	CDS	1443	scrB	3.2.1.26		Sucrose-6-phosphate hydrolase
+AFPGLEEL_01745	gene	966	rbsR			
+AFPGLEEL_01745	CDS	966	rbsR		COG1609	Ribose operon repressor
+AFPGLEEL_01746	gene	435	nusB			
+AFPGLEEL_01746	CDS	435	nusB		COG0781	Transcription antitermination protein NusB
+AFPGLEEL_01747	gene	390				
+AFPGLEEL_01747	CDS	390				putative protein
+AFPGLEEL_01748	gene	561	efp			
+AFPGLEEL_01748	CDS	561	efp			Elongation factor P
+AFPGLEEL_01749	gene	456	tadA_1			
+AFPGLEEL_01749	CDS	456	tadA_1	3.5.4.33		tRNA-specific adenosine deaminase
+AFPGLEEL_01750	gene	1062	ypdF			
+AFPGLEEL_01750	CDS	1062	ypdF	3.4.11.-	COG0006	Aminopeptidase YpdF
+AFPGLEEL_01751	gene	861				
+AFPGLEEL_01751	CDS	861				hypothetical protein
+AFPGLEEL_01752	gene	216				
+AFPGLEEL_01752	CDS	216				hypothetical protein
+AFPGLEEL_01753	gene	150				
+AFPGLEEL_01753	CDS	150				hypothetical protein
+AFPGLEEL_01754	gene	243				
+AFPGLEEL_01754	CDS	243				hypothetical protein
+AFPGLEEL_01755	gene	2826	uvrA			
+AFPGLEEL_01755	CDS	2826	uvrA			UvrABC system protein A
+AFPGLEEL_01756	gene	936				
+AFPGLEEL_01756	CDS	936				hypothetical protein
+AFPGLEEL_01757	gene	672				
+AFPGLEEL_01757	CDS	672				hypothetical protein
+AFPGLEEL_01758	gene	882				
+AFPGLEEL_01758	CDS	882				hypothetical protein
+AFPGLEEL_01759	gene	240	rpsR			
+AFPGLEEL_01759	CDS	240	rpsR		COG0238	30S ribosomal protein S18
+AFPGLEEL_01760	gene	519	ssb_1			
+AFPGLEEL_01760	CDS	519	ssb_1		COG0629	Single-stranded DNA-binding protein
+AFPGLEEL_01761	gene	291	rpsF			
+AFPGLEEL_01761	CDS	291	rpsF		COG0360	30S ribosomal protein S6
+AFPGLEEL_01762	gene	954				
+AFPGLEEL_01762	CDS	954				hypothetical protein
+AFPGLEEL_01763	gene	1152	mutY			
+AFPGLEEL_01763	CDS	1152	mutY	3.2.2.31		Adenine DNA glycosylase
+AFPGLEEL_01764	gene	126				
+AFPGLEEL_01764	CDS	126				hypothetical protein
+AFPGLEEL_01765	gene	1098				
+AFPGLEEL_01765	CDS	1098				hypothetical protein
+AFPGLEEL_01766	gene	2640	polA			
+AFPGLEEL_01766	CDS	2640	polA	2.7.7.7		DNA polymerase I
+AFPGLEEL_01767	gene	2349	mutS2			
+AFPGLEEL_01767	CDS	2349	mutS2	3.1.-.-		Endonuclease MutS2
+AFPGLEEL_01768	gene	543				
+AFPGLEEL_01768	CDS	543				hypothetical protein
+AFPGLEEL_01769	gene	237				
+AFPGLEEL_01769	CDS	237				hypothetical protein
+AFPGLEEL_01770	gene	891	rnhC			
+AFPGLEEL_01770	CDS	891	rnhC	3.1.26.4	COG1039	Ribonuclease HIII
+AFPGLEEL_01771	gene	642	spsB_2			
+AFPGLEEL_01771	CDS	642	spsB_2	3.4.21.89		Signal peptidase IB
+AFPGLEEL_01772	gene	2505	recD2			
+AFPGLEEL_01772	CDS	2505	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+AFPGLEEL_01773	gene	327				
+AFPGLEEL_01773	CDS	327				hypothetical protein
+AFPGLEEL_01774	gene	693	ygaZ			
+AFPGLEEL_01774	CDS	693	ygaZ		COG1296	Inner membrane protein YgaZ
+AFPGLEEL_01775	gene	1014	tsaD			
+AFPGLEEL_01775	CDS	1014	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+AFPGLEEL_01776	gene	441	rimI			
+AFPGLEEL_01776	CDS	441	rimI	2.3.1.255	COG0456	N-alpha-acetyltransferase RimI
+AFPGLEEL_01777	gene	687	tsaB			
+AFPGLEEL_01777	CDS	687	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+AFPGLEEL_01778	gene	231				
+AFPGLEEL_01778	CDS	231				hypothetical protein
+AFPGLEEL_01779	gene	1686	rnj1			
+AFPGLEEL_01779	CDS	1686	rnj1	3.1.-.-		Ribonuclease J 1
+AFPGLEEL_01780	gene	642				
+AFPGLEEL_01780	CDS	642				hypothetical protein
+AFPGLEEL_01781	gene	633				
+AFPGLEEL_01781	CDS	633		3.5.1.28	COG1388	putative autolysin SsaALP
+AFPGLEEL_01782	gene	144				
+AFPGLEEL_01782	CDS	144				hypothetical protein
+AFPGLEEL_01783	gene	1344	glnA			
+AFPGLEEL_01783	CDS	1344	glnA	6.3.1.2		Glutamine synthetase
+AFPGLEEL_01784	gene	375	glnR			
+AFPGLEEL_01784	CDS	375	glnR		COG0789	HTH-type transcriptional regulator GlnR
+AFPGLEEL_01785	gene	504				
+AFPGLEEL_01785	CDS	504				hypothetical protein
+AFPGLEEL_01786	gene	1200	pgk			
+AFPGLEEL_01786	CDS	1200	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+AFPGLEEL_01787	gene	1011	gap			
+AFPGLEEL_01787	CDS	1011	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+AFPGLEEL_01788	gene	2082	fus			
+AFPGLEEL_01788	CDS	2082	fus			Elongation factor G
+AFPGLEEL_01789	gene	471	rpsG			
+AFPGLEEL_01789	CDS	471	rpsG		COG0049	30S ribosomal protein S7
+AFPGLEEL_01790	gene	414	rpsL			
+AFPGLEEL_01790	CDS	414	rpsL		COG0048	30S ribosomal protein S12
+AFPGLEEL_01791	gene	816	purR			
+AFPGLEEL_01791	CDS	816	purR		COG0503	Pur operon repressor
+AFPGLEEL_01792	gene	942	yhaM			
+AFPGLEEL_01792	CDS	942	yhaM	3.1.-.-	COG3481	3'-5' exoribonuclease YhaM
+AFPGLEEL_01793	gene	1275				
+AFPGLEEL_01793	CDS	1275				hypothetical protein
+AFPGLEEL_01794	gene	633	thiN			
+AFPGLEEL_01794	CDS	633	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+AFPGLEEL_01795	gene	660	rpe			
+AFPGLEEL_01795	CDS	660	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+AFPGLEEL_01796	gene	873	rsgA			
+AFPGLEEL_01796	CDS	873	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+AFPGLEEL_01797	gene	85				
+AFPGLEEL_01797	tRNA	85				tRNA-Leu(cag)
+AFPGLEEL_01798	gene	873	rsmA			
+AFPGLEEL_01798	CDS	873	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+AFPGLEEL_01799	gene	561	rnmV			
+AFPGLEEL_01799	CDS	561	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+AFPGLEEL_01800	gene	807	dtd3			
+AFPGLEEL_01800	CDS	807	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+AFPGLEEL_01801	gene	432	yccU			
+AFPGLEEL_01801	CDS	432	yccU		COG1832	putative protein YccU
+AFPGLEEL_01802	gene	315	trxA			
+AFPGLEEL_01802	CDS	315	trxA		COG0526	Thioredoxin
+AFPGLEEL_01803	gene	783				
+AFPGLEEL_01803	CDS	783		3.2.1.-		Protein-ADP-ribose hydrolase
+AFPGLEEL_01804	gene	414				
+AFPGLEEL_01804	CDS	414		3.1.-.-	COG0824	Putative esterase
+AFPGLEEL_01805	gene	336				
+AFPGLEEL_01805	CDS	336				hypothetical protein
+AFPGLEEL_01806	gene	74				
+AFPGLEEL_01806	tRNA	74				tRNA-Asn(gtt)
+AFPGLEEL_01807	gene	109				
+AFPGLEEL_01807	rRNA	109				5S ribosomal RNA
+AFPGLEEL_01808	gene	2895				
+AFPGLEEL_01808	rRNA	2895				23S ribosomal RNA
+AFPGLEEL_01809	gene	75				
+AFPGLEEL_01809	tRNA	75				tRNA-Ala(tgc)
+AFPGLEEL_01810	gene	1544				
+AFPGLEEL_01810	rRNA	1544				16S ribosomal RNA
+AFPGLEEL_01811	gene	1143	tgt			
+AFPGLEEL_01811	CDS	1143	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+AFPGLEEL_01812	gene	135	rpmH			
+AFPGLEEL_01812	CDS	135	rpmH			50S ribosomal protein L34
+AFPGLEEL_01813	gene	564	azoR_2			
+AFPGLEEL_01813	CDS	564	azoR_2	1.7.1.17		FMN-dependent NADH-azoreductase
+AFPGLEEL_01814	gene	597				
+AFPGLEEL_01814	CDS	597				hypothetical protein
+AFPGLEEL_01815	gene	1044				
+AFPGLEEL_01815	CDS	1044				hypothetical protein
+AFPGLEEL_01816	gene	855	yidC2			
+AFPGLEEL_01816	CDS	855	yidC2		COG0706	Membrane protein insertase YidC 2
+AFPGLEEL_01817	gene	336	rnpA			
+AFPGLEEL_01817	CDS	336	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+AFPGLEEL_01818	gene	1386	argH			
+AFPGLEEL_01818	CDS	1386	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+AFPGLEEL_01819	gene	1200	argG			
+AFPGLEEL_01819	CDS	1200	argG	6.3.4.5		Argininosuccinate synthase
+AFPGLEEL_01820	gene	744	agrA_4			
+AFPGLEEL_01820	CDS	744	agrA_4		COG3279	Accessory gene regulator protein A
+AFPGLEEL_01821	gene	1317				
+AFPGLEEL_01821	CDS	1317				hypothetical protein
+AFPGLEEL_01822	gene	1281				
+AFPGLEEL_01822	CDS	1281				hypothetical protein
+AFPGLEEL_01823	gene	891				
+AFPGLEEL_01823	CDS	891				hypothetical protein
+AFPGLEEL_01824	gene	1308				
+AFPGLEEL_01824	CDS	1308				hypothetical protein
+AFPGLEEL_01825	gene	1455	gltX			
+AFPGLEEL_01825	CDS	1455	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+AFPGLEEL_01826	gene	1971	amiA_3			
+AFPGLEEL_01826	CDS	1971	amiA_3		COG4166	Oligopeptide-binding protein AmiA
+AFPGLEEL_01827	gene	741	rplA			
+AFPGLEEL_01827	CDS	741	rplA			50S ribosomal protein L1
+AFPGLEEL_01828	gene	426	rplK			
+AFPGLEEL_01828	CDS	426	rplK			50S ribosomal protein L11
+AFPGLEEL_01829	gene	354				
+AFPGLEEL_01829	CDS	354				hypothetical protein
+AFPGLEEL_01830	gene	498	mtcA1			
+AFPGLEEL_01830	CDS	498	mtcA1	4.2.1.1	COG0288	Beta-carbonic anhydrase 1
+AFPGLEEL_01831	gene	696				
+AFPGLEEL_01831	CDS	696				putative protein
+AFPGLEEL_01832	gene	1248	radA			
+AFPGLEEL_01832	CDS	1248	radA	3.6.4.-	COG1066	DNA repair protein RadA
+AFPGLEEL_01833	gene	519				
+AFPGLEEL_01833	CDS	519				hypothetical protein
+AFPGLEEL_01834	gene	447	dut			
+AFPGLEEL_01834	CDS	447	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+AFPGLEEL_01835	gene	603	urdA			
+AFPGLEEL_01835	CDS	603	urdA	1.3.99.33		Urocanate reductase
+AFPGLEEL_01836	gene	1248				
+AFPGLEEL_01836	CDS	1248				hypothetical protein
+AFPGLEEL_01837	gene	870				
+AFPGLEEL_01837	CDS	870				hypothetical protein
+AFPGLEEL_01838	gene	561				
+AFPGLEEL_01838	CDS	561				hypothetical protein
+AFPGLEEL_01839	gene	1026	gpsA			
+AFPGLEEL_01839	CDS	1026	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+AFPGLEEL_01840	gene	915	gtaB			
+AFPGLEEL_01840	CDS	915	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+AFPGLEEL_01841	gene	675	gluP			
+AFPGLEEL_01841	CDS	675	gluP	3.4.21.105	COG0705	Rhomboid protease GluP
+AFPGLEEL_01842	gene	528	yqgN			
+AFPGLEEL_01842	CDS	528	yqgN		COG0212	putative protein YqgN
+AFPGLEEL_01843	gene	1134				
+AFPGLEEL_01843	CDS	1134		3.5.1.47	COG1473	N-acetyldiaminopimelate deacetylase
+AFPGLEEL_01844	gene	699	dapH			
+AFPGLEEL_01844	CDS	699	dapH	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+AFPGLEEL_01845	gene	753	gph_3			
+AFPGLEEL_01845	CDS	753	gph_3	3.1.3.18		Phosphoglycolate phosphatase
+AFPGLEEL_01846	gene	840				
+AFPGLEEL_01846	CDS	840				hypothetical protein
+AFPGLEEL_01847	gene	159				
+AFPGLEEL_01847	CDS	159				hypothetical protein
+AFPGLEEL_01848	gene	168				
+AFPGLEEL_01848	CDS	168				hypothetical protein
+AFPGLEEL_01849	gene	255				
+AFPGLEEL_01849	CDS	255				hypothetical protein
+AFPGLEEL_01850	gene	519	tadA_2			
+AFPGLEEL_01850	CDS	519	tadA_2	3.5.4.33		tRNA-specific adenosine deaminase
+AFPGLEEL_01851	gene	393	ssb_2			
+AFPGLEEL_01851	CDS	393	ssb_2		COG0629	Single-stranded DNA-binding protein
+AFPGLEEL_01852	gene	228	yeeD			
+AFPGLEEL_01852	CDS	228	yeeD		COG0425	Putative sulfur carrier protein YeeD
+AFPGLEEL_01853	gene	1032				
+AFPGLEEL_01853	CDS	1032				hypothetical protein
+AFPGLEEL_01854	gene	624				
+AFPGLEEL_01854	CDS	624				hypothetical protein
+AFPGLEEL_01855	gene	525				
+AFPGLEEL_01855	CDS	525				hypothetical protein
+AFPGLEEL_01856	gene	315	ytpP			
+AFPGLEEL_01856	CDS	315	ytpP			Thioredoxin-like protein YtpP
+AFPGLEEL_01857	gene	285				
+AFPGLEEL_01857	CDS	285				hypothetical protein
+AFPGLEEL_01858	gene	1068	pepA			
+AFPGLEEL_01858	CDS	1068	pepA	3.4.11.7	COG1363	Glutamyl aminopeptidase
+AFPGLEEL_01859	gene	771	proC			
+AFPGLEEL_01859	CDS	771	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+AFPGLEEL_01860	gene	663				
+AFPGLEEL_01860	CDS	663				hypothetical protein
+AFPGLEEL_01861	gene	447				
+AFPGLEEL_01861	CDS	447				hypothetical protein
+AFPGLEEL_01862	gene	657				
+AFPGLEEL_01862	CDS	657				hypothetical protein
+AFPGLEEL_01863	gene	198				
+AFPGLEEL_01863	CDS	198				hypothetical protein
+AFPGLEEL_01864	gene	1194	ackA			
+AFPGLEEL_01864	CDS	1194	ackA	2.7.2.1	COG0282	Acetate kinase
+AFPGLEEL_01865	gene	957				
+AFPGLEEL_01865	CDS	957				hypothetical protein
+AFPGLEEL_01866	gene	318				
+AFPGLEEL_01866	CDS	318				hypothetical protein
+AFPGLEEL_01867	gene	438				
+AFPGLEEL_01867	CDS	438				hypothetical protein
+AFPGLEEL_01868	gene	231				
+AFPGLEEL_01868	CDS	231				hypothetical protein
+AFPGLEEL_01869	gene	438				
+AFPGLEEL_01869	CDS	438				hypothetical protein
+AFPGLEEL_01870	gene	327				
+AFPGLEEL_01870	CDS	327				hypothetical protein
+AFPGLEEL_01871	gene	849	epsF_2			
+AFPGLEEL_01871	CDS	849	epsF_2		COG1459	Type II secretion system protein F
+AFPGLEEL_01872	gene	942	comGA			
+AFPGLEEL_01872	CDS	942	comGA		COG2804	ComG operon protein 1
+AFPGLEEL_01873	gene	363				
+AFPGLEEL_01873	CDS	363				hypothetical protein
+AFPGLEEL_01874	gene	3639	rpoC			
+AFPGLEEL_01874	CDS	3639	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+AFPGLEEL_01875	gene	3582	rpoB			
+AFPGLEEL_01875	CDS	3582	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+AFPGLEEL_01876	gene	2424	mtgA_2			
+AFPGLEEL_01876	CDS	2424	mtgA_2	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+AFPGLEEL_01877	gene	1257	tyrS			
+AFPGLEEL_01877	CDS	1257	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+AFPGLEEL_01878	gene	1023	ilvC			
+AFPGLEEL_01878	CDS	1023	ilvC	1.1.1.86	COG0059	Ketol-acid reductoisomerase (NADP(+))
+AFPGLEEL_01879	gene	477	ilvH			
+AFPGLEEL_01879	CDS	477	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+AFPGLEEL_01880	gene	1701	ilvB			
+AFPGLEEL_01880	CDS	1701	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+AFPGLEEL_01881	gene	1722	ilvD_2			
+AFPGLEEL_01881	CDS	1722	ilvD_2	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+AFPGLEEL_01882	gene	1668				
+AFPGLEEL_01882	CDS	1668				putative protein
+AFPGLEEL_01883	gene	366				
+AFPGLEEL_01883	CDS	366				putative protein
+AFPGLEEL_01884	gene	1287	yeeO			
+AFPGLEEL_01884	CDS	1287	yeeO		COG0534	putative FMN/FAD exporter YeeO
+AFPGLEEL_01885	gene	1485	thrC			
+AFPGLEEL_01885	CDS	1485	thrC	4.2.3.1	COG0498	Threonine synthase
+AFPGLEEL_01886	gene	978				
+AFPGLEEL_01886	CDS	978				hypothetical protein
+AFPGLEEL_01887	gene	846				
+AFPGLEEL_01887	CDS	846				hypothetical protein
+AFPGLEEL_01888	gene	2589	adhE			
+AFPGLEEL_01888	CDS	2589	adhE		COG1012	Aldehyde-alcohol dehydrogenase
+AFPGLEEL_01889	gene	1896	pepO			
+AFPGLEEL_01889	CDS	1896	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+AFPGLEEL_01890	gene	1626	treA			
+AFPGLEEL_01890	CDS	1626	treA	3.2.1.93	COG0366	Trehalose-6-phosphate hydrolase
+AFPGLEEL_01891	gene	852	bglF_3			
+AFPGLEEL_01891	CDS	852	bglF_3		COG1263	PTS system beta-glucoside-specific EIIBCA component
+AFPGLEEL_01892	gene	1161	treB			
+AFPGLEEL_01892	CDS	1161	treB		COG1263	PTS system trehalose-specific EIIBC component
+AFPGLEEL_01893	gene	711	treR			
+AFPGLEEL_01893	CDS	711	treR		COG2188	HTH-type transcriptional regulator TreR
+AFPGLEEL_01894	gene	561				
+AFPGLEEL_01894	CDS	561				hypothetical protein
+AFPGLEEL_01895	gene	327				
+AFPGLEEL_01895	CDS	327				hypothetical protein
+AFPGLEEL_01896	gene	351				
+AFPGLEEL_01896	CDS	351				hypothetical protein
+AFPGLEEL_01897	gene	1023				
+AFPGLEEL_01897	CDS	1023				hypothetical protein
+AFPGLEEL_01898	gene	747				
+AFPGLEEL_01898	CDS	747				hypothetical protein
+AFPGLEEL_01899	gene	1230				
+AFPGLEEL_01899	CDS	1230		2.4.1.-	COG1819	PGL/p-HBAD biosynthesis glycosyltransferase
+AFPGLEEL_01900	gene	591				
+AFPGLEEL_01900	CDS	591				hypothetical protein
+AFPGLEEL_01901	gene	1215	fabF_2			
+AFPGLEEL_01901	CDS	1215	fabF_2	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+AFPGLEEL_01902	gene	2112				
+AFPGLEEL_01902	CDS	2112				hypothetical protein
+AFPGLEEL_01903	gene	690	bceA_3			
+AFPGLEEL_01903	CDS	690	bceA_3		COG1136	Bacitracin export ATP-binding protein BceA
+AFPGLEEL_01904	gene	1116				
+AFPGLEEL_01904	CDS	1116				hypothetical protein
+AFPGLEEL_01905	gene	1434	pigH			
+AFPGLEEL_01905	CDS	1434	pigH	2.3.2.-		4-hydroxy-2,2'-bipyrrole-5-methanol synthase PigH
+AFPGLEEL_01906	gene	699	lexA			
+AFPGLEEL_01906	CDS	699	lexA	3.4.21.88		LexA repressor
+AFPGLEEL_01907	gene	861				
+AFPGLEEL_01907	CDS	861				hypothetical protein
+AFPGLEEL_01908	gene	1050				
+AFPGLEEL_01908	CDS	1050				hypothetical protein
+AFPGLEEL_01909	gene	339	immR			
+AFPGLEEL_01909	CDS	339	immR		COG1396	HTH-type transcriptional regulator ImmR
+AFPGLEEL_01910	gene	183				
+AFPGLEEL_01910	CDS	183				hypothetical protein
+AFPGLEEL_01911	gene	297				
+AFPGLEEL_01911	CDS	297				hypothetical protein
+AFPGLEEL_01912	gene	462				
+AFPGLEEL_01912	CDS	462				hypothetical protein
+AFPGLEEL_01913	gene	1695				
+AFPGLEEL_01913	CDS	1695				hypothetical protein
+AFPGLEEL_01914	gene	579				
+AFPGLEEL_01914	CDS	579				hypothetical protein
+AFPGLEEL_01915	gene	1182				
+AFPGLEEL_01915	CDS	1182				hypothetical protein
+AFPGLEEL_01916	gene	297				
+AFPGLEEL_01916	CDS	297				hypothetical protein
+AFPGLEEL_01917	gene	183				
+AFPGLEEL_01917	CDS	183				hypothetical protein
+AFPGLEEL_01918	gene	768	repE			
+AFPGLEEL_01918	CDS	768	repE			Replication initiation protein
+AFPGLEEL_01919	gene	204				
+AFPGLEEL_01919	CDS	204				hypothetical protein
+AFPGLEEL_01920	gene	1140	xerC_2			
+AFPGLEEL_01920	CDS	1140	xerC_2			Tyrosine recombinase XerC
+AFPGLEEL_01921	gene	1233				
+AFPGLEEL_01921	CDS	1233				hypothetical protein
+AFPGLEEL_01922	gene	231				
+AFPGLEEL_01922	CDS	231				hypothetical protein
+AFPGLEEL_01923	gene	558				
+AFPGLEEL_01923	CDS	558				hypothetical protein
+AFPGLEEL_01924	gene	996				
+AFPGLEEL_01924	CDS	996				hypothetical protein
+AFPGLEEL_01925	gene	225				
+AFPGLEEL_01925	CDS	225				hypothetical protein
+AFPGLEEL_01926	gene	411				
+AFPGLEEL_01926	CDS	411				hypothetical protein
+AFPGLEEL_01927	gene	2505				
+AFPGLEEL_01927	CDS	2505				hypothetical protein
+AFPGLEEL_01928	gene	1881				
+AFPGLEEL_01928	CDS	1881				hypothetical protein
+AFPGLEEL_01929	gene	225				
+AFPGLEEL_01929	CDS	225				hypothetical protein
+AFPGLEEL_01930	gene	1113				
+AFPGLEEL_01930	CDS	1113				hypothetical protein
+AFPGLEEL_01931	gene	249				
+AFPGLEEL_01931	CDS	249				hypothetical protein
+AFPGLEEL_01932	gene	1347	xerC_3			
+AFPGLEEL_01932	CDS	1347	xerC_3			Tyrosine recombinase XerC
+AFPGLEEL_01933	gene	882	fba			
+AFPGLEEL_01933	CDS	882	fba	4.1.2.13		Fructose-bisphosphate aldolase
+AFPGLEEL_01934	gene	86				
+AFPGLEEL_01934	tRNA	86				tRNA-Leu(aag)
+AFPGLEEL_01935	gene	1296				
+AFPGLEEL_01935	CDS	1296				hypothetical protein
+AFPGLEEL_01936	gene	387	rplQ			
+AFPGLEEL_01936	CDS	387	rplQ		COG0203	50S ribosomal protein L17
+AFPGLEEL_01937	gene	939	rpoA			
+AFPGLEEL_01937	CDS	939	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+AFPGLEEL_01938	gene	384	rpsK			
+AFPGLEEL_01938	CDS	384	rpsK			30S ribosomal protein S11
+AFPGLEEL_01939	gene	366	rpsM			
+AFPGLEEL_01939	CDS	366	rpsM		COG0099	30S ribosomal protein S13
+AFPGLEEL_01940	gene	117	rpmJ			
+AFPGLEEL_01940	CDS	117	rpmJ		COG0257	50S ribosomal protein L36
+AFPGLEEL_01941	gene	219	infA			
+AFPGLEEL_01941	CDS	219	infA		COG0361	Translation initiation factor IF-1
+AFPGLEEL_01942	gene	657	adk			
+AFPGLEEL_01942	CDS	657	adk	2.7.4.3		Adenylate kinase
+AFPGLEEL_01943	gene	1296	secY_2			
+AFPGLEEL_01943	CDS	1296	secY_2			Protein translocase subunit SecY
+AFPGLEEL_01944	gene	441	rplO			
+AFPGLEEL_01944	CDS	441	rplO			50S ribosomal protein L15
+AFPGLEEL_01945	gene	183	rpmD			
+AFPGLEEL_01945	CDS	183	rpmD		COG1841	50S ribosomal protein L30
+AFPGLEEL_01946	gene	495	rpsE			
+AFPGLEEL_01946	CDS	495	rpsE		COG0098	30S ribosomal protein S5
+AFPGLEEL_01947	gene	357	rplR			
+AFPGLEEL_01947	CDS	357	rplR		COG0256	50S ribosomal protein L18
+AFPGLEEL_01948	gene	537	rplF			
+AFPGLEEL_01948	CDS	537	rplF		COG0097	50S ribosomal protein L6
+AFPGLEEL_01949	gene	399	rpsH			
+AFPGLEEL_01949	CDS	399	rpsH			30S ribosomal protein S8
+AFPGLEEL_01950	gene	171	rpsZ			
+AFPGLEEL_01950	CDS	171	rpsZ		COG0199	30S ribosomal protein S14 type Z
+AFPGLEEL_01951	gene	543	rplE			
+AFPGLEEL_01951	CDS	543	rplE		COG0094	50S ribosomal protein L5
+AFPGLEEL_01952	gene	306	rplX			
+AFPGLEEL_01952	CDS	306	rplX		COG0198	50S ribosomal protein L24
+AFPGLEEL_01953	gene	369	rplN			
+AFPGLEEL_01953	CDS	369	rplN		COG0093	50S ribosomal protein L14
+AFPGLEEL_01954	gene	261	rpsQ			
+AFPGLEEL_01954	CDS	261	rpsQ		COG0186	30S ribosomal protein S17
+AFPGLEEL_01955	gene	207	rpmC			
+AFPGLEEL_01955	CDS	207	rpmC		COG0255	50S ribosomal protein L29
+AFPGLEEL_01956	gene	414	rplP			
+AFPGLEEL_01956	CDS	414	rplP		COG0197	50S ribosomal protein L16
+AFPGLEEL_01957	gene	654	rpsC			
+AFPGLEEL_01957	CDS	654	rpsC		COG0092	30S ribosomal protein S3
+AFPGLEEL_01958	gene	345	rplV			
+AFPGLEEL_01958	CDS	345	rplV		COG0091	50S ribosomal protein L22
+AFPGLEEL_01959	gene	279	rpsS			
+AFPGLEEL_01959	CDS	279	rpsS		COG0185	30S ribosomal protein S19
+AFPGLEEL_01960	gene	834	rplB			
+AFPGLEEL_01960	CDS	834	rplB		COG0090	50S ribosomal protein L2
+AFPGLEEL_01961	gene	297	rplW			
+AFPGLEEL_01961	CDS	297	rplW		COG0089	50S ribosomal protein L23
+AFPGLEEL_01962	gene	624	rplD			
+AFPGLEEL_01962	CDS	624	rplD		COG0088	50S ribosomal protein L4
+AFPGLEEL_01963	gene	627	rplC			
+AFPGLEEL_01963	CDS	627	rplC		COG0087	50S ribosomal protein L3
+AFPGLEEL_01964	gene	309	rpsJ			
+AFPGLEEL_01964	CDS	309	rpsJ		COG0051	30S ribosomal protein S10
+AFPGLEEL_01965	gene	1002	ruvB			
+AFPGLEEL_01965	CDS	1002	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+AFPGLEEL_01966	gene	1824	oatA			
+AFPGLEEL_01966	CDS	1824	oatA	2.3.1.-		O-acetyltransferase OatA
+AFPGLEEL_01967	gene	411				
+AFPGLEEL_01967	CDS	411				hypothetical protein
+AFPGLEEL_01968	gene	435	ptpA			
+AFPGLEEL_01968	CDS	435	ptpA	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase PtpA
+AFPGLEEL_01969	gene	1293	purA			
+AFPGLEEL_01969	CDS	1293	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+AFPGLEEL_01970	gene	510				
+AFPGLEEL_01970	CDS	510				hypothetical protein
+AFPGLEEL_01971	gene	73				
+AFPGLEEL_01971	tRNA	73				tRNA-Lys(ctt)
+AFPGLEEL_01972	gene	1269				
+AFPGLEEL_01972	CDS	1269			COG2256	putative AAA domain-containing protein
+AFPGLEEL_01973	gene	189	rpmB			
+AFPGLEEL_01973	CDS	189	rpmB		COG0227	50S ribosomal protein L28
+AFPGLEEL_01974	gene	267				
+AFPGLEEL_01974	CDS	267				hypothetical protein
+AFPGLEEL_01975	gene	420	yrrK			
+AFPGLEEL_01975	CDS	420	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+AFPGLEEL_01976	gene	306				
+AFPGLEEL_01976	CDS	306				hypothetical protein
+AFPGLEEL_01977	gene	1647				
+AFPGLEEL_01977	CDS	1647				hypothetical protein
+AFPGLEEL_01978	gene	2205	nrdD_2			
+AFPGLEEL_01978	CDS	2205	nrdD_2	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+AFPGLEEL_01979	gene	132				
+AFPGLEEL_01979	CDS	132				hypothetical protein
+AFPGLEEL_01980	gene	501				
+AFPGLEEL_01980	CDS	501				hypothetical protein
+AFPGLEEL_01981	gene	606				
+AFPGLEEL_01981	CDS	606				hypothetical protein
+AFPGLEEL_01982	gene	732	yaaA			
+AFPGLEEL_01982	CDS	732	yaaA		COG3022	Peroxide stress resistance protein YaaA
+AFPGLEEL_01983	gene	942				
+AFPGLEEL_01983	CDS	942				hypothetical protein
+AFPGLEEL_01984	gene	1740	aspS			
+AFPGLEEL_01984	CDS	1740	aspS	6.1.1.12		Aspartate--tRNA ligase
+AFPGLEEL_01985	gene	423				
+AFPGLEEL_01985	CDS	423				hypothetical protein
+AFPGLEEL_01986	gene	1281	hisS			
+AFPGLEEL_01986	CDS	1281	hisS	6.1.1.21		Histidine--tRNA ligase
+AFPGLEEL_01987	gene	1362	bglF_4			
+AFPGLEEL_01987	CDS	1362	bglF_4		COG1263	PTS system beta-glucoside-specific EIIBCA component
+AFPGLEEL_01988	gene	1113				
+AFPGLEEL_01988	CDS	1113				hypothetical protein
+AFPGLEEL_01989	gene	183	rpmF			
+AFPGLEEL_01989	CDS	183	rpmF		COG0333	50S ribosomal protein L32
+AFPGLEEL_01990	gene	150	rpmGA			
+AFPGLEEL_01990	CDS	150	rpmGA			50S ribosomal protein L33 1
+AFPGLEEL_01991	gene	780				
+AFPGLEEL_01991	CDS	780				hypothetical protein
+AFPGLEEL_01992	gene	1038				
+AFPGLEEL_01992	CDS	1038				hypothetical protein
+AFPGLEEL_01993	gene	1152	haeIIIM			
+AFPGLEEL_01993	CDS	1152	haeIIIM	2.1.1.37		Modification methylase HaeIII
+AFPGLEEL_01994	gene	561				
+AFPGLEEL_01994	CDS	561				hypothetical protein
+AFPGLEEL_01995	gene	858				
+AFPGLEEL_01995	CDS	858				hypothetical protein
+AFPGLEEL_01996	gene	432				
+AFPGLEEL_01996	CDS	432				hypothetical protein
+AFPGLEEL_01997	gene	321				
+AFPGLEEL_01997	CDS	321				hypothetical protein
+AFPGLEEL_01998	gene	1089				
+AFPGLEEL_01998	CDS	1089				hypothetical protein
+AFPGLEEL_01999	gene	600				
+AFPGLEEL_01999	CDS	600				hypothetical protein
+AFPGLEEL_02000	gene	615				
+AFPGLEEL_02000	CDS	615				hypothetical protein
+AFPGLEEL_02001	gene	252				
+AFPGLEEL_02001	CDS	252				hypothetical protein
+AFPGLEEL_02002	gene	1266	xerC_4			
+AFPGLEEL_02002	CDS	1266	xerC_4			Tyrosine recombinase XerC
+AFPGLEEL_02003	gene	1524	pknD			
+AFPGLEEL_02003	CDS	1524	pknD	2.7.11.1		Serine/threonine-protein kinase PknD
+AFPGLEEL_02004	gene	672				
+AFPGLEEL_02004	CDS	672				hypothetical protein
+AFPGLEEL_02005	gene	726				
+AFPGLEEL_02005	CDS	726				IS1182 family transposase ISSth2
+AFPGLEEL_02006	gene	231	mnaA			
+AFPGLEEL_02006	CDS	231	mnaA	5.1.3.14	COG0381	UDP-N-acetylglucosamine 2-epimerase
+AFPGLEEL_02007	gene	609	wecB			
+AFPGLEEL_02007	CDS	609	wecB	5.1.3.14		UDP-N-acetylglucosamine 2-epimerase
+AFPGLEEL_02008	gene	240	lacC_2			
+AFPGLEEL_02008	CDS	240	lacC_2	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+AFPGLEEL_02009	gene	1038				
+AFPGLEEL_02009	CDS	1038				hypothetical protein
+AFPGLEEL_02010	gene	114				
+AFPGLEEL_02010	CDS	114				hypothetical protein
+AFPGLEEL_02011	gene	1065				
+AFPGLEEL_02011	CDS	1065				hypothetical protein
+AFPGLEEL_02012	gene	2226	bcsA			
+AFPGLEEL_02012	CDS	2226	bcsA	2.4.1.12	COG1215	Cellulose synthase catalytic subunit [UDP-forming]
+AFPGLEEL_02013	gene	1941				
+AFPGLEEL_02013	CDS	1941				hypothetical protein
+AFPGLEEL_02014	gene	621				
+AFPGLEEL_02014	CDS	621				hypothetical protein
+AFPGLEEL_02015	gene	279				
+AFPGLEEL_02015	CDS	279				hypothetical protein
+AFPGLEEL_02016	gene	471				
+AFPGLEEL_02016	CDS	471				hypothetical protein
+AFPGLEEL_02017	gene	501				
+AFPGLEEL_02017	CDS	501				hypothetical protein
+AFPGLEEL_02018	gene	609	nudL			
+AFPGLEEL_02018	CDS	609	nudL	3.6.1.-		putative Nudix hydrolase NudL
+AFPGLEEL_02019	gene	327				
+AFPGLEEL_02019	CDS	327				hypothetical protein
+AFPGLEEL_02020	gene	585				
+AFPGLEEL_02020	CDS	585				hypothetical protein
+AFPGLEEL_02021	gene	846				
+AFPGLEEL_02021	CDS	846				hypothetical protein
+AFPGLEEL_02022	gene	2370				
+AFPGLEEL_02022	CDS	2370				hypothetical protein
+AFPGLEEL_02023	gene	540				
+AFPGLEEL_02023	CDS	540				hypothetical protein
+AFPGLEEL_02024	gene	363				
+AFPGLEEL_02024	CDS	363				hypothetical protein
+AFPGLEEL_02025	gene	189				
+AFPGLEEL_02025	CDS	189				hypothetical protein
+AFPGLEEL_02026	gene	612	rpsD			
+AFPGLEEL_02026	CDS	612	rpsD		COG0522	30S ribosomal protein S4
+AFPGLEEL_02027	gene	303				
+AFPGLEEL_02027	CDS	303				hypothetical protein
+AFPGLEEL_02028	gene	1362	dnaC			
+AFPGLEEL_02028	CDS	1362	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+AFPGLEEL_02029	gene	459	rplI			
+AFPGLEEL_02029	CDS	459	rplI			50S ribosomal protein L9
+AFPGLEEL_02030	gene	1965	gdpP			
+AFPGLEEL_02030	CDS	1965	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+AFPGLEEL_02031	gene	1902	mnmG			
+AFPGLEEL_02031	CDS	1902	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+AFPGLEEL_02032	gene	615				
+AFPGLEEL_02032	CDS	615				hypothetical protein
+AFPGLEEL_02033	gene	1122	mnmA			
+AFPGLEEL_02033	CDS	1122	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+AFPGLEEL_02034	gene	1710				
+AFPGLEEL_02034	CDS	1710				hypothetical protein
+AFPGLEEL_02035	gene	699				
+AFPGLEEL_02035	CDS	699				hypothetical protein
+AFPGLEEL_02036	gene	582				
+AFPGLEEL_02036	CDS	582				hypothetical protein
+AFPGLEEL_02037	gene	795	ecfT_2			
+AFPGLEEL_02037	CDS	795	ecfT_2		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+AFPGLEEL_02038	gene	843	ecfA2_2			
+AFPGLEEL_02038	CDS	843	ecfA2_2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+AFPGLEEL_02039	gene	831	ecfA1_2			
+AFPGLEEL_02039	CDS	831	ecfA1_2	7.-.-.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA1
+AFPGLEEL_02040	gene	543	pgsA			
+AFPGLEEL_02040	CDS	543	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+AFPGLEEL_02041	gene	858				
+AFPGLEEL_02041	CDS	858				hypothetical protein
+AFPGLEEL_02042	gene	1278				
+AFPGLEEL_02042	CDS	1278				hypothetical protein
+AFPGLEEL_02043	gene	1251				
+AFPGLEEL_02043	CDS	1251				hypothetical protein
+AFPGLEEL_02044	gene	378				
+AFPGLEEL_02044	CDS	378				hypothetical protein
+AFPGLEEL_02045	gene	1101	recF			
+AFPGLEEL_02045	CDS	1101	recF		COG1195	DNA replication and repair protein RecF
+AFPGLEEL_02046	gene	1482	guaB			
+AFPGLEEL_02046	CDS	1482	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+AFPGLEEL_02047	gene	1023	trpS2			
+AFPGLEEL_02047	CDS	1023	trpS2	6.1.1.2	COG0180	Tryptophan--tRNA ligase 2
+AFPGLEEL_02048	gene	873				
+AFPGLEEL_02048	CDS	873				hypothetical protein
+AFPGLEEL_02049	gene	1623	ybiT_2			
+AFPGLEEL_02049	CDS	1623	ybiT_2		COG0488	putative ABC transporter ATP-binding protein YbiT
+AFPGLEEL_02050	gene	2595				
+AFPGLEEL_02050	CDS	2595				hypothetical protein
+AFPGLEEL_02051	gene	74				
+AFPGLEEL_02051	tRNA	74				tRNA-Asn(gtt)
+AFPGLEEL_02052	gene	74				
+AFPGLEEL_02052	tRNA	74				tRNA-Glu(ttc)
+AFPGLEEL_02053	gene	76				
+AFPGLEEL_02053	tRNA	76				tRNA-Arg(tct)
+AFPGLEEL_02054	gene	684				
+AFPGLEEL_02054	CDS	684				hypothetical protein
+AFPGLEEL_02055	gene	480	rlmH			
+AFPGLEEL_02055	CDS	480	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+AFPGLEEL_02056	gene	1236	htrA			
+AFPGLEEL_02056	CDS	1236	htrA	3.4.21.107	COG0265	Serine protease Do-like HtrA
+AFPGLEEL_02057	gene	768	spo0J			
+AFPGLEEL_02057	CDS	768	spo0J		COG1475	Stage 0 sporulation protein J

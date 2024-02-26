@@ -1,0 +1,3993 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+OGNIBHPJ_00001	gene	450				
+OGNIBHPJ_00001	CDS	450				hypothetical protein
+OGNIBHPJ_00002	gene	1680				
+OGNIBHPJ_00002	CDS	1680				hypothetical protein
+OGNIBHPJ_00003	gene	1200				
+OGNIBHPJ_00003	CDS	1200				hypothetical protein
+OGNIBHPJ_00004	gene	171				
+OGNIBHPJ_00004	CDS	171				hypothetical protein
+OGNIBHPJ_00005	gene	231				
+OGNIBHPJ_00005	CDS	231				hypothetical protein
+OGNIBHPJ_00006	gene	441				
+OGNIBHPJ_00006	CDS	441			COG0789	putative HTH-type transcriptional regulator
+OGNIBHPJ_00007	gene	765				
+OGNIBHPJ_00007	CDS	765				hypothetical protein
+OGNIBHPJ_00008	gene	291				
+OGNIBHPJ_00008	CDS	291		2.4.2.-		Protein ADP-ribosyltransferase
+OGNIBHPJ_00009	gene	285				
+OGNIBHPJ_00009	CDS	285				hypothetical protein
+OGNIBHPJ_00010	gene	918				
+OGNIBHPJ_00010	CDS	918				hypothetical protein
+OGNIBHPJ_00011	gene	531				
+OGNIBHPJ_00011	CDS	531				hypothetical protein
+OGNIBHPJ_00012	gene	2241	gyrA_1			
+OGNIBHPJ_00012	CDS	2241	gyrA_1	5.6.2.2	COG0188	DNA gyrase subunit A
+OGNIBHPJ_00013	gene	2097	gyrB_1			
+OGNIBHPJ_00013	CDS	2097	gyrB_1	5.6.2.2	COG0187	DNA gyrase subunit B
+OGNIBHPJ_00014	gene	1017				
+OGNIBHPJ_00014	CDS	1017				hypothetical protein
+OGNIBHPJ_00015	gene	231				
+OGNIBHPJ_00015	CDS	231				hypothetical protein
+OGNIBHPJ_00016	gene	585				
+OGNIBHPJ_00016	CDS	585				hypothetical protein
+OGNIBHPJ_00017	gene	4368				
+OGNIBHPJ_00017	CDS	4368				hypothetical protein
+OGNIBHPJ_00018	gene	1005				
+OGNIBHPJ_00018	CDS	1005				hypothetical protein
+OGNIBHPJ_00019	gene	381				
+OGNIBHPJ_00019	CDS	381				hypothetical protein
+OGNIBHPJ_00020	gene	321				
+OGNIBHPJ_00020	CDS	321				hypothetical protein
+OGNIBHPJ_00021	gene	624				
+OGNIBHPJ_00021	CDS	624				hypothetical protein
+OGNIBHPJ_00022	gene	255				
+OGNIBHPJ_00022	CDS	255				hypothetical protein
+OGNIBHPJ_00023	gene	627				
+OGNIBHPJ_00023	CDS	627				hypothetical protein
+OGNIBHPJ_00024	gene	429				
+OGNIBHPJ_00024	CDS	429				hypothetical protein
+OGNIBHPJ_00025	gene	1140	sasA_1			
+OGNIBHPJ_00025	CDS	1140	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+OGNIBHPJ_00026	gene	675	mprA			
+OGNIBHPJ_00026	CDS	675	mprA			Response regulator MprA
+OGNIBHPJ_00027	gene	870				
+OGNIBHPJ_00027	CDS	870				hypothetical protein
+OGNIBHPJ_00028	gene	972	resA			
+OGNIBHPJ_00028	CDS	972	resA			Thiol-disulfide oxidoreductase ResA
+OGNIBHPJ_00029	gene	3255	btuD_1			
+OGNIBHPJ_00029	CDS	3255	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OGNIBHPJ_00030	gene	954	dusC			
+OGNIBHPJ_00030	CDS	954	dusC	1.3.1.-	COG0042	tRNA-dihydrouridine(16) synthase
+OGNIBHPJ_00031	gene	267				
+OGNIBHPJ_00031	CDS	267				hypothetical protein
+OGNIBHPJ_00032	gene	513				
+OGNIBHPJ_00032	CDS	513				hypothetical protein
+OGNIBHPJ_00033	gene	171				
+OGNIBHPJ_00033	CDS	171				hypothetical protein
+OGNIBHPJ_00034	gene	246				
+OGNIBHPJ_00034	CDS	246				hypothetical protein
+OGNIBHPJ_00035	gene	828				
+OGNIBHPJ_00035	CDS	828				hypothetical protein
+OGNIBHPJ_00036	gene	747	trmO			
+OGNIBHPJ_00036	CDS	747	trmO	2.1.1.-	COG1720	tRNA (adenine(37)-N6)-methyltransferase
+OGNIBHPJ_00037	gene	1215	patB			
+OGNIBHPJ_00037	CDS	1215	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+OGNIBHPJ_00038	gene	870	tcyA			
+OGNIBHPJ_00038	CDS	870	tcyA		COG0834	L-cystine-binding protein TcyA
+OGNIBHPJ_00039	gene	2193	rcsC_1			
+OGNIBHPJ_00039	CDS	2193	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+OGNIBHPJ_00040	gene	480				
+OGNIBHPJ_00040	CDS	480				hypothetical protein
+OGNIBHPJ_00041	gene	2805	rcsC_2			
+OGNIBHPJ_00041	CDS	2805	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+OGNIBHPJ_00042	gene	426				
+OGNIBHPJ_00042	CDS	426				hypothetical protein
+OGNIBHPJ_00043	gene	534				
+OGNIBHPJ_00043	CDS	534		3.2.2.-	COG1611	Putative cytokinin riboside 5'-monophosphate phosphoribohydrolase
+OGNIBHPJ_00044	gene	1305				
+OGNIBHPJ_00044	CDS	1305				hypothetical protein
+OGNIBHPJ_00045	gene	738				
+OGNIBHPJ_00045	CDS	738				hypothetical protein
+OGNIBHPJ_00046	gene	699				
+OGNIBHPJ_00046	CDS	699				hypothetical protein
+OGNIBHPJ_00047	gene	882	btuD_2			
+OGNIBHPJ_00047	CDS	882	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OGNIBHPJ_00048	gene	381	ytrA			
+OGNIBHPJ_00048	CDS	381	ytrA		COG1725	HTH-type transcriptional repressor YtrA
+OGNIBHPJ_00049	gene	1614	prfC			
+OGNIBHPJ_00049	CDS	1614	prfC			Peptide chain release factor 3
+OGNIBHPJ_00050	gene	723				
+OGNIBHPJ_00050	CDS	723				queuosine precursor transporter
+OGNIBHPJ_00051	gene	681	fabG_1			
+OGNIBHPJ_00051	CDS	681	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+OGNIBHPJ_00052	gene	726	ung			
+OGNIBHPJ_00052	CDS	726	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+OGNIBHPJ_00053	gene	903				
+OGNIBHPJ_00053	CDS	903				hypothetical protein
+OGNIBHPJ_00054	gene	867	gltC			
+OGNIBHPJ_00054	CDS	867	gltC			HTH-type transcriptional regulator GltC
+OGNIBHPJ_00055	gene	1383	mdtK			
+OGNIBHPJ_00055	CDS	1383	mdtK			Multidrug resistance protein MdtK
+OGNIBHPJ_00056	gene	816	rlmA			
+OGNIBHPJ_00056	CDS	816	rlmA	2.1.1.187	COG0500	23S rRNA (guanine(745)-N(1))-methyltransferase
+OGNIBHPJ_00057	gene	402				
+OGNIBHPJ_00057	CDS	402				hypothetical protein
+OGNIBHPJ_00058	gene	144				
+OGNIBHPJ_00058	CDS	144				hypothetical protein
+OGNIBHPJ_00059	gene	705	rsmJ			
+OGNIBHPJ_00059	CDS	705	rsmJ	2.1.1.242		Ribosomal RNA small subunit methyltransferase J
+OGNIBHPJ_00060	gene	297				
+OGNIBHPJ_00060	CDS	297				hypothetical protein
+OGNIBHPJ_00061	gene	489				
+OGNIBHPJ_00061	CDS	489				hypothetical protein
+OGNIBHPJ_00062	gene	2004	tetO			
+OGNIBHPJ_00062	CDS	2004	tetO			Tetracycline resistance protein TetO
+OGNIBHPJ_00063	gene	1119				
+OGNIBHPJ_00063	CDS	1119				hypothetical protein
+OGNIBHPJ_00064	gene	555				
+OGNIBHPJ_00064	CDS	555				hypothetical protein
+OGNIBHPJ_00065	gene	2493	uvrA_1			
+OGNIBHPJ_00065	CDS	2493	uvrA_1		COG0178	UvrABC system protein A
+OGNIBHPJ_00066	gene	600	trmL			
+OGNIBHPJ_00066	CDS	600	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+OGNIBHPJ_00067	gene	1131	yciC			
+OGNIBHPJ_00067	CDS	1131	yciC		COG0523	Putative metal chaperone YciC
+OGNIBHPJ_00068	gene	342				
+OGNIBHPJ_00068	CDS	342				hypothetical protein
+OGNIBHPJ_00069	gene	624	sgcG			
+OGNIBHPJ_00069	CDS	624	sgcG	1.3.99.24		2-amino-4-deoxychorismate dehydrogenase
+OGNIBHPJ_00070	gene	1530				
+OGNIBHPJ_00070	CDS	1530				hypothetical protein
+OGNIBHPJ_00071	gene	2718				
+OGNIBHPJ_00071	CDS	2718				hypothetical protein
+OGNIBHPJ_00072	gene	870				
+OGNIBHPJ_00072	CDS	870				hypothetical protein
+OGNIBHPJ_00073	gene	696	thiE			
+OGNIBHPJ_00073	CDS	696	thiE	2.5.1.3	COG0352	Thiamine-phosphate synthase
+OGNIBHPJ_00074	gene	342				
+OGNIBHPJ_00074	CDS	342				hypothetical protein
+OGNIBHPJ_00075	gene	840	thiM			
+OGNIBHPJ_00075	CDS	840	thiM	2.7.1.50	COG2145	Hydroxyethylthiazole kinase
+OGNIBHPJ_00076	gene	909	cof_1			
+OGNIBHPJ_00076	CDS	909	cof_1	3.6.1.-		HMP-PP phosphatase
+OGNIBHPJ_00077	gene	897				
+OGNIBHPJ_00077	CDS	897				hypothetical protein
+OGNIBHPJ_00078	gene	1134	metE			
+OGNIBHPJ_00078	CDS	1134	metE	2.1.1.14		5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+OGNIBHPJ_00079	gene	1335	pyrP			
+OGNIBHPJ_00079	CDS	1335	pyrP			Uracil permease
+OGNIBHPJ_00080	gene	666	ybbA			
+OGNIBHPJ_00080	CDS	666	ybbA		COG2819	putative protein YbbA
+OGNIBHPJ_00081	gene	1776				
+OGNIBHPJ_00081	CDS	1776				hypothetical protein
+OGNIBHPJ_00082	gene	1314	adeQ			
+OGNIBHPJ_00082	CDS	1314	adeQ		COG2252	Adenine permease AdeQ
+OGNIBHPJ_00083	gene	420	def_1			
+OGNIBHPJ_00083	CDS	420	def_1	3.5.1.88		Peptide deformylase
+OGNIBHPJ_00084	gene	966	cbh			
+OGNIBHPJ_00084	CDS	966	cbh	3.5.1.24		Choloylglycine hydrolase
+OGNIBHPJ_00085	gene	2250	kup_1			
+OGNIBHPJ_00085	CDS	2250	kup_1			Low affinity potassium transport system protein kup
+OGNIBHPJ_00086	gene	912				
+OGNIBHPJ_00086	CDS	912				hypothetical protein
+OGNIBHPJ_00087	gene	858	cmpR			
+OGNIBHPJ_00087	CDS	858	cmpR		COG0583	HTH-type transcriptional activator CmpR
+OGNIBHPJ_00088	gene	1521	alaA			
+OGNIBHPJ_00088	CDS	1521	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA
+OGNIBHPJ_00089	gene	411	def_2			
+OGNIBHPJ_00089	CDS	411	def_2	3.5.1.88		Peptide deformylase
+OGNIBHPJ_00090	gene	894				
+OGNIBHPJ_00090	CDS	894				hypothetical protein
+OGNIBHPJ_00091	gene	588	pdxT			
+OGNIBHPJ_00091	CDS	588	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+OGNIBHPJ_00092	gene	918	pdxS			
+OGNIBHPJ_00092	CDS	918	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+OGNIBHPJ_00093	gene	1416	gabR			
+OGNIBHPJ_00093	CDS	1416	gabR		COG1167	HTH-type transcriptional regulatory protein GabR
+OGNIBHPJ_00094	gene	561	rbr3A			
+OGNIBHPJ_00094	CDS	561	rbr3A	1.11.1.1	COG1592	Reverse rubrerythrin-1
+OGNIBHPJ_00095	gene	1221	adhB			
+OGNIBHPJ_00095	CDS	1221	adhB	1.1.1.1		Alcohol dehydrogenase 2
+OGNIBHPJ_00096	gene	1380	aldH1			
+OGNIBHPJ_00096	CDS	1380	aldH1	1.2.1.-	COG1012	4,4'-diaponeurosporen-aldehyde dehydrogenase
+OGNIBHPJ_00097	gene	192				
+OGNIBHPJ_00097	CDS	192				hypothetical protein
+OGNIBHPJ_00098	gene	546				
+OGNIBHPJ_00098	CDS	546				hypothetical protein
+OGNIBHPJ_00099	gene	765				
+OGNIBHPJ_00099	CDS	765		3.5.1.-	COG3394	Carbohydrate deacetylase
+OGNIBHPJ_00100	gene	1758				
+OGNIBHPJ_00100	CDS	1758				hypothetical protein
+OGNIBHPJ_00101	gene	2682				
+OGNIBHPJ_00101	CDS	2682				hypothetical protein
+OGNIBHPJ_00102	gene	840	trmB			
+OGNIBHPJ_00102	CDS	840	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+OGNIBHPJ_00103	gene	996				
+OGNIBHPJ_00103	CDS	996				hypothetical protein
+OGNIBHPJ_00104	gene	723				
+OGNIBHPJ_00104	CDS	723				hypothetical protein
+OGNIBHPJ_00105	gene	900				
+OGNIBHPJ_00105	CDS	900				hypothetical protein
+OGNIBHPJ_00106	gene	1908				
+OGNIBHPJ_00106	CDS	1908				hypothetical protein
+OGNIBHPJ_00107	gene	879	speE			
+OGNIBHPJ_00107	CDS	879	speE	2.5.1.16		Polyamine aminopropyltransferase
+OGNIBHPJ_00108	gene	2445	srmB_1			
+OGNIBHPJ_00108	CDS	2445	srmB_1	3.6.4.13		ATP-dependent RNA helicase SrmB
+OGNIBHPJ_00109	gene	1305				
+OGNIBHPJ_00109	CDS	1305				hypothetical protein
+OGNIBHPJ_00110	gene	1752				
+OGNIBHPJ_00110	CDS	1752				hypothetical protein
+OGNIBHPJ_00111	gene	717	ydfK			
+OGNIBHPJ_00111	CDS	717	ydfK		COG1811	putative membrane protein YdfK
+OGNIBHPJ_00112	gene	1431				
+OGNIBHPJ_00112	CDS	1431				hypothetical protein
+OGNIBHPJ_00113	gene	216				
+OGNIBHPJ_00113	CDS	216				hypothetical protein
+OGNIBHPJ_00114	gene	600				
+OGNIBHPJ_00114	CDS	600				hypothetical protein
+OGNIBHPJ_00115	gene	510				
+OGNIBHPJ_00115	CDS	510				hypothetical protein
+OGNIBHPJ_00116	gene	297				
+OGNIBHPJ_00116	CDS	297				hypothetical protein
+OGNIBHPJ_00117	gene	1602				
+OGNIBHPJ_00117	CDS	1602		1.-.-.-	COG0277	putative FAD-linked oxidoreductase
+OGNIBHPJ_00118	gene	816	carD			
+OGNIBHPJ_00118	CDS	816	carD	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+OGNIBHPJ_00119	gene	1206	carE			
+OGNIBHPJ_00119	CDS	1206	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+OGNIBHPJ_00120	gene	813				
+OGNIBHPJ_00120	CDS	813				hypothetical protein
+OGNIBHPJ_00121	gene	657				
+OGNIBHPJ_00121	CDS	657				hypothetical protein
+OGNIBHPJ_00122	gene	324				
+OGNIBHPJ_00122	CDS	324				hypothetical protein
+OGNIBHPJ_00123	gene	1023	kdgT_1			
+OGNIBHPJ_00123	CDS	1023	kdgT_1			2-keto-3-deoxygluconate permease
+OGNIBHPJ_00124	gene	1152				
+OGNIBHPJ_00124	CDS	1152				hypothetical protein
+OGNIBHPJ_00125	gene	936				
+OGNIBHPJ_00125	CDS	936				hypothetical protein
+OGNIBHPJ_00126	gene	3747	purL			
+OGNIBHPJ_00126	CDS	3747	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+OGNIBHPJ_00127	gene	1563	kefB			
+OGNIBHPJ_00127	CDS	1563	kefB			Glutathione-regulated potassium-efflux system protein KefB
+OGNIBHPJ_00128	gene	1344	hom			
+OGNIBHPJ_00128	CDS	1344	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+OGNIBHPJ_00129	gene	1167				
+OGNIBHPJ_00129	CDS	1167			COG0683	Leu/Ile/Val-binding protein 
+OGNIBHPJ_00130	gene	1188	braC			
+OGNIBHPJ_00130	CDS	1188	braC		COG0683	Leucine-, isoleucine-, valine-, threonine-, and alanine-binding protein
+OGNIBHPJ_00131	gene	882	livH			
+OGNIBHPJ_00131	CDS	882	livH		COG0559	High-affinity branched-chain amino acid transport system permease protein LivH
+OGNIBHPJ_00132	gene	1080				
+OGNIBHPJ_00132	CDS	1080				hypothetical protein
+OGNIBHPJ_00133	gene	861	lptB			
+OGNIBHPJ_00133	CDS	861	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+OGNIBHPJ_00134	gene	714	livF			
+OGNIBHPJ_00134	CDS	714	livF		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+OGNIBHPJ_00135	gene	678	cutC			
+OGNIBHPJ_00135	CDS	678	cutC		COG3142	Copper homeostasis protein CutC
+OGNIBHPJ_00136	gene	798				
+OGNIBHPJ_00136	CDS	798				hypothetical protein
+OGNIBHPJ_00137	gene	999				
+OGNIBHPJ_00137	CDS	999				hypothetical protein
+OGNIBHPJ_00138	gene	3288	srmB_2			
+OGNIBHPJ_00138	CDS	3288	srmB_2	3.6.4.13		ATP-dependent RNA helicase SrmB
+OGNIBHPJ_00139	gene	2361	relA			
+OGNIBHPJ_00139	CDS	2361	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+OGNIBHPJ_00140	gene	684	gloC			
+OGNIBHPJ_00140	CDS	684	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+OGNIBHPJ_00141	gene	867	fba			
+OGNIBHPJ_00141	CDS	867	fba	4.1.2.13		Fructose-bisphosphate aldolase
+OGNIBHPJ_00142	gene	1434				
+OGNIBHPJ_00142	CDS	1434				hypothetical protein
+OGNIBHPJ_00143	gene	87				
+OGNIBHPJ_00143	tRNA	87				tRNA-Leu(caa)
+OGNIBHPJ_00144	gene	570	infC			
+OGNIBHPJ_00144	CDS	570	infC		COG0290	Translation initiation factor IF-3
+OGNIBHPJ_00145	gene	192	rpmI			
+OGNIBHPJ_00145	CDS	192	rpmI		COG0291	50S ribosomal protein L35
+OGNIBHPJ_00146	gene	360	rplT			
+OGNIBHPJ_00146	CDS	360	rplT		COG0292	50S ribosomal protein L20
+OGNIBHPJ_00147	gene	1502				
+OGNIBHPJ_00147	rRNA	1502				16S ribosomal RNA
+OGNIBHPJ_00148	gene	2960				
+OGNIBHPJ_00148	rRNA	2960				23S ribosomal RNA
+OGNIBHPJ_00149	gene	108				
+OGNIBHPJ_00149	rRNA	108				5S ribosomal RNA
+OGNIBHPJ_00150	gene	642	coaE			
+OGNIBHPJ_00150	CDS	642	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+OGNIBHPJ_00151	gene	582	mltC			
+OGNIBHPJ_00151	CDS	582	mltC	4.2.2.-		Membrane-bound lytic murein transglycosylase C
+OGNIBHPJ_00152	gene	2241	uvrB			
+OGNIBHPJ_00152	CDS	2241	uvrB			UvrABC system protein B
+OGNIBHPJ_00153	gene	1641				
+OGNIBHPJ_00153	CDS	1641				hypothetical protein
+OGNIBHPJ_00154	gene	1272	baiN			
+OGNIBHPJ_00154	CDS	1272	baiN	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+OGNIBHPJ_00155	gene	831	apbC			
+OGNIBHPJ_00155	CDS	831	apbC		COG0489	Iron-sulfur cluster carrier protein
+OGNIBHPJ_00156	gene	2154				
+OGNIBHPJ_00156	CDS	2154				hypothetical protein
+OGNIBHPJ_00157	gene	2880	uvrA_2			
+OGNIBHPJ_00157	CDS	2880	uvrA_2			UvrABC system protein A
+OGNIBHPJ_00158	gene	501	ybaK			
+OGNIBHPJ_00158	CDS	501	ybaK	4.2.-.-	COG2606	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+OGNIBHPJ_00159	gene	1581	murJ			
+OGNIBHPJ_00159	CDS	1581	murJ			lipid II flippase MurJ
+OGNIBHPJ_00160	gene	1941	uvrC			
+OGNIBHPJ_00160	CDS	1941	uvrC		COG0322	UvrABC system protein C
+OGNIBHPJ_00161	gene	1614	hbpA			
+OGNIBHPJ_00161	CDS	1614	hbpA		COG0747	Heme-binding protein A
+OGNIBHPJ_00162	gene	957	gsiC			
+OGNIBHPJ_00162	CDS	957	gsiC		COG0601	Glutathione transport system permease protein GsiC
+OGNIBHPJ_00163	gene	2016	btuD_3			
+OGNIBHPJ_00163	CDS	2016	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OGNIBHPJ_00164	gene	828	oppF_1			
+OGNIBHPJ_00164	CDS	828	oppF_1		COG4608	Oligopeptide transport ATP-binding protein OppF
+OGNIBHPJ_00165	gene	927	axeA			
+OGNIBHPJ_00165	CDS	927	axeA	3.1.1.41	COG3458	Cephalosporin-C deacetylase
+OGNIBHPJ_00166	gene	852				
+OGNIBHPJ_00166	CDS	852				hypothetical protein
+OGNIBHPJ_00167	gene	1005	yjhH			
+OGNIBHPJ_00167	CDS	1005	yjhH	4.1.2.28	COG0329	putative 2-dehydro-3-deoxy-D-pentonate aldolase YjhH
+OGNIBHPJ_00168	gene	966	glcK_1			
+OGNIBHPJ_00168	CDS	966	glcK_1	2.7.1.2	COG1940	Glucokinase
+OGNIBHPJ_00169	gene	687	nanE			
+OGNIBHPJ_00169	CDS	687	nanE	5.1.3.9		Putative N-acetylmannosamine-6-phosphate 2-epimerase
+OGNIBHPJ_00170	gene	921				
+OGNIBHPJ_00170	CDS	921				Nucleotide-binding protein
+OGNIBHPJ_00171	gene	930	whiA			
+OGNIBHPJ_00171	CDS	930	whiA		COG1481	putative cell division protein WhiA
+OGNIBHPJ_00172	gene	1026	gap			
+OGNIBHPJ_00172	CDS	1026	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+OGNIBHPJ_00173	gene	1191	pgk			
+OGNIBHPJ_00173	CDS	1191	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+OGNIBHPJ_00174	gene	768	tpiA			
+OGNIBHPJ_00174	CDS	768	tpiA	5.3.1.1		Triosephosphate isomerase
+OGNIBHPJ_00175	gene	1554	gpmI			
+OGNIBHPJ_00175	CDS	1554	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+OGNIBHPJ_00176	gene	255				
+OGNIBHPJ_00176	CDS	255				hypothetical protein
+OGNIBHPJ_00177	gene	1677	oppA			
+OGNIBHPJ_00177	CDS	1677	oppA		COG4166	Oligopeptide-binding protein OppA
+OGNIBHPJ_00178	gene	1038	dppB			
+OGNIBHPJ_00178	CDS	1038	dppB		COG0601	Dipeptide transport system permease protein DppB
+OGNIBHPJ_00179	gene	936	gsiD			
+OGNIBHPJ_00179	CDS	936	gsiD		COG1173	Glutathione transport system permease protein GsiD
+OGNIBHPJ_00180	gene	1092	oppD			
+OGNIBHPJ_00180	CDS	1092	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+OGNIBHPJ_00181	gene	1029	oppF_2			
+OGNIBHPJ_00181	CDS	1029	oppF_2		COG4608	Oligopeptide transport ATP-binding protein OppF
+OGNIBHPJ_00182	gene	90				
+OGNIBHPJ_00182	tRNA	90				tRNA-Leu(gag)
+OGNIBHPJ_00183	gene	2346				
+OGNIBHPJ_00183	CDS	2346				hypothetical protein
+OGNIBHPJ_00184	gene	747	spoIIAB			
+OGNIBHPJ_00184	CDS	747	spoIIAB	2.7.11.1		Anti-sigma F factor
+OGNIBHPJ_00185	gene	76				
+OGNIBHPJ_00185	tRNA	76				tRNA-Gly(gcc)
+OGNIBHPJ_00186	gene	74				
+OGNIBHPJ_00186	tRNA	74				tRNA-Cys(gca)
+OGNIBHPJ_00187	gene	76				
+OGNIBHPJ_00187	tRNA	76				tRNA-Gly(gcc)
+OGNIBHPJ_00188	gene	1734	treC			
+OGNIBHPJ_00188	CDS	1734	treC	3.2.1.93	COG0366	Trehalose-6-phosphate hydrolase
+OGNIBHPJ_00189	gene	76				
+OGNIBHPJ_00189	tRNA	76				tRNA-Gly(gcc)
+OGNIBHPJ_00190	gene	75				
+OGNIBHPJ_00190	tRNA	75				tRNA-Val(gac)
+OGNIBHPJ_00191	gene	570				
+OGNIBHPJ_00191	CDS	570				hypothetical protein
+OGNIBHPJ_00192	gene	618				
+OGNIBHPJ_00192	CDS	618				hypothetical protein
+OGNIBHPJ_00193	gene	1266				
+OGNIBHPJ_00193	CDS	1266				hypothetical protein
+OGNIBHPJ_00194	gene	423				
+OGNIBHPJ_00194	CDS	423				hypothetical protein
+OGNIBHPJ_00195	gene	234				
+OGNIBHPJ_00195	CDS	234				hypothetical protein
+OGNIBHPJ_00196	gene	1008	eutD			
+OGNIBHPJ_00196	CDS	1008	eutD		COG0280	Ethanolamine utilization protein EutD
+OGNIBHPJ_00197	gene	1113	buk2			
+OGNIBHPJ_00197	CDS	1113	buk2	2.7.2.7	COG3426	putative butyrate kinase 2
+OGNIBHPJ_00198	gene	1200				
+OGNIBHPJ_00198	CDS	1200				hypothetical protein
+OGNIBHPJ_00199	gene	291				
+OGNIBHPJ_00199	CDS	291				hypothetical protein
+OGNIBHPJ_00200	gene	183				
+OGNIBHPJ_00200	CDS	183				hypothetical protein
+OGNIBHPJ_00201	gene	2223	nrdD			
+OGNIBHPJ_00201	CDS	2223	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+OGNIBHPJ_00202	gene	582	nrdG			
+OGNIBHPJ_00202	CDS	582	nrdG	1.97.1.-	COG0602	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+OGNIBHPJ_00203	gene	558	folE			
+OGNIBHPJ_00203	CDS	558	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+OGNIBHPJ_00204	gene	582				
+OGNIBHPJ_00204	CDS	582				hypothetical protein
+OGNIBHPJ_00205	gene	486				
+OGNIBHPJ_00205	CDS	486				hypothetical protein
+OGNIBHPJ_00206	gene	777				
+OGNIBHPJ_00206	CDS	777				hypothetical protein
+OGNIBHPJ_00207	gene	1014				
+OGNIBHPJ_00207	CDS	1014				hypothetical protein
+OGNIBHPJ_00208	gene	429	slyD			
+OGNIBHPJ_00208	CDS	429	slyD	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+OGNIBHPJ_00209	gene	579	ureE			
+OGNIBHPJ_00209	CDS	579	ureE			Urease accessory protein UreE
+OGNIBHPJ_00210	gene	873	ybjI_1			
+OGNIBHPJ_00210	CDS	873	ybjI_1	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+OGNIBHPJ_00211	gene	381	perR			
+OGNIBHPJ_00211	CDS	381	perR		COG0735	Peroxide-responsive repressor PerR
+OGNIBHPJ_00212	gene	411	yccX			
+OGNIBHPJ_00212	CDS	411	yccX	3.6.1.7		Acylphosphatase
+OGNIBHPJ_00213	gene	1107	iolU_1			
+OGNIBHPJ_00213	CDS	1107	iolU_1	1.1.1.371	COG0673	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+OGNIBHPJ_00214	gene	486	rnhA			
+OGNIBHPJ_00214	CDS	486	rnhA	3.1.26.4	COG0328	Ribonuclease HI
+OGNIBHPJ_00215	gene	903				
+OGNIBHPJ_00215	CDS	903				hypothetical protein
+OGNIBHPJ_00216	gene	1311				
+OGNIBHPJ_00216	CDS	1311		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+OGNIBHPJ_00217	gene	777				
+OGNIBHPJ_00217	CDS	777				hypothetical protein
+OGNIBHPJ_00218	gene	207				
+OGNIBHPJ_00218	CDS	207				hypothetical protein
+OGNIBHPJ_00219	gene	915	panE			
+OGNIBHPJ_00219	CDS	915	panE	1.1.1.169	COG1893	2-dehydropantoate 2-reductase
+OGNIBHPJ_00220	gene	771				
+OGNIBHPJ_00220	CDS	771		3.5.2.20	COG1878	Isatin hydrolase
+OGNIBHPJ_00221	gene	1242				
+OGNIBHPJ_00221	CDS	1242				hypothetical protein
+OGNIBHPJ_00222	gene	1020	iolU_2			
+OGNIBHPJ_00222	CDS	1020	iolU_2	1.1.1.371	COG0673	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+OGNIBHPJ_00223	gene	867	nfo			
+OGNIBHPJ_00223	CDS	867	nfo	3.1.21.2	COG0648	putative endonuclease 4
+OGNIBHPJ_00224	gene	861	mltF_1			
+OGNIBHPJ_00224	CDS	861	mltF_1	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+OGNIBHPJ_00225	gene	1362				
+OGNIBHPJ_00225	CDS	1362				hypothetical protein
+OGNIBHPJ_00226	gene	753	glnQ_1			
+OGNIBHPJ_00226	CDS	753	glnQ_1			Glutamine transport ATP-binding protein GlnQ
+OGNIBHPJ_00227	gene	420				
+OGNIBHPJ_00227	CDS	420			COG0716	Flavodoxin
+OGNIBHPJ_00228	gene	705				
+OGNIBHPJ_00228	CDS	705				hypothetical protein
+OGNIBHPJ_00229	gene	384				
+OGNIBHPJ_00229	CDS	384				hypothetical protein
+OGNIBHPJ_00230	gene	426				
+OGNIBHPJ_00230	CDS	426				hypothetical protein
+OGNIBHPJ_00231	gene	1506	dinB_1			
+OGNIBHPJ_00231	CDS	1506	dinB_1	2.7.7.7		DNA polymerase IV
+OGNIBHPJ_00232	gene	576				
+OGNIBHPJ_00232	CDS	576				hypothetical protein
+OGNIBHPJ_00233	gene	1695	pgi			
+OGNIBHPJ_00233	CDS	1695	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+OGNIBHPJ_00234	gene	1311				
+OGNIBHPJ_00234	CDS	1311				hypothetical protein
+OGNIBHPJ_00235	gene	618	clpP_1			
+OGNIBHPJ_00235	CDS	618	clpP_1	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+OGNIBHPJ_00236	gene	1044				
+OGNIBHPJ_00236	CDS	1044				hypothetical protein
+OGNIBHPJ_00237	gene	843	yidA_1			
+OGNIBHPJ_00237	CDS	843	yidA_1	3.1.3.23	COG0561	Sugar phosphatase YidA
+OGNIBHPJ_00238	gene	660				
+OGNIBHPJ_00238	CDS	660		3.1.3.-	COG0637	Phosphorylated carbohydrates phosphatase
+OGNIBHPJ_00239	gene	864	frlD_1			
+OGNIBHPJ_00239	CDS	864	frlD_1	2.7.1.-	COG0524	Fructosamine kinase FrlD
+OGNIBHPJ_00240	gene	741	tatD			
+OGNIBHPJ_00240	CDS	741	tatD	3.1.11.-	COG0084	3'-5' ssDNA/RNA exonuclease TatD
+OGNIBHPJ_00241	gene	795				
+OGNIBHPJ_00241	CDS	795				hypothetical protein
+OGNIBHPJ_00242	gene	279	sdpR			
+OGNIBHPJ_00242	CDS	279	sdpR		COG0640	Transcriptional repressor SdpR
+OGNIBHPJ_00243	gene	705				
+OGNIBHPJ_00243	CDS	705				hypothetical protein
+OGNIBHPJ_00244	gene	1680	ettA			
+OGNIBHPJ_00244	CDS	1680	ettA		COG0488	Energy-dependent translational throttle protein EttA
+OGNIBHPJ_00245	gene	1308				
+OGNIBHPJ_00245	CDS	1308				hypothetical protein
+OGNIBHPJ_00246	gene	954				
+OGNIBHPJ_00246	CDS	954				hypothetical protein
+OGNIBHPJ_00247	gene	1980	nadE_1			
+OGNIBHPJ_00247	CDS	1980	nadE_1	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+OGNIBHPJ_00248	gene	1164	dapL			
+OGNIBHPJ_00248	CDS	1164	dapL	2.6.1.83	COG0436	LL-diaminopimelate aminotransferase
+OGNIBHPJ_00249	gene	951	ldh_1			
+OGNIBHPJ_00249	CDS	951	ldh_1	1.1.1.27	COG0039	L-lactate dehydrogenase
+OGNIBHPJ_00250	gene	1161				
+OGNIBHPJ_00250	CDS	1161				hypothetical protein
+OGNIBHPJ_00251	gene	1005				
+OGNIBHPJ_00251	CDS	1005				hypothetical protein
+OGNIBHPJ_00252	gene	720	dapH_1			
+OGNIBHPJ_00252	CDS	720	dapH_1	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+OGNIBHPJ_00253	gene	708	dapB			
+OGNIBHPJ_00253	CDS	708	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+OGNIBHPJ_00254	gene	2310	dapA			
+OGNIBHPJ_00254	CDS	2310	dapA	4.3.3.7		4-hydroxy-tetrahydrodipicolinate synthase
+OGNIBHPJ_00255	gene	1188				
+OGNIBHPJ_00255	CDS	1188		3.5.1.47	COG1473	N-acetyldiaminopimelate deacetylase
+OGNIBHPJ_00256	gene	342				
+OGNIBHPJ_00256	CDS	342				hypothetical protein
+OGNIBHPJ_00257	gene	324				
+OGNIBHPJ_00257	CDS	324				hypothetical protein
+OGNIBHPJ_00258	gene	429				
+OGNIBHPJ_00258	CDS	429				hypothetical protein
+OGNIBHPJ_00259	gene	423				
+OGNIBHPJ_00259	CDS	423				hypothetical protein
+OGNIBHPJ_00260	gene	1392	pknD_1			
+OGNIBHPJ_00260	CDS	1392	pknD_1	2.7.11.1		Serine/threonine-protein kinase PknD
+OGNIBHPJ_00261	gene	1134				
+OGNIBHPJ_00261	CDS	1134				hypothetical protein
+OGNIBHPJ_00262	gene	633				
+OGNIBHPJ_00262	CDS	633				hypothetical protein
+OGNIBHPJ_00263	gene	1257				
+OGNIBHPJ_00263	CDS	1257		6.3.1.12		D-aspartate ligase
+OGNIBHPJ_00264	gene	747				
+OGNIBHPJ_00264	CDS	747		5.1.1.13	COG1794	Aspartate racemase
+OGNIBHPJ_00265	gene	747	ecfT_1			
+OGNIBHPJ_00265	CDS	747	ecfT_1			Energy-coupling factor transporter transmembrane protein EcfT
+OGNIBHPJ_00266	gene	1752	ykoD_1			
+OGNIBHPJ_00266	CDS	1752	ykoD_1	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+OGNIBHPJ_00267	gene	552				
+OGNIBHPJ_00267	CDS	552				hypothetical protein
+OGNIBHPJ_00268	gene	573				
+OGNIBHPJ_00268	CDS	573				hypothetical protein
+OGNIBHPJ_00269	gene	1932				
+OGNIBHPJ_00269	CDS	1932				hypothetical protein
+OGNIBHPJ_00270	gene	93				
+OGNIBHPJ_00270	CDS	93				hypothetical protein
+OGNIBHPJ_00271	gene	918	dagK			
+OGNIBHPJ_00271	CDS	918	dagK	2.7.1.107	COG1597	Diacylglycerol kinase
+OGNIBHPJ_00272	gene	1134	rnd			
+OGNIBHPJ_00272	CDS	1134	rnd	3.1.13.5	COG0349	Ribonuclease D
+OGNIBHPJ_00273	gene	705				
+OGNIBHPJ_00273	CDS	705				hypothetical protein
+OGNIBHPJ_00274	gene	1479	xseA			
+OGNIBHPJ_00274	CDS	1479	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+OGNIBHPJ_00275	gene	267	xseB			
+OGNIBHPJ_00275	CDS	267	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+OGNIBHPJ_00276	gene	336				
+OGNIBHPJ_00276	CDS	336		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+OGNIBHPJ_00277	gene	891				
+OGNIBHPJ_00277	CDS	891				hypothetical protein
+OGNIBHPJ_00278	gene	1161				
+OGNIBHPJ_00278	CDS	1161				hypothetical protein
+OGNIBHPJ_00279	gene	1179	ackA_1			
+OGNIBHPJ_00279	CDS	1179	ackA_1	2.7.2.1	COG0282	Acetate kinase
+OGNIBHPJ_00280	gene	1179	ackA_2			
+OGNIBHPJ_00280	CDS	1179	ackA_2	2.7.2.1	COG0282	Acetate kinase
+OGNIBHPJ_00281	gene	981	pta			
+OGNIBHPJ_00281	CDS	981	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+OGNIBHPJ_00282	gene	1203	rfbD			
+OGNIBHPJ_00282	CDS	1203	rfbD	5.4.99.9		UDP-galactopyranose mutase
+OGNIBHPJ_00283	gene	1032				
+OGNIBHPJ_00283	CDS	1032				hypothetical protein
+OGNIBHPJ_00284	gene	1002				
+OGNIBHPJ_00284	CDS	1002		3.4.11.-	COG3191	putative aminopeptidase
+OGNIBHPJ_00285	gene	582	maf			
+OGNIBHPJ_00285	CDS	582	maf	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+OGNIBHPJ_00286	gene	543	yajL			
+OGNIBHPJ_00286	CDS	543	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+OGNIBHPJ_00287	gene	1314	rlmCD_1			
+OGNIBHPJ_00287	CDS	1314	rlmCD_1	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+OGNIBHPJ_00288	gene	2448	ppk			
+OGNIBHPJ_00288	CDS	2448	ppk	2.7.4.1		Polyphosphate kinase
+OGNIBHPJ_00289	gene	1242	arcA_1			
+OGNIBHPJ_00289	CDS	1242	arcA_1	3.5.3.6	COG2235	Arginine deiminase
+OGNIBHPJ_00290	gene	1125	vioD_1			
+OGNIBHPJ_00290	CDS	1125	vioD_1	4.2.1.145		Capreomycidine synthase
+OGNIBHPJ_00291	gene	1242	arcA_2			
+OGNIBHPJ_00291	CDS	1242	arcA_2	3.5.3.6	COG2235	Arginine deiminase
+OGNIBHPJ_00292	gene	996	argF			
+OGNIBHPJ_00292	CDS	996	argF	2.1.3.3		Ornithine carbamoyltransferase
+OGNIBHPJ_00293	gene	1479				
+OGNIBHPJ_00293	CDS	1479				hypothetical protein
+OGNIBHPJ_00294	gene	1482				
+OGNIBHPJ_00294	CDS	1482				hypothetical protein
+OGNIBHPJ_00295	gene	339				
+OGNIBHPJ_00295	CDS	339				hypothetical protein
+OGNIBHPJ_00296	gene	1662	pyrG			
+OGNIBHPJ_00296	CDS	1662	pyrG	6.3.4.2		CTP synthase
+OGNIBHPJ_00297	gene	942	xerD			
+OGNIBHPJ_00297	CDS	942	xerD			Tyrosine recombinase XerD
+OGNIBHPJ_00298	gene	435	mraZ			
+OGNIBHPJ_00298	CDS	435	mraZ			Transcriptional regulator MraZ
+OGNIBHPJ_00299	gene	921	rsmH			
+OGNIBHPJ_00299	CDS	921	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+OGNIBHPJ_00300	gene	471				
+OGNIBHPJ_00300	CDS	471				hypothetical protein
+OGNIBHPJ_00301	gene	1623	penA			
+OGNIBHPJ_00301	CDS	1623	penA	3.4.16.4	COG0768	putative peptidoglycan D,D-transpeptidase PenA
+OGNIBHPJ_00302	gene	1425	murF			
+OGNIBHPJ_00302	CDS	1425	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+OGNIBHPJ_00303	gene	1020	mraY			
+OGNIBHPJ_00303	CDS	1020	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+OGNIBHPJ_00304	gene	1407	murD			
+OGNIBHPJ_00304	CDS	1407	murD	6.3.2.9	COG0771	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+OGNIBHPJ_00305	gene	1383	ftsW			
+OGNIBHPJ_00305	CDS	1383	ftsW	2.4.1.129		peptidoglycan glycosyltransferase FtsW
+OGNIBHPJ_00306	gene	1116	murG			
+OGNIBHPJ_00306	CDS	1116	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+OGNIBHPJ_00307	gene	1419	murC			
+OGNIBHPJ_00307	CDS	1419	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+OGNIBHPJ_00308	gene	912	murB_1			
+OGNIBHPJ_00308	CDS	912	murB_1	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+OGNIBHPJ_00309	gene	843	ftsQ			
+OGNIBHPJ_00309	CDS	843	ftsQ			Cell division protein FtsQ
+OGNIBHPJ_00310	gene	1155	ftsZ			
+OGNIBHPJ_00310	CDS	1155	ftsZ		COG0206	Cell division protein FtsZ
+OGNIBHPJ_00311	gene	801	rl5			
+OGNIBHPJ_00311	CDS	801	rl5	1.10.3.-		Polyphenol oxidase
+OGNIBHPJ_00312	gene	837	pstS1_1			
+OGNIBHPJ_00312	CDS	837	pstS1_1		COG0226	Phosphate-binding protein PstS 1
+OGNIBHPJ_00313	gene	927				
+OGNIBHPJ_00313	CDS	927				hypothetical protein
+OGNIBHPJ_00314	gene	906	pstA_1			
+OGNIBHPJ_00314	CDS	906	pstA_1		COG0581	Phosphate transport system permease protein PstA
+OGNIBHPJ_00315	gene	804	pstB			
+OGNIBHPJ_00315	CDS	804	pstB	7.3.2.1		Phosphate import ATP-binding protein PstB
+OGNIBHPJ_00316	gene	858	phoU			
+OGNIBHPJ_00316	CDS	858	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU
+OGNIBHPJ_00317	gene	738				
+OGNIBHPJ_00317	CDS	738			COG0325	Pyridoxal phosphate homeostasis protein
+OGNIBHPJ_00318	gene	723	sepF			
+OGNIBHPJ_00318	CDS	723	sepF			Cell division protein SepF
+OGNIBHPJ_00319	gene	204				
+OGNIBHPJ_00319	CDS	204				hypothetical protein
+OGNIBHPJ_00320	gene	675				
+OGNIBHPJ_00320	CDS	675				hypothetical protein
+OGNIBHPJ_00321	gene	390				
+OGNIBHPJ_00321	CDS	390				hypothetical protein
+OGNIBHPJ_00322	gene	624				
+OGNIBHPJ_00322	CDS	624				hypothetical protein
+OGNIBHPJ_00323	gene	1050				
+OGNIBHPJ_00323	CDS	1050				hypothetical protein
+OGNIBHPJ_00324	gene	339				
+OGNIBHPJ_00324	CDS	339				hypothetical protein
+OGNIBHPJ_00325	gene	696				
+OGNIBHPJ_00325	CDS	696				hypothetical protein
+OGNIBHPJ_00326	gene	1131				
+OGNIBHPJ_00326	CDS	1131				hypothetical protein
+OGNIBHPJ_00327	gene	735				
+OGNIBHPJ_00327	CDS	735				hypothetical protein
+OGNIBHPJ_00328	gene	831	thiD			
+OGNIBHPJ_00328	CDS	831	thiD	2.7.1.49	COG0351	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+OGNIBHPJ_00329	gene	1335	bzaF			
+OGNIBHPJ_00329	CDS	1335	bzaF	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+OGNIBHPJ_00330	gene	516				
+OGNIBHPJ_00330	CDS	516				hypothetical protein
+OGNIBHPJ_00331	gene	810	yaaA			
+OGNIBHPJ_00331	CDS	810	yaaA		COG3022	Peroxide stress resistance protein YaaA
+OGNIBHPJ_00332	gene	1218				
+OGNIBHPJ_00332	CDS	1218				hypothetical protein
+OGNIBHPJ_00333	gene	1398	apeA			
+OGNIBHPJ_00333	CDS	1398	apeA	3.4.11.-	COG1362	putative M18 family aminopeptidase 1
+OGNIBHPJ_00334	gene	2751	polA			
+OGNIBHPJ_00334	CDS	2751	polA	2.7.7.7		DNA polymerase I
+OGNIBHPJ_00335	gene	828	ybjI_2			
+OGNIBHPJ_00335	CDS	828	ybjI_2	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+OGNIBHPJ_00336	gene	1227	argG			
+OGNIBHPJ_00336	CDS	1227	argG	6.3.4.5		Argininosuccinate synthase
+OGNIBHPJ_00337	gene	171				
+OGNIBHPJ_00337	CDS	171				hypothetical protein
+OGNIBHPJ_00338	gene	1485	argH			
+OGNIBHPJ_00338	CDS	1485	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+OGNIBHPJ_00339	gene	447	ndk			
+OGNIBHPJ_00339	CDS	447	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+OGNIBHPJ_00340	gene	468	rpiB			
+OGNIBHPJ_00340	CDS	468	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+OGNIBHPJ_00341	gene	1320				
+OGNIBHPJ_00341	CDS	1320				hypothetical protein
+OGNIBHPJ_00342	gene	735				
+OGNIBHPJ_00342	CDS	735				hypothetical protein
+OGNIBHPJ_00343	gene	1110	rpsA			
+OGNIBHPJ_00343	CDS	1110	rpsA		COG0539	30S ribosomal protein S1
+OGNIBHPJ_00344	gene	636	yigZ			
+OGNIBHPJ_00344	CDS	636	yigZ		COG1739	IMPACT family member YigZ
+OGNIBHPJ_00345	gene	543				
+OGNIBHPJ_00345	CDS	543				hypothetical protein
+OGNIBHPJ_00346	gene	1284				
+OGNIBHPJ_00346	CDS	1284		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+OGNIBHPJ_00347	gene	1305	ribZ			
+OGNIBHPJ_00347	CDS	1305	ribZ			Riboflavin transporter RibZ
+OGNIBHPJ_00348	gene	579	xpt			
+OGNIBHPJ_00348	CDS	579	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+OGNIBHPJ_00349	gene	381	prfB_1			
+OGNIBHPJ_00349	CDS	381	prfB_1			Peptide chain release factor 2
+OGNIBHPJ_00350	gene	963	ytlR			
+OGNIBHPJ_00350	CDS	963	ytlR	2.7.1.-	COG1597	Putative lipid kinase YtlR
+OGNIBHPJ_00351	gene	1422	eriC_1			
+OGNIBHPJ_00351	CDS	1422	eriC_1		COG0038	Chloride/fluoride channel protein
+OGNIBHPJ_00352	gene	1263	moeA			
+OGNIBHPJ_00352	CDS	1263	moeA	2.10.1.1		Molybdopterin molybdenumtransferase
+OGNIBHPJ_00353	gene	480	mog			
+OGNIBHPJ_00353	CDS	480	mog	2.7.7.75	COG0521	Molybdopterin adenylyltransferase
+OGNIBHPJ_00354	gene	876	modA			
+OGNIBHPJ_00354	CDS	876	modA		COG0725	Molybdate-binding protein ModA
+OGNIBHPJ_00355	gene	153				
+OGNIBHPJ_00355	CDS	153				hypothetical protein
+OGNIBHPJ_00356	gene	1266				
+OGNIBHPJ_00356	CDS	1266				hypothetical protein
+OGNIBHPJ_00357	gene	1071	ugpC			
+OGNIBHPJ_00357	CDS	1071	ugpC	7.6.2.10	COG3839	sn-glycerol-3-phosphate import ATP-binding protein UgpC
+OGNIBHPJ_00358	gene	945	selD			
+OGNIBHPJ_00358	CDS	945	selD	2.7.9.3	COG0709	Selenide, water dikinase
+OGNIBHPJ_00359	gene	627				
+OGNIBHPJ_00359	CDS	627				hypothetical protein
+OGNIBHPJ_00360	gene	252				
+OGNIBHPJ_00360	CDS	252				hypothetical protein
+OGNIBHPJ_00361	gene	1143	csdA			
+OGNIBHPJ_00361	CDS	1143	csdA	2.8.1.7	COG0520	Cysteine desulfurase CsdA
+OGNIBHPJ_00362	gene	12894				
+OGNIBHPJ_00362	CDS	12894				hypothetical protein
+OGNIBHPJ_00363	gene	1359	brnQ			
+OGNIBHPJ_00363	CDS	1359	brnQ		COG1114	Branched-chain amino acid transport system 2 carrier protein
+OGNIBHPJ_00364	gene	77				
+OGNIBHPJ_00364	tRNA	77				tRNA-Pro(tgg)
+OGNIBHPJ_00365	gene	74				
+OGNIBHPJ_00365	tRNA	74				tRNA-Gly(tcc)
+OGNIBHPJ_00366	gene	873				
+OGNIBHPJ_00366	CDS	873				hypothetical protein
+OGNIBHPJ_00367	gene	477				
+OGNIBHPJ_00367	CDS	477				hypothetical protein
+OGNIBHPJ_00368	gene	324				
+OGNIBHPJ_00368	CDS	324				hypothetical protein
+OGNIBHPJ_00369	gene	462	hyfA_1			
+OGNIBHPJ_00369	CDS	462	hyfA_1	1.-.-.-	COG1142	Hydrogenase-4 component A
+OGNIBHPJ_00370	gene	420	fdhF_1			
+OGNIBHPJ_00370	CDS	420	fdhF_1	1.17.1.9	COG0243	Formate dehydrogenase H
+OGNIBHPJ_00371	gene	1779	fdhF_2			
+OGNIBHPJ_00371	CDS	1779	fdhF_2	1.17.1.9	COG0243	Formate dehydrogenase H
+OGNIBHPJ_00372	gene	618	hyfA_2			
+OGNIBHPJ_00372	CDS	618	hyfA_2	1.-.-.-	COG1142	Hydrogenase-4 component A
+OGNIBHPJ_00373	gene	2019	hyfB			
+OGNIBHPJ_00373	CDS	2019	hyfB	1.-.-.-	COG0651	Hydrogenase-4 component B
+OGNIBHPJ_00374	gene	924	hycD			
+OGNIBHPJ_00374	CDS	924	hycD		COG0650	Formate hydrogenlyase subunit 4
+OGNIBHPJ_00375	gene	1425	mrpA			
+OGNIBHPJ_00375	CDS	1425	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+OGNIBHPJ_00376	gene	654	hyfE			
+OGNIBHPJ_00376	CDS	654	hyfE	1.-.-.-	COG4237	Hydrogenase-4 component E
+OGNIBHPJ_00377	gene	1566	ndhB_1			
+OGNIBHPJ_00377	CDS	1566	ndhB_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+OGNIBHPJ_00378	gene	1773	hycE_1			
+OGNIBHPJ_00378	CDS	1773	hycE_1		COG3261	Formate hydrogenlyase subunit 5
+OGNIBHPJ_00379	gene	717	ndhI_1			
+OGNIBHPJ_00379	CDS	717	ndhI_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+OGNIBHPJ_00380	gene	783	hycG			
+OGNIBHPJ_00380	CDS	783	hycG		COG3260	Formate hydrogenlyase subunit 7
+OGNIBHPJ_00381	gene	582				
+OGNIBHPJ_00381	CDS	582				hypothetical protein
+OGNIBHPJ_00382	gene	504	hycI			
+OGNIBHPJ_00382	CDS	504	hycI	3.4.23.51	COG0680	Hydrogenase 3 maturation protease
+OGNIBHPJ_00383	gene	840	focA			
+OGNIBHPJ_00383	CDS	840	focA		COG2116	putative formate transporter 1
+OGNIBHPJ_00384	gene	2136	phsA			
+OGNIBHPJ_00384	CDS	2136	phsA	1.8.5.5	COG0243	Thiosulfate reductase molybdopterin-containing subunit PhsA
+OGNIBHPJ_00385	gene	1458	selA			
+OGNIBHPJ_00385	CDS	1458	selA	2.9.1.1	COG1921	L-seryl-tRNA(Sec) selenium transferase
+OGNIBHPJ_00386	gene	1968	selB			
+OGNIBHPJ_00386	CDS	1968	selB		COG3276	Selenocysteine-specific elongation factor
+OGNIBHPJ_00387	gene	97				
+OGNIBHPJ_00387	tRNA	97				tRNA-SeC(tca)
+OGNIBHPJ_00388	gene	657	mobA_1			
+OGNIBHPJ_00388	CDS	657	mobA_1	2.7.7.77		Molybdenum cofactor guanylyltransferase
+OGNIBHPJ_00389	gene	396				
+OGNIBHPJ_00389	CDS	396				hypothetical protein
+OGNIBHPJ_00390	gene	1356	gdh			
+OGNIBHPJ_00390	CDS	1356	gdh	1.4.1.4	COG0334	NADP-specific glutamate dehydrogenase
+OGNIBHPJ_00391	gene	915				
+OGNIBHPJ_00391	CDS	915				hypothetical protein
+OGNIBHPJ_00392	gene	2832				
+OGNIBHPJ_00392	CDS	2832				hypothetical protein
+OGNIBHPJ_00393	gene	84				
+OGNIBHPJ_00393	tRNA	84				tRNA-Leu(tag)
+OGNIBHPJ_00394	gene	1314	tig			
+OGNIBHPJ_00394	CDS	1314	tig	5.2.1.8	COG0544	Trigger factor
+OGNIBHPJ_00395	gene	621	clpP_2			
+OGNIBHPJ_00395	CDS	621	clpP_2	3.4.21.92		ATP-dependent Clp protease proteolytic subunit
+OGNIBHPJ_00396	gene	1407	clpX			
+OGNIBHPJ_00396	CDS	1407	clpX			ATP-dependent Clp protease ATP-binding subunit ClpX
+OGNIBHPJ_00397	gene	2697	valS			
+OGNIBHPJ_00397	CDS	2697	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+OGNIBHPJ_00398	gene	1344	fpgS			
+OGNIBHPJ_00398	CDS	1344	fpgS	6.3.2.17		Folylpolyglutamate synthase
+OGNIBHPJ_00399	gene	6453				
+OGNIBHPJ_00399	CDS	6453				hypothetical protein
+OGNIBHPJ_00400	gene	1089				
+OGNIBHPJ_00400	CDS	1089		3.4.-.-		putative peptidase
+OGNIBHPJ_00401	gene	399				
+OGNIBHPJ_00401	CDS	399				hypothetical protein
+OGNIBHPJ_00402	gene	1347				
+OGNIBHPJ_00402	CDS	1347		1.18.1.2		Ferredoxin--NADP reductase
+OGNIBHPJ_00403	gene	1455	lhgD			
+OGNIBHPJ_00403	CDS	1455	lhgD	1.1.5.-		L-2-hydroxyglutarate dehydrogenase
+OGNIBHPJ_00404	gene	432				
+OGNIBHPJ_00404	CDS	432				hypothetical protein
+OGNIBHPJ_00405	gene	1836	thrZ			
+OGNIBHPJ_00405	CDS	1836	thrZ	6.1.1.3	COG0441	Threonine--tRNA ligase 2
+OGNIBHPJ_00406	gene	591				
+OGNIBHPJ_00406	CDS	591				hypothetical protein
+OGNIBHPJ_00407	gene	765				
+OGNIBHPJ_00407	CDS	765				hypothetical protein
+OGNIBHPJ_00408	gene	849	wbbD			
+OGNIBHPJ_00408	CDS	849	wbbD	2.4.1.303	COG0463	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase
+OGNIBHPJ_00409	gene	327				
+OGNIBHPJ_00409	CDS	327				hypothetical protein
+OGNIBHPJ_00410	gene	1122	epsF_1			
+OGNIBHPJ_00410	CDS	1122	epsF_1	2.4.-.-	COG0438	Putative glycosyltransferase EpsF
+OGNIBHPJ_00411	gene	1146	epsF_2			
+OGNIBHPJ_00411	CDS	1146	epsF_2	2.4.-.-	COG0438	Putative glycosyltransferase EpsF
+OGNIBHPJ_00412	gene	585				
+OGNIBHPJ_00412	CDS	585				hypothetical protein
+OGNIBHPJ_00413	gene	540	lacA_1			
+OGNIBHPJ_00413	CDS	540	lacA_1	2.3.1.18	COG0110	Galactoside O-acetyltransferase
+OGNIBHPJ_00414	gene	960				
+OGNIBHPJ_00414	CDS	960				hypothetical protein
+OGNIBHPJ_00415	gene	1239				
+OGNIBHPJ_00415	CDS	1239				hypothetical protein
+OGNIBHPJ_00416	gene	1131				
+OGNIBHPJ_00416	CDS	1131				hypothetical protein
+OGNIBHPJ_00417	gene	1419				
+OGNIBHPJ_00417	CDS	1419				hypothetical protein
+OGNIBHPJ_00418	gene	1065				
+OGNIBHPJ_00418	CDS	1065				hypothetical protein
+OGNIBHPJ_00419	gene	591				
+OGNIBHPJ_00419	CDS	591				hypothetical protein
+OGNIBHPJ_00420	gene	1110				
+OGNIBHPJ_00420	CDS	1110				hypothetical protein
+OGNIBHPJ_00421	gene	681				
+OGNIBHPJ_00421	CDS	681				hypothetical protein
+OGNIBHPJ_00422	gene	450				
+OGNIBHPJ_00422	CDS	450				hypothetical protein
+OGNIBHPJ_00423	gene	354				
+OGNIBHPJ_00423	CDS	354				hypothetical protein
+OGNIBHPJ_00424	gene	573				
+OGNIBHPJ_00424	CDS	573				hypothetical protein
+OGNIBHPJ_00425	gene	3657				
+OGNIBHPJ_00425	CDS	3657				hypothetical protein
+OGNIBHPJ_00426	gene	705				
+OGNIBHPJ_00426	CDS	705				hypothetical protein
+OGNIBHPJ_00427	gene	786				
+OGNIBHPJ_00427	CDS	786				hypothetical protein
+OGNIBHPJ_00428	gene	135				
+OGNIBHPJ_00428	CDS	135				hypothetical protein
+OGNIBHPJ_00429	gene	660				
+OGNIBHPJ_00429	CDS	660				hypothetical protein
+OGNIBHPJ_00430	gene	1080				
+OGNIBHPJ_00430	CDS	1080				hypothetical protein
+OGNIBHPJ_00431	gene	591				
+OGNIBHPJ_00431	CDS	591				hypothetical protein
+OGNIBHPJ_00432	gene	759				
+OGNIBHPJ_00432	CDS	759				hypothetical protein
+OGNIBHPJ_00433	gene	1101				
+OGNIBHPJ_00433	CDS	1101				hypothetical protein
+OGNIBHPJ_00434	gene	819				
+OGNIBHPJ_00434	CDS	819				hypothetical protein
+OGNIBHPJ_00435	gene	2139				
+OGNIBHPJ_00435	CDS	2139				hypothetical protein
+OGNIBHPJ_00436	gene	906				
+OGNIBHPJ_00436	CDS	906				hypothetical protein
+OGNIBHPJ_00437	gene	1881				
+OGNIBHPJ_00437	CDS	1881				hypothetical protein
+OGNIBHPJ_00438	gene	1428				
+OGNIBHPJ_00438	CDS	1428				hypothetical protein
+OGNIBHPJ_00439	gene	1545				
+OGNIBHPJ_00439	CDS	1545				hypothetical protein
+OGNIBHPJ_00440	gene	1770				
+OGNIBHPJ_00440	CDS	1770				hypothetical protein
+OGNIBHPJ_00441	gene	792				
+OGNIBHPJ_00441	CDS	792				hypothetical protein
+OGNIBHPJ_00442	gene	666				
+OGNIBHPJ_00442	CDS	666				hypothetical protein
+OGNIBHPJ_00443	gene	1005	metZ			
+OGNIBHPJ_00443	CDS	1005	metZ	2.5.1.-		O-succinylhomoserine sulfhydrylase
+OGNIBHPJ_00444	gene	345				
+OGNIBHPJ_00444	CDS	345				hypothetical protein
+OGNIBHPJ_00445	gene	1512	guaB			
+OGNIBHPJ_00445	CDS	1512	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+OGNIBHPJ_00446	gene	2577	leuS			
+OGNIBHPJ_00446	CDS	2577	leuS	6.1.1.4		Leucine--tRNA ligase
+OGNIBHPJ_00447	gene	573				
+OGNIBHPJ_00447	CDS	573				hypothetical protein
+OGNIBHPJ_00448	gene	495	rimP			
+OGNIBHPJ_00448	CDS	495	rimP		COG0779	Ribosome maturation factor RimP
+OGNIBHPJ_00449	gene	1248	nusA			
+OGNIBHPJ_00449	CDS	1248	nusA		COG0195	Transcription termination/antitermination protein NusA
+OGNIBHPJ_00450	gene	2715	infB			
+OGNIBHPJ_00450	CDS	2715	infB			Translation initiation factor IF-2
+OGNIBHPJ_00451	gene	411	rbfA			
+OGNIBHPJ_00451	CDS	411	rbfA			Ribosome-binding factor A
+OGNIBHPJ_00452	gene	1044	nrnA			
+OGNIBHPJ_00452	CDS	1044	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+OGNIBHPJ_00453	gene	903	truB			
+OGNIBHPJ_00453	CDS	903	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+OGNIBHPJ_00454	gene	1008	ribF			
+OGNIBHPJ_00454	CDS	1008	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+OGNIBHPJ_00455	gene	2100	dnaG			
+OGNIBHPJ_00455	CDS	2100	dnaG	2.7.7.-		DNA primase
+OGNIBHPJ_00456	gene	1365	rpoD			
+OGNIBHPJ_00456	CDS	1365	rpoD			RNA polymerase sigma factor RpoD
+OGNIBHPJ_00457	gene	75				
+OGNIBHPJ_00457	tRNA	75				tRNA-Asn(gtt)
+OGNIBHPJ_00458	gene	75				
+OGNIBHPJ_00458	tRNA	75				tRNA-Asn(gtt)
+OGNIBHPJ_00459	gene	390				
+OGNIBHPJ_00459	CDS	390				putative protein
+OGNIBHPJ_00460	gene	1662				
+OGNIBHPJ_00460	CDS	1662				putative protein
+OGNIBHPJ_00461	gene	2178	recG			
+OGNIBHPJ_00461	CDS	2178	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+OGNIBHPJ_00462	gene	630	rsmD			
+OGNIBHPJ_00462	CDS	630	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+OGNIBHPJ_00463	gene	498	coaD			
+OGNIBHPJ_00463	CDS	498	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase
+OGNIBHPJ_00464	gene	498				
+OGNIBHPJ_00464	CDS	498				hypothetical protein
+OGNIBHPJ_00465	gene	555				
+OGNIBHPJ_00465	CDS	555			COG1399	putative protein
+OGNIBHPJ_00466	gene	180	rpmF			
+OGNIBHPJ_00466	CDS	180	rpmF		COG0333	50S ribosomal protein L32
+OGNIBHPJ_00467	gene	1020	plsX			
+OGNIBHPJ_00467	CDS	1020	plsX	2.3.1.274		Phosphate acyltransferase
+OGNIBHPJ_00468	gene	243	acpA			
+OGNIBHPJ_00468	CDS	243	acpA		COG0236	Acyl carrier protein
+OGNIBHPJ_00469	gene	726	rnc			
+OGNIBHPJ_00469	CDS	726	rnc	3.1.26.3	COG0571	Ribonuclease 3
+OGNIBHPJ_00470	gene	3537	smc_1			
+OGNIBHPJ_00470	CDS	3537	smc_1		COG1196	Chromosome partition protein Smc
+OGNIBHPJ_00471	gene	918	ftsY			
+OGNIBHPJ_00471	CDS	918	ftsY		COG0552	Signal recognition particle receptor FtsY
+OGNIBHPJ_00472	gene	1476	ffh			
+OGNIBHPJ_00472	CDS	1476	ffh		COG0541	Signal recognition particle protein
+OGNIBHPJ_00473	gene	765				
+OGNIBHPJ_00473	CDS	765				hypothetical protein
+OGNIBHPJ_00474	gene	849	thyA1			
+OGNIBHPJ_00474	CDS	849	thyA1	2.1.1.45	COG0207	Thymidylate synthase 1
+OGNIBHPJ_00475	gene	519	dfrD			
+OGNIBHPJ_00475	CDS	519	dfrD	1.5.1.3		Dihydrofolate reductase
+OGNIBHPJ_00476	gene	915	rlmB_1			
+OGNIBHPJ_00476	CDS	915	rlmB_1	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+OGNIBHPJ_00477	gene	1350				
+OGNIBHPJ_00477	CDS	1350				hypothetical protein
+OGNIBHPJ_00478	gene	486	btuR			
+OGNIBHPJ_00478	CDS	486	btuR	2.5.1.17	COG2109	Corrinoid adenosyltransferase
+OGNIBHPJ_00479	gene	1893	ftsH4			
+OGNIBHPJ_00479	CDS	1893	ftsH4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH 4
+OGNIBHPJ_00480	gene	462				
+OGNIBHPJ_00480	CDS	462				hypothetical protein
+OGNIBHPJ_00481	gene	189				
+OGNIBHPJ_00481	CDS	189				hypothetical protein
+OGNIBHPJ_00482	gene	603				
+OGNIBHPJ_00482	CDS	603		3.4.21.-	COG3340	putative peptidase
+OGNIBHPJ_00483	gene	498				
+OGNIBHPJ_00483	CDS	498				hypothetical protein
+OGNIBHPJ_00484	gene	852				
+OGNIBHPJ_00484	CDS	852				IS3 family transposase ISBlo3
+OGNIBHPJ_00485	gene	1083				
+OGNIBHPJ_00485	CDS	1083				hypothetical protein
+OGNIBHPJ_00486	gene	2781	ileS			
+OGNIBHPJ_00486	CDS	2781	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+OGNIBHPJ_00487	gene	582	lspA			
+OGNIBHPJ_00487	CDS	582	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+OGNIBHPJ_00488	gene	1014	rluD			
+OGNIBHPJ_00488	CDS	1014	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+OGNIBHPJ_00489	gene	1296				
+OGNIBHPJ_00489	CDS	1296				hypothetical protein
+OGNIBHPJ_00490	gene	423				
+OGNIBHPJ_00490	CDS	423				hypothetical protein
+OGNIBHPJ_00491	gene	1248				
+OGNIBHPJ_00491	CDS	1248				Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+OGNIBHPJ_00492	gene	1365				
+OGNIBHPJ_00492	CDS	1365			COG2256	putative AAA domain-containing protein
+OGNIBHPJ_00493	gene	591				
+OGNIBHPJ_00493	CDS	591				hypothetical protein
+OGNIBHPJ_00494	gene	378				
+OGNIBHPJ_00494	CDS	378				hypothetical protein
+OGNIBHPJ_00495	gene	792	sigB			
+OGNIBHPJ_00495	CDS	792	sigB		COG1191	RNA polymerase sigma-B factor
+OGNIBHPJ_00496	gene	1413				
+OGNIBHPJ_00496	CDS	1413				hypothetical protein
+OGNIBHPJ_00497	gene	240				
+OGNIBHPJ_00497	CDS	240				hypothetical protein
+OGNIBHPJ_00498	gene	2658	alaS			
+OGNIBHPJ_00498	CDS	2658	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+OGNIBHPJ_00499	gene	429	yqgF			
+OGNIBHPJ_00499	CDS	429	yqgF	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+OGNIBHPJ_00500	gene	1023	mltG			
+OGNIBHPJ_00500	CDS	1023	mltG	4.2.2.-		Endolytic murein transglycosylase
+OGNIBHPJ_00501	gene	498				
+OGNIBHPJ_00501	CDS	498				hypothetical protein
+OGNIBHPJ_00502	gene	534	aroK			
+OGNIBHPJ_00502	CDS	534	aroK	2.7.1.71	COG0703	Shikimate kinase
+OGNIBHPJ_00503	gene	1110	aroB_1			
+OGNIBHPJ_00503	CDS	1110	aroB_1	4.2.3.4		3-dehydroquinate synthase
+OGNIBHPJ_00504	gene	1131				
+OGNIBHPJ_00504	CDS	1131		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+OGNIBHPJ_00505	gene	564	efp			
+OGNIBHPJ_00505	CDS	564	efp		COG0231	Elongation factor P
+OGNIBHPJ_00506	gene	363				
+OGNIBHPJ_00506	CDS	363				hypothetical protein
+OGNIBHPJ_00507	gene	585	nusB			
+OGNIBHPJ_00507	CDS	585	nusB			Transcription antitermination protein NusB
+OGNIBHPJ_00508	gene	240				
+OGNIBHPJ_00508	CDS	240				hypothetical protein
+OGNIBHPJ_00509	gene	804	tlyA			
+OGNIBHPJ_00509	CDS	804	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+OGNIBHPJ_00510	gene	861	nadK			
+OGNIBHPJ_00510	CDS	861	nadK	2.7.1.23	COG0061	NAD kinase
+OGNIBHPJ_00511	gene	1629	recN			
+OGNIBHPJ_00511	CDS	1629	recN		COG0497	DNA repair protein RecN
+OGNIBHPJ_00512	gene	858	murR			
+OGNIBHPJ_00512	CDS	858	murR			HTH-type transcriptional regulator MurR
+OGNIBHPJ_00513	gene	2004	manP			
+OGNIBHPJ_00513	CDS	2004	manP		COG1299	PTS system mannose-specific EIIBCA component
+OGNIBHPJ_00514	gene	264	ptsH			
+OGNIBHPJ_00514	CDS	264	ptsH		COG1925	Phosphocarrier protein HPr
+OGNIBHPJ_00515	gene	1710	ptsI			
+OGNIBHPJ_00515	CDS	1710	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+OGNIBHPJ_00516	gene	933	lacC_1			
+OGNIBHPJ_00516	CDS	933	lacC_1	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+OGNIBHPJ_00517	gene	933	lacC_2			
+OGNIBHPJ_00517	CDS	933	lacC_2	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+OGNIBHPJ_00518	gene	1395	cca			
+OGNIBHPJ_00518	CDS	1395	cca	2.7.7.72		CCA-adding enzyme
+OGNIBHPJ_00519	gene	77				
+OGNIBHPJ_00519	tRNA	77				tRNA-Glu(ctc)
+OGNIBHPJ_00520	gene	77				
+OGNIBHPJ_00520	tRNA	77				tRNA-Glu(ctc)
+OGNIBHPJ_00521	gene	1308				
+OGNIBHPJ_00521	CDS	1308				hypothetical protein
+OGNIBHPJ_00522	gene	612				
+OGNIBHPJ_00522	CDS	612				hypothetical protein
+OGNIBHPJ_00523	gene	312				
+OGNIBHPJ_00523	CDS	312				hypothetical protein
+OGNIBHPJ_00524	gene	1317	btuD_4			
+OGNIBHPJ_00524	CDS	1317	btuD_4	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OGNIBHPJ_00525	gene	1023	hmuU			
+OGNIBHPJ_00525	CDS	1023	hmuU		COG0609	Hemin transport system permease protein HmuU
+OGNIBHPJ_00526	gene	1572				
+OGNIBHPJ_00526	CDS	1572				hypothetical protein
+OGNIBHPJ_00527	gene	534				
+OGNIBHPJ_00527	CDS	534				hypothetical protein
+OGNIBHPJ_00528	gene	927	cbiK			
+OGNIBHPJ_00528	CDS	927	cbiK	4.99.1.3	COG4822	Sirohydrochlorin cobaltochelatase
+OGNIBHPJ_00529	gene	792	cbiF			
+OGNIBHPJ_00529	CDS	792	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+OGNIBHPJ_00530	gene	1185	cbiD			
+OGNIBHPJ_00530	CDS	1185	cbiD	2.1.1.195		Cobalt-precorrin-5B C(1)-methyltransferase
+OGNIBHPJ_00531	gene	690	cbiL			
+OGNIBHPJ_00531	CDS	690	cbiL	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+OGNIBHPJ_00532	gene	1134	cbiG			
+OGNIBHPJ_00532	CDS	1134	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+OGNIBHPJ_00533	gene	744	cbiH			
+OGNIBHPJ_00533	CDS	744	cbiH	2.1.1.-	COG1010	putative cobalt-factor III C(17)-methyltransferase
+OGNIBHPJ_00534	gene	1473	cbiET			
+OGNIBHPJ_00534	CDS	1473	cbiET		COG2241	Cobalamin biosynthesis bifunctional protein CbiET
+OGNIBHPJ_00535	gene	1359	cbiA			
+OGNIBHPJ_00535	CDS	1359	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+OGNIBHPJ_00536	gene	1143	cobT			
+OGNIBHPJ_00536	CDS	1143	cobT	2.4.2.21	COG2038	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+OGNIBHPJ_00537	gene	549	cobU			
+OGNIBHPJ_00537	CDS	549	cobU	2.7.1.156	COG2087	Bifunctional adenosylcobalamin biosynthesis protein CobU
+OGNIBHPJ_00538	gene	768	cobV			
+OGNIBHPJ_00538	CDS	768	cobV	2.7.8.26		Adenosylcobinamide-GDP ribazoletransferase
+OGNIBHPJ_00539	gene	1002	gpmB			
+OGNIBHPJ_00539	CDS	1002	gpmB	5.4.2.-		phosphoglycerate mutase GpmB
+OGNIBHPJ_00540	gene	975	cobD_1			
+OGNIBHPJ_00540	CDS	975	cobD_1		COG1270	Cobalamin biosynthesis protein CobD
+OGNIBHPJ_00541	gene	1224	cobD_2			
+OGNIBHPJ_00541	CDS	1224	cobD_2	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+OGNIBHPJ_00542	gene	1479	cobQ			
+OGNIBHPJ_00542	CDS	1479	cobQ		COG1492	Cobyric acid synthase
+OGNIBHPJ_00543	gene	516	cobO			
+OGNIBHPJ_00543	CDS	516	cobO	2.5.1.17		Corrinoid adenosyltransferase
+OGNIBHPJ_00544	gene	642	cbiC			
+OGNIBHPJ_00544	CDS	642	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+OGNIBHPJ_00545	gene	774	cbiJ			
+OGNIBHPJ_00545	CDS	774	cbiJ	1.3.1.106	COG2099	Cobalt-precorrin-6A reductase
+OGNIBHPJ_00546	gene	1215	macB			
+OGNIBHPJ_00546	CDS	1215	macB	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+OGNIBHPJ_00547	gene	774	yknY			
+OGNIBHPJ_00547	CDS	774	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+OGNIBHPJ_00548	gene	1437	mdtA			
+OGNIBHPJ_00548	CDS	1437	mdtA			Multidrug resistance protein MdtA
+OGNIBHPJ_00549	gene	1716				
+OGNIBHPJ_00549	CDS	1716				hypothetical protein
+OGNIBHPJ_00550	gene	1608				
+OGNIBHPJ_00550	CDS	1608				hypothetical protein
+OGNIBHPJ_00551	gene	1281	metK			
+OGNIBHPJ_00551	CDS	1281	metK	2.5.1.6		S-adenosylmethionine synthase
+OGNIBHPJ_00552	gene	1476	gltX1			
+OGNIBHPJ_00552	CDS	1476	gltX1	6.1.1.17	COG0008	Glutamate--tRNA ligase 1
+OGNIBHPJ_00553	gene	2454	priA			
+OGNIBHPJ_00553	CDS	2454	priA	3.6.4.-	COG1198	Primosomal protein N'
+OGNIBHPJ_00554	gene	537	def2			
+OGNIBHPJ_00554	CDS	537	def2	3.5.1.88	COG0242	Peptide deformylase 2
+OGNIBHPJ_00555	gene	921	fmt			
+OGNIBHPJ_00555	CDS	921	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+OGNIBHPJ_00556	gene	1404	rsmB			
+OGNIBHPJ_00556	CDS	1404	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+OGNIBHPJ_00557	gene	291				
+OGNIBHPJ_00557	CDS	291				hypothetical protein
+OGNIBHPJ_00558	gene	831				
+OGNIBHPJ_00558	CDS	831				IS256 family transposase ISSlgl1
+OGNIBHPJ_00559	gene	237				
+OGNIBHPJ_00559	CDS	237				hypothetical protein
+OGNIBHPJ_00560	gene	3297				
+OGNIBHPJ_00560	CDS	3297				hypothetical protein
+OGNIBHPJ_00561	gene	2277	glgA			
+OGNIBHPJ_00561	CDS	2277	glgA	2.4.1.21		Glycogen synthase
+OGNIBHPJ_00562	gene	1128	glgD			
+OGNIBHPJ_00562	CDS	1128	glgD		COG0448	Glycogen biosynthesis protein GlgD
+OGNIBHPJ_00563	gene	1149	glgC			
+OGNIBHPJ_00563	CDS	1149	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+OGNIBHPJ_00564	gene	2427	glgP			
+OGNIBHPJ_00564	CDS	2427	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+OGNIBHPJ_00565	gene	2250	glgB			
+OGNIBHPJ_00565	CDS	2250	glgB	2.4.1.18	COG0296	1,4-alpha-glucan branching enzyme GlgB
+OGNIBHPJ_00566	gene	690				
+OGNIBHPJ_00566	CDS	690				hypothetical protein
+OGNIBHPJ_00567	gene	642				
+OGNIBHPJ_00567	CDS	642				hypothetical protein
+OGNIBHPJ_00568	gene	76				
+OGNIBHPJ_00568	tRNA	76				tRNA-Ala(ggc)
+OGNIBHPJ_00569	gene	552	nusG_1			
+OGNIBHPJ_00569	CDS	552	nusG_1			Transcription termination/antitermination protein NusG
+OGNIBHPJ_00570	gene	651	wcaJ			
+OGNIBHPJ_00570	CDS	651	wcaJ	2.7.8.31	COG2148	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+OGNIBHPJ_00571	gene	1113	epsF_3			
+OGNIBHPJ_00571	CDS	1113	epsF_3	2.4.-.-	COG0438	Putative glycosyltransferase EpsF
+OGNIBHPJ_00572	gene	1302				
+OGNIBHPJ_00572	CDS	1302				hypothetical protein
+OGNIBHPJ_00573	gene	987	mshA			
+OGNIBHPJ_00573	CDS	987	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+OGNIBHPJ_00574	gene	1212				
+OGNIBHPJ_00574	CDS	1212				hypothetical protein
+OGNIBHPJ_00575	gene	846				
+OGNIBHPJ_00575	CDS	846				hypothetical protein
+OGNIBHPJ_00576	gene	1122				
+OGNIBHPJ_00576	CDS	1122				hypothetical protein
+OGNIBHPJ_00577	gene	1197	rfbX			
+OGNIBHPJ_00577	CDS	1197	rfbX		COG2244	Putative O-antigen transporter
+OGNIBHPJ_00578	gene	1089	mnaA			
+OGNIBHPJ_00578	CDS	1089	mnaA	5.1.3.14	COG0381	UDP-N-acetylglucosamine 2-epimerase
+OGNIBHPJ_00579	gene	732	dapH_2			
+OGNIBHPJ_00579	CDS	732	dapH_2	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+OGNIBHPJ_00580	gene	789				
+OGNIBHPJ_00580	CDS	789				hypothetical protein
+OGNIBHPJ_00581	gene	204	ugd			
+OGNIBHPJ_00581	CDS	204	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+OGNIBHPJ_00582	gene	636				
+OGNIBHPJ_00582	CDS	636				hypothetical protein
+OGNIBHPJ_00583	gene	1554				
+OGNIBHPJ_00583	CDS	1554				hypothetical protein
+OGNIBHPJ_00584	gene	1095				
+OGNIBHPJ_00584	CDS	1095				hypothetical protein
+OGNIBHPJ_00585	gene	933				
+OGNIBHPJ_00585	CDS	933				hypothetical protein
+OGNIBHPJ_00586	gene	375				
+OGNIBHPJ_00586	CDS	375				hypothetical protein
+OGNIBHPJ_00587	gene	300				
+OGNIBHPJ_00587	CDS	300				hypothetical protein
+OGNIBHPJ_00588	gene	669				
+OGNIBHPJ_00588	CDS	669				hypothetical protein
+OGNIBHPJ_00589	gene	690				
+OGNIBHPJ_00589	CDS	690				hypothetical protein
+OGNIBHPJ_00590	gene	186				
+OGNIBHPJ_00590	CDS	186				hypothetical protein
+OGNIBHPJ_00591	gene	516				
+OGNIBHPJ_00591	CDS	516				hypothetical protein
+OGNIBHPJ_00592	gene	786				
+OGNIBHPJ_00592	CDS	786				hypothetical protein
+OGNIBHPJ_00593	gene	75				
+OGNIBHPJ_00593	tRNA	75				tRNA-Val(cac)
+OGNIBHPJ_00594	gene	1158				
+OGNIBHPJ_00594	CDS	1158				hypothetical protein
+OGNIBHPJ_00595	gene	75				
+OGNIBHPJ_00595	tRNA	75				tRNA-Ala(ggc)
+OGNIBHPJ_00596	gene	76				
+OGNIBHPJ_00596	tRNA	76				tRNA-Met(cat)
+OGNIBHPJ_00597	gene	75				
+OGNIBHPJ_00597	tRNA	75				tRNA-Ala(ggc)
+OGNIBHPJ_00598	gene	2034	yheS_1			
+OGNIBHPJ_00598	CDS	2034	yheS_1		COG0488	putative ABC transporter ATP-binding protein YheS
+OGNIBHPJ_00599	gene	297				
+OGNIBHPJ_00599	CDS	297				hypothetical protein
+OGNIBHPJ_00600	gene	684				
+OGNIBHPJ_00600	CDS	684				hypothetical protein
+OGNIBHPJ_00601	gene	813	scpA			
+OGNIBHPJ_00601	CDS	813	scpA		COG1354	Segregation and condensation protein A
+OGNIBHPJ_00602	gene	729	scpB			
+OGNIBHPJ_00602	CDS	729	scpB			Segregation and condensation protein B
+OGNIBHPJ_00603	gene	966				
+OGNIBHPJ_00603	CDS	966				hypothetical protein
+OGNIBHPJ_00604	gene	687	cmk_1			
+OGNIBHPJ_00604	CDS	687	cmk_1	2.7.4.25		Cytidylate kinase
+OGNIBHPJ_00605	gene	729				
+OGNIBHPJ_00605	CDS	729				hypothetical protein
+OGNIBHPJ_00606	gene	897	ispH			
+OGNIBHPJ_00606	CDS	897	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+OGNIBHPJ_00607	gene	1443				
+OGNIBHPJ_00607	CDS	1443				hypothetical protein
+OGNIBHPJ_00608	gene	1335	der			
+OGNIBHPJ_00608	CDS	1335	der			GTPase Der
+OGNIBHPJ_00609	gene	684	plsY			
+OGNIBHPJ_00609	CDS	684	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+OGNIBHPJ_00610	gene	1008	gpsA			
+OGNIBHPJ_00610	CDS	1008	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+OGNIBHPJ_00611	gene	672	rpe			
+OGNIBHPJ_00611	CDS	672	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+OGNIBHPJ_00612	gene	1122	iscS			
+OGNIBHPJ_00612	CDS	1122	iscS	2.8.1.7		Cysteine desulfurase IscS
+OGNIBHPJ_00613	gene	810				
+OGNIBHPJ_00613	CDS	810			COG0327	GTP cyclohydrolase 1 type 2 
+OGNIBHPJ_00614	gene	720				
+OGNIBHPJ_00614	CDS	720				hypothetical protein
+OGNIBHPJ_00615	gene	1215	coaBC			
+OGNIBHPJ_00615	CDS	1215	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+OGNIBHPJ_00616	gene	77				
+OGNIBHPJ_00616	tRNA	77				tRNA-Pro(ggg)
+OGNIBHPJ_00617	gene	1398				
+OGNIBHPJ_00617	CDS	1398				hypothetical protein
+OGNIBHPJ_00618	gene	663	walR_1			
+OGNIBHPJ_00618	CDS	663	walR_1		COG0745	Transcriptional regulatory protein WalR
+OGNIBHPJ_00619	gene	249				
+OGNIBHPJ_00619	CDS	249				hypothetical protein
+OGNIBHPJ_00620	gene	816				
+OGNIBHPJ_00620	CDS	816				hypothetical protein
+OGNIBHPJ_00621	gene	771				
+OGNIBHPJ_00621	CDS	771				hypothetical protein
+OGNIBHPJ_00622	gene	729	bcrA_1			
+OGNIBHPJ_00622	CDS	729	bcrA_1			Bacitracin transport ATP-binding protein BcrA
+OGNIBHPJ_00623	gene	795	pgsA_1			
+OGNIBHPJ_00623	CDS	795	pgsA_1	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+OGNIBHPJ_00624	gene	435				
+OGNIBHPJ_00624	CDS	435				hypothetical protein
+OGNIBHPJ_00625	gene	879				
+OGNIBHPJ_00625	CDS	879				hypothetical protein
+OGNIBHPJ_00626	gene	531	apt			
+OGNIBHPJ_00626	CDS	531	apt	2.4.2.7		Adenine phosphoribosyltransferase
+OGNIBHPJ_00627	gene	1128				
+OGNIBHPJ_00627	CDS	1128				hypothetical protein
+OGNIBHPJ_00628	gene	867				
+OGNIBHPJ_00628	CDS	867			COG1307	DegV domain-containing protein
+OGNIBHPJ_00629	gene	612				
+OGNIBHPJ_00629	CDS	612				hypothetical protein
+OGNIBHPJ_00630	gene	981	trxB			
+OGNIBHPJ_00630	CDS	981	trxB	1.8.1.9		Thioredoxin reductase
+OGNIBHPJ_00631	gene	1302	ugtP			
+OGNIBHPJ_00631	CDS	1302	ugtP	2.4.1.315		Processive diacylglycerol beta-glucosyltransferase
+OGNIBHPJ_00632	gene	444	dut			
+OGNIBHPJ_00632	CDS	444	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+OGNIBHPJ_00633	gene	444	nrdR			
+OGNIBHPJ_00633	CDS	444	nrdR		COG1327	Transcriptional repressor NrdR
+OGNIBHPJ_00634	gene	450	yneA			
+OGNIBHPJ_00634	CDS	450	yneA			Cell division suppressor protein YneA
+OGNIBHPJ_00635	gene	666	lexA			
+OGNIBHPJ_00635	CDS	666	lexA	3.4.21.88	COG1974	LexA repressor
+OGNIBHPJ_00636	gene	705				
+OGNIBHPJ_00636	CDS	705				hypothetical protein
+OGNIBHPJ_00637	gene	1290	hflX			
+OGNIBHPJ_00637	CDS	1290	hflX		COG2262	GTPase HflX
+OGNIBHPJ_00638	gene	336				
+OGNIBHPJ_00638	CDS	336				hypothetical protein
+OGNIBHPJ_00639	gene	258				
+OGNIBHPJ_00639	CDS	258				hypothetical protein
+OGNIBHPJ_00640	gene	267				
+OGNIBHPJ_00640	CDS	267				hypothetical protein
+OGNIBHPJ_00641	gene	1371	miaB			
+OGNIBHPJ_00641	CDS	1371	miaB	2.8.4.3		tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+OGNIBHPJ_00642	gene	318				
+OGNIBHPJ_00642	CDS	318				hypothetical protein
+OGNIBHPJ_00643	gene	1086				
+OGNIBHPJ_00643	CDS	1086				hypothetical protein
+OGNIBHPJ_00644	gene	1551	rny			
+OGNIBHPJ_00644	CDS	1551	rny	3.1.-.-	COG1418	Ribonuclease Y
+OGNIBHPJ_00645	gene	693	recX			
+OGNIBHPJ_00645	CDS	693	recX			Regulatory protein RecX
+OGNIBHPJ_00646	gene	1149	recA			
+OGNIBHPJ_00646	CDS	1149	recA			Protein RecA
+OGNIBHPJ_00647	gene	102				
+OGNIBHPJ_00647	CDS	102				hypothetical protein
+OGNIBHPJ_00648	gene	531	pncC			
+OGNIBHPJ_00648	CDS	531	pncC	3.5.1.42	COG1546	Nicotinamide-nucleotide amidohydrolase PncC
+OGNIBHPJ_00649	gene	639	pgsA_2			
+OGNIBHPJ_00649	CDS	639	pgsA_2	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+OGNIBHPJ_00650	gene	1350	rimO			
+OGNIBHPJ_00650	CDS	1350	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+OGNIBHPJ_00651	gene	498				
+OGNIBHPJ_00651	CDS	498				hypothetical protein
+OGNIBHPJ_00652	gene	1512				
+OGNIBHPJ_00652	CDS	1512				hypothetical protein
+OGNIBHPJ_00653	gene	2781				
+OGNIBHPJ_00653	CDS	2781				hypothetical protein
+OGNIBHPJ_00654	gene	1671	rnjA			
+OGNIBHPJ_00654	CDS	1671	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+OGNIBHPJ_00655	gene	2247	pnp			
+OGNIBHPJ_00655	CDS	2247	pnp	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+OGNIBHPJ_00656	gene	279	rpsO			
+OGNIBHPJ_00656	CDS	279	rpsO			30S ribosomal protein S15
+OGNIBHPJ_00657	gene	750	recO			
+OGNIBHPJ_00657	CDS	750	recO		COG1381	DNA repair protein RecO
+OGNIBHPJ_00658	gene	1068	era			
+OGNIBHPJ_00658	CDS	1068	era			GTPase Era
+OGNIBHPJ_00659	gene	378	dgkA			
+OGNIBHPJ_00659	CDS	378	dgkA	2.7.1.66	COG0818	Undecaprenol kinase
+OGNIBHPJ_00660	gene	510	ybeY			
+OGNIBHPJ_00660	CDS	510	ybeY	3.1.-.-		Endoribonuclease YbeY
+OGNIBHPJ_00661	gene	987				
+OGNIBHPJ_00661	CDS	987			COG1702	PhoH-like protein
+OGNIBHPJ_00662	gene	1293	mtaB			
+OGNIBHPJ_00662	CDS	1293	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+OGNIBHPJ_00663	gene	1149	dnaJ_1			
+OGNIBHPJ_00663	CDS	1149	dnaJ_1		COG0484	Chaperone protein DnaJ
+OGNIBHPJ_00664	gene	1104	dnaJ_2			
+OGNIBHPJ_00664	CDS	1104	dnaJ_2			Chaperone protein DnaJ
+OGNIBHPJ_00665	gene	1233	hemW			
+OGNIBHPJ_00665	CDS	1233	hemW		COG0635	Heme chaperone HemW
+OGNIBHPJ_00666	gene	1044	dusB			
+OGNIBHPJ_00666	CDS	1044	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+OGNIBHPJ_00667	gene	1872	lepA			
+OGNIBHPJ_00667	CDS	1872	lepA	3.6.5.-		Elongation factor 4
+OGNIBHPJ_00668	gene	267	rpsT			
+OGNIBHPJ_00668	CDS	267	rpsT		COG0268	30S ribosomal protein S20
+OGNIBHPJ_00669	gene	963	yqeN			
+OGNIBHPJ_00669	CDS	963	yqeN		COG1466	putative protein YqeN
+OGNIBHPJ_00670	gene	2304				
+OGNIBHPJ_00670	CDS	2304				hypothetical protein
+OGNIBHPJ_00671	gene	714				
+OGNIBHPJ_00671	CDS	714				hypothetical protein
+OGNIBHPJ_00672	gene	1245	thiI			
+OGNIBHPJ_00672	CDS	1245	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+OGNIBHPJ_00673	gene	282				
+OGNIBHPJ_00673	CDS	282				hypothetical protein
+OGNIBHPJ_00674	gene	570	gmk			
+OGNIBHPJ_00674	CDS	570	gmk	2.7.4.8	COG0194	Guanylate kinase
+OGNIBHPJ_00675	gene	309				
+OGNIBHPJ_00675	CDS	309				hypothetical protein
+OGNIBHPJ_00676	gene	717	pyrF			
+OGNIBHPJ_00676	CDS	717	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+OGNIBHPJ_00677	gene	909	pyrD			
+OGNIBHPJ_00677	CDS	909	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+OGNIBHPJ_00678	gene	768	pyrK			
+OGNIBHPJ_00678	CDS	768	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+OGNIBHPJ_00679	gene	1290	pyrC			
+OGNIBHPJ_00679	CDS	1290	pyrC	3.5.2.3	COG0044	Dihydroorotase
+OGNIBHPJ_00680	gene	981	pyrB			
+OGNIBHPJ_00680	CDS	981	pyrB	2.1.3.2		Aspartate carbamoyltransferase
+OGNIBHPJ_00681	gene	585	pyrR			
+OGNIBHPJ_00681	CDS	585	pyrR			Bifunctional protein PyrR
+OGNIBHPJ_00682	gene	189	rpmB			
+OGNIBHPJ_00682	CDS	189	rpmB		COG0227	50S ribosomal protein L28
+OGNIBHPJ_00683	gene	777				
+OGNIBHPJ_00683	CDS	777				hypothetical protein
+OGNIBHPJ_00684	gene	2649	adhE_1			
+OGNIBHPJ_00684	CDS	2649	adhE_1		COG1012	Aldehyde-alcohol dehydrogenase
+OGNIBHPJ_00685	gene	765				
+OGNIBHPJ_00685	CDS	765				hypothetical protein
+OGNIBHPJ_00686	gene	1722	proS			
+OGNIBHPJ_00686	CDS	1722	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+OGNIBHPJ_00687	gene	1092	ispG			
+OGNIBHPJ_00687	CDS	1092	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+OGNIBHPJ_00688	gene	1362	rasP			
+OGNIBHPJ_00688	CDS	1362	rasP	3.4.24.-	COG0750	Regulator of sigma-W protease RasP
+OGNIBHPJ_00689	gene	1188	dxr			
+OGNIBHPJ_00689	CDS	1188	dxr	1.1.1.267		1-deoxy-D-xylulose 5-phosphate reductoisomerase
+OGNIBHPJ_00690	gene	900				
+OGNIBHPJ_00690	CDS	900				hypothetical protein
+OGNIBHPJ_00691	gene	795	uppS			
+OGNIBHPJ_00691	CDS	795	uppS	2.5.1.-	COG0020	Isoprenyl transferase
+OGNIBHPJ_00692	gene	537	frr			
+OGNIBHPJ_00692	CDS	537	frr		COG0233	Ribosome-recycling factor
+OGNIBHPJ_00693	gene	723	pyrH			
+OGNIBHPJ_00693	CDS	723	pyrH	2.7.4.22	COG0528	Uridylate kinase
+OGNIBHPJ_00694	gene	870	tsf			
+OGNIBHPJ_00694	CDS	870	tsf		COG0264	Elongation factor Ts
+OGNIBHPJ_00695	gene	729	rpsB			
+OGNIBHPJ_00695	CDS	729	rpsB			30S ribosomal protein S2
+OGNIBHPJ_00696	gene	843	xerC_1			
+OGNIBHPJ_00696	CDS	843	xerC_1		COG4974	Tyrosine recombinase XerC
+OGNIBHPJ_00697	gene	1338	trmFO			
+OGNIBHPJ_00697	CDS	1338	trmFO	2.1.1.74	COG1206	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+OGNIBHPJ_00698	gene	936				
+OGNIBHPJ_00698	CDS	936				hypothetical protein
+OGNIBHPJ_00699	gene	1524	comM			
+OGNIBHPJ_00699	CDS	1524	comM		COG0606	Competence protein ComM
+OGNIBHPJ_00700	gene	486				
+OGNIBHPJ_00700	CDS	486				hypothetical protein
+OGNIBHPJ_00701	gene	789	rnhB			
+OGNIBHPJ_00701	CDS	789	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+OGNIBHPJ_00702	gene	342	rplS			
+OGNIBHPJ_00702	CDS	342	rplS		COG0335	50S ribosomal protein L19
+OGNIBHPJ_00703	gene	2751	ppdK			
+OGNIBHPJ_00703	CDS	2751	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+OGNIBHPJ_00704	gene	876	yqfL			
+OGNIBHPJ_00704	CDS	876	yqfL	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+OGNIBHPJ_00705	gene	2097	glyS			
+OGNIBHPJ_00705	CDS	2097	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+OGNIBHPJ_00706	gene	912	glyQ			
+OGNIBHPJ_00706	CDS	912	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+OGNIBHPJ_00707	gene	609	spsB			
+OGNIBHPJ_00707	CDS	609	spsB	3.4.21.89	COG0681	Signal peptidase IB
+OGNIBHPJ_00708	gene	747	trmD			
+OGNIBHPJ_00708	CDS	747	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+OGNIBHPJ_00709	gene	492	rimM			
+OGNIBHPJ_00709	CDS	492	rimM			Ribosome maturation factor RimM
+OGNIBHPJ_00710	gene	267				
+OGNIBHPJ_00710	CDS	267				hypothetical protein
+OGNIBHPJ_00711	gene	342				
+OGNIBHPJ_00711	CDS	342				hypothetical protein
+OGNIBHPJ_00712	gene	1254	dinB_2			
+OGNIBHPJ_00712	CDS	1254	dinB_2	2.7.7.7	COG0389	DNA polymerase IV
+OGNIBHPJ_00713	gene	456	rsfS			
+OGNIBHPJ_00713	CDS	456	rsfS			Ribosomal silencing factor RsfS
+OGNIBHPJ_00714	gene	621				
+OGNIBHPJ_00714	CDS	621				hypothetical protein
+OGNIBHPJ_00715	gene	678	nadD			
+OGNIBHPJ_00715	CDS	678	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+OGNIBHPJ_00716	gene	1467	obg			
+OGNIBHPJ_00716	CDS	1467	obg	3.6.5.-	COG0536	GTPase Obg
+OGNIBHPJ_00717	gene	258	rpmA			
+OGNIBHPJ_00717	CDS	258	rpmA		COG0211	50S ribosomal protein L27
+OGNIBHPJ_00718	gene	375	rplU			
+OGNIBHPJ_00718	CDS	375	rplU		COG0261	50S ribosomal protein L21
+OGNIBHPJ_00719	gene	813				
+OGNIBHPJ_00719	CDS	813				hypothetical protein
+OGNIBHPJ_00720	gene	1878				
+OGNIBHPJ_00720	CDS	1878				hypothetical protein
+OGNIBHPJ_00721	gene	930				
+OGNIBHPJ_00721	CDS	930				hypothetical protein
+OGNIBHPJ_00722	gene	1227	mrdB_1			
+OGNIBHPJ_00722	CDS	1227	mrdB_1	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+OGNIBHPJ_00723	gene	2070	mrdA			
+OGNIBHPJ_00723	CDS	2070	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+OGNIBHPJ_00724	gene	567				
+OGNIBHPJ_00724	CDS	567				hypothetical protein
+OGNIBHPJ_00725	gene	942	mreC			
+OGNIBHPJ_00725	CDS	942	mreC			Cell shape-determining protein MreC
+OGNIBHPJ_00726	gene	1032	mreB			
+OGNIBHPJ_00726	CDS	1032	mreB		COG1077	Cell shape-determining protein MreB
+OGNIBHPJ_00727	gene	1236				
+OGNIBHPJ_00727	CDS	1236				hypothetical protein
+OGNIBHPJ_00728	gene	543	ppiA			
+OGNIBHPJ_00728	CDS	543	ppiA	5.2.1.8	COG0652	Peptidyl-prolyl cis-trans isomerase A
+OGNIBHPJ_00729	gene	1143				
+OGNIBHPJ_00729	CDS	1143				hypothetical protein
+OGNIBHPJ_00730	gene	2724	ctpE			
+OGNIBHPJ_00730	CDS	2724	ctpE	7.2.2.10	COG0474	Calcium-transporting ATPase CtpE
+OGNIBHPJ_00731	gene	77				
+OGNIBHPJ_00731	tRNA	77				tRNA-Arg(ccg)
+OGNIBHPJ_00732	gene	1023	aroF			
+OGNIBHPJ_00732	CDS	1023	aroF	2.5.1.54	COG2876	Phospho-2-dehydro-3-deoxyheptonate aldolase
+OGNIBHPJ_00733	gene	915	tyrC			
+OGNIBHPJ_00733	CDS	915	tyrC	1.3.1.43		Cyclohexadienyl dehydrogenase
+OGNIBHPJ_00734	gene	1107	aroB_2			
+OGNIBHPJ_00734	CDS	1107	aroB_2	4.2.3.4	COG0337	3-dehydroquinate synthase
+OGNIBHPJ_00735	gene	1320	aroA			
+OGNIBHPJ_00735	CDS	1320	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+OGNIBHPJ_00736	gene	1098	aroC			
+OGNIBHPJ_00736	CDS	1098	aroC	4.2.3.5	COG0082	Chorismate synthase
+OGNIBHPJ_00737	gene	1146	pheA			
+OGNIBHPJ_00737	CDS	1146	pheA		COG0077	Bifunctional chorismate mutase/prephenate dehydratase
+OGNIBHPJ_00738	gene	1251	aroE			
+OGNIBHPJ_00738	CDS	1251	aroE	1.1.1.25		Shikimate dehydrogenase (NADP(+))
+OGNIBHPJ_00739	gene	438	aroQ			
+OGNIBHPJ_00739	CDS	438	aroQ	4.2.1.10	COG0757	3-dehydroquinate dehydratase
+OGNIBHPJ_00740	gene	77				
+OGNIBHPJ_00740	tRNA	77				tRNA-Arg(tct)
+OGNIBHPJ_00741	gene	768	tagH			
+OGNIBHPJ_00741	CDS	768	tagH	7.5.2.4	COG1134	Teichoic acids export ATP-binding protein TagH
+OGNIBHPJ_00742	gene	846				
+OGNIBHPJ_00742	CDS	846				hypothetical protein
+OGNIBHPJ_00743	gene	972				
+OGNIBHPJ_00743	CDS	972				hypothetical protein
+OGNIBHPJ_00744	gene	969	csbB			
+OGNIBHPJ_00744	CDS	969	csbB	2.4.-.-	COG0463	Putative glycosyltransferase CsbB
+OGNIBHPJ_00745	gene	2412				
+OGNIBHPJ_00745	CDS	2412				hypothetical protein
+OGNIBHPJ_00746	gene	1455	hldD			
+OGNIBHPJ_00746	CDS	1455	hldD	5.1.3.20		ADP-L-glycero-D-manno-heptose-6-epimerase
+OGNIBHPJ_00747	gene	1020	rmlB			
+OGNIBHPJ_00747	CDS	1020	rmlB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+OGNIBHPJ_00748	gene	975				
+OGNIBHPJ_00748	CDS	975				hypothetical protein
+OGNIBHPJ_00749	gene	438				
+OGNIBHPJ_00749	CDS	438				hypothetical protein
+OGNIBHPJ_00750	gene	900	rfbA			
+OGNIBHPJ_00750	CDS	900	rfbA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase 1
+OGNIBHPJ_00751	gene	2472				
+OGNIBHPJ_00751	CDS	2472				hypothetical protein
+OGNIBHPJ_00752	gene	1848				
+OGNIBHPJ_00752	CDS	1848				hypothetical protein
+OGNIBHPJ_00753	gene	1539				
+OGNIBHPJ_00753	CDS	1539				hypothetical protein
+OGNIBHPJ_00754	gene	795				
+OGNIBHPJ_00754	CDS	795				hypothetical protein
+OGNIBHPJ_00755	gene	405				
+OGNIBHPJ_00755	CDS	405				hypothetical protein
+OGNIBHPJ_00756	gene	159				
+OGNIBHPJ_00756	CDS	159				hypothetical protein
+OGNIBHPJ_00757	gene	1056				
+OGNIBHPJ_00757	CDS	1056				hypothetical protein
+OGNIBHPJ_00758	gene	933				
+OGNIBHPJ_00758	CDS	933				hypothetical protein
+OGNIBHPJ_00759	gene	1233				
+OGNIBHPJ_00759	CDS	1233				hypothetical protein
+OGNIBHPJ_00760	gene	855				
+OGNIBHPJ_00760	CDS	855				hypothetical protein
+OGNIBHPJ_00761	gene	2172				
+OGNIBHPJ_00761	CDS	2172				hypothetical protein
+OGNIBHPJ_00762	gene	1773	thiK			
+OGNIBHPJ_00762	CDS	1773	thiK	2.7.1.89		Thiamine kinase
+OGNIBHPJ_00763	gene	942				
+OGNIBHPJ_00763	CDS	942				hypothetical protein
+OGNIBHPJ_00764	gene	2148				
+OGNIBHPJ_00764	CDS	2148				hypothetical protein
+OGNIBHPJ_00765	gene	960	toxA_1			
+OGNIBHPJ_00765	CDS	960	toxA_1	3.4.22.-		Toxin A
+OGNIBHPJ_00766	gene	2211				
+OGNIBHPJ_00766	CDS	2211				hypothetical protein
+OGNIBHPJ_00767	gene	1098	toxA_2			
+OGNIBHPJ_00767	CDS	1098	toxA_2	3.4.22.-		Toxin A
+OGNIBHPJ_00768	gene	189				
+OGNIBHPJ_00768	CDS	189				hypothetical protein
+OGNIBHPJ_00769	gene	1014				
+OGNIBHPJ_00769	CDS	1014				hypothetical protein
+OGNIBHPJ_00770	gene	474				
+OGNIBHPJ_00770	CDS	474				hypothetical protein
+OGNIBHPJ_00771	gene	2487				
+OGNIBHPJ_00771	CDS	2487				hypothetical protein
+OGNIBHPJ_00772	gene	1068				
+OGNIBHPJ_00772	CDS	1068				hypothetical protein
+OGNIBHPJ_00773	gene	1119				
+OGNIBHPJ_00773	CDS	1119				hypothetical protein
+OGNIBHPJ_00774	gene	1041	arnC_1			
+OGNIBHPJ_00774	CDS	1041	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+OGNIBHPJ_00775	gene	1104	arnC_2			
+OGNIBHPJ_00775	CDS	1104	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+OGNIBHPJ_00776	gene	1131				
+OGNIBHPJ_00776	CDS	1131				hypothetical protein
+OGNIBHPJ_00777	gene	1023				
+OGNIBHPJ_00777	CDS	1023				hypothetical protein
+OGNIBHPJ_00778	gene	1662				
+OGNIBHPJ_00778	CDS	1662				hypothetical protein
+OGNIBHPJ_00779	gene	1815				
+OGNIBHPJ_00779	CDS	1815				hypothetical protein
+OGNIBHPJ_00780	gene	432	cymR_1			
+OGNIBHPJ_00780	CDS	432	cymR_1			HTH-type transcriptional regulator CymR
+OGNIBHPJ_00781	gene	801	sufC			
+OGNIBHPJ_00781	CDS	801	sufC		COG0396	Vegetative protein 296
+OGNIBHPJ_00782	gene	1413				
+OGNIBHPJ_00782	CDS	1413				hypothetical protein
+OGNIBHPJ_00783	gene	1272				
+OGNIBHPJ_00783	CDS	1272				hypothetical protein
+OGNIBHPJ_00784	gene	1326	sufS			
+OGNIBHPJ_00784	CDS	1326	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+OGNIBHPJ_00785	gene	435	sufU			
+OGNIBHPJ_00785	CDS	435	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+OGNIBHPJ_00786	gene	801				
+OGNIBHPJ_00786	CDS	801				hypothetical protein
+OGNIBHPJ_00787	gene	735				
+OGNIBHPJ_00787	CDS	735				hypothetical protein
+OGNIBHPJ_00788	gene	1005				
+OGNIBHPJ_00788	CDS	1005				hypothetical protein
+OGNIBHPJ_00789	gene	1527	nadB_1			
+OGNIBHPJ_00789	CDS	1527	nadB_1	1.4.3.16	COG0029	L-aspartate oxidase
+OGNIBHPJ_00790	gene	78				
+OGNIBHPJ_00790	tRNA	78				tRNA-Lys(ctt)
+OGNIBHPJ_00791	gene	76				
+OGNIBHPJ_00791	tRNA	76				tRNA-Lys(ctt)
+OGNIBHPJ_00792	gene	77				
+OGNIBHPJ_00792	tRNA	77				tRNA-His(gtg)
+OGNIBHPJ_00793	gene	1200	ybdL			
+OGNIBHPJ_00793	CDS	1200	ybdL	2.6.1.88	COG0436	Methionine aminotransferase
+OGNIBHPJ_00794	gene	891	gmuE			
+OGNIBHPJ_00794	CDS	891	gmuE	2.7.1.4	COG1940	Putative fructokinase
+OGNIBHPJ_00795	gene	450				
+OGNIBHPJ_00795	CDS	450				hypothetical protein
+OGNIBHPJ_00796	gene	1401				
+OGNIBHPJ_00796	CDS	1401				hypothetical protein
+OGNIBHPJ_00797	gene	2493	rho			
+OGNIBHPJ_00797	CDS	2493	rho	3.6.4.-		Transcription termination factor Rho
+OGNIBHPJ_00798	gene	1854	argS			
+OGNIBHPJ_00798	CDS	1854	argS	6.1.1.19		Arginine--tRNA ligase
+OGNIBHPJ_00799	gene	168				
+OGNIBHPJ_00799	CDS	168				hypothetical protein
+OGNIBHPJ_00800	gene	486				
+OGNIBHPJ_00800	CDS	486				hypothetical protein
+OGNIBHPJ_00801	gene	600				
+OGNIBHPJ_00801	CDS	600				hypothetical protein
+OGNIBHPJ_00802	gene	1287	proA			
+OGNIBHPJ_00802	CDS	1287	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+OGNIBHPJ_00803	gene	1500	pip			
+OGNIBHPJ_00803	CDS	1500	pip	3.4.11.5		Proline iminopeptidase
+OGNIBHPJ_00804	gene	1107	proB			
+OGNIBHPJ_00804	CDS	1107	proB	2.7.2.11	COG0263	Glutamate 5-kinase
+OGNIBHPJ_00805	gene	1506	pncB			
+OGNIBHPJ_00805	CDS	1506	pncB	6.3.4.21		Nicotinate phosphoribosyltransferase
+OGNIBHPJ_00806	gene	441				
+OGNIBHPJ_00806	CDS	441				hypothetical protein
+OGNIBHPJ_00807	gene	77				
+OGNIBHPJ_00807	tRNA	77				tRNA-Ala(cgc)
+OGNIBHPJ_00808	gene	945				
+OGNIBHPJ_00808	CDS	945				hypothetical protein
+OGNIBHPJ_00809	gene	1200	wecA			
+OGNIBHPJ_00809	CDS	1200	wecA	2.7.8.33		Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase
+OGNIBHPJ_00810	gene	1050	trpS2			
+OGNIBHPJ_00810	CDS	1050	trpS2	6.1.1.2	COG0180	Tryptophan--tRNA ligase 2
+OGNIBHPJ_00811	gene	321	atl			
+OGNIBHPJ_00811	CDS	321	atl		COG3695	DNA base-flipping protein
+OGNIBHPJ_00812	gene	855				
+OGNIBHPJ_00812	CDS	855			COG1307	DegV domain-containing protein
+OGNIBHPJ_00813	gene	450				
+OGNIBHPJ_00813	CDS	450				hypothetical protein
+OGNIBHPJ_00814	gene	720				
+OGNIBHPJ_00814	CDS	720				hypothetical protein
+OGNIBHPJ_00815	gene	1671	pckA			
+OGNIBHPJ_00815	CDS	1671	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+OGNIBHPJ_00816	gene	1581				
+OGNIBHPJ_00816	CDS	1581				hypothetical protein
+OGNIBHPJ_00817	gene	840	apaH			
+OGNIBHPJ_00817	CDS	840	apaH	3.6.1.41		Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+OGNIBHPJ_00818	gene	1602	nhaP2			
+OGNIBHPJ_00818	CDS	1602	nhaP2		COG3263	K(+)/H(+) antiporter NhaP2
+OGNIBHPJ_00819	gene	222				
+OGNIBHPJ_00819	CDS	222				hypothetical protein
+OGNIBHPJ_00820	gene	1365				
+OGNIBHPJ_00820	CDS	1365				hypothetical protein
+OGNIBHPJ_00821	gene	2352				
+OGNIBHPJ_00821	CDS	2352				hypothetical protein
+OGNIBHPJ_00822	gene	2709				
+OGNIBHPJ_00822	CDS	2709				hypothetical protein
+OGNIBHPJ_00823	gene	969				
+OGNIBHPJ_00823	CDS	969				hypothetical protein
+OGNIBHPJ_00824	gene	600				
+OGNIBHPJ_00824	CDS	600				hypothetical protein
+OGNIBHPJ_00825	gene	2460				
+OGNIBHPJ_00825	CDS	2460				hypothetical protein
+OGNIBHPJ_00826	gene	3660				
+OGNIBHPJ_00826	CDS	3660				hypothetical protein
+OGNIBHPJ_00827	gene	693				
+OGNIBHPJ_00827	CDS	693				hypothetical protein
+OGNIBHPJ_00828	gene	651				
+OGNIBHPJ_00828	CDS	651				hypothetical protein
+OGNIBHPJ_00829	gene	282				
+OGNIBHPJ_00829	CDS	282				hypothetical protein
+OGNIBHPJ_00830	gene	1125	serC			
+OGNIBHPJ_00830	CDS	1125	serC	2.6.1.52	COG1932	Phosphoserine aminotransferase
+OGNIBHPJ_00831	gene	1164	serA			
+OGNIBHPJ_00831	CDS	1164	serA	1.1.1.95	COG0111	D-3-phosphoglycerate dehydrogenase
+OGNIBHPJ_00832	gene	981				
+OGNIBHPJ_00832	CDS	981				hypothetical protein
+OGNIBHPJ_00833	gene	1221	dapE_1			
+OGNIBHPJ_00833	CDS	1221	dapE_1	3.5.1.18		putative succinyl-diaminopimelate desuccinylase
+OGNIBHPJ_00834	gene	684				
+OGNIBHPJ_00834	CDS	684				hypothetical protein
+OGNIBHPJ_00835	gene	636	gpmA_1			
+OGNIBHPJ_00835	CDS	636	gpmA_1	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+OGNIBHPJ_00836	gene	543	cobC			
+OGNIBHPJ_00836	CDS	543	cobC	3.1.3.73	COG0406	Adenosylcobalamin/alpha-ribazole phosphatase
+OGNIBHPJ_00837	gene	672				
+OGNIBHPJ_00837	CDS	672				hypothetical protein
+OGNIBHPJ_00838	gene	603				
+OGNIBHPJ_00838	CDS	603				hypothetical protein
+OGNIBHPJ_00839	gene	483				
+OGNIBHPJ_00839	CDS	483				hypothetical protein
+OGNIBHPJ_00840	gene	1095				
+OGNIBHPJ_00840	CDS	1095				hypothetical protein
+OGNIBHPJ_00841	gene	969				
+OGNIBHPJ_00841	CDS	969				hypothetical protein
+OGNIBHPJ_00842	gene	1209				
+OGNIBHPJ_00842	CDS	1209				hypothetical protein
+OGNIBHPJ_00843	gene	366				
+OGNIBHPJ_00843	CDS	366				hypothetical protein
+OGNIBHPJ_00844	gene	219				
+OGNIBHPJ_00844	CDS	219				hypothetical protein
+OGNIBHPJ_00845	gene	1953	cadA			
+OGNIBHPJ_00845	CDS	1953	cadA	3.6.3.3	COG2217	Cadmium, zinc and cobalt-transporting ATPase
+OGNIBHPJ_00846	gene	390	mntR_1			
+OGNIBHPJ_00846	CDS	390	mntR_1		COG1321	Transcriptional regulator MntR
+OGNIBHPJ_00847	gene	771				
+OGNIBHPJ_00847	CDS	771				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+OGNIBHPJ_00848	gene	1860	yheS_2			
+OGNIBHPJ_00848	CDS	1860	yheS_2		COG0488	putative ABC transporter ATP-binding protein YheS
+OGNIBHPJ_00849	gene	873	pstB3_1			
+OGNIBHPJ_00849	CDS	873	pstB3_1	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+OGNIBHPJ_00850	gene	927	pstA_2			
+OGNIBHPJ_00850	CDS	927	pstA_2		COG0581	Phosphate transport system permease protein PstA
+OGNIBHPJ_00851	gene	909				
+OGNIBHPJ_00851	CDS	909				hypothetical protein
+OGNIBHPJ_00852	gene	939	pstS1_2			
+OGNIBHPJ_00852	CDS	939	pstS1_2		COG0226	Phosphate-binding protein PstS 1
+OGNIBHPJ_00853	gene	1437	pepV			
+OGNIBHPJ_00853	CDS	1437	pepV	3.4.13.-		Beta-Ala-Xaa dipeptidase
+OGNIBHPJ_00854	gene	663				
+OGNIBHPJ_00854	CDS	663		3.1.3.5	COG0546	5'-nucleotidase
+OGNIBHPJ_00855	gene	861				
+OGNIBHPJ_00855	CDS	861				DegV domain-containing protein
+OGNIBHPJ_00856	gene	759				
+OGNIBHPJ_00856	CDS	759				hypothetical protein
+OGNIBHPJ_00857	gene	1140	tgt			
+OGNIBHPJ_00857	CDS	1140	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+OGNIBHPJ_00858	gene	849	lvr			
+OGNIBHPJ_00858	CDS	849	lvr	1.1.1.-		Levodione reductase
+OGNIBHPJ_00859	gene	1764				
+OGNIBHPJ_00859	CDS	1764				hypothetical protein
+OGNIBHPJ_00860	gene	1212	queA			
+OGNIBHPJ_00860	CDS	1212	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+OGNIBHPJ_00861	gene	576	queH			
+OGNIBHPJ_00861	CDS	576	queH	1.17.99.6	COG1636	Epoxyqueuosine reductase QueH
+OGNIBHPJ_00862	gene	567				
+OGNIBHPJ_00862	CDS	567				hypothetical protein
+OGNIBHPJ_00863	gene	2151				
+OGNIBHPJ_00863	CDS	2151				hypothetical protein
+OGNIBHPJ_00864	gene	1104	rsmF			
+OGNIBHPJ_00864	CDS	1104	rsmF	2.1.1.178		Ribosomal RNA small subunit methyltransferase F
+OGNIBHPJ_00865	gene	171				
+OGNIBHPJ_00865	CDS	171				hypothetical protein
+OGNIBHPJ_00866	gene	1092				
+OGNIBHPJ_00866	CDS	1092				hypothetical protein
+OGNIBHPJ_00867	gene	891				
+OGNIBHPJ_00867	CDS	891				DegV domain-containing protein
+OGNIBHPJ_00868	gene	1917	fbp			
+OGNIBHPJ_00868	CDS	1917	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+OGNIBHPJ_00869	gene	396				
+OGNIBHPJ_00869	CDS	396				hypothetical protein
+OGNIBHPJ_00870	gene	408				
+OGNIBHPJ_00870	CDS	408				hypothetical protein
+OGNIBHPJ_00871	gene	909				
+OGNIBHPJ_00871	CDS	909				hypothetical protein
+OGNIBHPJ_00872	gene	3789				
+OGNIBHPJ_00872	CDS	3789				hypothetical protein
+OGNIBHPJ_00873	gene	1764	ubiB			
+OGNIBHPJ_00873	CDS	1764	ubiB	2.7.-.-		protein kinase UbiB
+OGNIBHPJ_00874	gene	417				
+OGNIBHPJ_00874	CDS	417				hypothetical protein
+OGNIBHPJ_00875	gene	1524	pepD_1			
+OGNIBHPJ_00875	CDS	1524	pepD_1	3.4.-.-	COG4690	Dipeptidase
+OGNIBHPJ_00876	gene	855	folD			
+OGNIBHPJ_00876	CDS	855	folD		COG0190	Bifunctional protein FolD protein
+OGNIBHPJ_00877	gene	633	fchA			
+OGNIBHPJ_00877	CDS	633	fchA	3.5.4.9	COG3404	Methenyltetrahydrofolate cyclohydrolase
+OGNIBHPJ_00878	gene	909				
+OGNIBHPJ_00878	CDS	909				hypothetical protein
+OGNIBHPJ_00879	gene	594				
+OGNIBHPJ_00879	CDS	594				hypothetical protein
+OGNIBHPJ_00880	gene	2475				
+OGNIBHPJ_00880	CDS	2475				hypothetical protein
+OGNIBHPJ_00881	gene	186				
+OGNIBHPJ_00881	CDS	186				hypothetical protein
+OGNIBHPJ_00882	gene	471				
+OGNIBHPJ_00882	CDS	471				hypothetical protein
+OGNIBHPJ_00883	gene	867				
+OGNIBHPJ_00883	CDS	867				hypothetical protein
+OGNIBHPJ_00884	gene	1329	fieF_1			
+OGNIBHPJ_00884	CDS	1329	fieF_1			Ferrous-iron efflux pump FieF
+OGNIBHPJ_00885	gene	1002				
+OGNIBHPJ_00885	CDS	1002				hypothetical protein
+OGNIBHPJ_00886	gene	237				
+OGNIBHPJ_00886	CDS	237				hypothetical protein
+OGNIBHPJ_00887	gene	1668	fhs			
+OGNIBHPJ_00887	CDS	1668	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+OGNIBHPJ_00888	gene	1068	ruvB			
+OGNIBHPJ_00888	CDS	1068	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+OGNIBHPJ_00889	gene	621	ruvA			
+OGNIBHPJ_00889	CDS	621	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+OGNIBHPJ_00890	gene	522	ruvC			
+OGNIBHPJ_00890	CDS	522	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+OGNIBHPJ_00891	gene	1986	nadE_2			
+OGNIBHPJ_00891	CDS	1986	nadE_2	6.3.5.1		Glutamine-dependent NAD(+) synthetase
+OGNIBHPJ_00892	gene	363				
+OGNIBHPJ_00892	CDS	363				hypothetical protein
+OGNIBHPJ_00893	gene	3465				
+OGNIBHPJ_00893	CDS	3465				hypothetical protein
+OGNIBHPJ_00894	gene	3804	dnaE			
+OGNIBHPJ_00894	CDS	3804	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+OGNIBHPJ_00895	gene	1200				
+OGNIBHPJ_00895	CDS	1200				hypothetical protein
+OGNIBHPJ_00896	gene	510				
+OGNIBHPJ_00896	CDS	510				hypothetical protein
+OGNIBHPJ_00897	gene	3633	addA			
+OGNIBHPJ_00897	CDS	3633	addA	3.6.4.12		ATP-dependent helicase/nuclease subunit A
+OGNIBHPJ_00898	gene	3189				
+OGNIBHPJ_00898	CDS	3189				hypothetical protein
+OGNIBHPJ_00899	gene	300				
+OGNIBHPJ_00899	CDS	300				hypothetical protein
+OGNIBHPJ_00900	gene	366				
+OGNIBHPJ_00900	CDS	366				hypothetical protein
+OGNIBHPJ_00901	gene	429	cymR_2			
+OGNIBHPJ_00901	CDS	429	cymR_2			HTH-type transcriptional regulator CymR
+OGNIBHPJ_00902	gene	939	cysK			
+OGNIBHPJ_00902	CDS	939	cysK	2.5.1.47	COG0031	Cysteine synthase
+OGNIBHPJ_00903	gene	1101	mnmA			
+OGNIBHPJ_00903	CDS	1101	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+OGNIBHPJ_00904	gene	1350				
+OGNIBHPJ_00904	CDS	1350				hypothetical protein
+OGNIBHPJ_00905	gene	1044				
+OGNIBHPJ_00905	CDS	1044				hypothetical protein
+OGNIBHPJ_00906	gene	1167	fucO			
+OGNIBHPJ_00906	CDS	1167	fucO	1.1.1.77	COG1454	Lactaldehyde reductase
+OGNIBHPJ_00907	gene	717				
+OGNIBHPJ_00907	CDS	717				hypothetical protein
+OGNIBHPJ_00908	gene	2307				
+OGNIBHPJ_00908	CDS	2307				hypothetical protein
+OGNIBHPJ_00909	gene	912				
+OGNIBHPJ_00909	CDS	912				hypothetical protein
+OGNIBHPJ_00910	gene	204				
+OGNIBHPJ_00910	CDS	204				hypothetical protein
+OGNIBHPJ_00911	gene	1356				
+OGNIBHPJ_00911	CDS	1356				hypothetical protein
+OGNIBHPJ_00912	gene	1056				
+OGNIBHPJ_00912	CDS	1056				hypothetical protein
+OGNIBHPJ_00913	gene	1812	hndD			
+OGNIBHPJ_00913	CDS	1812	hndD	1.12.1.3	COG3383	NADP-reducing hydrogenase subunit HndD
+OGNIBHPJ_00914	gene	1788	sfrB			
+OGNIBHPJ_00914	CDS	1788	sfrB	1.-.-.-	COG0493	NADPH-Fe(3+) oxidoreductase subunit beta
+OGNIBHPJ_00915	gene	1383	malH			
+OGNIBHPJ_00915	CDS	1383	malH	3.2.1.122	COG1486	Maltose-6'-phosphate glucosidase
+OGNIBHPJ_00916	gene	1617	glcB_1			
+OGNIBHPJ_00916	CDS	1617	glcB_1		COG2190	PTS system glucoside-specific EIICBA component
+OGNIBHPJ_00917	gene	867	licT_1			
+OGNIBHPJ_00917	CDS	867	licT_1		COG3711	Transcription antiterminator LicT
+OGNIBHPJ_00918	gene	531	crr_1			
+OGNIBHPJ_00918	CDS	531	crr_1		COG2190	PTS system glucose-specific EIIA component
+OGNIBHPJ_00919	gene	762				
+OGNIBHPJ_00919	CDS	762				hypothetical protein
+OGNIBHPJ_00920	gene	2250	rhlE			
+OGNIBHPJ_00920	CDS	2250	rhlE	3.6.4.13		ATP-dependent RNA helicase RhlE
+OGNIBHPJ_00921	gene	567				
+OGNIBHPJ_00921	CDS	567				hypothetical protein
+OGNIBHPJ_00922	gene	708				
+OGNIBHPJ_00922	CDS	708				hypothetical protein
+OGNIBHPJ_00923	gene	1950				
+OGNIBHPJ_00923	CDS	1950				hypothetical protein
+OGNIBHPJ_00924	gene	981				
+OGNIBHPJ_00924	CDS	981				hypothetical protein
+OGNIBHPJ_00925	gene	1878				
+OGNIBHPJ_00925	CDS	1878				hypothetical protein
+OGNIBHPJ_00926	gene	426				
+OGNIBHPJ_00926	CDS	426				hypothetical protein
+OGNIBHPJ_00927	gene	825				
+OGNIBHPJ_00927	CDS	825				hypothetical protein
+OGNIBHPJ_00928	gene	198				
+OGNIBHPJ_00928	CDS	198				hypothetical protein
+OGNIBHPJ_00929	gene	408				
+OGNIBHPJ_00929	CDS	408				hypothetical protein
+OGNIBHPJ_00930	gene	2643				
+OGNIBHPJ_00930	CDS	2643				hypothetical protein
+OGNIBHPJ_00931	gene	1248				
+OGNIBHPJ_00931	CDS	1248				hypothetical protein
+OGNIBHPJ_00932	gene	3024				
+OGNIBHPJ_00932	CDS	3024				hypothetical protein
+OGNIBHPJ_00933	gene	2217	dnaK_1			
+OGNIBHPJ_00933	CDS	2217	dnaK_1			Chaperone protein DnaK
+OGNIBHPJ_00934	gene	1692	dnaK_2			
+OGNIBHPJ_00934	CDS	1692	dnaK_2		COG0443	Chaperone protein DnaK
+OGNIBHPJ_00935	gene	789	grpE_1			
+OGNIBHPJ_00935	CDS	789	grpE_1			Protein GrpE
+OGNIBHPJ_00936	gene	1539				
+OGNIBHPJ_00936	CDS	1539				hypothetical protein
+OGNIBHPJ_00937	gene	195				
+OGNIBHPJ_00937	CDS	195				hypothetical protein
+OGNIBHPJ_00938	gene	624				
+OGNIBHPJ_00938	CDS	624				hypothetical protein
+OGNIBHPJ_00939	gene	141				
+OGNIBHPJ_00939	CDS	141				hypothetical protein
+OGNIBHPJ_00940	gene	582				
+OGNIBHPJ_00940	CDS	582				hypothetical protein
+OGNIBHPJ_00941	gene	2076				
+OGNIBHPJ_00941	CDS	2076				hypothetical protein
+OGNIBHPJ_00942	gene	2343	copA			
+OGNIBHPJ_00942	CDS	2343	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+OGNIBHPJ_00943	gene	222				
+OGNIBHPJ_00943	CDS	222				hypothetical protein
+OGNIBHPJ_00944	gene	273				
+OGNIBHPJ_00944	CDS	273				hypothetical protein
+OGNIBHPJ_00945	gene	474				
+OGNIBHPJ_00945	CDS	474				hypothetical protein
+OGNIBHPJ_00946	gene	1404	hutI_1			
+OGNIBHPJ_00946	CDS	1404	hutI_1	3.5.2.7		Imidazolonepropionase
+OGNIBHPJ_00947	gene	1071				
+OGNIBHPJ_00947	CDS	1071				hypothetical protein
+OGNIBHPJ_00948	gene	708				
+OGNIBHPJ_00948	CDS	708				hypothetical protein
+OGNIBHPJ_00949	gene	1482	gltB			
+OGNIBHPJ_00949	CDS	1482	gltB	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+OGNIBHPJ_00950	gene	4698	gltA			
+OGNIBHPJ_00950	CDS	4698	gltA	1.4.1.13	COG0067	Glutamate synthase [NADPH] large chain
+OGNIBHPJ_00951	gene	1257	mntH_1			
+OGNIBHPJ_00951	CDS	1257	mntH_1		COG1914	Divalent metal cation transporter MntH
+OGNIBHPJ_00952	gene	144				
+OGNIBHPJ_00952	CDS	144				hypothetical protein
+OGNIBHPJ_00953	gene	573	hrb			
+OGNIBHPJ_00953	CDS	573	hrb		COG1773	High molecular weight rubredoxin
+OGNIBHPJ_00954	gene	471	smpB			
+OGNIBHPJ_00954	CDS	471	smpB		COG0691	SsrA-binding protein
+OGNIBHPJ_00955	gene	918				
+OGNIBHPJ_00955	CDS	918				hypothetical protein
+OGNIBHPJ_00956	gene	77				
+OGNIBHPJ_00956	tRNA	77				tRNA-Glu(ctc)
+OGNIBHPJ_00957	gene	74				
+OGNIBHPJ_00957	tRNA	74				tRNA-Gln(ctg)
+OGNIBHPJ_00958	gene	411				
+OGNIBHPJ_00958	CDS	411				hypothetical protein
+OGNIBHPJ_00959	gene	360	mgsR			
+OGNIBHPJ_00959	CDS	360	mgsR		COG1393	Regulatory protein MgsR
+OGNIBHPJ_00960	gene	1053				
+OGNIBHPJ_00960	CDS	1053				hypothetical protein
+OGNIBHPJ_00961	gene	1431				
+OGNIBHPJ_00961	CDS	1431				PTS system EIIBC component
+OGNIBHPJ_00962	gene	876	murQ			
+OGNIBHPJ_00962	CDS	876	murQ	4.2.1.126	COG2103	N-acetylmuramic acid 6-phosphate etherase
+OGNIBHPJ_00963	gene	852	ybbH_1			
+OGNIBHPJ_00963	CDS	852	ybbH_1		COG1737	putative HTH-type transcriptional regulator YbbH
+OGNIBHPJ_00964	gene	582				
+OGNIBHPJ_00964	CDS	582				hypothetical protein
+OGNIBHPJ_00965	gene	606	bin3			
+OGNIBHPJ_00965	CDS	606	bin3			Putative transposon Tn552 DNA-invertase bin3
+OGNIBHPJ_00966	gene	2136	rnr			
+OGNIBHPJ_00966	CDS	2136	rnr	3.1.13.1	COG0557	Ribonuclease R
+OGNIBHPJ_00967	gene	921	ftsX			
+OGNIBHPJ_00967	CDS	921	ftsX		COG2177	Cell division protein FtsX
+OGNIBHPJ_00968	gene	1221	btuD_5			
+OGNIBHPJ_00968	CDS	1221	btuD_5	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OGNIBHPJ_00969	gene	942	aptB_1			
+OGNIBHPJ_00969	CDS	942	aptB_1	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+OGNIBHPJ_00970	gene	831	aptA_1			
+OGNIBHPJ_00970	CDS	831	aptA_1	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+OGNIBHPJ_00971	gene	915				
+OGNIBHPJ_00971	CDS	915				hypothetical protein
+OGNIBHPJ_00972	gene	1149	prfB_2			
+OGNIBHPJ_00972	CDS	1149	prfB_2			Peptide chain release factor 2
+OGNIBHPJ_00973	gene	2829	secA			
+OGNIBHPJ_00973	CDS	2829	secA			Protein translocase subunit SecA
+OGNIBHPJ_00974	gene	426				
+OGNIBHPJ_00974	CDS	426				hypothetical protein
+OGNIBHPJ_00975	gene	345				
+OGNIBHPJ_00975	CDS	345				hypothetical protein
+OGNIBHPJ_00976	gene	1815	btuD_6			
+OGNIBHPJ_00976	CDS	1815	btuD_6	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OGNIBHPJ_00977	gene	750	lnrL_1			
+OGNIBHPJ_00977	CDS	750	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+OGNIBHPJ_00978	gene	1893				
+OGNIBHPJ_00978	CDS	1893				hypothetical protein
+OGNIBHPJ_00979	gene	354				
+OGNIBHPJ_00979	CDS	354				hypothetical protein
+OGNIBHPJ_00980	gene	366				
+OGNIBHPJ_00980	CDS	366				hypothetical protein
+OGNIBHPJ_00981	gene	513				
+OGNIBHPJ_00981	CDS	513				hypothetical protein
+OGNIBHPJ_00982	gene	252				
+OGNIBHPJ_00982	CDS	252				hypothetical protein
+OGNIBHPJ_00983	gene	570	xerC_2			
+OGNIBHPJ_00983	CDS	570	xerC_2			Tyrosine recombinase XerC
+OGNIBHPJ_00984	gene	288				
+OGNIBHPJ_00984	CDS	288				hypothetical protein
+OGNIBHPJ_00985	gene	1419	prpC1			
+OGNIBHPJ_00985	CDS	1419	prpC1	2.3.3.5	COG0372	2-methylcitrate synthase 1
+OGNIBHPJ_00986	gene	843	ywpJ			
+OGNIBHPJ_00986	CDS	843	ywpJ	3.1.3.-	COG0561	Phosphatase YwpJ
+OGNIBHPJ_00987	gene	795	ybjI_3			
+OGNIBHPJ_00987	CDS	795	ybjI_3	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+OGNIBHPJ_00988	gene	1821	ade			
+OGNIBHPJ_00988	CDS	1821	ade	3.5.4.2	COG1001	Adenine deaminase
+OGNIBHPJ_00989	gene	1212	tyrS			
+OGNIBHPJ_00989	CDS	1212	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+OGNIBHPJ_00990	gene	1977				
+OGNIBHPJ_00990	CDS	1977				hypothetical protein
+OGNIBHPJ_00991	gene	2205	mtgA			
+OGNIBHPJ_00991	CDS	2205	mtgA	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+OGNIBHPJ_00992	gene	438	argR			
+OGNIBHPJ_00992	CDS	438	argR		COG1438	Arginine repressor
+OGNIBHPJ_00993	gene	972				
+OGNIBHPJ_00993	CDS	972				hypothetical protein
+OGNIBHPJ_00994	gene	825	truA			
+OGNIBHPJ_00994	CDS	825	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+OGNIBHPJ_00995	gene	468				
+OGNIBHPJ_00995	CDS	468				hypothetical protein
+OGNIBHPJ_00996	gene	942	rpoA			
+OGNIBHPJ_00996	CDS	942	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+OGNIBHPJ_00997	gene	597	rpsD			
+OGNIBHPJ_00997	CDS	597	rpsD			30S ribosomal protein S4
+OGNIBHPJ_00998	gene	405	rpsK			
+OGNIBHPJ_00998	CDS	405	rpsK		COG0100	30S ribosomal protein S11
+OGNIBHPJ_00999	gene	375	rpsM			
+OGNIBHPJ_00999	CDS	375	rpsM			30S ribosomal protein S13
+OGNIBHPJ_01000	gene	114	rpmJ			
+OGNIBHPJ_01000	CDS	114	rpmJ		COG0257	50S ribosomal protein L36
+OGNIBHPJ_01001	gene	219	infA			
+OGNIBHPJ_01001	CDS	219	infA			Translation initiation factor IF-1
+OGNIBHPJ_01002	gene	789	map_1			
+OGNIBHPJ_01002	CDS	789	map_1	3.4.11.18	COG0024	Methionine aminopeptidase 1
+OGNIBHPJ_01003	gene	627	adk			
+OGNIBHPJ_01003	CDS	627	adk	2.7.4.3		Adenylate kinase
+OGNIBHPJ_01004	gene	1218	secY			
+OGNIBHPJ_01004	CDS	1218	secY		COG0201	Protein translocase subunit SecY
+OGNIBHPJ_01005	gene	450	rplO			
+OGNIBHPJ_01005	CDS	450	rplO			50S ribosomal protein L15
+OGNIBHPJ_01006	gene	183	rpmD			
+OGNIBHPJ_01006	CDS	183	rpmD		COG1841	50S ribosomal protein L30
+OGNIBHPJ_01007	gene	525	rpsE			
+OGNIBHPJ_01007	CDS	525	rpsE			30S ribosomal protein S5
+OGNIBHPJ_01008	gene	369	rplR			
+OGNIBHPJ_01008	CDS	369	rplR			50S ribosomal protein L18
+OGNIBHPJ_01009	gene	537	rplF			
+OGNIBHPJ_01009	CDS	537	rplF		COG0097	50S ribosomal protein L6
+OGNIBHPJ_01010	gene	399	rpsH			
+OGNIBHPJ_01010	CDS	399	rpsH		COG0096	30S ribosomal protein S8
+OGNIBHPJ_01011	gene	171	rpsZ			
+OGNIBHPJ_01011	CDS	171	rpsZ			30S ribosomal protein S14 type Z
+OGNIBHPJ_01012	gene	558	rplE			
+OGNIBHPJ_01012	CDS	558	rplE			50S ribosomal protein L5
+OGNIBHPJ_01013	gene	1044	pucA			
+OGNIBHPJ_01013	CDS	1044	pucA	1.17.1.4	COG1975	putative xanthine dehydrogenase subunit A
+OGNIBHPJ_01014	gene	795				
+OGNIBHPJ_01014	CDS	795				hypothetical protein
+OGNIBHPJ_01015	gene	738				
+OGNIBHPJ_01015	CDS	738				hypothetical protein
+OGNIBHPJ_01016	gene	1368				
+OGNIBHPJ_01016	CDS	1368		3.5.2.-		D-hydantoinase
+OGNIBHPJ_01017	gene	615	mobA_2			
+OGNIBHPJ_01017	CDS	615	mobA_2	2.7.7.77		Molybdenum cofactor guanylyltransferase
+OGNIBHPJ_01018	gene	1203	ygeW			
+OGNIBHPJ_01018	CDS	1203	ygeW	2.1.3.-	COG0078	Putative carbamoyltransferase YgeW
+OGNIBHPJ_01019	gene	1386	argE			
+OGNIBHPJ_01019	CDS	1386	argE	3.5.1.16		Acetylornithine deacetylase
+OGNIBHPJ_01020	gene	1215	dpaL			
+OGNIBHPJ_01020	CDS	1215	dpaL	4.3.1.15	COG1171	Diaminopropionate ammonia-lyase
+OGNIBHPJ_01021	gene	654	dauR			
+OGNIBHPJ_01021	CDS	654	dauR		COG2964	Transcriptional regulator DauR
+OGNIBHPJ_01022	gene	990				
+OGNIBHPJ_01022	CDS	990				hypothetical protein
+OGNIBHPJ_01023	gene	423				
+OGNIBHPJ_01023	CDS	423				hypothetical protein
+OGNIBHPJ_01024	gene	201				
+OGNIBHPJ_01024	CDS	201				hypothetical protein
+OGNIBHPJ_01025	gene	1392				
+OGNIBHPJ_01025	CDS	1392				hypothetical protein
+OGNIBHPJ_01026	gene	2778	pucD			
+OGNIBHPJ_01026	CDS	2778	pucD	1.17.1.4	COG1529	putative xanthine dehydrogenase subunit D
+OGNIBHPJ_01027	gene	480	rnfB			
+OGNIBHPJ_01027	CDS	480	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+OGNIBHPJ_01028	gene	3000	ygfK			
+OGNIBHPJ_01028	CDS	3000	ygfK		COG0493	Putative oxidoreductase YgfK
+OGNIBHPJ_01029	gene	1356	ssnA			
+OGNIBHPJ_01029	CDS	1356	ssnA	3.-.-.-	COG0402	Putative aminohydrolase SsnA
+OGNIBHPJ_01030	gene	1395	xanP			
+OGNIBHPJ_01030	CDS	1395	xanP		COG2233	Xanthine permease XanP
+OGNIBHPJ_01031	gene	657				
+OGNIBHPJ_01031	CDS	657				hypothetical protein
+OGNIBHPJ_01032	gene	378	ridA			
+OGNIBHPJ_01032	CDS	378	ridA	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+OGNIBHPJ_01033	gene	2496				
+OGNIBHPJ_01033	CDS	2496				hypothetical protein
+OGNIBHPJ_01034	gene	618	rluC			
+OGNIBHPJ_01034	CDS	618	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+OGNIBHPJ_01035	gene	747	ydjF			
+OGNIBHPJ_01035	CDS	747	ydjF		COG1349	putative HTH-type transcriptional regulator YdjF
+OGNIBHPJ_01036	gene	1080	iolG			
+OGNIBHPJ_01036	CDS	1080	iolG	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+OGNIBHPJ_01037	gene	306	rplX			
+OGNIBHPJ_01037	CDS	306	rplX		COG0198	50S ribosomal protein L24
+OGNIBHPJ_01038	gene	369	rplN			
+OGNIBHPJ_01038	CDS	369	rplN			50S ribosomal protein L14
+OGNIBHPJ_01039	gene	261	rpsQ			
+OGNIBHPJ_01039	CDS	261	rpsQ		COG0186	30S ribosomal protein S17
+OGNIBHPJ_01040	gene	216	rpmC			
+OGNIBHPJ_01040	CDS	216	rpmC			50S ribosomal protein L29
+OGNIBHPJ_01041	gene	504				
+OGNIBHPJ_01041	CDS	504				hypothetical protein
+OGNIBHPJ_01042	gene	711	rpsC			
+OGNIBHPJ_01042	CDS	711	rpsC		COG0092	30S ribosomal protein S3
+OGNIBHPJ_01043	gene	372	rplV			
+OGNIBHPJ_01043	CDS	372	rplV		COG0091	50S ribosomal protein L22
+OGNIBHPJ_01044	gene	261	rpsS			
+OGNIBHPJ_01044	CDS	261	rpsS			30S ribosomal protein S19
+OGNIBHPJ_01045	gene	864	rplB			
+OGNIBHPJ_01045	CDS	864	rplB			50S ribosomal protein L2
+OGNIBHPJ_01046	gene	288	rplW			
+OGNIBHPJ_01046	CDS	288	rplW			50S ribosomal protein L23
+OGNIBHPJ_01047	gene	627	rplD			
+OGNIBHPJ_01047	CDS	627	rplD			50S ribosomal protein L4
+OGNIBHPJ_01048	gene	612	rplC			
+OGNIBHPJ_01048	CDS	612	rplC		COG0087	50S ribosomal protein L3
+OGNIBHPJ_01049	gene	621	gpmA_2			
+OGNIBHPJ_01049	CDS	621	gpmA_2	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+OGNIBHPJ_01050	gene	1161	fieF_2			
+OGNIBHPJ_01050	CDS	1161	fieF_2			Ferrous-iron efflux pump FieF
+OGNIBHPJ_01051	gene	1725	accD			
+OGNIBHPJ_01051	CDS	1725	accD	2.1.3.15		Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta, chloroplastic
+OGNIBHPJ_01052	gene	1344	accC			
+OGNIBHPJ_01052	CDS	1344	accC	6.3.4.14	COG0439	Biotin carboxylase
+OGNIBHPJ_01053	gene	423	fabZ			
+OGNIBHPJ_01053	CDS	423	fabZ	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+OGNIBHPJ_01054	gene	477	accB			
+OGNIBHPJ_01054	CDS	477	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+OGNIBHPJ_01055	gene	1248	fabF			
+OGNIBHPJ_01055	CDS	1248	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+OGNIBHPJ_01056	gene	774	fabG_2			
+OGNIBHPJ_01056	CDS	774	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+OGNIBHPJ_01057	gene	927	baeE			
+OGNIBHPJ_01057	CDS	927	baeE		COG0331	Polyketide biosynthesis protein BaeE
+OGNIBHPJ_01058	gene	945				
+OGNIBHPJ_01058	CDS	945		1.6.5.11	COG2070	NADH:quinone reductase
+OGNIBHPJ_01059	gene	237	acpP			
+OGNIBHPJ_01059	CDS	237	acpP			Acyl carrier protein
+OGNIBHPJ_01060	gene	960	fabH			
+OGNIBHPJ_01060	CDS	960	fabH	2.3.1.180		3-oxoacyl-[acyl-carrier-protein] synthase 3
+OGNIBHPJ_01061	gene	777	birA			
+OGNIBHPJ_01061	CDS	777	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+OGNIBHPJ_01062	gene	309	rpsJ			
+OGNIBHPJ_01062	CDS	309	rpsJ		COG0051	30S ribosomal protein S10
+OGNIBHPJ_01063	gene	2100	fusA			
+OGNIBHPJ_01063	CDS	2100	fusA		COG0480	Elongation factor G
+OGNIBHPJ_01064	gene	474	rpsG			
+OGNIBHPJ_01064	CDS	474	rpsG		COG0049	30S ribosomal protein S7
+OGNIBHPJ_01065	gene	378	rpsL			
+OGNIBHPJ_01065	CDS	378	rpsL			30S ribosomal protein S12
+OGNIBHPJ_01066	gene	1077				
+OGNIBHPJ_01066	CDS	1077				hypothetical protein
+OGNIBHPJ_01067	gene	519	sigR			
+OGNIBHPJ_01067	CDS	519	sigR		COG1595	ECF RNA polymerase sigma factor SigR
+OGNIBHPJ_01068	gene	4479	rpoC			
+OGNIBHPJ_01068	CDS	4479	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+OGNIBHPJ_01069	gene	3492	rpoB			
+OGNIBHPJ_01069	CDS	3492	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+OGNIBHPJ_01070	gene	909	gtaB			
+OGNIBHPJ_01070	CDS	909	gtaB	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+OGNIBHPJ_01071	gene	378	rplL			
+OGNIBHPJ_01071	CDS	378	rplL			50S ribosomal protein L7/L12
+OGNIBHPJ_01072	gene	522	rplJ			
+OGNIBHPJ_01072	CDS	522	rplJ		COG0244	50S ribosomal protein L10
+OGNIBHPJ_01073	gene	1137	dapX			
+OGNIBHPJ_01073	CDS	1137	dapX	2.6.1.-	COG0436	putative N-acetyl-LL-diaminopimelate aminotransferase
+OGNIBHPJ_01074	gene	663				
+OGNIBHPJ_01074	CDS	663				hypothetical protein
+OGNIBHPJ_01075	gene	564				
+OGNIBHPJ_01075	CDS	564				hypothetical protein
+OGNIBHPJ_01076	gene	1377				
+OGNIBHPJ_01076	CDS	1377		3.2.1.54		Cyclomaltodextrinase
+OGNIBHPJ_01077	gene	1197	sotB			
+OGNIBHPJ_01077	CDS	1197	sotB			Sugar efflux transporter B
+OGNIBHPJ_01078	gene	2412	feoB_1			
+OGNIBHPJ_01078	CDS	2412	feoB_1		COG0370	Fe(2+) transporter FeoB
+OGNIBHPJ_01079	gene	900				
+OGNIBHPJ_01079	CDS	900				hypothetical protein
+OGNIBHPJ_01080	gene	564	crr_2			
+OGNIBHPJ_01080	CDS	564	crr_2		COG2190	PTS system glucose-specific EIIA component
+OGNIBHPJ_01081	gene	1416	asnS			
+OGNIBHPJ_01081	CDS	1416	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+OGNIBHPJ_01082	gene	786				
+OGNIBHPJ_01082	CDS	786				hypothetical protein
+OGNIBHPJ_01083	gene	981				
+OGNIBHPJ_01083	CDS	981				hypothetical protein
+OGNIBHPJ_01084	gene	924				
+OGNIBHPJ_01084	CDS	924				hypothetical protein
+OGNIBHPJ_01085	gene	795	ecfA2			
+OGNIBHPJ_01085	CDS	795	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+OGNIBHPJ_01086	gene	2031	yfkN			
+OGNIBHPJ_01086	CDS	2031	yfkN		COG0737	Trifunctional nucleotide phosphoesterase protein YfkN
+OGNIBHPJ_01087	gene	768				
+OGNIBHPJ_01087	CDS	768				hypothetical protein
+OGNIBHPJ_01088	gene	1917				
+OGNIBHPJ_01088	CDS	1917				hypothetical protein
+OGNIBHPJ_01089	gene	711				
+OGNIBHPJ_01089	CDS	711				hypothetical protein
+OGNIBHPJ_01090	gene	708	rplA			
+OGNIBHPJ_01090	CDS	708	rplA		COG0081	50S ribosomal protein L1
+OGNIBHPJ_01091	gene	429	rplK			
+OGNIBHPJ_01091	CDS	429	rplK		COG0080	50S ribosomal protein L11
+OGNIBHPJ_01092	gene	537	nusG_2			
+OGNIBHPJ_01092	CDS	537	nusG_2		COG0250	Transcription termination/antitermination protein NusG
+OGNIBHPJ_01093	gene	339	secE			
+OGNIBHPJ_01093	CDS	339	secE			Protein translocase subunit SecE
+OGNIBHPJ_01094	gene	76				
+OGNIBHPJ_01094	tRNA	76				tRNA-Trp(cca)
+OGNIBHPJ_01095	gene	168	rpmG			
+OGNIBHPJ_01095	CDS	168	rpmG		COG0267	50S ribosomal protein L33
+OGNIBHPJ_01096	gene	1191	tuf			
+OGNIBHPJ_01096	CDS	1191	tuf		COG0050	Elongation factor Tu
+OGNIBHPJ_01097	gene	77				
+OGNIBHPJ_01097	tRNA	77				tRNA-Met(cat)
+OGNIBHPJ_01098	gene	76				
+OGNIBHPJ_01098	tRNA	76				tRNA-Thr(ggt)
+OGNIBHPJ_01099	gene	86				
+OGNIBHPJ_01099	tRNA	86				tRNA-Tyr(gta)
+OGNIBHPJ_01100	gene	75				
+OGNIBHPJ_01100	tRNA	75				tRNA-Thr(tgt)
+OGNIBHPJ_01101	gene	678				
+OGNIBHPJ_01101	CDS	678				hypothetical protein
+OGNIBHPJ_01102	gene	924	rlmB_2			
+OGNIBHPJ_01102	CDS	924	rlmB_2	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+OGNIBHPJ_01103	gene	1467	cysS			
+OGNIBHPJ_01103	CDS	1467	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+OGNIBHPJ_01104	gene	495	ispF			
+OGNIBHPJ_01104	CDS	495	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+OGNIBHPJ_01105	gene	729	ispD			
+OGNIBHPJ_01105	CDS	729	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+OGNIBHPJ_01106	gene	1068	disA			
+OGNIBHPJ_01106	CDS	1068	disA	2.7.7.85	COG1623	DNA integrity scanning protein DisA
+OGNIBHPJ_01107	gene	585	mntP			
+OGNIBHPJ_01107	CDS	585	mntP		COG1971	putative manganese efflux pump MntP
+OGNIBHPJ_01108	gene	1458	pepD_2			
+OGNIBHPJ_01108	CDS	1458	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+OGNIBHPJ_01109	gene	522				
+OGNIBHPJ_01109	CDS	522				hypothetical protein
+OGNIBHPJ_01110	gene	360				
+OGNIBHPJ_01110	CDS	360				hypothetical protein
+OGNIBHPJ_01111	gene	2643	clpC			
+OGNIBHPJ_01111	CDS	2643	clpC		COG0542	Negative regulator of genetic competence ClpC/MecB
+OGNIBHPJ_01112	gene	594				
+OGNIBHPJ_01112	CDS	594				hypothetical protein
+OGNIBHPJ_01113	gene	1602				
+OGNIBHPJ_01113	CDS	1602				hypothetical protein
+OGNIBHPJ_01114	gene	1965	aspS_1			
+OGNIBHPJ_01114	CDS	1965	aspS_1	6.1.1.12		Aspartate--tRNA(Asp) ligase
+OGNIBHPJ_01115	gene	471	greA			
+OGNIBHPJ_01115	CDS	471	greA		COG0782	Transcription elongation factor GreA
+OGNIBHPJ_01116	gene	276	tatA_1			
+OGNIBHPJ_01116	CDS	276	tatA_1			Sec-independent protein translocase protein TatA
+OGNIBHPJ_01117	gene	77				
+OGNIBHPJ_01117	tRNA	77				tRNA-Pro(cgg)
+OGNIBHPJ_01118	gene	897	ispE			
+OGNIBHPJ_01118	CDS	897	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+OGNIBHPJ_01119	gene	297	veg			
+OGNIBHPJ_01119	CDS	297	veg		COG4466	Protein Veg
+OGNIBHPJ_01120	gene	447	dtd			
+OGNIBHPJ_01120	CDS	447	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+OGNIBHPJ_01121	gene	642				
+OGNIBHPJ_01121	CDS	642		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+OGNIBHPJ_01122	gene	726	rph			
+OGNIBHPJ_01122	CDS	726	rph	2.7.7.56	COG0689	Ribonuclease PH
+OGNIBHPJ_01123	gene	885	murI			
+OGNIBHPJ_01123	CDS	885	murI	5.1.1.3		Glutamate racemase
+OGNIBHPJ_01124	gene	954				
+OGNIBHPJ_01124	CDS	954				hypothetical protein
+OGNIBHPJ_01125	gene	1563	murE			
+OGNIBHPJ_01125	CDS	1563	murE	6.3.2.7	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+OGNIBHPJ_01126	gene	1881	asnB			
+OGNIBHPJ_01126	CDS	1881	asnB	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+OGNIBHPJ_01127	gene	76				
+OGNIBHPJ_01127	tRNA	76				tRNA-Val(tac)
+OGNIBHPJ_01128	gene	1242	argD			
+OGNIBHPJ_01128	CDS	1242	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+OGNIBHPJ_01129	gene	981	argB			
+OGNIBHPJ_01129	CDS	981	argB	2.7.2.8	COG0548	Acetylglutamate kinase
+OGNIBHPJ_01130	gene	1269	argJ			
+OGNIBHPJ_01130	CDS	1269	argJ		COG1364	Arginine biosynthesis bifunctional protein ArgJ
+OGNIBHPJ_01131	gene	1071	argC			
+OGNIBHPJ_01131	CDS	1071	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+OGNIBHPJ_01132	gene	411				
+OGNIBHPJ_01132	CDS	411				hypothetical protein
+OGNIBHPJ_01133	gene	447				
+OGNIBHPJ_01133	CDS	447				hypothetical protein
+OGNIBHPJ_01134	gene	801	ecfT_2			
+OGNIBHPJ_01134	CDS	801	ecfT_2		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+OGNIBHPJ_01135	gene	1905	btuD_7			
+OGNIBHPJ_01135	CDS	1905	btuD_7	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OGNIBHPJ_01136	gene	612	ribU			
+OGNIBHPJ_01136	CDS	612	ribU		COG3601	Riboflavin transporter RibU
+OGNIBHPJ_01137	gene	1638	groL			
+OGNIBHPJ_01137	CDS	1638	groL			60 kDa chaperonin
+OGNIBHPJ_01138	gene	294	groS			
+OGNIBHPJ_01138	CDS	294	groS		COG0234	10 kDa chaperonin
+OGNIBHPJ_01139	gene	1638	nfdA_1			
+OGNIBHPJ_01139	CDS	1638	nfdA_1	3.5.1.91		N-substituted formamide deformylase
+OGNIBHPJ_01140	gene	1464				
+OGNIBHPJ_01140	CDS	1464		3.5.1.47		N-acetyldiaminopimelate deacetylase
+OGNIBHPJ_01141	gene	1371				
+OGNIBHPJ_01141	CDS	1371				hypothetical protein
+OGNIBHPJ_01142	gene	1023				
+OGNIBHPJ_01142	CDS	1023				hypothetical protein
+OGNIBHPJ_01143	gene	516				
+OGNIBHPJ_01143	CDS	516				hypothetical protein
+OGNIBHPJ_01144	gene	378				
+OGNIBHPJ_01144	CDS	378				hypothetical protein
+OGNIBHPJ_01145	gene	546				
+OGNIBHPJ_01145	CDS	546				hypothetical protein
+OGNIBHPJ_01146	gene	807				
+OGNIBHPJ_01146	CDS	807			COG0217	putative transcriptional regulatory protein/MSMEI_2866
+OGNIBHPJ_01147	gene	2184				
+OGNIBHPJ_01147	CDS	2184				hypothetical protein
+OGNIBHPJ_01148	gene	822	lgt			
+OGNIBHPJ_01148	CDS	822	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+OGNIBHPJ_01149	gene	279	nfuA			
+OGNIBHPJ_01149	CDS	279	nfuA			Fe/S biogenesis protein NfuA
+OGNIBHPJ_01150	gene	525				
+OGNIBHPJ_01150	CDS	525				hypothetical protein
+OGNIBHPJ_01151	gene	852	coaX_1			
+OGNIBHPJ_01151	CDS	852	coaX_1	2.7.1.33	COG1521	Type III pantothenate kinase
+OGNIBHPJ_01152	gene	1704				
+OGNIBHPJ_01152	CDS	1704				hypothetical protein
+OGNIBHPJ_01153	gene	3468	smc_2			
+OGNIBHPJ_01153	CDS	3468	smc_2			Chromosome partition protein Smc
+OGNIBHPJ_01154	gene	1056				
+OGNIBHPJ_01154	CDS	1056				hypothetical protein
+OGNIBHPJ_01155	gene	450				
+OGNIBHPJ_01155	CDS	450				hypothetical protein
+OGNIBHPJ_01156	gene	4782				
+OGNIBHPJ_01156	CDS	4782				hypothetical protein
+OGNIBHPJ_01157	gene	711				
+OGNIBHPJ_01157	CDS	711				hypothetical protein
+OGNIBHPJ_01158	gene	858	cof_2			
+OGNIBHPJ_01158	CDS	858	cof_2	3.6.1.-		HMP-PP phosphatase
+OGNIBHPJ_01159	gene	1254				
+OGNIBHPJ_01159	CDS	1254				hypothetical protein
+OGNIBHPJ_01160	gene	663				
+OGNIBHPJ_01160	CDS	663				hypothetical protein
+OGNIBHPJ_01161	gene	339	glnB			
+OGNIBHPJ_01161	CDS	339	glnB		COG0347	Nitrogen regulatory protein P-II
+OGNIBHPJ_01162	gene	1317	nrgA			
+OGNIBHPJ_01162	CDS	1317	nrgA			Ammonium transporter
+OGNIBHPJ_01163	gene	1020				
+OGNIBHPJ_01163	CDS	1020				hypothetical protein
+OGNIBHPJ_01164	gene	558				
+OGNIBHPJ_01164	CDS	558				hypothetical protein
+OGNIBHPJ_01165	gene	1782	dxs			
+OGNIBHPJ_01165	CDS	1782	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+OGNIBHPJ_01166	gene	1203	dhaT			
+OGNIBHPJ_01166	CDS	1203	dhaT	1.1.1.202	COG1454	1,3-propanediol dehydrogenase
+OGNIBHPJ_01167	gene	996	mltF_2			
+OGNIBHPJ_01167	CDS	996	mltF_2	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+OGNIBHPJ_01168	gene	660	tcyB_1			
+OGNIBHPJ_01168	CDS	660	tcyB_1		COG0765	L-cystine transport system permease protein TcyB
+OGNIBHPJ_01169	gene	834				
+OGNIBHPJ_01169	CDS	834				hypothetical protein
+OGNIBHPJ_01170	gene	765	glnQ_2			
+OGNIBHPJ_01170	CDS	765	glnQ_2			Glutamine transport ATP-binding protein GlnQ
+OGNIBHPJ_01171	gene	810				
+OGNIBHPJ_01171	CDS	810				hypothetical protein
+OGNIBHPJ_01172	gene	819				
+OGNIBHPJ_01172	CDS	819				hypothetical protein
+OGNIBHPJ_01173	gene	825				
+OGNIBHPJ_01173	CDS	825				hypothetical protein
+OGNIBHPJ_01174	gene	762	bcrA_2			
+OGNIBHPJ_01174	CDS	762	bcrA_2			Bacitracin transport ATP-binding protein BcrA
+OGNIBHPJ_01175	gene	330				
+OGNIBHPJ_01175	CDS	330				hypothetical protein
+OGNIBHPJ_01176	gene	561				
+OGNIBHPJ_01176	CDS	561				hypothetical protein
+OGNIBHPJ_01177	gene	357				
+OGNIBHPJ_01177	CDS	357				hypothetical protein
+OGNIBHPJ_01178	gene	1881	cheB			
+OGNIBHPJ_01178	CDS	1881	cheB	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+OGNIBHPJ_01179	gene	798	rutD			
+OGNIBHPJ_01179	CDS	798	rutD	3.5.1.-		Putative aminoacrylate hydrolase RutD
+OGNIBHPJ_01180	gene	777				
+OGNIBHPJ_01180	CDS	777				hypothetical protein
+OGNIBHPJ_01181	gene	888	map_2			
+OGNIBHPJ_01181	CDS	888	map_2	3.4.11.18	COG0024	Methionine aminopeptidase
+OGNIBHPJ_01182	gene	936	ghrA			
+OGNIBHPJ_01182	CDS	936	ghrA	1.1.1.81		Glyoxylate/hydroxypyruvate reductase A
+OGNIBHPJ_01183	gene	1494	apeB			
+OGNIBHPJ_01183	CDS	1494	apeB	3.4.11.-	COG1362	putative M18 family aminopeptidase 2
+OGNIBHPJ_01184	gene	1086				
+OGNIBHPJ_01184	CDS	1086				hypothetical protein
+OGNIBHPJ_01185	gene	1080	pfkA2			
+OGNIBHPJ_01185	CDS	1080	pfkA2	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase 2
+OGNIBHPJ_01186	gene	921				
+OGNIBHPJ_01186	CDS	921				hypothetical protein
+OGNIBHPJ_01187	gene	321				
+OGNIBHPJ_01187	CDS	321				hypothetical protein
+OGNIBHPJ_01188	gene	2766				
+OGNIBHPJ_01188	CDS	2766				hypothetical protein
+OGNIBHPJ_01189	gene	702				
+OGNIBHPJ_01189	CDS	702			COG1136	putative ABC transporter ATP-binding protein
+OGNIBHPJ_01190	gene	639				
+OGNIBHPJ_01190	CDS	639				hypothetical protein
+OGNIBHPJ_01191	gene	1245	eriC_2			
+OGNIBHPJ_01191	CDS	1245	eriC_2		COG0038	Chloride/fluoride channel protein
+OGNIBHPJ_01192	gene	675				
+OGNIBHPJ_01192	CDS	675				putative protein
+OGNIBHPJ_01193	gene	1380	sasA_2			
+OGNIBHPJ_01193	CDS	1380	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+OGNIBHPJ_01194	gene	690	arlR_1			
+OGNIBHPJ_01194	CDS	690	arlR_1		COG0745	Response regulator ArlR
+OGNIBHPJ_01195	gene	579	ogt			
+OGNIBHPJ_01195	CDS	579	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+OGNIBHPJ_01196	gene	1026	asd			
+OGNIBHPJ_01196	CDS	1026	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+OGNIBHPJ_01197	gene	1389	yclM			
+OGNIBHPJ_01197	CDS	1389	yclM	2.7.2.4	COG0527	Aspartokinase 3
+OGNIBHPJ_01198	gene	1563	thrC			
+OGNIBHPJ_01198	CDS	1563	thrC	4.2.3.1	COG0498	Threonine synthase
+OGNIBHPJ_01199	gene	882	thrB			
+OGNIBHPJ_01199	CDS	882	thrB	2.7.1.39	COG0083	Homoserine kinase
+OGNIBHPJ_01200	gene	591	engB			
+OGNIBHPJ_01200	CDS	591	engB		COG0218	putative GTP-binding protein EngB
+OGNIBHPJ_01201	gene	741	mtnN			
+OGNIBHPJ_01201	CDS	741	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+OGNIBHPJ_01202	gene	819	pflA			
+OGNIBHPJ_01202	CDS	819	pflA	1.97.1.4	COG1180	Pyruvate formate-lyase 1-activating enzyme
+OGNIBHPJ_01203	gene	861				
+OGNIBHPJ_01203	CDS	861			COG1307	Fatty acid-binding protein
+OGNIBHPJ_01204	gene	252	pflB_1			
+OGNIBHPJ_01204	CDS	252	pflB_1	2.3.1.54		Formate acetyltransferase
+OGNIBHPJ_01205	gene	2052	pflB_2			
+OGNIBHPJ_01205	CDS	2052	pflB_2	2.3.1.54		Formate acetyltransferase
+OGNIBHPJ_01206	gene	1014	kdgT_2			
+OGNIBHPJ_01206	CDS	1014	kdgT_2			2-keto-3-deoxygluconate permease
+OGNIBHPJ_01207	gene	750	fabG_3			
+OGNIBHPJ_01207	CDS	750	fabG_3	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+OGNIBHPJ_01208	gene	393				
+OGNIBHPJ_01208	CDS	393				hypothetical protein
+OGNIBHPJ_01209	gene	2367	btuD_8			
+OGNIBHPJ_01209	CDS	2367	btuD_8	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OGNIBHPJ_01210	gene	1857				
+OGNIBHPJ_01210	CDS	1857			COG1132	putative ABC transporter ATP-binding protein
+OGNIBHPJ_01211	gene	1032	aroG			
+OGNIBHPJ_01211	CDS	1032	aroG	2.5.1.54	COG0722	Phospho-2-dehydro-3-deoxyheptonate aldolase, Phe-sensitive
+OGNIBHPJ_01212	gene	645				
+OGNIBHPJ_01212	CDS	645				hypothetical protein
+OGNIBHPJ_01213	gene	1551				
+OGNIBHPJ_01213	CDS	1551				hypothetical protein
+OGNIBHPJ_01214	gene	1122	aguA_1			
+OGNIBHPJ_01214	CDS	1122	aguA_1	3.5.3.12	COG2957	Putative agmatine deiminase
+OGNIBHPJ_01215	gene	801				
+OGNIBHPJ_01215	CDS	801				hypothetical protein
+OGNIBHPJ_01216	gene	1383				
+OGNIBHPJ_01216	CDS	1383				hypothetical protein
+OGNIBHPJ_01217	gene	1629	nfdA_2			
+OGNIBHPJ_01217	CDS	1629	nfdA_2	3.5.1.91		N-substituted formamide deformylase
+OGNIBHPJ_01218	gene	993				
+OGNIBHPJ_01218	CDS	993				hypothetical protein
+OGNIBHPJ_01219	gene	192				
+OGNIBHPJ_01219	CDS	192				hypothetical protein
+OGNIBHPJ_01220	gene	1398	gadC_1			
+OGNIBHPJ_01220	CDS	1398	gadC_1		COG0531	putative glutamate/gamma-aminobutyrate antiporter
+OGNIBHPJ_01221	gene	1206	aguA_2			
+OGNIBHPJ_01221	CDS	1206	aguA_2	3.5.3.12	COG2957	Putative agmatine deiminase
+OGNIBHPJ_01222	gene	1440	gadC_2			
+OGNIBHPJ_01222	CDS	1440	gadC_2		COG0531	putative glutamate/gamma-aminobutyrate antiporter
+OGNIBHPJ_01223	gene	1074	ptcA			
+OGNIBHPJ_01223	CDS	1074	ptcA	2.1.3.6	COG0078	Putrescine carbamoyltransferase
+OGNIBHPJ_01224	gene	966				
+OGNIBHPJ_01224	CDS	966				hypothetical protein
+OGNIBHPJ_01225	gene	2238				
+OGNIBHPJ_01225	CDS	2238				hypothetical protein
+OGNIBHPJ_01226	gene	786	bceA_1			
+OGNIBHPJ_01226	CDS	786	bceA_1		COG1136	Bacitracin export ATP-binding protein BceA
+OGNIBHPJ_01227	gene	990				
+OGNIBHPJ_01227	CDS	990				hypothetical protein
+OGNIBHPJ_01228	gene	210				
+OGNIBHPJ_01228	CDS	210				hypothetical protein
+OGNIBHPJ_01229	gene	858	kbaY			
+OGNIBHPJ_01229	CDS	858	kbaY	4.1.2.40	COG0191	D-tagatose-1,6-bisphosphate aldolase subunit KbaY
+OGNIBHPJ_01230	gene	804	glcR			
+OGNIBHPJ_01230	CDS	804	glcR		COG1349	HTH-type transcriptional repressor GlcR
+OGNIBHPJ_01231	gene	1161	fprA1			
+OGNIBHPJ_01231	CDS	1161	fprA1	1.6.3.4	COG0426	Flavo-diiron protein FprA1
+OGNIBHPJ_01232	gene	987	lacI_1			
+OGNIBHPJ_01232	CDS	987	lacI_1		COG1609	Lactose operon repressor
+OGNIBHPJ_01233	gene	258				
+OGNIBHPJ_01233	CDS	258				hypothetical protein
+OGNIBHPJ_01234	gene	1206	galK			
+OGNIBHPJ_01234	CDS	1206	galK	2.7.1.6	COG0153	Galactokinase
+OGNIBHPJ_01235	gene	1620	galT			
+OGNIBHPJ_01235	CDS	1620	galT	2.7.7.12		Galactose-1-phosphate uridylyltransferase
+OGNIBHPJ_01236	gene	978	lacC_3			
+OGNIBHPJ_01236	CDS	978	lacC_3	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+OGNIBHPJ_01237	gene	882	lacX_1			
+OGNIBHPJ_01237	CDS	882	lacX_1			Protein LacX, plasmid
+OGNIBHPJ_01238	gene	525	lacB			
+OGNIBHPJ_01238	CDS	525	lacB	5.3.1.26		Galactose-6-phosphate isomerase subunit LacB
+OGNIBHPJ_01239	gene	429	lacA_2			
+OGNIBHPJ_01239	CDS	429	lacA_2	5.3.1.26		Galactose-6-phosphate isomerase subunit LacA
+OGNIBHPJ_01240	gene	1014				
+OGNIBHPJ_01240	CDS	1014				hypothetical protein
+OGNIBHPJ_01241	gene	339	lacF_1			
+OGNIBHPJ_01241	CDS	339	lacF_1		COG1447	PTS system lactose-specific EIIA component
+OGNIBHPJ_01242	gene	1005	cytR			
+OGNIBHPJ_01242	CDS	1005	cytR		COG1609	HTH-type transcriptional repressor CytR
+OGNIBHPJ_01243	gene	1776	lacE_1			
+OGNIBHPJ_01243	CDS	1776	lacE_1		COG1455	PTS system lactose-specific EIICB component
+OGNIBHPJ_01244	gene	1440	lacG_1			
+OGNIBHPJ_01244	CDS	1440	lacG_1	3.2.1.85	COG2723	6-phospho-beta-galactosidase
+OGNIBHPJ_01245	gene	1002	lacI_2			
+OGNIBHPJ_01245	CDS	1002	lacI_2		COG1609	Lactose operon repressor
+OGNIBHPJ_01246	gene	1779	lacE_2			
+OGNIBHPJ_01246	CDS	1779	lacE_2		COG1455	PTS system lactose-specific EIICB component
+OGNIBHPJ_01247	gene	1422	lacG_2			
+OGNIBHPJ_01247	CDS	1422	lacG_2	3.2.1.85	COG2723	6-phospho-beta-galactosidase
+OGNIBHPJ_01248	gene	786	lacR			
+OGNIBHPJ_01248	CDS	786	lacR			Lactose phosphotransferase system repressor
+OGNIBHPJ_01249	gene	1053	galM			
+OGNIBHPJ_01249	CDS	1053	galM	5.1.3.3	COG2017	Aldose 1-epimerase
+OGNIBHPJ_01250	gene	507	sorB			
+OGNIBHPJ_01250	CDS	507	sorB	2.7.1.206	COG3444	PTS system sorbose-specific EIIB component
+OGNIBHPJ_01251	gene	76				
+OGNIBHPJ_01251	tRNA	76				tRNA-Thr(cgt)
+OGNIBHPJ_01252	gene	936	lacC_4			
+OGNIBHPJ_01252	CDS	936	lacC_4	2.7.1.144		Tagatose-6-phosphate kinase
+OGNIBHPJ_01253	gene	882	lacX_2			
+OGNIBHPJ_01253	CDS	882	lacX_2			Protein LacX, plasmid
+OGNIBHPJ_01254	gene	618				
+OGNIBHPJ_01254	CDS	618				hypothetical protein
+OGNIBHPJ_01255	gene	1170	nagA_1			
+OGNIBHPJ_01255	CDS	1170	nagA_1	3.5.1.25	COG1820	N-acetylglucosamine-6-phosphate deacetylase
+OGNIBHPJ_01256	gene	1167	agaS			
+OGNIBHPJ_01256	CDS	1167	agaS	3.5.99.-	COG2222	D-galactosamine-6-phosphate deaminase AgaS
+OGNIBHPJ_01257	gene	735	dasR_1			
+OGNIBHPJ_01257	CDS	735	dasR_1		COG2188	HTH-type transcriptional repressor DasR
+OGNIBHPJ_01258	gene	195				
+OGNIBHPJ_01258	CDS	195				hypothetical protein
+OGNIBHPJ_01259	gene	624				
+OGNIBHPJ_01259	CDS	624				hypothetical protein
+OGNIBHPJ_01260	gene	840	manZ_1			
+OGNIBHPJ_01260	CDS	840	manZ_1		COG3716	PTS system mannose-specific EIID component
+OGNIBHPJ_01261	gene	888				
+OGNIBHPJ_01261	CDS	888				hypothetical protein
+OGNIBHPJ_01262	gene	465	manX_1			
+OGNIBHPJ_01262	CDS	465	manX_1	2.7.1.191	COG2893	PTS system mannose-specific EIIAB component
+OGNIBHPJ_01263	gene	1797	bga			
+OGNIBHPJ_01263	CDS	1797	bga	3.2.1.23		Beta-galactosidase
+OGNIBHPJ_01264	gene	474				
+OGNIBHPJ_01264	CDS	474				hypothetical protein
+OGNIBHPJ_01265	gene	1170	nagA_2			
+OGNIBHPJ_01265	CDS	1170	nagA_2	3.5.1.25	COG1820	N-acetylglucosamine-6-phosphate deacetylase
+OGNIBHPJ_01266	gene	732	nagR_1			
+OGNIBHPJ_01266	CDS	732	nagR_1		COG2188	HTH-type transcriptional repressor NagR
+OGNIBHPJ_01267	gene	465	nagE			
+OGNIBHPJ_01267	CDS	465	nagE		COG1263	PTS system N-acetylglucosamine-specific EIICBA component
+OGNIBHPJ_01268	gene	1071	nagP			
+OGNIBHPJ_01268	CDS	1071	nagP			PTS system N-acetylglucosamine-specific EIICB component
+OGNIBHPJ_01269	gene	1086				
+OGNIBHPJ_01269	CDS	1086				hypothetical protein
+OGNIBHPJ_01270	gene	1086	icd			
+OGNIBHPJ_01270	CDS	1086	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+OGNIBHPJ_01271	gene	699				
+OGNIBHPJ_01271	CDS	699				hypothetical protein
+OGNIBHPJ_01272	gene	429				
+OGNIBHPJ_01272	CDS	429				hypothetical protein
+OGNIBHPJ_01273	gene	1080	garR			
+OGNIBHPJ_01273	CDS	1080	garR	1.1.1.60		2-hydroxy-3-oxopropionate reductase
+OGNIBHPJ_01274	gene	954				
+OGNIBHPJ_01274	CDS	954				DegV domain-containing protein
+OGNIBHPJ_01275	gene	585	yvyD			
+OGNIBHPJ_01275	CDS	585	yvyD		COG1544	Ribosome hibernation promotion factor
+OGNIBHPJ_01276	gene	1245				
+OGNIBHPJ_01276	CDS	1245				hypothetical protein
+OGNIBHPJ_01277	gene	807				
+OGNIBHPJ_01277	CDS	807				hypothetical protein
+OGNIBHPJ_01278	gene	1701				
+OGNIBHPJ_01278	CDS	1701				hypothetical protein
+OGNIBHPJ_01279	gene	1128				
+OGNIBHPJ_01279	CDS	1128				hypothetical protein
+OGNIBHPJ_01280	gene	684	tmk			
+OGNIBHPJ_01280	CDS	684	tmk	2.7.4.9	COG0125	Thymidylate kinase
+OGNIBHPJ_01281	gene	984				
+OGNIBHPJ_01281	CDS	984				hypothetical protein
+OGNIBHPJ_01282	gene	2577	topA			
+OGNIBHPJ_01282	CDS	2577	topA	5.6.2.1		DNA topoisomerase 1
+OGNIBHPJ_01283	gene	684	hypB			
+OGNIBHPJ_01283	CDS	684	hypB		COG0378	Hydrogenase maturation factor HypB
+OGNIBHPJ_01284	gene	357	hybF			
+OGNIBHPJ_01284	CDS	357	hybF		COG0375	Hydrogenase maturation factor HybF
+OGNIBHPJ_01285	gene	792	tatC			
+OGNIBHPJ_01285	CDS	792	tatC		COG0805	Sec-independent protein translocase protein TatC
+OGNIBHPJ_01286	gene	624	tatA_2			
+OGNIBHPJ_01286	CDS	624	tatA_2			Sec-independent protein translocase protein TatA
+OGNIBHPJ_01287	gene	315				
+OGNIBHPJ_01287	CDS	315				hypothetical protein
+OGNIBHPJ_01288	gene	1305				
+OGNIBHPJ_01288	CDS	1305			COG1167	Putative aminotransferase/MSMEI_6121
+OGNIBHPJ_01289	gene	255				
+OGNIBHPJ_01289	CDS	255				hypothetical protein
+OGNIBHPJ_01290	gene	1359	nhaA			
+OGNIBHPJ_01290	CDS	1359	nhaA		COG3004	Na(+)/H(+) antiporter NhaA
+OGNIBHPJ_01291	gene	924	ppaC			
+OGNIBHPJ_01291	CDS	924	ppaC	3.6.1.1		putative manganese-dependent inorganic pyrophosphatase
+OGNIBHPJ_01292	gene	954	glcK_2			
+OGNIBHPJ_01292	CDS	954	glcK_2	2.7.1.2	COG1940	Glucokinase
+OGNIBHPJ_01293	gene	333	gmuA_1			
+OGNIBHPJ_01293	CDS	333	gmuA_1		COG1447	PTS system oligo-beta-mannoside-specific EIIA component
+OGNIBHPJ_01294	gene	303	celA			
+OGNIBHPJ_01294	CDS	303	celA	2.7.1.205		PTS system cellobiose-specific EIIB component
+OGNIBHPJ_01295	gene	1344	licC_1			
+OGNIBHPJ_01295	CDS	1344	licC_1		COG1455	Lichenan permease IIC component
+OGNIBHPJ_01296	gene	1401	gmuD			
+OGNIBHPJ_01296	CDS	1401	gmuD	3.2.1.86	COG2723	6-phospho-beta-glucosidase GmuD
+OGNIBHPJ_01297	gene	720	gmuR			
+OGNIBHPJ_01297	CDS	720	gmuR		COG2188	HTH-type transcriptional regulator GmuR
+OGNIBHPJ_01298	gene	933	manA			
+OGNIBHPJ_01298	CDS	933	manA	5.3.1.8	COG1482	Mannose-6-phosphate isomerase ManA
+OGNIBHPJ_01299	gene	2901	rep			
+OGNIBHPJ_01299	CDS	2901	rep	3.6.4.12		ATP-dependent DNA helicase Rep
+OGNIBHPJ_01300	gene	942	uppP			
+OGNIBHPJ_01300	CDS	942	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+OGNIBHPJ_01301	gene	438				
+OGNIBHPJ_01301	CDS	438				Putative universal stress protein
+OGNIBHPJ_01302	gene	1044	graS			
+OGNIBHPJ_01302	CDS	1044	graS	2.7.13.3		Sensor histidine kinase GraS
+OGNIBHPJ_01303	gene	672	graR			
+OGNIBHPJ_01303	CDS	672	graR		COG0745	Response regulator protein GraR
+OGNIBHPJ_01304	gene	1131	vioD_2			
+OGNIBHPJ_01304	CDS	1131	vioD_2	4.2.1.145		Capreomycidine synthase
+OGNIBHPJ_01305	gene	1032	arcB			
+OGNIBHPJ_01305	CDS	1032	arcB	1.5.1.49		Delta(1)-pyrroline-2-carboxylate reductase
+OGNIBHPJ_01306	gene	1182				
+OGNIBHPJ_01306	CDS	1182				hypothetical protein
+OGNIBHPJ_01307	gene	711				
+OGNIBHPJ_01307	CDS	711				hypothetical protein
+OGNIBHPJ_01308	gene	1608	purH			
+OGNIBHPJ_01308	CDS	1608	purH		COG0138	Bifunctional purine biosynthesis protein PurH
+OGNIBHPJ_01309	gene	642	mshD			
+OGNIBHPJ_01309	CDS	642	mshD	2.3.1.189		Mycothiol acetyltransferase
+OGNIBHPJ_01310	gene	1947				
+OGNIBHPJ_01310	CDS	1947				hypothetical protein
+OGNIBHPJ_01311	gene	1119	gluQ			
+OGNIBHPJ_01311	CDS	1119	gluQ	6.1.1.-		Glutamyl-Q tRNA(Asp) synthetase
+OGNIBHPJ_01312	gene	726				
+OGNIBHPJ_01312	CDS	726				hypothetical protein
+OGNIBHPJ_01313	gene	240				
+OGNIBHPJ_01313	CDS	240				hypothetical protein
+OGNIBHPJ_01314	gene	543				
+OGNIBHPJ_01314	CDS	543				hypothetical protein
+OGNIBHPJ_01315	gene	780	arlR_2			
+OGNIBHPJ_01315	CDS	780	arlR_2		COG0745	Response regulator ArlR
+OGNIBHPJ_01316	gene	1296	sasA_3			
+OGNIBHPJ_01316	CDS	1296	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+OGNIBHPJ_01317	gene	375				
+OGNIBHPJ_01317	CDS	375				hypothetical protein
+OGNIBHPJ_01318	gene	288	gatB_1			
+OGNIBHPJ_01318	CDS	288	gatB_1	2.7.1.200	COG3414	PTS system galactitol-specific EIIB component
+OGNIBHPJ_01319	gene	624				
+OGNIBHPJ_01319	CDS	624				hypothetical protein
+OGNIBHPJ_01320	gene	85				
+OGNIBHPJ_01320	tRNA	85				tRNA-Leu(taa)
+OGNIBHPJ_01321	gene	1002	ppx2			
+OGNIBHPJ_01321	CDS	1002	ppx2	3.6.1.11	COG0248	Exopolyphosphatase 2
+OGNIBHPJ_01322	gene	771				
+OGNIBHPJ_01322	CDS	771				hypothetical protein
+OGNIBHPJ_01323	gene	1290	eno			
+OGNIBHPJ_01323	CDS	1290	eno	4.2.1.11	COG0148	Enolase
+OGNIBHPJ_01324	gene	861	mazG			
+OGNIBHPJ_01324	CDS	861	mazG	3.6.1.8	COG1694	Nucleoside triphosphate pyrophosphohydrolase
+OGNIBHPJ_01325	gene	549	yfcE			
+OGNIBHPJ_01325	CDS	549	yfcE	3.1.4.-	COG0622	Phosphodiesterase YfcE
+OGNIBHPJ_01326	gene	486	larC_1			
+OGNIBHPJ_01326	CDS	486	larC_1	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+OGNIBHPJ_01327	gene	912				
+OGNIBHPJ_01327	CDS	912				hypothetical protein
+OGNIBHPJ_01328	gene	318	hisE			
+OGNIBHPJ_01328	CDS	318	hisE	3.6.1.31	COG0140	Phosphoribosyl-ATP pyrophosphatase
+OGNIBHPJ_01329	gene	228				
+OGNIBHPJ_01329	CDS	228				hypothetical protein
+OGNIBHPJ_01330	gene	342	hisI			
+OGNIBHPJ_01330	CDS	342	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+OGNIBHPJ_01331	gene	783	hisF			
+OGNIBHPJ_01331	CDS	783	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+OGNIBHPJ_01332	gene	744	hisA			
+OGNIBHPJ_01332	CDS	744	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+OGNIBHPJ_01333	gene	702	hisH			
+OGNIBHPJ_01333	CDS	702	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+OGNIBHPJ_01334	gene	588	hisB			
+OGNIBHPJ_01334	CDS	588	hisB	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+OGNIBHPJ_01335	gene	1116	hisC			
+OGNIBHPJ_01335	CDS	1116	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+OGNIBHPJ_01336	gene	1437	hisD			
+OGNIBHPJ_01336	CDS	1437	hisD	1.1.1.23	COG0141	Histidinol dehydrogenase
+OGNIBHPJ_01337	gene	1716	hisZ			
+OGNIBHPJ_01337	CDS	1716	hisZ			ATP phosphoribosyltransferase regulatory subunit
+OGNIBHPJ_01338	gene	837	frlC			
+OGNIBHPJ_01338	CDS	837	frlC	5.1.3.41	COG1082	Fructoselysine 3-epimerase
+OGNIBHPJ_01339	gene	837	manZ_2			
+OGNIBHPJ_01339	CDS	837	manZ_2		COG3716	PTS system mannose-specific EIID component
+OGNIBHPJ_01340	gene	792	agaC_1			
+OGNIBHPJ_01340	CDS	792	agaC_1		COG3715	N-acetylgalactosamine permease IIC component 1
+OGNIBHPJ_01341	gene	471				
+OGNIBHPJ_01341	CDS	471		2.7.1.-		putative phosphotransferase enzyme IIB component
+OGNIBHPJ_01342	gene	465				
+OGNIBHPJ_01342	CDS	465				hypothetical protein
+OGNIBHPJ_01343	gene	1062	frlB_1			
+OGNIBHPJ_01343	CDS	1062	frlB_1	3.5.-.-	COG2222	Fructosamine deglycase FrlB
+OGNIBHPJ_01344	gene	1215				
+OGNIBHPJ_01344	CDS	1215				hypothetical protein
+OGNIBHPJ_01345	gene	825	manZ_3			
+OGNIBHPJ_01345	CDS	825	manZ_3		COG3716	PTS system mannose-specific EIID component
+OGNIBHPJ_01346	gene	774	agaC_2			
+OGNIBHPJ_01346	CDS	774	agaC_2		COG3715	N-acetylgalactosamine permease IIC component 1
+OGNIBHPJ_01347	gene	891				
+OGNIBHPJ_01347	CDS	891				hypothetical protein
+OGNIBHPJ_01348	gene	825	manZ_4			
+OGNIBHPJ_01348	CDS	825	manZ_4		COG3716	PTS system mannose-specific EIID component
+OGNIBHPJ_01349	gene	774	agaC_3			
+OGNIBHPJ_01349	CDS	774	agaC_3		COG3715	N-acetylgalactosamine permease IIC component 1
+OGNIBHPJ_01350	gene	483				
+OGNIBHPJ_01350	CDS	483		2.7.1.-		putative phosphotransferase enzyme IIB component
+OGNIBHPJ_01351	gene	420				
+OGNIBHPJ_01351	CDS	420				hypothetical protein
+OGNIBHPJ_01352	gene	1062	frlB_2			
+OGNIBHPJ_01352	CDS	1062	frlB_2	3.5.-.-	COG2222	Fructosamine deglycase FrlB
+OGNIBHPJ_01353	gene	1116	glmS_1			
+OGNIBHPJ_01353	CDS	1116	glmS_1	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+OGNIBHPJ_01354	gene	714	dasR_2			
+OGNIBHPJ_01354	CDS	714	dasR_2		COG2188	HTH-type transcriptional repressor DasR
+OGNIBHPJ_01355	gene	768	dasR_3			
+OGNIBHPJ_01355	CDS	768	dasR_3		COG2188	HTH-type transcriptional repressor DasR
+OGNIBHPJ_01356	gene	489				
+OGNIBHPJ_01356	CDS	489				hypothetical protein
+OGNIBHPJ_01357	gene	939				
+OGNIBHPJ_01357	CDS	939				hypothetical protein
+OGNIBHPJ_01358	gene	2529	xfp			
+OGNIBHPJ_01358	CDS	2529	xfp	4.1.2.22		Xylulose-5-phosphate/fructose-6-phosphate phosphoketolase
+OGNIBHPJ_01359	gene	1029	purR			
+OGNIBHPJ_01359	CDS	1029	purR		COG1609	HTH-type transcriptional repressor PurR
+OGNIBHPJ_01360	gene	963	murB_2			
+OGNIBHPJ_01360	CDS	963	murB_2	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+OGNIBHPJ_01361	gene	1206				
+OGNIBHPJ_01361	CDS	1206				hypothetical protein
+OGNIBHPJ_01362	gene	1062	lnpD			
+OGNIBHPJ_01362	CDS	1062	lnpD	5.1.3.2		UDP-glucose 4-epimerase
+OGNIBHPJ_01363	gene	1506	malQ			
+OGNIBHPJ_01363	CDS	1506	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+OGNIBHPJ_01364	gene	2268	malP			
+OGNIBHPJ_01364	CDS	2268	malP	2.4.1.1	COG0058	Maltodextrin phosphorylase
+OGNIBHPJ_01365	gene	1200	msmX			
+OGNIBHPJ_01365	CDS	1200	msmX	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+OGNIBHPJ_01366	gene	840	araQ			
+OGNIBHPJ_01366	CDS	840	araQ		COG0395	L-arabinose transport system permease protein AraQ
+OGNIBHPJ_01367	gene	855	melD			
+OGNIBHPJ_01367	CDS	855	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+OGNIBHPJ_01368	gene	1317				
+OGNIBHPJ_01368	CDS	1317				hypothetical protein
+OGNIBHPJ_01369	gene	720	treR_1			
+OGNIBHPJ_01369	CDS	720	treR_1		COG2188	HTH-type transcriptional regulator TreR
+OGNIBHPJ_01370	gene	2418				
+OGNIBHPJ_01370	CDS	2418				hypothetical protein
+OGNIBHPJ_01371	gene	1026				
+OGNIBHPJ_01371	CDS	1026				hypothetical protein
+OGNIBHPJ_01372	gene	906				
+OGNIBHPJ_01372	CDS	906				hypothetical protein
+OGNIBHPJ_01373	gene	75				
+OGNIBHPJ_01373	tRNA	75				tRNA-Gln(ttg)
+OGNIBHPJ_01374	gene	2217				
+OGNIBHPJ_01374	CDS	2217				hypothetical protein
+OGNIBHPJ_01375	gene	1890	cstA			
+OGNIBHPJ_01375	CDS	1890	cstA		COG1966	Peptide transporter CstA
+OGNIBHPJ_01376	gene	2385	OSGEPL1			
+OGNIBHPJ_01376	CDS	2385	OSGEPL1	2.3.1.234		tRNA N6-adenosine threonylcarbamoyltransferase, mitochondrial
+OGNIBHPJ_01377	gene	507	tsaE			
+OGNIBHPJ_01377	CDS	507	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+OGNIBHPJ_01378	gene	621				
+OGNIBHPJ_01378	CDS	621				hypothetical protein
+OGNIBHPJ_01379	gene	1146	alr2			
+OGNIBHPJ_01379	CDS	1146	alr2	5.1.1.1	COG0787	Alanine racemase 2
+OGNIBHPJ_01380	gene	1617	APOA1BP			
+OGNIBHPJ_01380	CDS	1617	APOA1BP	5.1.99.6		NAD(P)H-hydrate epimerase
+OGNIBHPJ_01381	gene	540				
+OGNIBHPJ_01381	CDS	540				hypothetical protein
+OGNIBHPJ_01382	gene	108				
+OGNIBHPJ_01382	rRNA	108				5S ribosomal RNA
+OGNIBHPJ_01383	gene	2960				
+OGNIBHPJ_01383	rRNA	2960				23S ribosomal RNA
+OGNIBHPJ_01384	gene	1502				
+OGNIBHPJ_01384	rRNA	1502				16S ribosomal RNA
+OGNIBHPJ_01385	gene	108				
+OGNIBHPJ_01385	rRNA	108				5S ribosomal RNA
+OGNIBHPJ_01386	gene	2960				
+OGNIBHPJ_01386	rRNA	2960				23S ribosomal RNA
+OGNIBHPJ_01387	gene	1502				
+OGNIBHPJ_01387	rRNA	1502				16S ribosomal RNA
+OGNIBHPJ_01388	gene	1401	pgm			
+OGNIBHPJ_01388	CDS	1401	pgm	5.4.2.2	COG0033	Phosphoglucomutase
+OGNIBHPJ_01389	gene	894	yitJ			
+OGNIBHPJ_01389	CDS	894	yitJ		COG0646	Bifunctional homocysteine S-methyltransferase/5,10-methylenetetrahydrofolate reductase
+OGNIBHPJ_01390	gene	444	mntR_2			
+OGNIBHPJ_01390	CDS	444	mntR_2		COG1321	Transcriptional regulator MntR
+OGNIBHPJ_01391	gene	1311	pepT			
+OGNIBHPJ_01391	CDS	1311	pepT	3.4.11.4	COG2195	Peptidase T
+OGNIBHPJ_01392	gene	1236	tagU			
+OGNIBHPJ_01392	CDS	1236	tagU	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+OGNIBHPJ_01393	gene	1239	murA			
+OGNIBHPJ_01393	CDS	1239	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+OGNIBHPJ_01394	gene	393	atpC			
+OGNIBHPJ_01394	CDS	393	atpC		COG0355	ATP synthase epsilon chain
+OGNIBHPJ_01395	gene	1455	atpD_1			
+OGNIBHPJ_01395	CDS	1455	atpD_1	7.1.2.2	COG0055	ATP synthase subunit beta
+OGNIBHPJ_01396	gene	909	atpG			
+OGNIBHPJ_01396	CDS	909	atpG		COG0224	ATP synthase gamma chain
+OGNIBHPJ_01397	gene	1599	atpA			
+OGNIBHPJ_01397	CDS	1599	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+OGNIBHPJ_01398	gene	477	atpD_2			
+OGNIBHPJ_01398	CDS	477	atpD_2			ATP synthase subunit delta
+OGNIBHPJ_01399	gene	603	atpF			
+OGNIBHPJ_01399	CDS	603	atpF			ATP synthase subunit b
+OGNIBHPJ_01400	gene	195	atpH			
+OGNIBHPJ_01400	CDS	195	atpH			ATP synthase subunit c
+OGNIBHPJ_01401	gene	804	atpB			
+OGNIBHPJ_01401	CDS	804	atpB		COG0356	ATP synthase subunit a
+OGNIBHPJ_01402	gene	312				
+OGNIBHPJ_01402	CDS	312				hypothetical protein
+OGNIBHPJ_01403	gene	648	upp			
+OGNIBHPJ_01403	CDS	648	upp	2.4.2.9		Uracil phosphoribosyltransferase
+OGNIBHPJ_01404	gene	1542	glpK_1			
+OGNIBHPJ_01404	CDS	1542	glpK_1	2.7.1.30	COG0554	Glycerol kinase
+OGNIBHPJ_01405	gene	744				
+OGNIBHPJ_01405	CDS	744		2.7.7.87	COG0009	Putative threonylcarbamoyl-AMP synthase
+OGNIBHPJ_01406	gene	492				
+OGNIBHPJ_01406	CDS	492				hypothetical protein
+OGNIBHPJ_01407	gene	1251	prmC			
+OGNIBHPJ_01407	CDS	1251	prmC	2.1.1.297		Release factor glutamine methyltransferase
+OGNIBHPJ_01408	gene	1068	prfA			
+OGNIBHPJ_01408	CDS	1068	prfA		COG0216	Peptide chain release factor 1
+OGNIBHPJ_01409	gene	1428	dapE_2			
+OGNIBHPJ_01409	CDS	1428	dapE_2	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+OGNIBHPJ_01410	gene	786	glnQ_3			
+OGNIBHPJ_01410	CDS	786	glnQ_3			Glutamine transport ATP-binding protein GlnQ
+OGNIBHPJ_01411	gene	1149				
+OGNIBHPJ_01411	CDS	1149				hypothetical protein
+OGNIBHPJ_01412	gene	927				
+OGNIBHPJ_01412	CDS	927				hypothetical protein
+OGNIBHPJ_01413	gene	894	lacX_3			
+OGNIBHPJ_01413	CDS	894	lacX_3			Protein LacX, plasmid
+OGNIBHPJ_01414	gene	870				
+OGNIBHPJ_01414	CDS	870				hypothetical protein
+OGNIBHPJ_01415	gene	1317				
+OGNIBHPJ_01415	CDS	1317				hypothetical protein
+OGNIBHPJ_01416	gene	870				
+OGNIBHPJ_01416	CDS	870				hypothetical protein
+OGNIBHPJ_01417	gene	579	bsdB			
+OGNIBHPJ_01417	CDS	579	bsdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+OGNIBHPJ_01418	gene	1488	lpdC			
+OGNIBHPJ_01418	CDS	1488	lpdC	4.1.1.59	COG0043	Gallate decarboxylase
+OGNIBHPJ_01419	gene	1458				
+OGNIBHPJ_01419	CDS	1458				hypothetical protein
+OGNIBHPJ_01420	gene	948	idi			
+OGNIBHPJ_01420	CDS	948	idi	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+OGNIBHPJ_01421	gene	1263	pbuE			
+OGNIBHPJ_01421	CDS	1263	pbuE		COG2814	Purine efflux pump PbuE
+OGNIBHPJ_01422	gene	1371				
+OGNIBHPJ_01422	CDS	1371				hypothetical protein
+OGNIBHPJ_01423	gene	447	yfkJ			
+OGNIBHPJ_01423	CDS	447	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+OGNIBHPJ_01424	gene	327				
+OGNIBHPJ_01424	CDS	327				hypothetical protein
+OGNIBHPJ_01425	gene	825	pdxK			
+OGNIBHPJ_01425	CDS	825	pdxK	2.7.1.35	COG2240	Pyridoxine/pyridoxal/pyridoxamine kinase
+OGNIBHPJ_01426	gene	507				
+OGNIBHPJ_01426	CDS	507				hypothetical protein
+OGNIBHPJ_01427	gene	1824				
+OGNIBHPJ_01427	CDS	1824			COG1132	putative ABC transporter ATP-binding protein
+OGNIBHPJ_01428	gene	1920				
+OGNIBHPJ_01428	CDS	1920			COG1132	putative ABC transporter ATP-binding protein
+OGNIBHPJ_01429	gene	2148	yhgF			
+OGNIBHPJ_01429	CDS	2148	yhgF		COG2183	Protein YhgF
+OGNIBHPJ_01430	gene	705	tal			
+OGNIBHPJ_01430	CDS	705	tal	2.2.1.2	COG0176	Transaldolase
+OGNIBHPJ_01431	gene	831	cof_3			
+OGNIBHPJ_01431	CDS	831	cof_3	3.6.1.-		HMP-PP phosphatase
+OGNIBHPJ_01432	gene	2568	rlmL			
+OGNIBHPJ_01432	CDS	2568	rlmL	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+OGNIBHPJ_01433	gene	714	kdpE			
+OGNIBHPJ_01433	CDS	714	kdpE		COG0745	KDP operon transcriptional regulatory protein KdpE
+OGNIBHPJ_01434	gene	1626	kdpD			
+OGNIBHPJ_01434	CDS	1626	kdpD	2.7.13.3	COG2205	Sensor protein KdpD
+OGNIBHPJ_01435	gene	852				
+OGNIBHPJ_01435	CDS	852				IS3 family transposase ISBlo3
+OGNIBHPJ_01436	gene	498				
+OGNIBHPJ_01436	CDS	498				hypothetical protein
+OGNIBHPJ_01437	gene	225				
+OGNIBHPJ_01437	CDS	225				hypothetical protein
+OGNIBHPJ_01438	gene	2028	kup_2			
+OGNIBHPJ_01438	CDS	2028	kup_2			Low affinity potassium transport system protein kup
+OGNIBHPJ_01439	gene	870				
+OGNIBHPJ_01439	CDS	870				hypothetical protein
+OGNIBHPJ_01440	gene	2301				
+OGNIBHPJ_01440	CDS	2301				hypothetical protein
+OGNIBHPJ_01441	gene	699				
+OGNIBHPJ_01441	CDS	699				hypothetical protein
+OGNIBHPJ_01442	gene	570				
+OGNIBHPJ_01442	CDS	570				hypothetical protein
+OGNIBHPJ_01443	gene	5496				
+OGNIBHPJ_01443	CDS	5496				hypothetical protein
+OGNIBHPJ_01444	gene	648				
+OGNIBHPJ_01444	CDS	648				hypothetical protein
+OGNIBHPJ_01445	gene	714				
+OGNIBHPJ_01445	CDS	714				hypothetical protein
+OGNIBHPJ_01446	gene	513	sipW			
+OGNIBHPJ_01446	CDS	513	sipW	3.4.21.89	COG0681	Signal peptidase I W
+OGNIBHPJ_01447	gene	4089				
+OGNIBHPJ_01447	CDS	4089				hypothetical protein
+OGNIBHPJ_01448	gene	552				
+OGNIBHPJ_01448	CDS	552				hypothetical protein
+OGNIBHPJ_01449	gene	1860				
+OGNIBHPJ_01449	CDS	1860			COG1132	putative ABC transporter ATP-binding protein
+OGNIBHPJ_01450	gene	1845				
+OGNIBHPJ_01450	CDS	1845			COG1132	putative ABC transporter ATP-binding protein
+OGNIBHPJ_01451	gene	1011				
+OGNIBHPJ_01451	CDS	1011				hypothetical protein
+OGNIBHPJ_01452	gene	993				
+OGNIBHPJ_01452	CDS	993				hypothetical protein
+OGNIBHPJ_01453	gene	1782	tadA			
+OGNIBHPJ_01453	CDS	1782	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+OGNIBHPJ_01454	gene	90				
+OGNIBHPJ_01454	tRNA	90				tRNA-Ser(tga)
+OGNIBHPJ_01455	gene	597				
+OGNIBHPJ_01455	CDS	597				hypothetical protein
+OGNIBHPJ_01456	gene	552	lemA			
+OGNIBHPJ_01456	CDS	552	lemA		COG1704	Protein LemA
+OGNIBHPJ_01457	gene	1053	ilvE			
+OGNIBHPJ_01457	CDS	1053	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+OGNIBHPJ_01458	gene	648	dedA			
+OGNIBHPJ_01458	CDS	648	dedA		COG0586	Protein DedA
+OGNIBHPJ_01459	gene	792	dapH_3			
+OGNIBHPJ_01459	CDS	792	dapH_3	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+OGNIBHPJ_01460	gene	2013	btuD_9			
+OGNIBHPJ_01460	CDS	2013	btuD_9	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OGNIBHPJ_01461	gene	1725				
+OGNIBHPJ_01461	CDS	1725			COG1132	putative ABC transporter ATP-binding protein
+OGNIBHPJ_01462	gene	501				
+OGNIBHPJ_01462	CDS	501				hypothetical protein
+OGNIBHPJ_01463	gene	291				
+OGNIBHPJ_01463	CDS	291				hypothetical protein
+OGNIBHPJ_01464	gene	522				
+OGNIBHPJ_01464	CDS	522				hypothetical protein
+OGNIBHPJ_01465	gene	420				
+OGNIBHPJ_01465	CDS	420				hypothetical protein
+OGNIBHPJ_01466	gene	1218				
+OGNIBHPJ_01466	CDS	1218				hypothetical protein
+OGNIBHPJ_01467	gene	1035				
+OGNIBHPJ_01467	CDS	1035				hypothetical protein
+OGNIBHPJ_01468	gene	702	rspR_1			
+OGNIBHPJ_01468	CDS	702	rspR_1		COG1802	HTH-type transcriptional repressor RspR
+OGNIBHPJ_01469	gene	852				
+OGNIBHPJ_01469	CDS	852				IS3 family transposase ISBlo3
+OGNIBHPJ_01470	gene	498				
+OGNIBHPJ_01470	CDS	498				hypothetical protein
+OGNIBHPJ_01471	gene	1848	glmS_2			
+OGNIBHPJ_01471	CDS	1848	glmS_2	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+OGNIBHPJ_01472	gene	1158	ccpA			
+OGNIBHPJ_01472	CDS	1158	ccpA		COG1609	Catabolite control protein A
+OGNIBHPJ_01473	gene	1428	araA			
+OGNIBHPJ_01473	CDS	1428	araA	5.3.1.4		L-arabinose isomerase
+OGNIBHPJ_01474	gene	831	rhaD			
+OGNIBHPJ_01474	CDS	831	rhaD	4.1.2.19	COG0235	Rhamnulose-1-phosphate aldolase
+OGNIBHPJ_01475	gene	1485	rhaB			
+OGNIBHPJ_01475	CDS	1485	rhaB	2.7.1.5	COG1070	L-Rhamnulokinase
+OGNIBHPJ_01476	gene	651				
+OGNIBHPJ_01476	CDS	651		3.1.3.-	COG0637	Phosphorylated carbohydrates phosphatase
+OGNIBHPJ_01477	gene	879	larE			
+OGNIBHPJ_01477	CDS	879	larE	4.4.1.37	COG1606	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+OGNIBHPJ_01478	gene	969				
+OGNIBHPJ_01478	CDS	969				hypothetical protein
+OGNIBHPJ_01479	gene	2076	fus			
+OGNIBHPJ_01479	CDS	2076	fus			Elongation factor G
+OGNIBHPJ_01480	gene	777	tcyC			
+OGNIBHPJ_01480	CDS	777	tcyC	3.6.3.-	COG1126	L-cystine import ATP-binding protein TcyC
+OGNIBHPJ_01481	gene	654	tcyB_2			
+OGNIBHPJ_01481	CDS	654	tcyB_2		COG0765	L-cystine transport system permease protein TcyB
+OGNIBHPJ_01482	gene	861	mltF_3			
+OGNIBHPJ_01482	CDS	861	mltF_3	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+OGNIBHPJ_01483	gene	1116	rlmCD_2			
+OGNIBHPJ_01483	CDS	1116	rlmCD_2	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+OGNIBHPJ_01484	gene	822	ycdX			
+OGNIBHPJ_01484	CDS	822	ycdX	3.1.3.-	COG1387	putative phosphatase YcdX
+OGNIBHPJ_01485	gene	1290	aspC			
+OGNIBHPJ_01485	CDS	1290	aspC	2.6.1.1	COG0436	Aspartate aminotransferase
+OGNIBHPJ_01486	gene	2139	ftsH			
+OGNIBHPJ_01486	CDS	2139	ftsH	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+OGNIBHPJ_01487	gene	549	hpt			
+OGNIBHPJ_01487	CDS	549	hpt	2.4.2.8		Hypoxanthine-guanine phosphoribosyltransferase
+OGNIBHPJ_01488	gene	1542	tilS			
+OGNIBHPJ_01488	CDS	1542	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+OGNIBHPJ_01489	gene	810	yycJ			
+OGNIBHPJ_01489	CDS	810	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+OGNIBHPJ_01490	gene	432				
+OGNIBHPJ_01490	CDS	432			COG0071	18 kDa heat shock protein
+OGNIBHPJ_01491	gene	108				
+OGNIBHPJ_01491	rRNA	108				5S ribosomal RNA
+OGNIBHPJ_01492	gene	2960				
+OGNIBHPJ_01492	rRNA	2960				23S ribosomal RNA
+OGNIBHPJ_01493	gene	1502				
+OGNIBHPJ_01493	rRNA	1502				16S ribosomal RNA
+OGNIBHPJ_01494	gene	1695	pgcA			
+OGNIBHPJ_01494	CDS	1695	pgcA	5.4.2.2		Phosphoglucomutase
+OGNIBHPJ_01495	gene	108				
+OGNIBHPJ_01495	rRNA	108				5S ribosomal RNA
+OGNIBHPJ_01496	gene	2960				
+OGNIBHPJ_01496	rRNA	2960				23S ribosomal RNA
+OGNIBHPJ_01497	gene	1502				
+OGNIBHPJ_01497	rRNA	1502				16S ribosomal RNA
+OGNIBHPJ_01498	gene	75				
+OGNIBHPJ_01498	tRNA	75				tRNA-Lys(ttt)
+OGNIBHPJ_01499	gene	1281				
+OGNIBHPJ_01499	CDS	1281		3.4.11.-		Aminopeptidase 2
+OGNIBHPJ_01500	gene	576				
+OGNIBHPJ_01500	CDS	576				hypothetical protein
+OGNIBHPJ_01501	gene	879	purC			
+OGNIBHPJ_01501	CDS	879	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+OGNIBHPJ_01502	gene	1566	sasA_4			
+OGNIBHPJ_01502	CDS	1566	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+OGNIBHPJ_01503	gene	723	regX3			
+OGNIBHPJ_01503	CDS	723	regX3		COG0745	Sensory transduction protein regX3
+OGNIBHPJ_01504	gene	1212				
+OGNIBHPJ_01504	CDS	1212				hypothetical protein
+OGNIBHPJ_01505	gene	264				
+OGNIBHPJ_01505	CDS	264				hypothetical protein
+OGNIBHPJ_01506	gene	1800				
+OGNIBHPJ_01506	CDS	1800				hypothetical protein
+OGNIBHPJ_01507	gene	837				
+OGNIBHPJ_01507	CDS	837				hypothetical protein
+OGNIBHPJ_01508	gene	1347	purB			
+OGNIBHPJ_01508	CDS	1347	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+OGNIBHPJ_01509	gene	75				
+OGNIBHPJ_01509	tRNA	75				tRNA-Gly(ccc)
+OGNIBHPJ_01510	gene	3432				
+OGNIBHPJ_01510	CDS	3432				hypothetical protein
+OGNIBHPJ_01511	gene	3198				
+OGNIBHPJ_01511	CDS	3198				hypothetical protein
+OGNIBHPJ_01512	gene	1023				
+OGNIBHPJ_01512	CDS	1023				hypothetical protein
+OGNIBHPJ_01513	gene	918				
+OGNIBHPJ_01513	CDS	918				hypothetical protein
+OGNIBHPJ_01514	gene	2895	dinG			
+OGNIBHPJ_01514	CDS	2895	dinG	3.1.-.-		3'-5' exonuclease DinG
+OGNIBHPJ_01515	gene	966	ddlB			
+OGNIBHPJ_01515	CDS	966	ddlB	6.3.2.4	COG1181	D-alanine--D-alanine ligase B
+OGNIBHPJ_01516	gene	1053	rlmN			
+OGNIBHPJ_01516	CDS	1053	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+OGNIBHPJ_01517	gene	906	spo0J			
+OGNIBHPJ_01517	CDS	906	spo0J		COG1475	Stage 0 sporulation protein J
+OGNIBHPJ_01518	gene	801	soj_1			
+OGNIBHPJ_01518	CDS	801	soj_1	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+OGNIBHPJ_01519	gene	738	rsmG			
+OGNIBHPJ_01519	CDS	738	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+OGNIBHPJ_01520	gene	570				
+OGNIBHPJ_01520	CDS	570				hypothetical protein
+OGNIBHPJ_01521	gene	771	yidC			
+OGNIBHPJ_01521	CDS	771	yidC			Membrane protein insertase YidC
+OGNIBHPJ_01522	gene	225	yidD			
+OGNIBHPJ_01522	CDS	225	yidD		COG0759	Putative membrane protein insertion efficiency factor
+OGNIBHPJ_01523	gene	261	rnpA			
+OGNIBHPJ_01523	CDS	261	rnpA	3.1.26.5		Ribonuclease P protein component
+OGNIBHPJ_01524	gene	1353				
+OGNIBHPJ_01524	CDS	1353				hypothetical protein
+OGNIBHPJ_01525	gene	1725	dnaA			
+OGNIBHPJ_01525	CDS	1725	dnaA			Chromosomal replication initiator protein DnaA
+OGNIBHPJ_01526	gene	1104	dnaN			
+OGNIBHPJ_01526	CDS	1104	dnaN		COG0592	Beta sliding clamp
+OGNIBHPJ_01527	gene	1107	recF			
+OGNIBHPJ_01527	CDS	1107	recF		COG1195	DNA replication and repair protein RecF
+OGNIBHPJ_01528	gene	564				
+OGNIBHPJ_01528	CDS	564				hypothetical protein
+OGNIBHPJ_01529	gene	2031	gyrB_2			
+OGNIBHPJ_01529	CDS	2031	gyrB_2	5.6.2.2	COG0187	DNA gyrase subunit B
+OGNIBHPJ_01530	gene	2736	gyrA_2			
+OGNIBHPJ_01530	CDS	2736	gyrA_2	5.6.2.2	COG0188	DNA gyrase subunit A
+OGNIBHPJ_01531	gene	77				
+OGNIBHPJ_01531	tRNA	77				tRNA-Ile(gat)
+OGNIBHPJ_01532	gene	76				
+OGNIBHPJ_01532	tRNA	76				tRNA-Ala(tgc)
+OGNIBHPJ_01533	gene	77				
+OGNIBHPJ_01533	tRNA	77				tRNA-Ile(gat)
+OGNIBHPJ_01534	gene	501				
+OGNIBHPJ_01534	CDS	501				hypothetical protein
+OGNIBHPJ_01535	gene	390				
+OGNIBHPJ_01535	CDS	390				hypothetical protein
+OGNIBHPJ_01536	gene	450				
+OGNIBHPJ_01536	CDS	450				hypothetical protein
+OGNIBHPJ_01537	gene	1839	typA			
+OGNIBHPJ_01537	CDS	1839	typA		COG1217	GTP-binding protein TypA/BipA
+OGNIBHPJ_01538	gene	1146				
+OGNIBHPJ_01538	CDS	1146				hypothetical protein
+OGNIBHPJ_01539	gene	807				
+OGNIBHPJ_01539	CDS	807				hypothetical protein
+OGNIBHPJ_01540	gene	91				
+OGNIBHPJ_01540	tRNA	91				tRNA-Ser(cga)
+OGNIBHPJ_01541	gene	91				
+OGNIBHPJ_01541	tRNA	91				tRNA-Ser(gga)
+OGNIBHPJ_01542	gene	294	rpsF			
+OGNIBHPJ_01542	CDS	294	rpsF		COG0360	30S ribosomal protein S6
+OGNIBHPJ_01543	gene	453	ssb			
+OGNIBHPJ_01543	CDS	453	ssb		COG0629	Single-stranded DNA-binding protein
+OGNIBHPJ_01544	gene	267				
+OGNIBHPJ_01544	CDS	267				hypothetical protein
+OGNIBHPJ_01545	gene	540	rplI			
+OGNIBHPJ_01545	CDS	540	rplI		COG0359	50S ribosomal protein L9
+OGNIBHPJ_01546	gene	1392	dnaC			
+OGNIBHPJ_01546	CDS	1392	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+OGNIBHPJ_01547	gene	1287	purA			
+OGNIBHPJ_01547	CDS	1287	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+OGNIBHPJ_01548	gene	1305	purD			
+OGNIBHPJ_01548	CDS	1305	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+OGNIBHPJ_01549	gene	696				
+OGNIBHPJ_01549	CDS	696				hypothetical protein
+OGNIBHPJ_01550	gene	1872				
+OGNIBHPJ_01550	CDS	1872		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+OGNIBHPJ_01551	gene	966				
+OGNIBHPJ_01551	CDS	966				hypothetical protein
+OGNIBHPJ_01552	gene	1440	carA			
+OGNIBHPJ_01552	CDS	1440	carA	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+OGNIBHPJ_01553	gene	3315	carB			
+OGNIBHPJ_01553	CDS	3315	carB	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+OGNIBHPJ_01554	gene	858				
+OGNIBHPJ_01554	CDS	858				hypothetical protein
+OGNIBHPJ_01555	gene	327				
+OGNIBHPJ_01555	CDS	327				hypothetical protein
+OGNIBHPJ_01556	gene	345				
+OGNIBHPJ_01556	CDS	345				hypothetical protein
+OGNIBHPJ_01557	gene	1389	bglC			
+OGNIBHPJ_01557	CDS	1389	bglC	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglC
+OGNIBHPJ_01558	gene	822				
+OGNIBHPJ_01558	CDS	822				hypothetical protein
+OGNIBHPJ_01559	gene	768				
+OGNIBHPJ_01559	CDS	768		3.5.1.-	COG3394	Carbohydrate deacetylase
+OGNIBHPJ_01560	gene	1293	licC_2			
+OGNIBHPJ_01560	CDS	1293	licC_2		COG1455	Lichenan permease IIC component
+OGNIBHPJ_01561	gene	297	licB			
+OGNIBHPJ_01561	CDS	297	licB	2.7.1.-	COG1440	Lichenan-specific phosphotransferase enzyme IIB component
+OGNIBHPJ_01562	gene	342	lacF_2			
+OGNIBHPJ_01562	CDS	342	lacF_2			PTS system lactose-specific EIIA component
+OGNIBHPJ_01563	gene	1488	bglA			
+OGNIBHPJ_01563	CDS	1488	bglA	3.2.1.86	COG2723	6-phospho-beta-glucosidase BglA
+OGNIBHPJ_01564	gene	909	bglK_1			
+OGNIBHPJ_01564	CDS	909	bglK_1	2.7.1.85	COG1940	Beta-glucoside kinase
+OGNIBHPJ_01565	gene	465	purE			
+OGNIBHPJ_01565	CDS	465	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+OGNIBHPJ_01566	gene	999				
+OGNIBHPJ_01566	CDS	999				hypothetical protein
+OGNIBHPJ_01567	gene	417				
+OGNIBHPJ_01567	CDS	417				hypothetical protein
+OGNIBHPJ_01568	gene	1230				
+OGNIBHPJ_01568	CDS	1230				hypothetical protein
+OGNIBHPJ_01569	gene	1671	purF			
+OGNIBHPJ_01569	CDS	1671	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+OGNIBHPJ_01570	gene	1104	purM			
+OGNIBHPJ_01570	CDS	1104	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+OGNIBHPJ_01571	gene	702	purN			
+OGNIBHPJ_01571	CDS	702	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+OGNIBHPJ_01572	gene	465				
+OGNIBHPJ_01572	CDS	465				hypothetical protein
+OGNIBHPJ_01573	gene	1221	surA			
+OGNIBHPJ_01573	CDS	1221	surA	5.2.1.8		Chaperone SurA
+OGNIBHPJ_01574	gene	444	yqeY			
+OGNIBHPJ_01574	CDS	444	yqeY		COG1610	putative protein YqeY
+OGNIBHPJ_01575	gene	732	glnQ_4			
+OGNIBHPJ_01575	CDS	732	glnQ_4			Glutamine transport ATP-binding protein GlnQ
+OGNIBHPJ_01576	gene	876	peb1A			
+OGNIBHPJ_01576	CDS	876	peb1A		COG0834	Major cell-binding factor
+OGNIBHPJ_01577	gene	747	glnM			
+OGNIBHPJ_01577	CDS	747	glnM		COG0765	putative glutamine ABC transporter permease protein GlnM
+OGNIBHPJ_01578	gene	639	glnP			
+OGNIBHPJ_01578	CDS	639	glnP		COG0765	putative glutamine ABC transporter permease protein GlnP
+OGNIBHPJ_01579	gene	624	cmk_2			
+OGNIBHPJ_01579	CDS	624	cmk_2	2.7.4.25		Cytidylate kinase
+OGNIBHPJ_01580	gene	1377	gltD_1			
+OGNIBHPJ_01580	CDS	1377	gltD_1	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+OGNIBHPJ_01581	gene	840				
+OGNIBHPJ_01581	CDS	840			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+OGNIBHPJ_01582	gene	630	pth			
+OGNIBHPJ_01582	CDS	630	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+OGNIBHPJ_01583	gene	987	prs			
+OGNIBHPJ_01583	CDS	987	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+OGNIBHPJ_01584	gene	1413	glmU			
+OGNIBHPJ_01584	CDS	1413	glmU			Bifunctional protein GlmU
+OGNIBHPJ_01585	gene	987				
+OGNIBHPJ_01585	CDS	987				hypothetical protein
+OGNIBHPJ_01586	gene	1512	ykoD_2			
+OGNIBHPJ_01586	CDS	1512	ykoD_2	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+OGNIBHPJ_01587	gene	783				
+OGNIBHPJ_01587	CDS	783				hypothetical protein
+OGNIBHPJ_01588	gene	1212				
+OGNIBHPJ_01588	CDS	1212				hypothetical protein
+OGNIBHPJ_01589	gene	1647	nfdA_3			
+OGNIBHPJ_01589	CDS	1647	nfdA_3	3.5.1.91		N-substituted formamide deformylase
+OGNIBHPJ_01590	gene	1191				
+OGNIBHPJ_01590	CDS	1191				hypothetical protein
+OGNIBHPJ_01591	gene	462				
+OGNIBHPJ_01591	CDS	462				hypothetical protein
+OGNIBHPJ_01592	gene	678				
+OGNIBHPJ_01592	CDS	678				hypothetical protein
+OGNIBHPJ_01593	gene	819	exoA			
+OGNIBHPJ_01593	CDS	819	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+OGNIBHPJ_01594	gene	753	cobB			
+OGNIBHPJ_01594	CDS	753	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+OGNIBHPJ_01595	gene	1743				
+OGNIBHPJ_01595	CDS	1743				hypothetical protein
+OGNIBHPJ_01596	gene	702				
+OGNIBHPJ_01596	CDS	702				hypothetical protein
+OGNIBHPJ_01597	gene	1197				
+OGNIBHPJ_01597	CDS	1197				hypothetical protein
+OGNIBHPJ_01598	gene	774	coaX_2			
+OGNIBHPJ_01598	CDS	774	coaX_2	2.7.1.33	COG1521	Type III pantothenate kinase
+OGNIBHPJ_01599	gene	77				
+OGNIBHPJ_01599	tRNA	77				tRNA-Met(cat)
+OGNIBHPJ_01600	gene	831				
+OGNIBHPJ_01600	CDS	831				IS256 family transposase ISSlgl1
+OGNIBHPJ_01601	gene	291				
+OGNIBHPJ_01601	CDS	291				hypothetical protein
+OGNIBHPJ_01602	gene	2031				
+OGNIBHPJ_01602	CDS	2031		1.16.1.-	COG0446	Metal reductase
+OGNIBHPJ_01603	gene	396				
+OGNIBHPJ_01603	CDS	396				hypothetical protein
+OGNIBHPJ_01604	gene	2883	ndhB_2			
+OGNIBHPJ_01604	CDS	2883	ndhB_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+OGNIBHPJ_01605	gene	591	ndhK			
+OGNIBHPJ_01605	CDS	591	ndhK	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+OGNIBHPJ_01606	gene	717				
+OGNIBHPJ_01606	CDS	717				hypothetical protein
+OGNIBHPJ_01607	gene	1089	hycE_2			
+OGNIBHPJ_01607	CDS	1089	hycE_2		COG3261	Formate hydrogenlyase subunit 5
+OGNIBHPJ_01608	gene	303	ndhI_2			
+OGNIBHPJ_01608	CDS	303	ndhI_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I
+OGNIBHPJ_01609	gene	6570				
+OGNIBHPJ_01609	CDS	6570				hypothetical protein
+OGNIBHPJ_01610	gene	129				
+OGNIBHPJ_01610	CDS	129				hypothetical protein
+OGNIBHPJ_01611	gene	630	lnrK			
+OGNIBHPJ_01611	CDS	630	lnrK		COG2197	Transcriptional regulatory protein LnrK
+OGNIBHPJ_01612	gene	1146				
+OGNIBHPJ_01612	CDS	1146				hypothetical protein
+OGNIBHPJ_01613	gene	939	lnrL_2			
+OGNIBHPJ_01613	CDS	939	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+OGNIBHPJ_01614	gene	1188				
+OGNIBHPJ_01614	CDS	1188				hypothetical protein
+OGNIBHPJ_01615	gene	1206				
+OGNIBHPJ_01615	CDS	1206				hypothetical protein
+OGNIBHPJ_01616	gene	714	bceA_2			
+OGNIBHPJ_01616	CDS	714	bceA_2		COG1136	Bacitracin export ATP-binding protein BceA
+OGNIBHPJ_01617	gene	2667				
+OGNIBHPJ_01617	CDS	2667				hypothetical protein
+OGNIBHPJ_01618	gene	1206	ndhI_3			
+OGNIBHPJ_01618	CDS	1206	ndhI_3	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+OGNIBHPJ_01619	gene	966				
+OGNIBHPJ_01619	CDS	966				hypothetical protein
+OGNIBHPJ_01620	gene	684				
+OGNIBHPJ_01620	CDS	684				hypothetical protein
+OGNIBHPJ_01621	gene	1374				
+OGNIBHPJ_01621	CDS	1374				hypothetical protein
+OGNIBHPJ_01622	gene	846				
+OGNIBHPJ_01622	CDS	846				hypothetical protein
+OGNIBHPJ_01623	gene	390				
+OGNIBHPJ_01623	CDS	390				hypothetical protein
+OGNIBHPJ_01624	gene	756				
+OGNIBHPJ_01624	CDS	756				hypothetical protein
+OGNIBHPJ_01625	gene	1407				
+OGNIBHPJ_01625	CDS	1407				hypothetical protein
+OGNIBHPJ_01626	gene	1827				
+OGNIBHPJ_01626	CDS	1827				hypothetical protein
+OGNIBHPJ_01627	gene	1263	mntH_2			
+OGNIBHPJ_01627	CDS	1263	mntH_2		COG1914	Divalent metal cation transporter MntH
+OGNIBHPJ_01628	gene	2217	oatA			
+OGNIBHPJ_01628	CDS	2217	oatA	2.3.1.-		O-acetyltransferase OatA
+OGNIBHPJ_01629	gene	996	rbsK/rbiA			
+OGNIBHPJ_01629	CDS	996	rbsK/rbiA			Bifunctional ribokinase/ribose-5-phosphate isomerase A
+OGNIBHPJ_01630	gene	975	rihA			
+OGNIBHPJ_01630	CDS	975	rihA	3.2.-.-	COG1957	Pyrimidine-specific ribonucleoside hydrolase RihA
+OGNIBHPJ_01631	gene	1011	rbsR			
+OGNIBHPJ_01631	CDS	1011	rbsR		COG1609	Ribose operon repressor
+OGNIBHPJ_01632	gene	996	exuR			
+OGNIBHPJ_01632	CDS	996	exuR		COG1609	putative HTH-type transcriptional repressor ExuR
+OGNIBHPJ_01633	gene	1473				
+OGNIBHPJ_01633	CDS	1473				hypothetical protein
+OGNIBHPJ_01634	gene	1623				
+OGNIBHPJ_01634	CDS	1623				hypothetical protein
+OGNIBHPJ_01635	gene	1257	licC_3			
+OGNIBHPJ_01635	CDS	1257	licC_3		COG1455	Lichenan permease IIC component
+OGNIBHPJ_01636	gene	303	gmuB			
+OGNIBHPJ_01636	CDS	303	gmuB	2.7.1.205	COG1440	PTS system oligo-beta-mannoside-specific EIIB component
+OGNIBHPJ_01637	gene	318	gmuA_2			
+OGNIBHPJ_01637	CDS	318	gmuA_2		COG1447	PTS system oligo-beta-mannoside-specific EIIA component
+OGNIBHPJ_01638	gene	1401				
+OGNIBHPJ_01638	CDS	1401				hypothetical protein
+OGNIBHPJ_01639	gene	837	aptA_2			
+OGNIBHPJ_01639	CDS	837	aptA_2	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+OGNIBHPJ_01640	gene	942	aptB_2			
+OGNIBHPJ_01640	CDS	942	aptB_2	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+OGNIBHPJ_01641	gene	1491	glpK_2			
+OGNIBHPJ_01641	CDS	1491	glpK_2	2.7.1.30	COG0554	Glycerol kinase
+OGNIBHPJ_01642	gene	489	luxS			
+OGNIBHPJ_01642	CDS	489	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase
+OGNIBHPJ_01643	gene	840	licT_2			
+OGNIBHPJ_01643	CDS	840	licT_2		COG3711	Transcription antiterminator LicT
+OGNIBHPJ_01644	gene	1371	bglF_1			
+OGNIBHPJ_01644	CDS	1371	bglF_1		COG1263	PTS system beta-glucoside-specific EIIBCA component
+OGNIBHPJ_01645	gene	981				
+OGNIBHPJ_01645	CDS	981				hypothetical protein
+OGNIBHPJ_01646	gene	645				
+OGNIBHPJ_01646	CDS	645				hypothetical protein
+OGNIBHPJ_01647	gene	1431	bglH_1			
+OGNIBHPJ_01647	CDS	1431	bglH_1	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglH
+OGNIBHPJ_01648	gene	1884				
+OGNIBHPJ_01648	CDS	1884				hypothetical protein
+OGNIBHPJ_01649	gene	1494				
+OGNIBHPJ_01649	CDS	1494				hypothetical protein
+OGNIBHPJ_01650	gene	621	vraR			
+OGNIBHPJ_01650	CDS	621	vraR			Response regulator protein VraR
+OGNIBHPJ_01651	gene	843				
+OGNIBHPJ_01651	CDS	843				hypothetical protein
+OGNIBHPJ_01652	gene	1242				
+OGNIBHPJ_01652	CDS	1242				hypothetical protein
+OGNIBHPJ_01653	gene	1323				
+OGNIBHPJ_01653	CDS	1323				hypothetical protein
+OGNIBHPJ_01654	gene	738				
+OGNIBHPJ_01654	CDS	738				hypothetical protein
+OGNIBHPJ_01655	gene	924	licT_3			
+OGNIBHPJ_01655	CDS	924	licT_3		COG3711	Transcription antiterminator LicT
+OGNIBHPJ_01656	gene	1422	bglF_2			
+OGNIBHPJ_01656	CDS	1422	bglF_2		COG1263	PTS system beta-glucoside-specific EIIBCA component
+OGNIBHPJ_01657	gene	1512				
+OGNIBHPJ_01657	CDS	1512				hypothetical protein
+OGNIBHPJ_01658	gene	1338				
+OGNIBHPJ_01658	CDS	1338				hypothetical protein
+OGNIBHPJ_01659	gene	1428	bglF_3			
+OGNIBHPJ_01659	CDS	1428	bglF_3		COG1263	PTS system beta-glucoside-specific EIIBCA component
+OGNIBHPJ_01660	gene	1314				
+OGNIBHPJ_01660	CDS	1314				hypothetical protein
+OGNIBHPJ_01661	gene	912	bglK_2			
+OGNIBHPJ_01661	CDS	912	bglK_2	2.7.1.85	COG1940	Beta-glucoside kinase
+OGNIBHPJ_01662	gene	1581				
+OGNIBHPJ_01662	CDS	1581				hypothetical protein
+OGNIBHPJ_01663	gene	450				
+OGNIBHPJ_01663	CDS	450				hypothetical protein
+OGNIBHPJ_01664	gene	1563				
+OGNIBHPJ_01664	CDS	1563				hypothetical protein
+OGNIBHPJ_01665	gene	801				
+OGNIBHPJ_01665	CDS	801				hypothetical protein
+OGNIBHPJ_01666	gene	687				
+OGNIBHPJ_01666	CDS	687				hypothetical protein
+OGNIBHPJ_01667	gene	852				
+OGNIBHPJ_01667	CDS	852				IS3 family transposase ISBlo3
+OGNIBHPJ_01668	gene	498				
+OGNIBHPJ_01668	CDS	498				hypothetical protein
+OGNIBHPJ_01669	gene	2769	mgtA			
+OGNIBHPJ_01669	CDS	2769	mgtA	7.2.2.14	COG0474	Magnesium-transporting ATPase, P-type 1
+OGNIBHPJ_01670	gene	681	pyrE			
+OGNIBHPJ_01670	CDS	681	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+OGNIBHPJ_01671	gene	198				
+OGNIBHPJ_01671	CDS	198				hypothetical protein
+OGNIBHPJ_01672	gene	621				
+OGNIBHPJ_01672	CDS	621				hypothetical protein
+OGNIBHPJ_01673	gene	1173				
+OGNIBHPJ_01673	CDS	1173			COG3177	putative protein
+OGNIBHPJ_01674	gene	855	ybbH_2			
+OGNIBHPJ_01674	CDS	855	ybbH_2		COG1737	putative HTH-type transcriptional regulator YbbH
+OGNIBHPJ_01675	gene	2568				
+OGNIBHPJ_01675	CDS	2568				hypothetical protein
+OGNIBHPJ_01676	gene	1008	rhaR			
+OGNIBHPJ_01676	CDS	1008	rhaR			HTH-type transcriptional activator RhaR
+OGNIBHPJ_01677	gene	1449	bglH_2			
+OGNIBHPJ_01677	CDS	1449	bglH_2	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglH
+OGNIBHPJ_01678	gene	537	glcB_2			
+OGNIBHPJ_01678	CDS	537	glcB_2			PTS system glucoside-specific EIICBA component
+OGNIBHPJ_01679	gene	558				
+OGNIBHPJ_01679	CDS	558				hypothetical protein
+OGNIBHPJ_01680	gene	669	ppaX			
+OGNIBHPJ_01680	CDS	669	ppaX	3.6.1.1	COG0546	Pyrophosphatase PpaX
+OGNIBHPJ_01681	gene	1035	hypE			
+OGNIBHPJ_01681	CDS	1035	hypE	4.2.1.-		Carbamoyl dehydratase HypE
+OGNIBHPJ_01682	gene	1113	hypD			
+OGNIBHPJ_01682	CDS	1113	hypD		COG0409	Hydrogenase maturation factor HypD
+OGNIBHPJ_01683	gene	261	hypC			
+OGNIBHPJ_01683	CDS	261	hypC		COG0298	Hydrogenase maturation factor HypC
+OGNIBHPJ_01684	gene	2469	hypF			
+OGNIBHPJ_01684	CDS	2469	hypF	6.2.-.-	COG0068	Carbamoyltransferase HypF
+OGNIBHPJ_01685	gene	513	nikR			
+OGNIBHPJ_01685	CDS	513	nikR			Nickel-responsive regulator
+OGNIBHPJ_01686	gene	249				
+OGNIBHPJ_01686	CDS	249				hypothetical protein
+OGNIBHPJ_01687	gene	321	trxA			
+OGNIBHPJ_01687	CDS	321	trxA			Thioredoxin 1
+OGNIBHPJ_01688	gene	606				
+OGNIBHPJ_01688	CDS	606				hypothetical protein
+OGNIBHPJ_01689	gene	1278				
+OGNIBHPJ_01689	CDS	1278				hypothetical protein
+OGNIBHPJ_01690	gene	723	ypdB_1			
+OGNIBHPJ_01690	CDS	723	ypdB_1		COG3279	Transcriptional regulatory protein YpdB
+OGNIBHPJ_01691	gene	1026	nadA			
+OGNIBHPJ_01691	CDS	1026	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+OGNIBHPJ_01692	gene	1377	nadB_2			
+OGNIBHPJ_01692	CDS	1377	nadB_2	1.4.3.16	COG0029	L-aspartate oxidase
+OGNIBHPJ_01693	gene	861	nadC			
+OGNIBHPJ_01693	CDS	861	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+OGNIBHPJ_01694	gene	546	niaR			
+OGNIBHPJ_01694	CDS	546	niaR		COG1827	putative transcription repressor NiaR
+OGNIBHPJ_01695	gene	186				
+OGNIBHPJ_01695	CDS	186				Ferredoxin-2
+OGNIBHPJ_01696	gene	108				
+OGNIBHPJ_01696	CDS	108				hypothetical protein
+OGNIBHPJ_01697	gene	1893	dnaK_3			
+OGNIBHPJ_01697	CDS	1893	dnaK_3			Chaperone protein DnaK
+OGNIBHPJ_01698	gene	843	grpE_2			
+OGNIBHPJ_01698	CDS	843	grpE_2			Protein GrpE
+OGNIBHPJ_01699	gene	966	cbpA			
+OGNIBHPJ_01699	CDS	966	cbpA		COG2214	Curved DNA-binding protein
+OGNIBHPJ_01700	gene	417				
+OGNIBHPJ_01700	CDS	417				hypothetical protein
+OGNIBHPJ_01701	gene	2301	leuC			
+OGNIBHPJ_01701	CDS	2301	leuC	4.2.1.33		3-isopropylmalate dehydratase large subunit
+OGNIBHPJ_01702	gene	102				
+OGNIBHPJ_01702	CDS	102				hypothetical protein
+OGNIBHPJ_01703	gene	669				
+OGNIBHPJ_01703	CDS	669				hypothetical protein
+OGNIBHPJ_01704	gene	648				
+OGNIBHPJ_01704	CDS	648				hypothetical protein
+OGNIBHPJ_01705	gene	2628	clpB			
+OGNIBHPJ_01705	CDS	2628	clpB		COG0542	Chaperone protein ClpB
+OGNIBHPJ_01706	gene	195				
+OGNIBHPJ_01706	CDS	195				hypothetical protein
+OGNIBHPJ_01707	gene	1497				
+OGNIBHPJ_01707	CDS	1497				hypothetical protein
+OGNIBHPJ_01708	gene	1008				
+OGNIBHPJ_01708	CDS	1008				hypothetical protein
+OGNIBHPJ_01709	gene	663				
+OGNIBHPJ_01709	CDS	663				hypothetical protein
+OGNIBHPJ_01710	gene	2775				
+OGNIBHPJ_01710	CDS	2775		1.18.1.2		Ferredoxin--NADP reductase
+OGNIBHPJ_01711	gene	429	hypA			
+OGNIBHPJ_01711	CDS	429	hypA			Hydrogenase maturation factor HypA
+OGNIBHPJ_01712	gene	990	manX_2			
+OGNIBHPJ_01712	CDS	990	manX_2	2.7.1.191		PTS system mannose-specific EIIAB component
+OGNIBHPJ_01713	gene	819	sorC_1			
+OGNIBHPJ_01713	CDS	819	sorC_1		COG3715	PTS system sorbose-specific EIIC component
+OGNIBHPJ_01714	gene	921	manZ_5			
+OGNIBHPJ_01714	CDS	921	manZ_5		COG3716	PTS system mannose-specific EIID component
+OGNIBHPJ_01715	gene	399				
+OGNIBHPJ_01715	CDS	399				hypothetical protein
+OGNIBHPJ_01716	gene	76				
+OGNIBHPJ_01716	tRNA	76				tRNA-Arg(cct)
+OGNIBHPJ_01717	gene	1956	prkC			
+OGNIBHPJ_01717	CDS	1956	prkC	2.7.11.1		Serine/threonine-protein kinase PrkC
+OGNIBHPJ_01718	gene	2871	mrdB_2			
+OGNIBHPJ_01718	CDS	2871	mrdB_2	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+OGNIBHPJ_01719	gene	1935				
+OGNIBHPJ_01719	CDS	1935				hypothetical protein
+OGNIBHPJ_01720	gene	417				
+OGNIBHPJ_01720	CDS	417				hypothetical protein
+OGNIBHPJ_01721	gene	1014				
+OGNIBHPJ_01721	CDS	1014				hypothetical protein
+OGNIBHPJ_01722	gene	1854	pknD_2			
+OGNIBHPJ_01722	CDS	1854	pknD_2	2.7.11.1		Serine/threonine-protein kinase PknD
+OGNIBHPJ_01723	gene	717				
+OGNIBHPJ_01723	CDS	717				hypothetical protein
+OGNIBHPJ_01724	gene	2487				
+OGNIBHPJ_01724	CDS	2487				hypothetical protein
+OGNIBHPJ_01725	gene	261				
+OGNIBHPJ_01725	CDS	261				hypothetical protein
+OGNIBHPJ_01726	gene	273				
+OGNIBHPJ_01726	CDS	273				hypothetical protein
+OGNIBHPJ_01727	gene	477				
+OGNIBHPJ_01727	CDS	477				hypothetical protein
+OGNIBHPJ_01728	gene	321				
+OGNIBHPJ_01728	CDS	321			COG0718	Nucleoid-associated protein
+OGNIBHPJ_01729	gene	597	recR			
+OGNIBHPJ_01729	CDS	597	recR		COG0353	Recombination protein RecR
+OGNIBHPJ_01730	gene	906				
+OGNIBHPJ_01730	CDS	906				hypothetical protein
+OGNIBHPJ_01731	gene	1836				
+OGNIBHPJ_01731	CDS	1836				hypothetical protein
+OGNIBHPJ_01732	gene	939				
+OGNIBHPJ_01732	CDS	939				hypothetical protein
+OGNIBHPJ_01733	gene	3540				
+OGNIBHPJ_01733	CDS	3540		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+OGNIBHPJ_01734	gene	963	arcC1			
+OGNIBHPJ_01734	CDS	963	arcC1	2.7.2.2		Carbamate kinase 1
+OGNIBHPJ_01735	gene	609				
+OGNIBHPJ_01735	CDS	609				hypothetical protein
+OGNIBHPJ_01736	gene	1452	yhdG			
+OGNIBHPJ_01736	CDS	1452	yhdG		COG0531	putative amino acid permease YhdG
+OGNIBHPJ_01737	gene	1278	hutI_2			
+OGNIBHPJ_01737	CDS	1278	hutI_2	3.5.2.7		Imidazolonepropionase
+OGNIBHPJ_01738	gene	1449	ypdA			
+OGNIBHPJ_01738	CDS	1449	ypdA	2.7.13.3	COG3275	Sensor histidine kinase YpdA
+OGNIBHPJ_01739	gene	735	btsR			
+OGNIBHPJ_01739	CDS	735	btsR		COG3279	Transcriptional regulatory protein BtsR
+OGNIBHPJ_01740	gene	945				
+OGNIBHPJ_01740	CDS	945				hypothetical protein
+OGNIBHPJ_01741	gene	1251				
+OGNIBHPJ_01741	CDS	1251				hypothetical protein
+OGNIBHPJ_01742	gene	1188				
+OGNIBHPJ_01742	CDS	1188				hypothetical protein
+OGNIBHPJ_01743	gene	1344	btsS			
+OGNIBHPJ_01743	CDS	1344	btsS	2.7.13.3	COG3275	Sensor histidine kinase BtsS
+OGNIBHPJ_01744	gene	705	ypdB_2			
+OGNIBHPJ_01744	CDS	705	ypdB_2		COG3279	Transcriptional regulatory protein YpdB
+OGNIBHPJ_01745	gene	468				
+OGNIBHPJ_01745	CDS	468				hypothetical protein
+OGNIBHPJ_01746	gene	78				
+OGNIBHPJ_01746	tRNA	78				tRNA-Asp(gtc)
+OGNIBHPJ_01747	gene	486	nsrR			
+OGNIBHPJ_01747	CDS	486	nsrR		COG1959	HTH-type transcriptional repressor NsrR
+OGNIBHPJ_01748	gene	906	nth			
+OGNIBHPJ_01748	CDS	906	nth	4.2.99.18		Endonuclease III
+OGNIBHPJ_01749	gene	540	rbr1			
+OGNIBHPJ_01749	CDS	540	rbr1	1.11.1.1	COG1592	Rubrerythrin-1
+OGNIBHPJ_01750	gene	633				
+OGNIBHPJ_01750	CDS	633				hypothetical protein
+OGNIBHPJ_01751	gene	423				
+OGNIBHPJ_01751	CDS	423				hypothetical protein
+OGNIBHPJ_01752	gene	564				
+OGNIBHPJ_01752	CDS	564				hypothetical protein
+OGNIBHPJ_01753	gene	1344				
+OGNIBHPJ_01753	CDS	1344				hypothetical protein
+OGNIBHPJ_01754	gene	1803				
+OGNIBHPJ_01754	CDS	1803		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+OGNIBHPJ_01755	gene	666	pdg			
+OGNIBHPJ_01755	CDS	666	pdg			Ultraviolet N-glycosylase/AP lyase
+OGNIBHPJ_01756	gene	1047				
+OGNIBHPJ_01756	CDS	1047				hypothetical protein
+OGNIBHPJ_01757	gene	3633	mfd			
+OGNIBHPJ_01757	CDS	3633	mfd	3.6.4.-		Transcription-repair-coupling factor
+OGNIBHPJ_01758	gene	864				
+OGNIBHPJ_01758	CDS	864				hypothetical protein
+OGNIBHPJ_01759	gene	1026	ltaE			
+OGNIBHPJ_01759	CDS	1026	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+OGNIBHPJ_01760	gene	603	bar			
+OGNIBHPJ_01760	CDS	603	bar	2.3.1.183		Phosphinothricin N-acetyltransferase
+OGNIBHPJ_01761	gene	723	yurK_1			
+OGNIBHPJ_01761	CDS	723	yurK_1		COG2188	putative HTH-type transcriptional regulator YurK
+OGNIBHPJ_01762	gene	993	frlB_3			
+OGNIBHPJ_01762	CDS	993	frlB_3	3.5.-.-	COG2222	Fructosamine deglycase FrlB
+OGNIBHPJ_01763	gene	1119				
+OGNIBHPJ_01763	CDS	1119				hypothetical protein
+OGNIBHPJ_01764	gene	924	manX_3			
+OGNIBHPJ_01764	CDS	924	manX_3	2.7.1.191		PTS system mannose-specific EIIAB component
+OGNIBHPJ_01765	gene	795	sorA			
+OGNIBHPJ_01765	CDS	795	sorA		COG3715	PTS system sorbose-specific EIIC component
+OGNIBHPJ_01766	gene	834	manZ_6			
+OGNIBHPJ_01766	CDS	834	manZ_6		COG3716	PTS system mannose-specific EIID component
+OGNIBHPJ_01767	gene	984	frlB_4			
+OGNIBHPJ_01767	CDS	984	frlB_4	3.5.-.-	COG2222	Fructosamine deglycase FrlB
+OGNIBHPJ_01768	gene	630				
+OGNIBHPJ_01768	CDS	630		3.1.3.-	COG0637	Phosphorylated carbohydrates phosphatase
+OGNIBHPJ_01769	gene	1008				
+OGNIBHPJ_01769	CDS	1008				hypothetical protein
+OGNIBHPJ_01770	gene	720	nagR_2			
+OGNIBHPJ_01770	CDS	720	nagR_2		COG2188	HTH-type transcriptional repressor NagR
+OGNIBHPJ_01771	gene	1188				
+OGNIBHPJ_01771	CDS	1188				IS110 family transposase ISAar17
+OGNIBHPJ_01772	gene	1980	recQ			
+OGNIBHPJ_01772	CDS	1980	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+OGNIBHPJ_01773	gene	765	nagR_3			
+OGNIBHPJ_01773	CDS	765	nagR_3		COG2188	HTH-type transcriptional repressor NagR
+OGNIBHPJ_01774	gene	969	frlB_5			
+OGNIBHPJ_01774	CDS	969	frlB_5	3.5.-.-	COG2222	Fructosamine deglycase FrlB
+OGNIBHPJ_01775	gene	978	ldh_2			
+OGNIBHPJ_01775	CDS	978	ldh_2	1.1.1.27		L-lactate dehydrogenase
+OGNIBHPJ_01776	gene	927	metAA			
+OGNIBHPJ_01776	CDS	927	metAA	2.3.1.31		Homoserine O-acetyltransferase
+OGNIBHPJ_01777	gene	597				
+OGNIBHPJ_01777	CDS	597		6.3.3.2	COG0212	5-formyltetrahydrofolate cyclo-ligase
+OGNIBHPJ_01778	gene	330				
+OGNIBHPJ_01778	CDS	330				hypothetical protein
+OGNIBHPJ_01779	gene	1728				
+OGNIBHPJ_01779	CDS	1728				hypothetical protein
+OGNIBHPJ_01780	gene	3039				
+OGNIBHPJ_01780	CDS	3039				hypothetical protein
+OGNIBHPJ_01781	gene	1035	frlB_6			
+OGNIBHPJ_01781	CDS	1035	frlB_6	3.5.-.-	COG2222	Fructosamine deglycase FrlB
+OGNIBHPJ_01782	gene	789	nagR_4			
+OGNIBHPJ_01782	CDS	789	nagR_4		COG2188	HTH-type transcriptional repressor NagR
+OGNIBHPJ_01783	gene	705	yurK_2			
+OGNIBHPJ_01783	CDS	705	yurK_2		COG2188	putative HTH-type transcriptional regulator YurK
+OGNIBHPJ_01784	gene	462				
+OGNIBHPJ_01784	CDS	462				hypothetical protein
+OGNIBHPJ_01785	gene	786	sorC_2			
+OGNIBHPJ_01785	CDS	786	sorC_2		COG3715	PTS system sorbose-specific EIIC component
+OGNIBHPJ_01786	gene	831	manZ_7			
+OGNIBHPJ_01786	CDS	831	manZ_7		COG3716	PTS system mannose-specific EIID component
+OGNIBHPJ_01787	gene	999	frlB_7			
+OGNIBHPJ_01787	CDS	999	frlB_7	3.5.-.-	COG2222	Fructosamine deglycase FrlB
+OGNIBHPJ_01788	gene	900	frlD_2			
+OGNIBHPJ_01788	CDS	900	frlD_2	2.7.1.-	COG0524	Fructosamine kinase FrlD
+OGNIBHPJ_01789	gene	1035	frlB_8			
+OGNIBHPJ_01789	CDS	1035	frlB_8	3.5.-.-	COG2222	Fructosamine deglycase FrlB
+OGNIBHPJ_01790	gene	621				
+OGNIBHPJ_01790	CDS	621				hypothetical protein
+OGNIBHPJ_01791	gene	216				
+OGNIBHPJ_01791	CDS	216				hypothetical protein
+OGNIBHPJ_01792	gene	1467				
+OGNIBHPJ_01792	CDS	1467				hypothetical protein
+OGNIBHPJ_01793	gene	492				
+OGNIBHPJ_01793	CDS	492				hypothetical protein
+OGNIBHPJ_01794	gene	1083				
+OGNIBHPJ_01794	CDS	1083				hypothetical protein
+OGNIBHPJ_01795	gene	285				
+OGNIBHPJ_01795	CDS	285				hypothetical protein
+OGNIBHPJ_01796	gene	687				
+OGNIBHPJ_01796	CDS	687				hypothetical protein
+OGNIBHPJ_01797	gene	75				
+OGNIBHPJ_01797	tRNA	75				tRNA-Val(gac)
+OGNIBHPJ_01798	gene	1023	yicL			
+OGNIBHPJ_01798	CDS	1023	yicL		COG0697	putative inner membrane transporter YicL
+OGNIBHPJ_01799	gene	2313				
+OGNIBHPJ_01799	CDS	2313				hypothetical protein
+OGNIBHPJ_01800	gene	1332	glmM_1			
+OGNIBHPJ_01800	CDS	1332	glmM_1	5.4.2.10	COG1109	Phosphoglucosamine mutase
+OGNIBHPJ_01801	gene	1575	ypwA			
+OGNIBHPJ_01801	CDS	1575	ypwA	3.4.17.19	COG2317	Carboxypeptidase 1
+OGNIBHPJ_01802	gene	1077	pheS			
+OGNIBHPJ_01802	CDS	1077	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+OGNIBHPJ_01803	gene	2454	pheT			
+OGNIBHPJ_01803	CDS	2454	pheT	6.1.1.20		Phenylalanine--tRNA ligase beta subunit
+OGNIBHPJ_01804	gene	1086	larMN			
+OGNIBHPJ_01804	CDS	1086	larMN		COG0310	putative fused nickel transport protein LarMN
+OGNIBHPJ_01805	gene	837				
+OGNIBHPJ_01805	CDS	837				hypothetical protein
+OGNIBHPJ_01806	gene	792	larO			
+OGNIBHPJ_01806	CDS	792	larO	3.6.3.-	COG1122	Nickel import ATP-binding protein LarO
+OGNIBHPJ_01807	gene	849				
+OGNIBHPJ_01807	CDS	849				hypothetical protein
+OGNIBHPJ_01808	gene	1461	pyk			
+OGNIBHPJ_01808	CDS	1461	pyk	2.7.1.40		Pyruvate kinase
+OGNIBHPJ_01809	gene	2682				
+OGNIBHPJ_01809	CDS	2682		7.2.2.10		Calcium-transporting ATPase 1
+OGNIBHPJ_01810	gene	1185	rsgA			
+OGNIBHPJ_01810	CDS	1185	rsgA	3.6.1.-		Small ribosomal subunit biogenesis GTPase RsgA
+OGNIBHPJ_01811	gene	675				
+OGNIBHPJ_01811	CDS	675				hypothetical protein
+OGNIBHPJ_01812	gene	1650				
+OGNIBHPJ_01812	CDS	1650				hypothetical protein
+OGNIBHPJ_01813	gene	1329				
+OGNIBHPJ_01813	CDS	1329				hypothetical protein
+OGNIBHPJ_01814	gene	927				
+OGNIBHPJ_01814	CDS	927				hypothetical protein
+OGNIBHPJ_01815	gene	642				
+OGNIBHPJ_01815	CDS	642				hypothetical protein
+OGNIBHPJ_01816	gene	234				
+OGNIBHPJ_01816	CDS	234				hypothetical protein
+OGNIBHPJ_01817	gene	564				
+OGNIBHPJ_01817	CDS	564				hypothetical protein
+OGNIBHPJ_01818	gene	219				
+OGNIBHPJ_01818	CDS	219				hypothetical protein
+OGNIBHPJ_01819	gene	408				
+OGNIBHPJ_01819	CDS	408				hypothetical protein
+OGNIBHPJ_01820	gene	2061				
+OGNIBHPJ_01820	CDS	2061				hypothetical protein
+OGNIBHPJ_01821	gene	477				
+OGNIBHPJ_01821	CDS	477				hypothetical protein
+OGNIBHPJ_01822	gene	381				
+OGNIBHPJ_01822	CDS	381				hypothetical protein
+OGNIBHPJ_01823	gene	288				
+OGNIBHPJ_01823	CDS	288				hypothetical protein
+OGNIBHPJ_01824	gene	75				
+OGNIBHPJ_01824	tRNA	75				tRNA-Phe(gaa)
+OGNIBHPJ_01825	gene	1062				
+OGNIBHPJ_01825	CDS	1062				hypothetical protein
+OGNIBHPJ_01826	gene	879	rsmI			
+OGNIBHPJ_01826	CDS	879	rsmI	2.1.1.198		Ribosomal RNA small subunit methyltransferase I
+OGNIBHPJ_01827	gene	1602	metG			
+OGNIBHPJ_01827	CDS	1602	metG	6.1.1.10		Methionine--tRNA ligase
+OGNIBHPJ_01828	gene	861	rsmA			
+OGNIBHPJ_01828	CDS	861	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+OGNIBHPJ_01829	gene	918	ycfH			
+OGNIBHPJ_01829	CDS	918	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+OGNIBHPJ_01830	gene	87				
+OGNIBHPJ_01830	tRNA	87				tRNA-Leu(cag)
+OGNIBHPJ_01831	gene	1119				
+OGNIBHPJ_01831	CDS	1119				IS256 family transposase ISSlgl1
+OGNIBHPJ_01832	gene	939				
+OGNIBHPJ_01832	CDS	939			COG0330	putative protein
+OGNIBHPJ_01833	gene	471	rlmH			
+OGNIBHPJ_01833	CDS	471	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+OGNIBHPJ_01834	gene	771	proC			
+OGNIBHPJ_01834	CDS	771	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+OGNIBHPJ_01835	gene	174				
+OGNIBHPJ_01835	CDS	174				hypothetical protein
+OGNIBHPJ_01836	gene	1284	serS			
+OGNIBHPJ_01836	CDS	1284	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+OGNIBHPJ_01837	gene	378				
+OGNIBHPJ_01837	CDS	378				hypothetical protein
+OGNIBHPJ_01838	gene	77				
+OGNIBHPJ_01838	tRNA	77				tRNA-Arg(acg)
+OGNIBHPJ_01839	gene	77				
+OGNIBHPJ_01839	tRNA	77				tRNA-Arg(acg)
+OGNIBHPJ_01840	gene	77				
+OGNIBHPJ_01840	tRNA	77				tRNA-Arg(acg)
+OGNIBHPJ_01841	gene	2382				
+OGNIBHPJ_01841	CDS	2382				hypothetical protein
+OGNIBHPJ_01842	gene	91				
+OGNIBHPJ_01842	tRNA	91				tRNA-Ser(gct)
+OGNIBHPJ_01843	gene	1410				
+OGNIBHPJ_01843	CDS	1410				hypothetical protein
+OGNIBHPJ_01844	gene	696	walR_2			
+OGNIBHPJ_01844	CDS	696	walR_2		COG0745	Transcriptional regulatory protein WalR
+OGNIBHPJ_01845	gene	1239	sasA_5			
+OGNIBHPJ_01845	CDS	1239	sasA_5	2.7.-.-		Adaptive-response sensory-kinase SasA
+OGNIBHPJ_01846	gene	876	pstB3_2			
+OGNIBHPJ_01846	CDS	876	pstB3_2	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+OGNIBHPJ_01847	gene	753	walR_3			
+OGNIBHPJ_01847	CDS	753	walR_3		COG0745	Transcriptional regulatory protein WalR
+OGNIBHPJ_01848	gene	1425	sasA_6			
+OGNIBHPJ_01848	CDS	1425	sasA_6	2.7.-.-		Adaptive-response sensory-kinase SasA
+OGNIBHPJ_01849	gene	657	ywqC			
+OGNIBHPJ_01849	CDS	657	ywqC		COG3944	putative capsular polysaccharide biosynthesis protein YwqC
+OGNIBHPJ_01850	gene	738	ywqD			
+OGNIBHPJ_01850	CDS	738	ywqD	2.7.10.2	COG0489	Tyrosine-protein kinase YwqD
+OGNIBHPJ_01851	gene	651	ywqE			
+OGNIBHPJ_01851	CDS	651	ywqE	3.1.3.48	COG4464	Tyrosine-protein phosphatase YwqE
+OGNIBHPJ_01852	gene	501				
+OGNIBHPJ_01852	CDS	501				hypothetical protein
+OGNIBHPJ_01853	gene	2025	htpG			
+OGNIBHPJ_01853	CDS	2025	htpG		COG0326	Chaperone protein HtpG
+OGNIBHPJ_01854	gene	2826				
+OGNIBHPJ_01854	CDS	2826				hypothetical protein
+OGNIBHPJ_01855	gene	2190				
+OGNIBHPJ_01855	CDS	2190				hypothetical protein
+OGNIBHPJ_01856	gene	972				
+OGNIBHPJ_01856	CDS	972				hypothetical protein
+OGNIBHPJ_01857	gene	1299	scmP			
+OGNIBHPJ_01857	CDS	1299	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+OGNIBHPJ_01858	gene	1305				
+OGNIBHPJ_01858	CDS	1305				hypothetical protein
+OGNIBHPJ_01859	gene	1314	hisS			
+OGNIBHPJ_01859	CDS	1314	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+OGNIBHPJ_01860	gene	2826	ppc			
+OGNIBHPJ_01860	CDS	2826	ppc	4.1.1.31	COG2352	Phosphoenolpyruvate carboxylase
+OGNIBHPJ_01861	gene	516				
+OGNIBHPJ_01861	CDS	516				hypothetical protein
+OGNIBHPJ_01862	gene	1371	larA			
+OGNIBHPJ_01862	CDS	1371	larA	5.1.2.1	COG3875	Lactate racemase
+OGNIBHPJ_01863	gene	732	larD			
+OGNIBHPJ_01863	CDS	732	larD		COG0580	D/L-lactic acid transporter
+OGNIBHPJ_01864	gene	540				
+OGNIBHPJ_01864	CDS	540				hypothetical protein
+OGNIBHPJ_01865	gene	939	larC_2			
+OGNIBHPJ_01865	CDS	939	larC_2	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+OGNIBHPJ_01866	gene	783	larB			
+OGNIBHPJ_01866	CDS	783	larB	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+OGNIBHPJ_01867	gene	636	serB			
+OGNIBHPJ_01867	CDS	636	serB	3.1.3.3	COG0560	Phosphoserine phosphatase
+OGNIBHPJ_01868	gene	1788	aspS_2			
+OGNIBHPJ_01868	CDS	1788	aspS_2	6.1.1.12		Aspartate--tRNA ligase
+OGNIBHPJ_01869	gene	249				
+OGNIBHPJ_01869	CDS	249				hypothetical protein
+OGNIBHPJ_01870	gene	243				
+OGNIBHPJ_01870	CDS	243				hypothetical protein
+OGNIBHPJ_01871	gene	222				
+OGNIBHPJ_01871	CDS	222				hypothetical protein
+OGNIBHPJ_01872	gene	2328	feoB_2			
+OGNIBHPJ_01872	CDS	2328	feoB_2		COG0370	Fe(2+) transporter FeoB
+OGNIBHPJ_01873	gene	201				
+OGNIBHPJ_01873	CDS	201				hypothetical protein
+OGNIBHPJ_01874	gene	1080				
+OGNIBHPJ_01874	CDS	1080				hypothetical protein
+OGNIBHPJ_01875	gene	1428	uxaC			
+OGNIBHPJ_01875	CDS	1428	uxaC	5.3.1.12	COG1904	Uronate isomerase
+OGNIBHPJ_01876	gene	1515	uxaB			
+OGNIBHPJ_01876	CDS	1515	uxaB	1.1.1.58	COG0246	Altronate oxidoreductase
+OGNIBHPJ_01877	gene	1485	uxaA			
+OGNIBHPJ_01877	CDS	1485	uxaA	4.2.1.7	COG2721	Altronate dehydratase
+OGNIBHPJ_01878	gene	1560				
+OGNIBHPJ_01878	CDS	1560				hypothetical protein
+OGNIBHPJ_01879	gene	1596				
+OGNIBHPJ_01879	CDS	1596				hypothetical protein
+OGNIBHPJ_01880	gene	2166				
+OGNIBHPJ_01880	CDS	2166				hypothetical protein
+OGNIBHPJ_01881	gene	729				
+OGNIBHPJ_01881	CDS	729				hypothetical protein
+OGNIBHPJ_01882	gene	1239	yteR			
+OGNIBHPJ_01882	CDS	1239	yteR	3.2.1.172	COG4225	Unsaturated rhamnogalacturonyl hydrolase YteR
+OGNIBHPJ_01883	gene	930				
+OGNIBHPJ_01883	CDS	930				hypothetical protein
+OGNIBHPJ_01884	gene	1218	gltD_2			
+OGNIBHPJ_01884	CDS	1218	gltD_2	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+OGNIBHPJ_01885	gene	1950	baiH			
+OGNIBHPJ_01885	CDS	1950	baiH	1.3.1.116	COG0446	7-beta-hydroxy-3-oxochol-24-oyl-CoA 4-desaturase
+OGNIBHPJ_01886	gene	642				
+OGNIBHPJ_01886	CDS	642				hypothetical protein
+OGNIBHPJ_01887	gene	810	kduD			
+OGNIBHPJ_01887	CDS	810	kduD	1.1.1.127		2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
+OGNIBHPJ_01888	gene	693	rspR_2			
+OGNIBHPJ_01888	CDS	693	rspR_2		COG1802	HTH-type transcriptional repressor RspR
+OGNIBHPJ_01889	gene	642	eda			
+OGNIBHPJ_01889	CDS	642	eda		COG0800	Putative KHG/KDPG aldolase
+OGNIBHPJ_01890	gene	1035	iolC			
+OGNIBHPJ_01890	CDS	1035	iolC	2.7.1.92		5-dehydro-2-deoxygluconokinase
+OGNIBHPJ_01891	gene	1071	kdgR			
+OGNIBHPJ_01891	CDS	1071	kdgR		COG1609	HTH-type transcriptional regulator KdgR
+OGNIBHPJ_01892	gene	495				
+OGNIBHPJ_01892	CDS	495				hypothetical protein
+OGNIBHPJ_01893	gene	372				
+OGNIBHPJ_01893	CDS	372				hypothetical protein
+OGNIBHPJ_01894	gene	1338	glnA_1			
+OGNIBHPJ_01894	CDS	1338	glnA_1	6.3.1.2	COG0174	Glutamine synthetase
+OGNIBHPJ_01895	gene	663	srrA			
+OGNIBHPJ_01895	CDS	663	srrA		COG0745	Transcriptional regulatory protein SrrA
+OGNIBHPJ_01896	gene	1464				
+OGNIBHPJ_01896	CDS	1464				hypothetical protein
+OGNIBHPJ_01897	gene	2229	ligA			
+OGNIBHPJ_01897	CDS	2229	ligA	6.5.1.2		DNA ligase
+OGNIBHPJ_01898	gene	840				
+OGNIBHPJ_01898	CDS	840				hypothetical protein
+OGNIBHPJ_01899	gene	1347	mepA			
+OGNIBHPJ_01899	CDS	1347	mepA			Multidrug export protein MepA
+OGNIBHPJ_01900	gene	1821				
+OGNIBHPJ_01900	CDS	1821			COG1132	putative ABC transporter ATP-binding protein
+OGNIBHPJ_01901	gene	1899				
+OGNIBHPJ_01901	CDS	1899			COG1132	putative ABC transporter ATP-binding protein
+OGNIBHPJ_01902	gene	1038				
+OGNIBHPJ_01902	CDS	1038				hypothetical protein
+OGNIBHPJ_01903	gene	1056	moaA			
+OGNIBHPJ_01903	CDS	1056	moaA	4.1.99.22		GTP 3',8-cyclase
+OGNIBHPJ_01904	gene	1299	moaC			
+OGNIBHPJ_01904	CDS	1299	moaC			Cyclic pyranopterin monophosphate synthase
+OGNIBHPJ_01905	gene	585	gpmA_3			
+OGNIBHPJ_01905	CDS	585	gpmA_3	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+OGNIBHPJ_01906	gene	846	licT_4			
+OGNIBHPJ_01906	CDS	846	licT_4		COG3711	Transcription antiterminator LicT
+OGNIBHPJ_01907	gene	1440	bglF_4			
+OGNIBHPJ_01907	CDS	1440	bglF_4		COG1263	PTS system beta-glucoside-specific EIIBCA component
+OGNIBHPJ_01908	gene	1449	bglH_3			
+OGNIBHPJ_01908	CDS	1449	bglH_3	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglH
+OGNIBHPJ_01909	gene	1287				
+OGNIBHPJ_01909	CDS	1287				hypothetical protein
+OGNIBHPJ_01910	gene	822	yidA_2			
+OGNIBHPJ_01910	CDS	822	yidA_2	3.1.3.23	COG0561	Sugar phosphatase YidA
+OGNIBHPJ_01911	gene	3387				
+OGNIBHPJ_01911	CDS	3387				hypothetical protein
+OGNIBHPJ_01912	gene	1671				
+OGNIBHPJ_01912	CDS	1671				hypothetical protein
+OGNIBHPJ_01913	gene	1782				
+OGNIBHPJ_01913	CDS	1782				hypothetical protein
+OGNIBHPJ_01914	gene	939				
+OGNIBHPJ_01914	CDS	939				hypothetical protein
+OGNIBHPJ_01915	gene	312	GATC			
+OGNIBHPJ_01915	CDS	312	GATC	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit C, chloroplastic/mitochondrial
+OGNIBHPJ_01916	gene	1515	gatA			
+OGNIBHPJ_01916	CDS	1515	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+OGNIBHPJ_01917	gene	1677	gatB_2			
+OGNIBHPJ_01917	CDS	1677	gatB_2	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+OGNIBHPJ_01918	gene	246				
+OGNIBHPJ_01918	CDS	246				hypothetical protein
+OGNIBHPJ_01919	gene	2076	ctpC			
+OGNIBHPJ_01919	CDS	2076	ctpC	3.6.3.-	COG2217	Manganese-exporting P-type ATPase
+OGNIBHPJ_01920	gene	354				
+OGNIBHPJ_01920	CDS	354				hypothetical protein
+OGNIBHPJ_01921	gene	492				
+OGNIBHPJ_01921	CDS	492				hypothetical protein
+OGNIBHPJ_01922	gene	435				
+OGNIBHPJ_01922	CDS	435				hypothetical protein
+OGNIBHPJ_01923	gene	364	ssrA			
+OGNIBHPJ_01923	tmRNA	364	ssrA			transfer-messenger RNA, SsrA
+OGNIBHPJ_01924	gene	879				
+OGNIBHPJ_01924	CDS	879				hypothetical protein
+OGNIBHPJ_01925	gene	444	rplM			
+OGNIBHPJ_01925	CDS	444	rplM		COG0102	50S ribosomal protein L13
+OGNIBHPJ_01926	gene	396	rpsI			
+OGNIBHPJ_01926	CDS	396	rpsI		COG0103	30S ribosomal protein S9
+OGNIBHPJ_01927	gene	1338	glmM_2			
+OGNIBHPJ_01927	CDS	1338	glmM_2	5.4.2.10	COG1109	Phosphoglucosamine mutase
+OGNIBHPJ_01928	gene	498				
+OGNIBHPJ_01928	CDS	498				hypothetical protein
+OGNIBHPJ_01929	gene	729	gamA			
+OGNIBHPJ_01929	CDS	729	gamA	3.5.99.6	COG0363	putative glucosamine-6-phosphate deaminase 2
+OGNIBHPJ_01930	gene	3000				
+OGNIBHPJ_01930	CDS	3000				hypothetical protein
+OGNIBHPJ_01931	gene	300	yhbY			
+OGNIBHPJ_01931	CDS	300	yhbY		COG1534	RNA-binding protein YhbY
+OGNIBHPJ_01932	gene	726				
+OGNIBHPJ_01932	CDS	726				hypothetical protein
+OGNIBHPJ_01933	gene	1365				
+OGNIBHPJ_01933	CDS	1365				hypothetical protein
+OGNIBHPJ_01934	gene	2550	metH			
+OGNIBHPJ_01934	CDS	2550	metH	2.1.1.13	COG0646	Methionine synthase
+OGNIBHPJ_01935	gene	789				
+OGNIBHPJ_01935	CDS	789				hypothetical protein
+OGNIBHPJ_01936	gene	873	metF			
+OGNIBHPJ_01936	CDS	873	metF	1.5.1.20	COG0685	5,10-methylenetetrahydrofolate reductase
+OGNIBHPJ_01937	gene	2151	glnA_2			
+OGNIBHPJ_01937	CDS	2151	glnA_2	6.3.1.2		Glutamine synthetase
+OGNIBHPJ_01938	gene	615	treR_2			
+OGNIBHPJ_01938	CDS	615	treR_2		COG2188	HTH-type transcriptional regulator TreR
+OGNIBHPJ_01939	gene	1332	pagL			
+OGNIBHPJ_01939	CDS	1332	pagL	3.2.1.-	COG1486	6-phospho-alpha-glucosidase
+OGNIBHPJ_01940	gene	1470	bglF_5			
+OGNIBHPJ_01940	CDS	1470	bglF_5		COG1263	PTS system beta-glucoside-specific EIIBCA component
+OGNIBHPJ_01941	gene	1500				
+OGNIBHPJ_01941	CDS	1500				hypothetical protein
+OGNIBHPJ_01942	gene	77				
+OGNIBHPJ_01942	tRNA	77				tRNA-Glu(ttc)
+OGNIBHPJ_01943	gene	2178	murT			
+OGNIBHPJ_01943	CDS	2178	murT	6.3.5.13		Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT
+OGNIBHPJ_01944	gene	1044				
+OGNIBHPJ_01944	CDS	1044				hypothetical protein
+OGNIBHPJ_01945	gene	1077				
+OGNIBHPJ_01945	CDS	1077				hypothetical protein
+OGNIBHPJ_01946	gene	1224	adhE_2			
+OGNIBHPJ_01946	CDS	1224	adhE_2		COG1012	Aldehyde-alcohol dehydrogenase
+OGNIBHPJ_01947	gene	1101	dhaD			
+OGNIBHPJ_01947	CDS	1101	dhaD	1.1.1.6		Glycerol dehydrogenase
+OGNIBHPJ_01948	gene	1068	gldA			
+OGNIBHPJ_01948	CDS	1068	gldA	1.1.1.6	COG0371	Glycerol dehydrogenase
+OGNIBHPJ_01949	gene	1254	rsxB			
+OGNIBHPJ_01949	CDS	1254	rsxB	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+OGNIBHPJ_01950	gene	1077	ychF			
+OGNIBHPJ_01950	CDS	1077	ychF		COG0012	Ribosome-binding ATPase YchF
+OGNIBHPJ_01951	gene	384				
+OGNIBHPJ_01951	CDS	384				hypothetical protein
+OGNIBHPJ_01952	gene	390				
+OGNIBHPJ_01952	CDS	390				hypothetical protein
+OGNIBHPJ_01953	gene	219				
+OGNIBHPJ_01953	CDS	219				hypothetical protein
+OGNIBHPJ_01954	gene	1014	ansA			
+OGNIBHPJ_01954	CDS	1014	ansA	3.5.1.1	COG0252	L-asparaginase 1
+OGNIBHPJ_01955	gene	1599	guaA			
+OGNIBHPJ_01955	CDS	1599	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+OGNIBHPJ_01956	gene	414				
+OGNIBHPJ_01956	CDS	414				hypothetical protein
+OGNIBHPJ_01957	gene	204				
+OGNIBHPJ_01957	CDS	204				hypothetical protein
+OGNIBHPJ_01958	gene	1071				
+OGNIBHPJ_01958	CDS	1071			COG0582	Putative prophage phiRv2 integrase
+OGNIBHPJ_01959	gene	426				
+OGNIBHPJ_01959	CDS	426				hypothetical protein
+OGNIBHPJ_01960	gene	1704				
+OGNIBHPJ_01960	CDS	1704				hypothetical protein
+OGNIBHPJ_01961	gene	219				
+OGNIBHPJ_01961	CDS	219				hypothetical protein
+OGNIBHPJ_01962	gene	885				
+OGNIBHPJ_01962	CDS	885				hypothetical protein
+OGNIBHPJ_01963	gene	3063				
+OGNIBHPJ_01963	CDS	3063				hypothetical protein
+OGNIBHPJ_01964	gene	609				
+OGNIBHPJ_01964	CDS	609				hypothetical protein
+OGNIBHPJ_01965	gene	1920	tet(W)			
+OGNIBHPJ_01965	CDS	1920	tet(W)			tetracycline resistance ribosomal protection protein Tet(W)
+OGNIBHPJ_01966	gene	171				
+OGNIBHPJ_01966	CDS	171				hypothetical protein
+OGNIBHPJ_01967	gene	372				
+OGNIBHPJ_01967	CDS	372				hypothetical protein
+OGNIBHPJ_01968	gene	765	soj_2			
+OGNIBHPJ_01968	CDS	765	soj_2	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+OGNIBHPJ_01969	gene	957				
+OGNIBHPJ_01969	CDS	957				hypothetical protein
+OGNIBHPJ_01970	gene	447				
+OGNIBHPJ_01970	CDS	447				hypothetical protein
+OGNIBHPJ_01971	gene	1272				
+OGNIBHPJ_01971	CDS	1272				hypothetical protein
+OGNIBHPJ_01972	gene	555				
+OGNIBHPJ_01972	CDS	555				hypothetical protein
+OGNIBHPJ_01973	gene	486				
+OGNIBHPJ_01973	CDS	486				hypothetical protein
+OGNIBHPJ_01974	gene	1470	expZ			
+OGNIBHPJ_01974	CDS	1470	expZ		COG0488	Nucleotide-binding protein ExpZ
+OGNIBHPJ_01975	gene	1170				
+OGNIBHPJ_01975	CDS	1170				hypothetical protein
+OGNIBHPJ_01976	gene	618				
+OGNIBHPJ_01976	CDS	618				hypothetical protein
+OGNIBHPJ_01977	gene	255				
+OGNIBHPJ_01977	CDS	255				hypothetical protein
+OGNIBHPJ_01978	gene	732				
+OGNIBHPJ_01978	CDS	732				hypothetical protein
+OGNIBHPJ_01979	gene	732				
+OGNIBHPJ_01979	CDS	732				hypothetical protein
+OGNIBHPJ_01980	gene	2730				
+OGNIBHPJ_01980	CDS	2730				hypothetical protein
+OGNIBHPJ_01981	gene	459				
+OGNIBHPJ_01981	CDS	459				hypothetical protein
+OGNIBHPJ_01982	gene	1002				
+OGNIBHPJ_01982	CDS	1002				hypothetical protein
+OGNIBHPJ_01983	gene	720				
+OGNIBHPJ_01983	CDS	720				hypothetical protein
+OGNIBHPJ_01984	gene	1602				
+OGNIBHPJ_01984	CDS	1602				hypothetical protein
+OGNIBHPJ_01985	gene	2478				
+OGNIBHPJ_01985	CDS	2478				hypothetical protein
+OGNIBHPJ_01986	gene	426				
+OGNIBHPJ_01986	CDS	426				hypothetical protein
+OGNIBHPJ_01987	gene	216				
+OGNIBHPJ_01987	CDS	216				hypothetical protein
+OGNIBHPJ_01988	gene	1818				
+OGNIBHPJ_01988	CDS	1818				hypothetical protein
+OGNIBHPJ_01989	gene	552				
+OGNIBHPJ_01989	CDS	552				hypothetical protein
+OGNIBHPJ_01990	gene	534				
+OGNIBHPJ_01990	CDS	534				hypothetical protein
+OGNIBHPJ_01991	gene	789	dnaI			
+OGNIBHPJ_01991	CDS	789	dnaI		COG1484	Primosomal protein DnaI
+OGNIBHPJ_01992	gene	516				
+OGNIBHPJ_01992	CDS	516				hypothetical protein
+OGNIBHPJ_01993	gene	249				
+OGNIBHPJ_01993	CDS	249				hypothetical protein
+OGNIBHPJ_01994	gene	219				
+OGNIBHPJ_01994	CDS	219				hypothetical protein
+OGNIBHPJ_01995	gene	420	yjdF			
+OGNIBHPJ_01995	CDS	420	yjdF			putative protein YjdF
+OGNIBHPJ_01996	gene	963				
+OGNIBHPJ_01996	CDS	963				hypothetical protein
